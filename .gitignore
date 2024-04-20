@@ -1,3 +1,4 @@
+data/*.csv
 # vscode files
 *.code-workspace
 
