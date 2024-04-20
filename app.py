@@ -4,6 +4,10 @@ import soccerdata as sd
 import numpy as np
 import pandas as pd
 
+from fetching import fetch_current_season_data, fetch_current_table_data, fetch_club_match_data, fetch_club_season_data, fetch_head_to_head_data
+from preprocessing import prep_schedule_data, prep_current_table_data, prep_club_match_data, prep_club_season_data, prep_head_to_head_data
+
+
 st.set_page_config(
     page_title='Bundesliga Match Preview',
     page_icon='⚽',
@@ -23,50 +27,9 @@ def get_current_season():
 
 @st.cache_data
 def get_current_season_data():
-    print("Fetching new current season data")
-    
-    
-    def club_to_abbr (club_name):
-        clubs_abbr = {'Werder Bremen': "SVW",
-                        'Augsburg': "FCA",
-                        'Dortmund': "BVB",
-                        'Hoffenheim': "TSG",
-                        'Leverkusen': "B04",
-                        'Stuttgart': "VfB",
-                        'Wolfsburg': "WOB",
-                        'Eint Frankfurt': "SGE",
-                        'Union Berlin': "FCU",
-                        'RB Leipzig': "RBL",
-                        'Bochum': "BOC",
-                        'Darmstadt 98': "SVD",
-                        'Freiburg': "SCF",
-                        'Heidenheim': "HDH",
-                        'Köln': "KOE",
-                        "M'Gladbach": "BMG",
-                        'Bayern Munich': "FCB",
-                        'Mainz 05': "M05"}
-        if club_name in clubs_abbr:
-            return clubs_abbr[club_name]
-        else: 
-            return club_name[:3].upper()
-    
-    
-    current_season = get_current_season()
-    fbref = sd.FBref(leagues="GER-Bundesliga", seasons=str(current_season)[2:])
-    schedule = fbref.read_schedule()
-    schedule_mod = (schedule
-        .assign(datetime=lambda df:df["date"].dt.strftime('%Y-%m-%d') + " " + df["time"], 
-                datetime_ts=lambda df: pd.to_datetime(df["datetime"]),
-                today= pd.Timestamp.today(),
-                time_to_start=lambda df: df["datetime_ts"] - df["today"],
-                time_to_start_days=lambda df: df["time_to_start"].dt.days,
-                time_to_start_hours=lambda df: df["time_to_start"].dt.seconds // (60*60),
-                home_abbr=lambda df: df["home_team"].map(club_to_abbr), 
-                away_abbr=lambda df: df["away_team"].map(club_to_abbr),
-                game_str=lambda df: df["home_abbr"] +  " vs " + df["away_abbr"])
-        .drop(columns=["datetime", "today"])
-    )
-    return schedule_mod
+    schedule = fetch_current_season_data()
+    schedule_prep = prep_schedule_data(schedule)
+    return schedule_prep
 
 
 def reset_current_season_data ():
@@ -75,34 +38,9 @@ def reset_current_season_data ():
 
 @st.cache_data
 def get_current_table_data():
-    curr_s = get_current_season()
-    url = f"https://fbref.com/en/comps/20/{str(curr_s)}-{str(curr_s+1)}/{str(curr_s)}-{str(curr_s+1)}-Bundesliga-Stats"
-
-    tables = pd.read_html(url)
-    standings = tables[0]
-
-    keep = ['Rk', 'Squad', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts', 'Pts/MP',
-        'xG', 'xGA', 'xGD', 'xGD/90', 'Last 5']
-    
-    home_cols = [(l1, l2) for l1, l2 in tables[1].columns if l1 != "Away"]
-    away_cols = [(l1, l2) for l1, l2 in tables[1].columns if l1 != "Home"]
-    home_table = (tables[1][home_cols]
-                        .droplevel(0, axis=1)
-                        .sort_values(by="Pts", ascending=False)
-                        .reset_index(drop=True)
-                        .reset_index()
-                        .assign(home_rk=lambda df: df["index"] + 1)
-                        .drop(columns=["index"]))
-    
-    
-    away_table = (tables[1][away_cols]
-                        .droplevel(0, axis=1)
-                        .sort_values(by="Pts", ascending=False)
-                        .reset_index(drop=True)
-                        .reset_index()
-                        .assign(away_rk=lambda df: df["index"] + 1)
-                        .drop(columns=["index"]))
-    return standings[keep], home_table, away_table
+    standings, standings_home_away = fetch_current_table_data()
+    standings, home, away = prep_current_table_data(standings, standings_home_away)
+    return standings, home, away
 
 def reset_current_table_data ():
     get_current_table_data.clear()
@@ -110,39 +48,18 @@ def reset_current_table_data ():
 
 @st.cache_data
 def get_club_match_data(club_name):
-    print(f"Fetching new club match data for {club_name}")
-    
-    current_season = get_current_season()
-    fbref = sd.FBref(leagues="GER-Bundesliga", seasons=str(current_season)[2:])
-    
-    team_match_stats= fbref.read_team_match_stats(stat_type="schedule", team=club_name)
-    
-    keep = ["game", "date", 'round', 'day', 'venue', 'result', 'GF', 'GA',
-       'opponent', 'xG', 'xGA', 'Poss']
-    team_match_stats_agg = (team_match_stats
-                                .query("not match_report.isna()")
-                                .tail(5)
-                                .reset_index())[keep]
-    
-    return team_match_stats_agg
+    match_data = fetch_club_match_data(club_name)
+    match_data_prep = prep_club_match_data(match_data)
+    return match_data_prep
 
 def reset_club_match_data ():
     get_club_match_data.clear()
 
 @st.cache_data
 def get_club_season_data():
-    print(f"Fetching club season data")
-    
-    current_season = get_current_season()
-    fbref = sd.FBref(leagues="GER-Bundesliga", seasons=str(current_season)[2:])
-    
-    team_season_stats = (fbref.read_team_season_stats()
-                                .assign(team_id=lambda df: df[("url", "")].str.split("/").str[3])
-                                .reset_index()
-                                .drop(columns=["league", "season", "url"]))
-    
-    
-    return team_season_stats
+    club_season_data = fetch_club_season_data()
+    club_season_data_prep = prep_club_season_data(club_season_data)
+    return club_season_data_prep
 
 def reset_club_season_data ():
     get_club_season_data.clear()
@@ -150,21 +67,9 @@ def reset_club_season_data ():
 
 @st.cache_data
 def get_head_to_head_data(home_club_id, away_club_id):
-    print(f"Fetching club season data")
-    
-    curr_s = get_current_season()
-    url = f"https://fbref.com/en/stathead/matchup/teams/{home_club_id}/{away_club_id}/"
-
-    h2h_tables = pd.read_html(url)
-    
-    keep = ['Comp', 'Round', 'Date', 'Home', 'xG', 'Score', 'xG.1', 'Away']
-    h2h_table = (h2h_tables[0]
-                    .query("not Score.isnull() and Score != 'Score'")
-                    .assign(dt=lambda df: pd.to_datetime(df["Date"]).dt.year, 
-                            year_diff=lambda df: df["dt"].max() - df["dt"])
-                    .query("year_diff < 5"))[keep]
-    
-    return h2h_table
+    club_season_data = fetch_head_to_head_data(home_club_id, away_club_id)
+    club_season_data_prep = prep_head_to_head_data(club_season_data)
+    return club_season_data_prep
 
 
 st.button("Reset season", type="primary", on_click=reset_current_season_data)
@@ -237,6 +142,7 @@ for idx, tab_comp in enumerate(tabs):
         'xGD/90': "Expected Goals Difference per 90 Minutes", 'Last 5': "Results of last five games"}
     
     # st.dataframe(current_table_data.style.apply(custom_style, axis=1))
+    print(current_table_data.columns)
     tab_comp.dataframe(current_table_data.query("(Squad == @home_team) or (Squad == @away_team)"),
                        column_config={
                            
