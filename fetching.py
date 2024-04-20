@@ -58,7 +58,12 @@ def fetch_club_match_data(club_name, use_saved=False):
     
     if not use_saved:
         fbref = sd.FBref(leagues="GER-Bundesliga", seasons=str(current_season)[2:])
-        team_match_stats= fbref.read_team_match_stats(stat_type="schedule", team=club_name)
+        try:
+            team_match_stats = fbref.read_team_match_stats(stat_type="schedule", team=club_name)
+        except ValueError: 
+            team_match_stats = pd.DataFrame(columns=["league","season","team","game","date","time","round","day","venue","result","GF","GA","opponent","xG","xGA","Poss","Attendance","Captain","Formation","Referee","match_report","Notes"])
+        except:
+            raise
         team_match_stats.to_csv(os.path.join("data", f"stats_{club_name}.csv"))
     else:
         team_match_stats = pd.read_csv(os.path.join("data", f"stats_{club_name}.csv"), parse_dates=["date"])
