@@ -142,7 +142,6 @@ for idx, tab_comp in enumerate(tabs):
         'xGD/90': "Expected Goals Difference per 90 Minutes", 'Last 5': "Results of last five games"}
     
     # st.dataframe(current_table_data.style.apply(custom_style, axis=1))
-    print(current_table_data.columns)
     tab_comp.dataframe(current_table_data.query("(Squad == @home_team) or (Squad == @away_team)"),
                        column_config={
                            
