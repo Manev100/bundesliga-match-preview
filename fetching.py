@@ -16,16 +16,16 @@ def _get_current_season():
         return current_year - 1 
 
 
-def fetch_current_season_data(use_saved=False):
+def fetch_current_season_data(use_saved=False, save_path="data"):
     print("Fetching new current season data")
     
     current_season = _get_current_season()
     if not use_saved:
         fbref = sd.FBref(leagues="GER-Bundesliga", seasons=str(current_season)[2:])
         schedule = fbref.read_schedule()
-        schedule.to_csv(os.path.join("data", "schedule.csv"), index=False)
+        schedule.to_csv(os.path.join(save_path, "schedule.csv"), index=False)
     else: 
-        schedule = pd.read_csv(os.path.join("data", "schedule.csv"), parse_dates=["date"])
+        schedule = pd.read_csv(os.path.join(save_path, "schedule.csv"), parse_dates=["date"])
     
     return schedule
 
