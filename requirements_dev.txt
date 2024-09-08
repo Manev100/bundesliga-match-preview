@@ -1,0 +1,8 @@
+streamlit==1.31.0
+pandas==2.2.0
+soccerdata==1.5.3
+jupyter==1.0.0
+xgboost==2.1.0
+scikit-learn==1.5.1
+hyperopt==0.2.7
+seaborn==0.13.2
