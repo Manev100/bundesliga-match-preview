@@ -14,24 +14,28 @@ def _get_current_season():
 
 
 def _club_to_abbr (club_name):
-    clubs_abbr = {'Werder Bremen': "SVW",
-                    'Augsburg': "FCA",
-                    'Dortmund': "BVB",
-                    'Hoffenheim': "TSG",
-                    'Leverkusen': "B04",
-                    'Stuttgart': "VfB",
-                    'Wolfsburg': "WOB",
-                    'Eint Frankfurt': "SGE",
-                    'Union Berlin': "FCU",
-                    'RB Leipzig': "RBL",
-                    'Bochum': "BOC",
-                    'Darmstadt 98': "SVD",
-                    'Freiburg': "SCF",
-                    'Heidenheim': "HDH",
-                    'Köln': "KOE",
-                    "M'Gladbach": "BMG",
-                    'Bayern Munich': "FCB",
-                    'Mainz 05': "M05"}
+    clubs_abbr = {'Werder Bremen': 'SVW',
+                    'Augsburg': 'FCA',
+                    'Dortmund': 'BVB',
+                    'Hoffenheim': 'TSG',
+                    'Leverkusen': 'B04',
+                    'Stuttgart': 'VFB',
+                    'Wolfsburg': 'WOB',
+                    'Eint Frankfurt': 'SGE',
+                    'Union Berlin': 'FCU',
+                    'RB Leipzig': 'RBL',
+                    'Bochum': 'BOC',
+                    'Darmstadt 98': 'SVD',
+                    'Freiburg': 'SCF',
+                    'Heidenheim': 'HDH',
+                    'Köln': 'KOE',
+                    "M'Gladbach": 'BMG',
+                    'Gladbach': 'BMG',
+                    'Bayern Munich': 'FCB',
+                    'Mainz 05': 'M05',
+                    'St. Pauli': 'STP'
+                    'Holstein Kiel': 'KIE'
+                    }
     if club_name in clubs_abbr:
         return clubs_abbr[club_name]
     else: 
