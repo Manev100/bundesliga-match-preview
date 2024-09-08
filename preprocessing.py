@@ -109,12 +109,14 @@ def prep_club_season_data(team_season_stats):
 
 def prep_head_to_head_data(h2h_table):
     
-    
     keep = ['Comp', 'Round', 'Date', 'Home', 'xG', 'Score', 'xG.1', 'Away']
     h2h_table = (h2h_table
                     .query("not Score.isnull() and Score != 'Score'")
                     .assign(dt=lambda df: pd.to_datetime(df["Date"]).dt.year, 
-                            year_diff=lambda df: df["dt"].max() - df["dt"])
+                            year_diff=lambda df: df["dt"].max() - df["dt"],
+                            **{'xG': lambda df: df["xG"] if "xG" in df.columns else np.nan, 
+                               'xG.1': lambda df: df["xG.1"] if "xG.1" in df.columns else np.nan}
+                            )
                     .query("year_diff < 5"))[keep]
     
     return h2h_table

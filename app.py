@@ -97,8 +97,6 @@ query_matchday = int(option)
 future_games_matchday = future_games.query("week == @query_matchday").sort_values(by="datetime_ts").reset_index()
 st.write(future_games_matchday[["game", "day", "time", "time_to_start"]])
 
-future_games_matchday["game_str"].to_list()
-
 game_labels = future_games_matchday["game_str"].to_list()
 tabs = st.tabs(game_labels)
 
