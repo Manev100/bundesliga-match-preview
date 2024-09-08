@@ -33,7 +33,7 @@ def _club_to_abbr (club_name):
                     'Gladbach': 'BMG',
                     'Bayern Munich': 'FCB',
                     'Mainz 05': 'M05',
-                    'St. Pauli': 'STP'
+                    'St. Pauli': 'STP',
                     'Holstein Kiel': 'KIE'
                     }
     if club_name in clubs_abbr:
