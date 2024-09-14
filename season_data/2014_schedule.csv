@@ -1,0 +1,309 @@
+round,week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+Regular season,1,Fri,2014-08-22,20:30,Bayern Munich,2–1,Wolfsburg,71000,Allianz Arena,Felix Zwayer,/en/matches/c0290c43/Bayern-Munich-Wolfsburg-August-22-2014-Bundesliga,,c0290c43
+Regular season,1,Sat,2014-08-23,18:30,Dortmund,0–2,Leverkusen,80667,Signal Iduna Park,Deniz Aytekin,/en/matches/3bd7db38/Dortmund-Bayer-Leverkusen-August-23-2014-Bundesliga,,3bd7db38
+Regular season,1,Sat,2014-08-23,15:30,Eint Frankfurt,1–0,Freiburg,46200,Commerzbank-Arena,Florian Meyer,/en/matches/be4e3523/Eintracht-Frankfurt-Freiburg-August-23-2014-Bundesliga,,be4e3523
+Regular season,1,Sat,2014-08-23,15:30,Hannover 96,2–1,Schalke 04,49000,HDI-Arena,Peter Gagelmann,/en/matches/a9421307/Hannover-96-Schalke-04-August-23-2014-Bundesliga,,a9421307
+Regular season,1,Sat,2014-08-23,15:30,Hertha BSC,2–2,Werder Bremen,56972,Olympiastadion Berlin,Thorsten Kinhöfer,/en/matches/f946b4cd/Hertha-BSC-Werder-Bremen-August-23-2014-Bundesliga,,f946b4cd
+Regular season,1,Sat,2014-08-23,15:30,Hoffenheim,2–0,Augsburg,23792,PreZero Arena,Tobias Stieler,/en/matches/42b9d800/Hoffenheim-Augsburg-August-23-2014-Bundesliga,,42b9d800
+Regular season,1,Sat,2014-08-23,15:30,Köln,0–0,Hamburger SV,50000,RheinEnergieSTADION,Wolfgang Stark,/en/matches/bdc20bfa/Koln-Hamburger-SV-August-23-2014-Bundesliga,,bdc20bfa
+Regular season,1,Sun,2014-08-24,17:30,M'Gladbach,1–1,Stuttgart,50203,Stadion im Borussia-Park,Christian Dingert,/en/matches/6fba877b/Monchengladbach-Stuttgart-August-24-2014-Bundesliga,,6fba877b
+Regular season,1,Sun,2014-08-24,15:30,Paderborn 07,2–2,Mainz 05,14824,Benteler-Arena,Peter Sippel,/en/matches/3f68b9e1/Paderborn-07-Mainz-05-August-24-2014-Bundesliga,,3f68b9e1
+Regular season,2,Fri,2014-08-29,20:30,Augsburg,2–3,Dortmund,30660,WWK Arena,Knut Kircher,/en/matches/5587f162/Augsburg-Dortmund-August-29-2014-Bundesliga,,5587f162
+Regular season,2,Sat,2014-08-30,15:30,Hamburger SV,0–3,Paderborn 07,54452,Volksparkstadion,Bastian Dankert,/en/matches/595bc808/Hamburger-SV-Paderborn-07-August-30-2014-Bundesliga,,595bc808
+Regular season,2,Sat,2014-08-30,15:30,Leverkusen,4–2,Hertha BSC,27819,BayArena,Tobias Stieler,/en/matches/f4e0602c/Bayer-Leverkusen-Hertha-BSC-August-30-2014-Bundesliga,,f4e0602c
+Regular season,2,Sat,2014-08-30,18:30,Schalke 04,1–1,Bayern Munich,61973,Veltins-Arena,Marco Fritz,/en/matches/1e091671/Schalke-04-Bayern-Munich-August-30-2014-Bundesliga,,1e091671
+Regular season,2,Sat,2014-08-30,15:30,Stuttgart,0–2,Köln,55000,Mercedes-Benz Arena,Felix Brych,/en/matches/e681a5d9/Stuttgart-Koln-August-30-2014-Bundesliga,,e681a5d9
+Regular season,2,Sat,2014-08-30,15:30,Werder Bremen,1–1,Hoffenheim,38900,Weserstadion,Robert Hartmann,/en/matches/fccc6cd0/Werder-Bremen-Hoffenheim-August-30-2014-Bundesliga,,fccc6cd0
+Regular season,2,Sat,2014-08-30,15:30,Wolfsburg,2–2,Eint Frankfurt,27528,Volkswagen Arena,Günter Perl,/en/matches/58a9e557/Wolfsburg-Eintracht-Frankfurt-August-30-2014-Bundesliga,,58a9e557
+Regular season,2,Sun,2014-08-31,17:30,Freiburg,0–0,M'Gladbach,24000,Schwarzwald-Stadion,Peter Gagelmann,/en/matches/f052f6c1/Freiburg-Monchengladbach-August-31-2014-Bundesliga,,f052f6c1
+Regular season,2,Sun,2014-08-31,15:30,Mainz 05,0–0,Hannover 96,27647,Opel Arena,Sascha Stegemann,/en/matches/fe933928/Mainz-05-Hannover-96-August-31-2014-Bundesliga,,fe933928
+Regular season,3,Fri,2014-09-12,20:30,Leverkusen,3–3,Werder Bremen,30210,BayArena,Christian Dingert,/en/matches/4774b9f0/Bayer-Leverkusen-Werder-Bremen-September-12-2014-Bundesliga,,4774b9f0
+Regular season,3,Sat,2014-09-13,15:30,Bayern Munich,2–0,Stuttgart,71000,Allianz Arena,Thorsten Kinhöfer,/en/matches/00328d7f/Bayern-Munich-Stuttgart-September-13-2014-Bundesliga,,00328d7f
+Regular season,3,Sat,2014-09-13,15:30,Dortmund,3–1,Freiburg,80200,Signal Iduna Park,Bastian Dankert,/en/matches/b15231c8/Dortmund-Freiburg-September-13-2014-Bundesliga,,b15231c8
+Regular season,3,Sat,2014-09-13,15:30,Hertha BSC,1–3,Mainz 05,42069,Olympiastadion Berlin,Guido Winkmann,/en/matches/7033bb38/Hertha-BSC-Mainz-05-September-13-2014-Bundesliga,,7033bb38
+Regular season,3,Sat,2014-09-13,15:30,Hoffenheim,1–1,Wolfsburg,23813,PreZero Arena,Wolfgang Stark,/en/matches/97250ea5/Hoffenheim-Wolfsburg-September-13-2014-Bundesliga,,97250ea5
+Regular season,3,Sat,2014-09-13,18:30,M'Gladbach,4–1,Schalke 04,54010,Stadion im Borussia-Park,Felix Brych,/en/matches/2d9df98c/Monchengladbach-Schalke-04-September-13-2014-Bundesliga,,2d9df98c
+Regular season,3,Sat,2014-09-13,15:30,Paderborn 07,0–0,Köln,14993,Benteler-Arena,Peter Gagelmann,/en/matches/c6342e0c/Paderborn-07-Koln-September-13-2014-Bundesliga,,c6342e0c
+Regular season,3,Sun,2014-09-14,15:30,Eint Frankfurt,0–1,Augsburg,43500,Commerzbank-Arena,Manuel Gräfe,/en/matches/45d10478/Eintracht-Frankfurt-Augsburg-September-14-2014-Bundesliga,,45d10478
+Regular season,3,Sun,2014-09-14,17:30,Hannover 96,2–0,Hamburger SV,49000,HDI-Arena,Markus Schmidt,/en/matches/239b5e86/Hannover-96-Hamburger-SV-September-14-2014-Bundesliga,,239b5e86
+Regular season,4,Fri,2014-09-19,20:30,Freiburg,2–2,Hertha BSC,23600,Schwarzwald-Stadion,Florian Meyer,/en/matches/5a3cec96/Freiburg-Hertha-BSC-September-19-2014-Bundesliga,,5a3cec96
+Regular season,4,Sat,2014-09-20,15:30,Augsburg,4–2,Werder Bremen,29044,WWK Arena,Marco Fritz,/en/matches/e4c87452/Augsburg-Werder-Bremen-September-20-2014-Bundesliga,,e4c87452
+Regular season,4,Sat,2014-09-20,15:30,Hamburger SV,0–0,Bayern Munich,57000,Volksparkstadion,Christian Dingert,/en/matches/605dc8b1/Hamburger-SV-Bayern-Munich-September-20-2014-Bundesliga,,605dc8b1
+Regular season,4,Sat,2014-09-20,18:30,Mainz 05,2–0,Dortmund,34000,Opel Arena,Günter Perl,/en/matches/5b0d7817/Mainz-05-Dortmund-September-20-2014-Bundesliga,,5b0d7817
+Regular season,4,Sat,2014-09-20,15:30,Paderborn 07,2–0,Hannover 96,15000,Benteler-Arena,Knut Kircher,/en/matches/6d1f40ae/Paderborn-07-Hannover-96-September-20-2014-Bundesliga,,6d1f40ae
+Regular season,4,Sat,2014-09-20,15:30,Schalke 04,2–2,Eint Frankfurt,61798,Veltins-Arena,Markus Schmidt,/en/matches/51361070/Schalke-04-Eintracht-Frankfurt-September-20-2014-Bundesliga,,51361070
+Regular season,4,Sat,2014-09-20,15:30,Stuttgart,0–2,Hoffenheim,44000,Mercedes-Benz Arena,Peter Sippel,/en/matches/30c735bc/Stuttgart-Hoffenheim-September-20-2014-Bundesliga,,30c735bc
+Regular season,4,Sun,2014-09-21,17:30,Köln,0–0,M'Gladbach,50000,RheinEnergieSTADION,Felix Zwayer,/en/matches/2878ff2b/Koln-Monchengladbach-September-21-2014-Bundesliga,,2878ff2b
+Regular season,4,Sun,2014-09-21,15:30,Wolfsburg,4–1,Leverkusen,27811,Volkswagen Arena,Deniz Aytekin,/en/matches/98cb6cfa/Wolfsburg-Bayer-Leverkusen-September-21-2014-Bundesliga,,98cb6cfa
+Regular season,5,Tue,2014-09-23,20:00,Bayern Munich,4–0,Paderborn 07,71000,Allianz Arena,Sascha Stegemann,/en/matches/9d610d75/Bayern-Munich-Paderborn-07-September-23-2014-Bundesliga,,9d610d75
+Regular season,5,Tue,2014-09-23,20:00,Eint Frankfurt,2–2,Mainz 05,44100,Commerzbank-Arena,Felix Brych,/en/matches/65bdaf86/Eintracht-Frankfurt-Mainz-05-September-23-2014-Bundesliga,,65bdaf86
+Regular season,5,Tue,2014-09-23,20:00,Hoffenheim,3–3,Freiburg,24872,PreZero Arena,Thorsten Kinhöfer,/en/matches/d73e6ee5/Hoffenheim-Freiburg-September-23-2014-Bundesliga,,d73e6ee5
+Regular season,5,Tue,2014-09-23,20:00,Werder Bremen,0–3,Schalke 04,40139,Weserstadion,Wolfgang Stark,/en/matches/bd4e1da1/Werder-Bremen-Schalke-04-September-23-2014-Bundesliga,,bd4e1da1
+Regular season,5,Wed,2014-09-24,20:00,Dortmund,2–2,Stuttgart,79500,Signal Iduna Park,Manuel Gräfe,/en/matches/7e949356/Dortmund-Stuttgart-September-24-2014-Bundesliga,,7e949356
+Regular season,5,Wed,2014-09-24,20:00,Hannover 96,1–0,Köln,39400,HDI-Arena,Tobias Stieler,/en/matches/ecca32f9/Hannover-96-Koln-September-24-2014-Bundesliga,,ecca32f9
+Regular season,5,Wed,2014-09-24,20:00,Hertha BSC,1–0,Wolfsburg,35847,Olympiastadion Berlin,Robert Hartmann,/en/matches/07754a28/Hertha-BSC-Wolfsburg-September-24-2014-Bundesliga,,07754a28
+Regular season,5,Wed,2014-09-24,20:00,Leverkusen,1–0,Augsburg,23081,BayArena,Guido Winkmann,/en/matches/39b46d25/Bayer-Leverkusen-Augsburg-September-24-2014-Bundesliga,,39b46d25
+Regular season,5,Wed,2014-09-24,20:00,M'Gladbach,1–0,Hamburger SV,44175,Stadion im Borussia-Park,Deniz Aytekin,/en/matches/dd04bfbf/Monchengladbach-Hamburger-SV-September-24-2014-Bundesliga,,dd04bfbf
+Regular season,6,Fri,2014-09-26,20:30,Mainz 05,0–0,Hoffenheim,28729,Opel Arena,Felix Zwayer,/en/matches/7ba51a38/Mainz-05-Hoffenheim-September-26-2014-Bundesliga,,7ba51a38
+Regular season,6,Sat,2014-09-27,15:30,Freiburg,0–0,Leverkusen,23500,Schwarzwald-Stadion,Felix Brych,/en/matches/91813845/Freiburg-Bayer-Leverkusen-September-27-2014-Bundesliga,,91813845
+Regular season,6,Sat,2014-09-27,15:30,Köln,0–2,Bayern Munich,50000,RheinEnergieSTADION,Knut Kircher,/en/matches/02ad8498/Koln-Bayern-Munich-September-27-2014-Bundesliga,,02ad8498
+Regular season,6,Sat,2014-09-27,15:30,Paderborn 07,1–2,M'Gladbach,15000,Benteler-Arena,Marco Fritz,/en/matches/4cd770a7/Paderborn-07-Monchengladbach-September-27-2014-Bundesliga,,4cd770a7
+Regular season,6,Sat,2014-09-27,15:30,Schalke 04,2–1,Dortmund,61973,Veltins-Arena,Peter Gagelmann,/en/matches/158bea92/Revierderby-Schalke-04-Dortmund-September-27-2014-Bundesliga,,158bea92
+Regular season,6,Sat,2014-09-27,15:30,Stuttgart,1–0,Hannover 96,40500,Mercedes-Benz Arena,Günter Perl,/en/matches/f5d0dca0/Stuttgart-Hannover-96-September-27-2014-Bundesliga,,f5d0dca0
+Regular season,6,Sat,2014-09-27,18:30,Wolfsburg,2–1,Werder Bremen,29117,Volkswagen Arena,Peter Sippel,/en/matches/dcf4fdee/Wolfsburg-Werder-Bremen-September-27-2014-Bundesliga,,dcf4fdee
+Regular season,6,Sun,2014-09-28,15:30,Augsburg,1–0,Hertha BSC,28532,WWK Arena,Bastian Dankert,/en/matches/fe82345b/Augsburg-Hertha-BSC-September-28-2014-Bundesliga,,fe82345b
+Regular season,6,Sun,2014-09-28,17:30,Hamburger SV,1–2,Eint Frankfurt,47643,Volksparkstadion,Florian Meyer,/en/matches/3d5ddacd/Hamburger-SV-Eintracht-Frankfurt-September-28-2014-Bundesliga,,3d5ddacd
+Regular season,7,Fri,2014-10-03,20:30,Hertha BSC,3–2,Stuttgart,46312,Olympiastadion Berlin,Deniz Aytekin,/en/matches/0fa45d97/Hertha-BSC-Stuttgart-October-3-2014-Bundesliga,,0fa45d97
+Regular season,7,Sat,2014-10-04,15:30,Bayern Munich,4–0,Hannover 96,71000,Allianz Arena,Daniel Siebert,/en/matches/7b9ba728/Bayern-Munich-Hannover-96-October-4-2014-Bundesliga,,7b9ba728
+Regular season,7,Sat,2014-10-04,15:30,Dortmund,0–1,Hamburger SV,80667,Signal Iduna Park,Felix Zwayer,/en/matches/d266f993/Dortmund-Hamburger-SV-October-4-2014-Bundesliga,,d266f993
+Regular season,7,Sat,2014-10-04,18:30,Eint Frankfurt,3–2,Köln,51500,Commerzbank-Arena,Wolfgang Stark,/en/matches/e2578a0d/Eintracht-Frankfurt-Koln-October-4-2014-Bundesliga,,e2578a0d
+Regular season,7,Sat,2014-10-04,15:30,Hoffenheim,2–1,Schalke 04,30000,PreZero Arena,Florian Meyer,/en/matches/504e771a/Hoffenheim-Schalke-04-October-4-2014-Bundesliga,,504e771a
+Regular season,7,Sat,2014-10-04,15:30,Leverkusen,2–2,Paderborn 07,30210,BayArena,Günter Perl,/en/matches/cae1341e/Bayer-Leverkusen-Paderborn-07-October-4-2014-Bundesliga,,cae1341e
+Regular season,7,Sat,2014-10-04,15:30,Werder Bremen,1–1,Freiburg,40029,Weserstadion,Knut Kircher,/en/matches/1440250a/Werder-Bremen-Freiburg-October-4-2014-Bundesliga,,1440250a
+Regular season,7,Sun,2014-10-05,17:30,M'Gladbach,1–1,Mainz 05,50383,Stadion im Borussia-Park,Manuel Gräfe,/en/matches/281584e2/Monchengladbach-Mainz-05-October-5-2014-Bundesliga,,281584e2
+Regular season,7,Sun,2014-10-05,15:30,Wolfsburg,1–0,Augsburg,25734,Volkswagen Arena,Markus Schmidt,/en/matches/9cf84e9d/Wolfsburg-Augsburg-October-5-2014-Bundesliga,,9cf84e9d
+Regular season,8,Sat,2014-10-18,15:30,Bayern Munich,6–0,Werder Bremen,71000,Allianz Arena,Bastian Dankert,/en/matches/41f3a56d/Bayern-Munich-Werder-Bremen-October-18-2014-Bundesliga,,41f3a56d
+Regular season,8,Sat,2014-10-18,15:30,Freiburg,1–2,Wolfsburg,23500,Schwarzwald-Stadion,Christian Dingert,/en/matches/f8bf1b73/Freiburg-Wolfsburg-October-18-2014-Bundesliga,,f8bf1b73
+Regular season,8,Sat,2014-10-18,15:30,Hannover 96,0–3,M'Gladbach,49000,HDI-Arena,Thorsten Kinhöfer,/en/matches/89c01fa7/Hannover-96-Monchengladbach-October-18-2014-Bundesliga,,89c01fa7
+Regular season,8,Sat,2014-10-18,15:30,Köln,2–1,Dortmund,50000,RheinEnergieSTADION,Marco Fritz,/en/matches/03072225/Koln-Dortmund-October-18-2014-Bundesliga,,03072225
+Regular season,8,Sat,2014-10-18,15:30,Mainz 05,2–1,Augsburg,27687,Opel Arena,Tobias Stieler,/en/matches/c708bafe/Mainz-05-Augsburg-October-18-2014-Bundesliga,,c708bafe
+Regular season,8,Sat,2014-10-18,18:30,Schalke 04,2–0,Hertha BSC,61973,Veltins-Arena,Knut Kircher,/en/matches/4c673e2b/Schalke-04-Hertha-BSC-October-18-2014-Bundesliga,,4c673e2b
+Regular season,8,Sat,2014-10-18,15:30,Stuttgart,3–3,Leverkusen,40900,Mercedes-Benz Arena,Felix Zwayer,/en/matches/f71c9194/Stuttgart-Bayer-Leverkusen-October-18-2014-Bundesliga,,f71c9194
+Regular season,8,Sun,2014-10-19,15:30,Hamburger SV,1–1,Hoffenheim,49003,Volksparkstadion,Peter Sippel,/en/matches/369c7939/Hamburger-SV-Hoffenheim-October-19-2014-Bundesliga,,369c7939
+Regular season,8,Sun,2014-10-19,17:30,Paderborn 07,3–1,Eint Frankfurt,15000,Benteler-Arena,Deniz Aytekin,/en/matches/8297180d/Paderborn-07-Eintracht-Frankfurt-October-19-2014-Bundesliga,,8297180d
+Regular season,9,Fri,2014-10-24,20:30,Werder Bremen,0–1,Köln,42100,Weserstadion,Felix Brych,/en/matches/61a6d56a/Werder-Bremen-Koln-October-24-2014-Bundesliga,,61a6d56a
+Regular season,9,Sat,2014-10-25,15:30,Augsburg,2–0,Freiburg,28324,WWK Arena,Marco Fritz,/en/matches/b5c9b50a/Augsburg-Freiburg-October-25-2014-Bundesliga,,b5c9b50a
+Regular season,9,Sat,2014-10-25,15:30,Dortmund,0–1,Hannover 96,80667,Signal Iduna Park,Tobias Stieler,/en/matches/5d372207/Dortmund-Hannover-96-October-25-2014-Bundesliga,,5d372207
+Regular season,9,Sat,2014-10-25,15:30,Eint Frankfurt,4–5,Stuttgart,49700,Commerzbank-Arena,Christian Dingert,/en/matches/c301f9d3/Eintracht-Frankfurt-Stuttgart-October-25-2014-Bundesliga,,c301f9d3
+Regular season,9,Sat,2014-10-25,15:30,Hertha BSC,3–0,Hamburger SV,58768,Olympiastadion Berlin,Thorsten Kinhöfer,/en/matches/673fe6ee/Hertha-BSC-Hamburger-SV-October-25-2014-Bundesliga,,673fe6ee
+Regular season,9,Sat,2014-10-25,15:30,Hoffenheim,1–0,Paderborn 07,25712,PreZero Arena,Robert Hartmann,/en/matches/11108821/Hoffenheim-Paderborn-07-October-25-2014-Bundesliga,,11108821
+Regular season,9,Sat,2014-10-25,18:30,Leverkusen,1–0,Schalke 04,30210,BayArena,Manuel Gräfe,/en/matches/76e77932/Bayer-Leverkusen-Schalke-04-October-25-2014-Bundesliga,,76e77932
+Regular season,9,Sun,2014-10-26,17:30,M'Gladbach,0–0,Bayern Munich,54010,Stadion im Borussia-Park,Felix Zwayer,/en/matches/a19cb8cc/Monchengladbach-Bayern-Munich-October-26-2014-Bundesliga,,a19cb8cc
+Regular season,9,Sun,2014-10-26,15:30,Wolfsburg,3–0,Mainz 05,26238,Volkswagen Arena,Guido Winkmann,/en/matches/e45996e0/Wolfsburg-Mainz-05-October-26-2014-Bundesliga,,e45996e0
+Regular season,10,Fri,2014-10-31,20:30,Schalke 04,1–0,Augsburg,60954,Veltins-Arena,Christian Dingert,/en/matches/4d9e85b5/Schalke-04-Augsburg-October-31-2014-Bundesliga,,4d9e85b5
+Regular season,10,Sat,2014-11-01,18:30,Bayern Munich,2–1,Dortmund,71000,Allianz Arena,Manuel Gräfe,/en/matches/ba7c2233/Der-Klassiker-Bayern-Munich-Dortmund-November-1-2014-Bundesliga,,ba7c2233
+Regular season,10,Sat,2014-11-01,15:30,Hamburger SV,1–0,Leverkusen,52990,Volksparkstadion,Florian Meyer,/en/matches/902420d6/Hamburger-SV-Bayer-Leverkusen-November-1-2014-Bundesliga,,902420d6
+Regular season,10,Sat,2014-11-01,15:30,Hannover 96,1–0,Eint Frankfurt,42200,HDI-Arena,Sascha Stegemann,/en/matches/5b6db09b/Hannover-96-Eintracht-Frankfurt-November-1-2014-Bundesliga,,5b6db09b
+Regular season,10,Sat,2014-11-01,15:30,Mainz 05,1–2,Werder Bremen,31017,Opel Arena,Wolfgang Stark,/en/matches/17680e42/Mainz-05-Werder-Bremen-November-1-2014-Bundesliga,,17680e42
+Regular season,10,Sat,2014-11-01,15:30,Stuttgart,0–4,Wolfsburg,50050,Mercedes-Benz Arena,Bastian Dankert,/en/matches/07278ecb/Stuttgart-Wolfsburg-November-1-2014-Bundesliga,,07278ecb
+Regular season,10,Sun,2014-11-02,17:30,Köln,0–1,Freiburg,46500,RheinEnergieSTADION,Peter Gagelmann,/en/matches/4a0e97d1/Koln-Freiburg-November-2-2014-Bundesliga,,4a0e97d1
+Regular season,10,Sun,2014-11-02,15:30,M'Gladbach,3–1,Hoffenheim,52409,Stadion im Borussia-Park,Deniz Aytekin,/en/matches/2220d600/Monchengladbach-Hoffenheim-November-2-2014-Bundesliga,,2220d600
+Regular season,10,Sun,2014-11-02,17:30,Paderborn 07,3–1,Hertha BSC,14630,Benteler-Arena,Jochen Drees,/en/matches/790a0169/Paderborn-07-Hertha-BSC-November-2-2014-Bundesliga,,790a0169
+Regular season,11,Fri,2014-11-07,20:30,Hertha BSC,0–2,Hannover 96,39710,Olympiastadion Berlin,Peter Sippel,/en/matches/f783149a/Hertha-BSC-Hannover-96-November-7-2014-Bundesliga,,f783149a
+Regular season,11,Sat,2014-11-08,15:30,Augsburg,3–0,Paderborn 07,27755,WWK Arena,Daniel Siebert,/en/matches/e36be6b8/Augsburg-Paderborn-07-November-8-2014-Bundesliga,,e36be6b8
+Regular season,11,Sat,2014-11-08,15:30,Eint Frankfurt,0–4,Bayern Munich,51500,Commerzbank-Arena,Florian Meyer,/en/matches/fd8a2dbd/Eintracht-Frankfurt-Bayern-Munich-November-8-2014-Bundesliga,,fd8a2dbd
+Regular season,11,Sat,2014-11-08,15:30,Freiburg,2–0,Schalke 04,24000,Schwarzwald-Stadion,Felix Zwayer,/en/matches/3126abb3/Freiburg-Schalke-04-November-8-2014-Bundesliga,,3126abb3
+Regular season,11,Sat,2014-11-08,15:30,Hoffenheim,3–4,Köln,30150,PreZero Arena,Günter Perl,/en/matches/dbfff972/Hoffenheim-Koln-November-8-2014-Bundesliga,,dbfff972
+Regular season,11,Sat,2014-11-08,15:30,Leverkusen,0–0,Mainz 05,29714,BayArena,Markus Schmidt,/en/matches/a363e4da/Bayer-Leverkusen-Mainz-05-November-8-2014-Bundesliga,,a363e4da
+Regular season,11,Sat,2014-11-08,18:30,Werder Bremen,2–0,Stuttgart,40284,Weserstadion,Guido Winkmann,/en/matches/592e6a5c/Werder-Bremen-Stuttgart-November-8-2014-Bundesliga,,592e6a5c
+Regular season,11,Sun,2014-11-09,17:30,Dortmund,1–0,M'Gladbach,80667,Signal Iduna Park,Felix Brych,/en/matches/fe83f456/Dortmund-Monchengladbach-November-9-2014-Bundesliga,,fe83f456
+Regular season,11,Sun,2014-11-09,15:30,Wolfsburg,2–0,Hamburger SV,30000,Volkswagen Arena,Knut Kircher,/en/matches/af88ffc3/Wolfsburg-Hamburger-SV-November-9-2014-Bundesliga,,af88ffc3
+Regular season,12,Sat,2014-11-22,15:30,Bayern Munich,4–0,Hoffenheim,71000,Allianz Arena,Peter Gagelmann,/en/matches/fdbee0db/Bayern-Munich-Hoffenheim-November-22-2014-Bundesliga,,fdbee0db
+Regular season,12,Sat,2014-11-22,15:30,Hannover 96,1–3,Leverkusen,40800,HDI-Arena,Marco Fritz,/en/matches/1538eaf3/Hannover-96-Bayer-Leverkusen-November-22-2014-Bundesliga,,1538eaf3
+Regular season,12,Sat,2014-11-22,18:30,Köln,1–2,Hertha BSC,49200,RheinEnergieSTADION,Tobias Stieler,/en/matches/1480f6b9/Koln-Hertha-BSC-November-22-2014-Bundesliga,,1480f6b9
+Regular season,12,Sat,2014-11-22,15:30,M'Gladbach,1–3,Eint Frankfurt,54010,Stadion im Borussia-Park,Bastian Dankert,/en/matches/c172ed20/Monchengladbach-Eintracht-Frankfurt-November-22-2014-Bundesliga,,c172ed20
+Regular season,12,Sat,2014-11-22,15:30,Mainz 05,2–2,Freiburg,28157,Opel Arena,Daniel Siebert,/en/matches/a0cba743/Mainz-05-Freiburg-November-22-2014-Bundesliga,,a0cba743
+Regular season,12,Sat,2014-11-22,15:30,Paderborn 07,2–2,Dortmund,15000,Benteler-Arena,Wolfgang Stark,/en/matches/c603c85d/Paderborn-07-Dortmund-November-22-2014-Bundesliga,,c603c85d
+Regular season,12,Sat,2014-11-22,15:30,Schalke 04,3–2,Wolfsburg,60989,Veltins-Arena,Robert Hartmann,/en/matches/32d4b3d1/Schalke-04-Wolfsburg-November-22-2014-Bundesliga,,32d4b3d1
+Regular season,12,Sun,2014-11-23,15:30,Hamburger SV,2–0,Werder Bremen,57000,Volksparkstadion,Felix Zwayer,/en/matches/bb9aae8e/Hamburger-SV-Werder-Bremen-November-23-2014-Bundesliga,,bb9aae8e
+Regular season,12,Sun,2014-11-23,17:30,Stuttgart,0–1,Augsburg,48200,Mercedes-Benz Arena,Thorsten Kinhöfer,/en/matches/25722063/Stuttgart-Augsburg-November-23-2014-Bundesliga,,25722063
+Regular season,13,Fri,2014-11-28,20:30,Freiburg,1–4,Stuttgart,24000,Schwarzwald-Stadion,Manuel Gräfe,/en/matches/a2a14401/Freiburg-Stuttgart-November-28-2014-Bundesliga,,a2a14401
+Regular season,13,Sat,2014-11-29,15:30,Augsburg,3–1,Hamburger SV,30321,WWK Arena,Jochen Drees,/en/matches/56f726c9/Augsburg-Hamburger-SV-November-29-2014-Bundesliga,,56f726c9
+Regular season,13,Sat,2014-11-29,15:30,Hertha BSC,0–1,Bayern Munich,76195,Olympiastadion Berlin,Christian Dingert,/en/matches/8cd1d5e1/Hertha-BSC-Bayern-Munich-November-29-2014-Bundesliga,,8cd1d5e1
+Regular season,13,Sat,2014-11-29,18:30,Hoffenheim,4–3,Hannover 96,22716,PreZero Arena,Felix Brych,/en/matches/0912c911/Hoffenheim-Hannover-96-November-29-2014-Bundesliga,,0912c911
+Regular season,13,Sat,2014-11-29,15:30,Leverkusen,5–1,Köln,30210,BayArena,Thorsten Kinhöfer,/en/matches/4a5c73f3/Bayer-Leverkusen-Koln-November-29-2014-Bundesliga,,4a5c73f3
+Regular season,13,Sat,2014-11-29,15:30,Schalke 04,4–1,Mainz 05,60904,Veltins-Arena,Günter Perl,/en/matches/089df628/Schalke-04-Mainz-05-November-29-2014-Bundesliga,,089df628
+Regular season,13,Sat,2014-11-29,15:30,Werder Bremen,4–0,Paderborn 07,41800,Weserstadion,Knut Kircher,/en/matches/e2146bdd/Werder-Bremen-Paderborn-07-November-29-2014-Bundesliga,,e2146bdd
+Regular season,13,Sun,2014-11-30,17:30,Eint Frankfurt,2–0,Dortmund,51500,Commerzbank-Arena,Peter Gagelmann,/en/matches/7bdb1a5e/Eintracht-Frankfurt-Dortmund-November-30-2014-Bundesliga,,7bdb1a5e
+Regular season,13,Sun,2014-11-30,15:30,Wolfsburg,1–0,M'Gladbach,30000,Volkswagen Arena,Wolfgang Stark,/en/matches/bc5348c3/Wolfsburg-Monchengladbach-November-30-2014-Bundesliga,,bc5348c3
+Regular season,14,Fri,2014-12-05,20:30,Dortmund,1–0,Hoffenheim,80000,Signal Iduna Park,Felix Zwayer,/en/matches/a11aaf00/Dortmund-Hoffenheim-December-5-2014-Bundesliga,,a11aaf00
+Regular season,14,Sat,2014-12-06,18:30,Bayern Munich,1–0,Leverkusen,71000,Allianz Arena,Knut Kircher,/en/matches/9a7f1a97/Bayern-Munich-Bayer-Leverkusen-December-6-2014-Bundesliga,,9a7f1a97
+Regular season,14,Sat,2014-12-06,15:30,Hannover 96,1–3,Wolfsburg,41400,HDI-Arena,Markus Schmidt,/en/matches/70a0438e/Hannover-96-Wolfsburg-December-6-2014-Bundesliga,,70a0438e
+Regular season,14,Sat,2014-12-06,15:30,Köln,1–2,Augsburg,48500,RheinEnergieSTADION,Tobias Welz,/en/matches/061098ca/Koln-Augsburg-December-6-2014-Bundesliga,,061098ca
+Regular season,14,Sat,2014-12-06,15:30,M'Gladbach,3–2,Hertha BSC,50190,Stadion im Borussia-Park,Marco Fritz,/en/matches/e682df44/Monchengladbach-Hertha-BSC-December-6-2014-Bundesliga,,e682df44
+Regular season,14,Sat,2014-12-06,15:30,Paderborn 07,1–1,Freiburg,14738,Benteler-Arena,Peter Sippel,/en/matches/d581a513/Paderborn-07-Freiburg-December-6-2014-Bundesliga,,d581a513
+Regular season,14,Sat,2014-12-06,15:30,Stuttgart,0–4,Schalke 04,44700,Mercedes-Benz Arena,Florian Meyer,/en/matches/a31a6256/Stuttgart-Schalke-04-December-6-2014-Bundesliga,,a31a6256
+Regular season,14,Sun,2014-12-07,17:30,Eint Frankfurt,5–2,Werder Bremen,46800,Commerzbank-Arena,Christian Dingert,/en/matches/bd7c5920/Eintracht-Frankfurt-Werder-Bremen-December-7-2014-Bundesliga,,bd7c5920
+Regular season,14,Sun,2014-12-07,15:30,Hamburger SV,2–1,Mainz 05,45968,Volksparkstadion,Sascha Stegemann,/en/matches/46be3669/Hamburger-SV-Mainz-05-December-7-2014-Bundesliga,,46be3669
+Regular season,15,Fri,2014-12-12,20:30,Hoffenheim,3–2,Eint Frankfurt,28331,PreZero Arena,Jochen Drees,/en/matches/10f08af3/Hoffenheim-Eintracht-Frankfurt-December-12-2014-Bundesliga,,10f08af3
+Regular season,15,Sat,2014-12-13,15:30,Augsburg,0–4,Bayern Munich,30660,WWK Arena,Tobias Stieler,/en/matches/dec8341e/Augsburg-Bayern-Munich-December-13-2014-Bundesliga,,dec8341e
+Regular season,15,Sat,2014-12-13,15:30,Freiburg,0–0,Hamburger SV,24000,Schwarzwald-Stadion,Wolfgang Stark,/en/matches/68b0d363/Freiburg-Hamburger-SV-December-13-2014-Bundesliga,,68b0d363
+Regular season,15,Sat,2014-12-13,15:30,Hertha BSC,1–0,Dortmund,75254,Olympiastadion Berlin,Günter Perl,/en/matches/c447c9b0/Hertha-BSC-Dortmund-December-13-2014-Bundesliga,,c447c9b0
+Regular season,15,Sat,2014-12-13,18:30,Mainz 05,1–1,Stuttgart,29279,Opel Arena,Bastian Dankert,/en/matches/226c79ed/Mainz-05-Stuttgart-December-13-2014-Bundesliga,,226c79ed
+Regular season,15,Sat,2014-12-13,15:30,Schalke 04,1–2,Köln,61516,Veltins-Arena,Felix Brych,/en/matches/68df4bb7/Schalke-04-Koln-December-13-2014-Bundesliga,,68df4bb7
+Regular season,15,Sat,2014-12-13,15:30,Werder Bremen,3–3,Hannover 96,40932,Weserstadion,Tobias Welz,/en/matches/2725ba86/Werder-Bremen-Hannover-96-December-13-2014-Bundesliga,,2725ba86
+Regular season,15,Sun,2014-12-14,15:30,Leverkusen,1–1,M'Gladbach,30210,BayArena,Peter Gagelmann,/en/matches/7bbf445b/Bayer-Leverkusen-Monchengladbach-December-14-2014-Bundesliga,,7bbf445b
+Regular season,15,Sun,2014-12-14,17:30,Wolfsburg,1–1,Paderborn 07,26044,Volkswagen Arena,Manuel Gräfe,/en/matches/1d6a60d1/Wolfsburg-Paderborn-07-December-14-2014-Bundesliga,,1d6a60d1
+Regular season,16,Tue,2014-12-16,20:00,Bayern Munich,2–0,Freiburg,71000,Allianz Arena,Jochen Drees,/en/matches/4796a6e0/Bayern-Munich-Freiburg-December-16-2014-Bundesliga,,4796a6e0
+Regular season,16,Tue,2014-12-16,20:00,Hamburger SV,0–1,Stuttgart,48223,Volksparkstadion,Felix Brych,/en/matches/ff2af017/Hamburger-SV-Stuttgart-December-16-2014-Bundesliga,,ff2af017
+Regular season,16,Tue,2014-12-16,20:00,Hannover 96,2–0,Augsburg,30800,HDI-Arena,Christian Dingert,/en/matches/ee3d88fe/Hannover-96-Augsburg-December-16-2014-Bundesliga,,ee3d88fe
+Regular season,16,Tue,2014-12-16,20:00,Köln,0–0,Mainz 05,42900,RheinEnergieSTADION,Florian Meyer,/en/matches/71a51b58/Koln-Mainz-05-December-16-2014-Bundesliga,,71a51b58
+Regular season,16,Wed,2014-12-17,20:00,Dortmund,2–2,Wolfsburg,80467,Signal Iduna Park,Tobias Welz,/en/matches/cbdde8df/Dortmund-Wolfsburg-December-17-2014-Bundesliga,,cbdde8df
+Regular season,16,Wed,2014-12-17,20:00,Eint Frankfurt,4–4,Hertha BSC,40200,Commerzbank-Arena,Guido Winkmann,/en/matches/7c0be3b7/Eintracht-Frankfurt-Hertha-BSC-December-17-2014-Bundesliga,,7c0be3b7
+Regular season,16,Wed,2014-12-17,20:00,Hoffenheim,0–1,Leverkusen,24731,PreZero Arena,Daniel Siebert,/en/matches/443ac691/Hoffenheim-Bayer-Leverkusen-December-17-2014-Bundesliga,,443ac691
+Regular season,16,Wed,2014-12-17,20:00,M'Gladbach,4–1,Werder Bremen,44513,Stadion im Borussia-Park,Robert Hartmann,/en/matches/506b62df/Monchengladbach-Werder-Bremen-December-17-2014-Bundesliga,,506b62df
+Regular season,16,Wed,2014-12-17,20:00,Paderborn 07,1–2,Schalke 04,15000,Benteler-Arena,Marco Fritz,/en/matches/a76a4128/Paderborn-07-Schalke-04-December-17-2014-Bundesliga,,a76a4128
+Regular season,17,Fri,2014-12-19,20:30,Mainz 05,1–2,Bayern Munich,34000,Opel Arena,Felix Zwayer,/en/matches/852aaa97/Mainz-05-Bayern-Munich-December-19-2014-Bundesliga,,852aaa97
+Regular season,17,Sat,2014-12-20,15:30,Augsburg,2–1,M'Gladbach,30660,WWK Arena,Bastian Dankert,/en/matches/776d21ff/Augsburg-Monchengladbach-December-20-2014-Bundesliga,,776d21ff
+Regular season,17,Sat,2014-12-20,15:30,Leverkusen,1–1,Eint Frankfurt,30210,BayArena,Wolfgang Stark,/en/matches/744a55d5/Bayer-Leverkusen-Eintracht-Frankfurt-December-20-2014-Bundesliga,,744a55d5
+Regular season,17,Sat,2014-12-20,15:30,Schalke 04,0–0,Hamburger SV,61973,Veltins-Arena,Markus Schmidt,/en/matches/e2f01ea1/Schalke-04-Hamburger-SV-December-20-2014-Bundesliga,,e2f01ea1
+Regular season,17,Sat,2014-12-20,15:30,Stuttgart,0–0,Paderborn 07,55000,Mercedes-Benz Arena,Tobias Stieler,/en/matches/edd415ed/Stuttgart-Paderborn-07-December-20-2014-Bundesliga,,edd415ed
+Regular season,17,Sat,2014-12-20,15:30,Werder Bremen,2–1,Dortmund,42100,Weserstadion,Manuel Gräfe,/en/matches/091207ac/Werder-Bremen-Dortmund-December-20-2014-Bundesliga,,091207ac
+Regular season,17,Sat,2014-12-20,18:30,Wolfsburg,2–1,Köln,26824,Volkswagen Arena,Peter Gagelmann,/en/matches/b03105fa/Wolfsburg-Koln-December-20-2014-Bundesliga,,b03105fa
+Regular season,17,Sun,2014-12-21,17:30,Freiburg,2–2,Hannover 96,23550,Schwarzwald-Stadion,Günter Perl,/en/matches/7b9fd301/Freiburg-Hannover-96-December-21-2014-Bundesliga,,7b9fd301
+Regular season,17,Sun,2014-12-21,15:30,Hertha BSC,0–5,Hoffenheim,39604,Olympiastadion Berlin,Peter Sippel,/en/matches/74be7d19/Hertha-BSC-Hoffenheim-December-21-2014-Bundesliga,,74be7d19
+Regular season,18,Fri,2015-01-30,20:30,Wolfsburg,4–1,Bayern Munich,30000,Volkswagen Arena,Tobias Welz,/en/matches/4d7aca06/Wolfsburg-Bayern-Munich-January-30-2015-Bundesliga,,4d7aca06
+Regular season,18,Sat,2015-01-31,15:30,Freiburg,4–1,Eint Frankfurt,24000,Schwarzwald-Stadion,Felix Zwayer,/en/matches/2662f9ea/Freiburg-Eintracht-Frankfurt-January-31-2015-Bundesliga,,2662f9ea
+Regular season,18,Sat,2015-01-31,15:30,Hamburger SV,0–2,Köln,56053,Volksparkstadion,Wolfgang Stark,/en/matches/eb25330f/Hamburger-SV-Koln-January-31-2015-Bundesliga,,eb25330f
+Regular season,18,Sat,2015-01-31,18:30,Leverkusen,0–0,Dortmund,30210,BayArena,Knut Kircher,/en/matches/7c6802b7/Bayer-Leverkusen-Dortmund-January-31-2015-Bundesliga,,7c6802b7
+Regular season,18,Sat,2015-01-31,15:30,Mainz 05,5–0,Paderborn 07,27114,Opel Arena,Robert Hartmann,/en/matches/494c8209/Mainz-05-Paderborn-07-January-31-2015-Bundesliga,,494c8209
+Regular season,18,Sat,2015-01-31,15:30,Schalke 04,1–0,Hannover 96,61646,Veltins-Arena,Sascha Stegemann,/en/matches/60b60729/Schalke-04-Hannover-96-January-31-2015-Bundesliga,,60b60729
+Regular season,18,Sat,2015-01-31,15:30,Stuttgart,0–1,M'Gladbach,46200,Mercedes-Benz Arena,Christian Dingert,/en/matches/a23811d2/Stuttgart-Monchengladbach-January-31-2015-Bundesliga,,a23811d2
+Regular season,18,Sun,2015-02-01,17:30,Augsburg,3–1,Hoffenheim,27090,WWK Arena,Florian Meyer,/en/matches/0ecd83a2/Augsburg-Hoffenheim-February-1-2015-Bundesliga,,0ecd83a2
+Regular season,18,Sun,2015-02-01,15:30,Werder Bremen,2–0,Hertha BSC,40187,Weserstadion,Felix Brych,/en/matches/8ffe7312/Werder-Bremen-Hertha-BSC-February-1-2015-Bundesliga,,8ffe7312
+Regular season,19,Tue,2015-02-03,20:00,Bayern Munich,1–1,Schalke 04,75000,Allianz Arena,Bastian Dankert,/en/matches/0c3ebea7/Bayern-Munich-Schalke-04-February-3-2015-Bundesliga,,0c3ebea7
+Regular season,19,Tue,2015-02-03,20:00,Eint Frankfurt,1–1,Wolfsburg,34400,Commerzbank-Arena,Günter Perl,/en/matches/14100903/Eintracht-Frankfurt-Wolfsburg-February-3-2015-Bundesliga,,14100903
+Regular season,19,Tue,2015-02-03,20:00,Hannover 96,1–1,Mainz 05,30500,HDI-Arena,Thorsten Kinhöfer,/en/matches/24b7c851/Hannover-96-Mainz-05-February-3-2015-Bundesliga,,24b7c851
+Regular season,19,Tue,2015-02-03,20:00,M'Gladbach,1–0,Freiburg,37091,Stadion im Borussia-Park,Markus Schmidt,/en/matches/65097d42/Monchengladbach-Freiburg-February-3-2015-Bundesliga,,65097d42
+Regular season,19,Wed,2015-02-04,20:00,Dortmund,0–1,Augsburg,80667,Signal Iduna Park,Marco Fritz,/en/matches/950346a9/Dortmund-Augsburg-February-4-2015-Bundesliga,,950346a9
+Regular season,19,Wed,2015-02-04,20:00,Hertha BSC,0–1,Leverkusen,34636,Olympiastadion Berlin,Jochen Drees,/en/matches/beb18275/Hertha-BSC-Bayer-Leverkusen-February-4-2015-Bundesliga,,beb18275
+Regular season,19,Wed,2015-02-04,20:00,Hoffenheim,1–2,Werder Bremen,23631,PreZero Arena,Guido Winkmann,/en/matches/f6be6cc3/Hoffenheim-Werder-Bremen-February-4-2015-Bundesliga,,f6be6cc3
+Regular season,19,Wed,2015-02-04,20:00,Köln,0–0,Stuttgart,48400,RheinEnergieSTADION,Tobias Stieler,/en/matches/d10c7033/Koln-Stuttgart-February-4-2015-Bundesliga,,d10c7033
+Regular season,19,Wed,2015-02-04,20:00,Paderborn 07,0–3,Hamburger SV,15000,Benteler-Arena,Peter Gagelmann,/en/matches/c785203c/Paderborn-07-Hamburger-SV-February-4-2015-Bundesliga,,c785203c
+Regular season,20,Fri,2015-02-06,20:30,Schalke 04,1–0,M'Gladbach,61973,Veltins-Arena,Wolfgang Stark,/en/matches/3c19e99a/Schalke-04-Monchengladbach-February-6-2015-Bundesliga,,3c19e99a
+Regular season,20,Sat,2015-02-07,15:30,Freiburg,0–3,Dortmund,24000,Schwarzwald-Stadion,Felix Brych,/en/matches/374cff06/Freiburg-Dortmund-February-7-2015-Bundesliga,,374cff06
+Regular season,20,Sat,2015-02-07,18:30,Hamburger SV,2–1,Hannover 96,51779,Volksparkstadion,Manuel Gräfe,/en/matches/51e185e7/Hamburger-SV-Hannover-96-February-7-2015-Bundesliga,,51e185e7
+Regular season,20,Sat,2015-02-07,15:30,Köln,0–0,Paderborn 07,49500,RheinEnergieSTADION,Christian Dingert,/en/matches/6fd39e0e/Koln-Paderborn-07-February-7-2015-Bundesliga,,6fd39e0e
+Regular season,20,Sat,2015-02-07,15:30,Mainz 05,0–2,Hertha BSC,26756,Opel Arena,Deniz Aytekin,/en/matches/b53d64d4/Mainz-05-Hertha-BSC-February-7-2015-Bundesliga,,b53d64d4
+Regular season,20,Sat,2015-02-07,15:30,Stuttgart,0–2,Bayern Munich,60000,Mercedes-Benz Arena,Florian Meyer,/en/matches/d235b501/Stuttgart-Bayern-Munich-February-7-2015-Bundesliga,,d235b501
+Regular season,20,Sat,2015-02-07,15:30,Wolfsburg,3–0,Hoffenheim,26356,Volkswagen Arena,Jochen Drees,/en/matches/c3754d1e/Wolfsburg-Hoffenheim-February-7-2015-Bundesliga,,c3754d1e
+Regular season,20,Sun,2015-02-08,17:30,Augsburg,2–2,Eint Frankfurt,27122,WWK Arena,Knut Kircher,/en/matches/6334f1ad/Augsburg-Eintracht-Frankfurt-February-8-2015-Bundesliga,,6334f1ad
+Regular season,20,Sun,2015-02-08,15:30,Werder Bremen,2–1,Leverkusen,39653,Weserstadion,Peter Sippel,/en/matches/0145d74a/Werder-Bremen-Bayer-Leverkusen-February-8-2015-Bundesliga,,0145d74a
+Regular season,21,Fri,2015-02-13,20:30,Dortmund,4–2,Mainz 05,80200,Signal Iduna Park,Tobias Stieler,/en/matches/e748f577/Dortmund-Mainz-05-February-13-2015-Bundesliga,,e748f577
+Regular season,21,Sat,2015-02-14,15:30,Bayern Munich,8–0,Hamburger SV,75000,Allianz Arena,Michael Weiner,/en/matches/8ea1fef8/Bayern-Munich-Hamburger-SV-February-14-2015-Bundesliga,,8ea1fef8
+Regular season,21,Sat,2015-02-14,18:30,Eint Frankfurt,1–0,Schalke 04,50400,Commerzbank-Arena,Marco Fritz,/en/matches/e5a56689/Eintracht-Frankfurt-Schalke-04-February-14-2015-Bundesliga,,e5a56689
+Regular season,21,Sat,2015-02-14,15:30,Hoffenheim,2–1,Stuttgart,29309,PreZero Arena,Tobias Welz,/en/matches/e6e465d6/Hoffenheim-Stuttgart-February-14-2015-Bundesliga,,e6e465d6
+Regular season,21,Sat,2015-02-14,15:30,Leverkusen,4–5,Wolfsburg,29227,BayArena,Bastian Dankert,/en/matches/301e028b/Bayer-Leverkusen-Wolfsburg-February-14-2015-Bundesliga,,301e028b
+Regular season,21,Sat,2015-02-14,15:30,M'Gladbach,1–0,Köln,54010,Stadion im Borussia-Park,Deniz Aytekin,/en/matches/b7149cee/Monchengladbach-Koln-February-14-2015-Bundesliga,,b7149cee
+Regular season,21,Sat,2015-02-14,15:30,Werder Bremen,3–2,Augsburg,39746,Weserstadion,Christian Dingert,/en/matches/4e75ab72/Werder-Bremen-Augsburg-February-14-2015-Bundesliga,,4e75ab72
+Regular season,21,Sun,2015-02-15,17:30,Hannover 96,1–2,Paderborn 07,38300,HDI-Arena,Jochen Drees,/en/matches/5c484d2e/Hannover-96-Paderborn-07-February-15-2015-Bundesliga,,5c484d2e
+Regular season,21,Sun,2015-02-15,15:30,Hertha BSC,0–2,Freiburg,38000,Olympiastadion Berlin,Thorsten Kinhöfer,/en/matches/f4899301/Hertha-BSC-Freiburg-February-15-2015-Bundesliga,,f4899301
+Regular season,22,Fri,2015-02-20,20:30,Stuttgart,2–3,Dortmund,60000,Mercedes-Benz Arena,Deniz Aytekin,/en/matches/248bba11/Stuttgart-Dortmund-February-20-2015-Bundesliga,,248bba11
+Regular season,22,Sat,2015-02-21,15:30,Augsburg,2–2,Leverkusen,28154,WWK Arena,Tobias Welz,/en/matches/64682d48/Augsburg-Bayer-Leverkusen-February-21-2015-Bundesliga,,64682d48
+Regular season,22,Sat,2015-02-21,15:30,Freiburg,1–1,Hoffenheim,23800,Schwarzwald-Stadion,Peter Gagelmann,/en/matches/87855589/Freiburg-Hoffenheim-February-21-2015-Bundesliga,,87855589
+Regular season,22,Sat,2015-02-21,18:30,Köln,1–1,Hannover 96,47300,RheinEnergieSTADION,Günter Perl,/en/matches/5f0b705c/Koln-Hannover-96-February-21-2015-Bundesliga,,5f0b705c
+Regular season,22,Sat,2015-02-21,15:30,Mainz 05,3–1,Eint Frankfurt,33237,Opel Arena,Felix Brych,/en/matches/5c918e72/Mainz-05-Eintracht-Frankfurt-February-21-2015-Bundesliga,,5c918e72
+Regular season,22,Sat,2015-02-21,15:30,Paderborn 07,0–6,Bayern Munich,15000,Benteler-Arena,Bastian Dankert,/en/matches/2834e61a/Paderborn-07-Bayern-Munich-February-21-2015-Bundesliga,,2834e61a
+Regular season,22,Sat,2015-02-21,15:30,Schalke 04,1–1,Werder Bremen,61973,Veltins-Arena,Manuel Gräfe,/en/matches/b18f1f6c/Schalke-04-Werder-Bremen-February-21-2015-Bundesliga,,b18f1f6c
+Regular season,22,Sun,2015-02-22,15:30,Hamburger SV,1–1,M'Gladbach,52105,Volksparkstadion,Felix Zwayer,/en/matches/0666d5b9/Hamburger-SV-Monchengladbach-February-22-2015-Bundesliga,,0666d5b9
+Regular season,22,Sun,2015-02-22,17:30,Wolfsburg,2–1,Hertha BSC,27683,Volkswagen Arena,Guido Winkmann,/en/matches/3501c120/Wolfsburg-Hertha-BSC-February-22-2015-Bundesliga,,3501c120
+Regular season,23,Fri,2015-02-27,20:30,Bayern Munich,4–1,Köln,75000,Allianz Arena,Daniel Siebert,/en/matches/925f411a/Bayern-Munich-Koln-February-27-2015-Bundesliga,,925f411a
+Regular season,23,Sat,2015-02-28,15:30,Dortmund,3–0,Schalke 04,79500,Signal Iduna Park,Felix Zwayer,/en/matches/7fe77d94/Revierderby-Dortmund-Schalke-04-February-28-2015-Bundesliga,,7fe77d94
+Regular season,23,Sat,2015-02-28,18:30,Eint Frankfurt,2–1,Hamburger SV,50500,Commerzbank-Arena,Florian Meyer,/en/matches/002afe67/Eintracht-Frankfurt-Hamburger-SV-February-28-2015-Bundesliga,,002afe67
+Regular season,23,Sat,2015-02-28,15:30,Hannover 96,1–1,Stuttgart,40200,HDI-Arena,Wolfgang Stark,/en/matches/5d143d16/Hannover-96-Stuttgart-February-28-2015-Bundesliga,,5d143d16
+Regular season,23,Sat,2015-02-28,15:30,Hertha BSC,1–0,Augsburg,36015,Olympiastadion Berlin,Tobias Stieler,/en/matches/16436e09/Hertha-BSC-Augsburg-February-28-2015-Bundesliga,,16436e09
+Regular season,23,Sat,2015-02-28,15:30,Hoffenheim,2–0,Mainz 05,24310,PreZero Arena,Peter Sippel,/en/matches/449ce2f3/Hoffenheim-Mainz-05-February-28-2015-Bundesliga,,449ce2f3
+Regular season,23,Sat,2015-02-28,15:30,Leverkusen,1–0,Freiburg,28624,BayArena,Robert Hartmann,/en/matches/48b2985b/Bayer-Leverkusen-Freiburg-February-28-2015-Bundesliga,,48b2985b
+Regular season,23,Sun,2015-03-01,15:30,M'Gladbach,2–0,Paderborn 07,53152,Stadion im Borussia-Park,Michael Weiner,/en/matches/ba519022/Monchengladbach-Paderborn-07-March-1-2015-Bundesliga,,ba519022
+Regular season,23,Sun,2015-03-01,17:30,Werder Bremen,3–5,Wolfsburg,40126,Weserstadion,Marco Fritz,/en/matches/3397bf58/Werder-Bremen-Wolfsburg-March-1-2015-Bundesliga,,3397bf58
+Regular season,24,Fri,2015-03-06,20:30,Stuttgart,0–0,Hertha BSC,45420,Mercedes-Benz Arena,Felix Brych,/en/matches/a65cf6ae/Stuttgart-Hertha-BSC-March-6-2015-Bundesliga,,a65cf6ae
+Regular season,24,Sat,2015-03-07,15:30,Augsburg,1–0,Wolfsburg,28721,WWK Arena,Manuel Gräfe,/en/matches/a2bc0c9b/Augsburg-Wolfsburg-March-7-2015-Bundesliga,,a2bc0c9b
+Regular season,24,Sat,2015-03-07,15:30,Freiburg,0–1,Werder Bremen,24000,Schwarzwald-Stadion,Deniz Aytekin,/en/matches/37b29308/Freiburg-Werder-Bremen-March-7-2015-Bundesliga,,37b29308
+Regular season,24,Sat,2015-03-07,15:30,Hamburger SV,0–0,Dortmund,57000,Volksparkstadion,Peter Gagelmann,/en/matches/85c5406c/Hamburger-SV-Dortmund-March-7-2015-Bundesliga,,85c5406c
+Regular season,24,Sat,2015-03-07,15:30,Hannover 96,1–3,Bayern Munich,49000,HDI-Arena,Tobias Welz,/en/matches/13998111/Hannover-96-Bayern-Munich-March-7-2015-Bundesliga,,13998111
+Regular season,24,Sat,2015-03-07,18:30,Mainz 05,2–2,M'Gladbach,34000,Opel Arena,Marco Fritz,/en/matches/568cfaac/Mainz-05-Monchengladbach-March-7-2015-Bundesliga,,568cfaac
+Regular season,24,Sat,2015-03-07,15:30,Schalke 04,3–1,Hoffenheim,60607,Veltins-Arena,Bastian Dankert,/en/matches/77beeac3/Schalke-04-Hoffenheim-March-7-2015-Bundesliga,,77beeac3
+Regular season,24,Sun,2015-03-08,15:30,Köln,4–2,Eint Frankfurt,50000,RheinEnergieSTADION,Knut Kircher,/en/matches/828e9078/Koln-Eintracht-Frankfurt-March-8-2015-Bundesliga,,828e9078
+Regular season,24,Sun,2015-03-08,17:30,Paderborn 07,0–3,Leverkusen,14905,Benteler-Arena,Daniel Siebert,/en/matches/af87d3b1/Paderborn-07-Bayer-Leverkusen-March-8-2015-Bundesliga,,af87d3b1
+Regular season,25,Fri,2015-03-13,20:30,Leverkusen,4–0,Stuttgart,29384,BayArena,Tobias Stieler,/en/matches/fc8ec636/Bayer-Leverkusen-Stuttgart-March-13-2015-Bundesliga,,fc8ec636
+Regular season,25,Sat,2015-03-14,15:30,Augsburg,0–2,Mainz 05,28359,WWK Arena,Knut Kircher,/en/matches/e1804d09/Augsburg-Mainz-05-March-14-2015-Bundesliga,,e1804d09
+Regular season,25,Sat,2015-03-14,18:30,Dortmund,0–0,Köln,80667,Signal Iduna Park,Markus Schmidt,/en/matches/7ac9405d/Dortmund-Koln-March-14-2015-Bundesliga,,7ac9405d
+Regular season,25,Sat,2015-03-14,15:30,Eint Frankfurt,4–0,Paderborn 07,46000,Commerzbank-Arena,Guido Winkmann,/en/matches/1431ed00/Eintracht-Frankfurt-Paderborn-07-March-14-2015-Bundesliga,,1431ed00
+Regular season,25,Sat,2015-03-14,15:30,Hertha BSC,2–2,Schalke 04,59156,Olympiastadion Berlin,Michael Weiner,/en/matches/04b8abc6/Hertha-BSC-Schalke-04-March-14-2015-Bundesliga,,04b8abc6
+Regular season,25,Sat,2015-03-14,15:30,Hoffenheim,3–0,Hamburger SV,30150,PreZero Arena,Günter Perl,/en/matches/93316ea2/Hoffenheim-Hamburger-SV-March-14-2015-Bundesliga,,93316ea2
+Regular season,25,Sat,2015-03-14,15:30,Werder Bremen,0–4,Bayern Munich,42100,Weserstadion,Thorsten Kinhöfer,/en/matches/6b5c0e1c/Werder-Bremen-Bayern-Munich-March-14-2015-Bundesliga,,6b5c0e1c
+Regular season,25,Sun,2015-03-15,17:30,M'Gladbach,2–0,Hannover 96,49134,Stadion im Borussia-Park,Jochen Drees,/en/matches/3c06c334/Monchengladbach-Hannover-96-March-15-2015-Bundesliga,,3c06c334
+Regular season,25,Sun,2015-03-15,15:30,Wolfsburg,3–0,Freiburg,26538,Volkswagen Arena,Sascha Stegemann,/en/matches/2b175252/Wolfsburg-Freiburg-March-15-2015-Bundesliga,,2b175252
+Regular season,26,Fri,2015-03-20,20:30,Hamburger SV,0–1,Hertha BSC,53640,Volksparkstadion,Christian Dingert,/en/matches/a7a2a3ba/Hamburger-SV-Hertha-BSC-March-20-2015-Bundesliga,,a7a2a3ba
+Regular season,26,Sat,2015-03-21,15:30,Freiburg,2–0,Augsburg,23700,Schwarzwald-Stadion,Felix Zwayer,/en/matches/d58065f8/Freiburg-Augsburg-March-21-2015-Bundesliga,,d58065f8
+Regular season,26,Sat,2015-03-21,15:30,Hannover 96,2–3,Dortmund,49000,HDI-Arena,Felix Brych,/en/matches/5e911314/Hannover-96-Dortmund-March-21-2015-Bundesliga,,5e911314
+Regular season,26,Sat,2015-03-21,15:30,Köln,1–1,Werder Bremen,50000,RheinEnergieSTADION,Robert Hartmann,/en/matches/010dda5d/Koln-Werder-Bremen-March-21-2015-Bundesliga,,010dda5d
+Regular season,26,Sat,2015-03-21,15:30,Paderborn 07,0–0,Hoffenheim,14401,Benteler-Arena,Markus Schmidt,/en/matches/3eed212b/Paderborn-07-Hoffenheim-March-21-2015-Bundesliga,,3eed212b
+Regular season,26,Sat,2015-03-21,18:30,Schalke 04,0–1,Leverkusen,61973,Veltins-Arena,Peter Gagelmann,/en/matches/2dd3faea/Schalke-04-Bayer-Leverkusen-March-21-2015-Bundesliga,,2dd3faea
+Regular season,26,Sat,2015-03-21,15:30,Stuttgart,3–1,Eint Frankfurt,48500,Mercedes-Benz Arena,Jochen Drees,/en/matches/f131a6c1/Stuttgart-Eintracht-Frankfurt-March-21-2015-Bundesliga,,f131a6c1
+Regular season,26,Sun,2015-03-22,17:30,Bayern Munich,0–2,M'Gladbach,75000,Allianz Arena,Frank Willenborg,/en/matches/33305dcb/Bayern-Munich-Monchengladbach-March-22-2015-Bundesliga,,33305dcb
+Regular season,26,Sun,2015-03-22,15:30,Mainz 05,1–1,Wolfsburg,32236,Opel Arena,Wolfgang Stark,/en/matches/474b45a7/Mainz-05-Wolfsburg-March-22-2015-Bundesliga,,474b45a7
+Regular season,27,Sat,2015-04-04,18:30,Dortmund,0–1,Bayern Munich,80667,Signal Iduna Park,Knut Kircher,/en/matches/aaff5c93/Der-Klassiker-Dortmund-Bayern-Munich-April-4-2015-Bundesliga,,aaff5c93
+Regular season,27,Sat,2015-04-04,15:30,Eint Frankfurt,2–2,Hannover 96,49600,Commerzbank-Arena,Deniz Aytekin,/en/matches/aa464235/Eintracht-Frankfurt-Hannover-96-April-4-2015-Bundesliga,,aa464235
+Regular season,27,Sat,2015-04-04,15:30,Freiburg,1–0,Köln,23800,Schwarzwald-Stadion,Bastian Dankert,/en/matches/9664995b/Freiburg-Koln-April-4-2015-Bundesliga,,9664995b
+Regular season,27,Sat,2015-04-04,15:30,Hoffenheim,1–4,M'Gladbach,30150,PreZero Arena,Thorsten Kinhöfer,/en/matches/1427c764/Hoffenheim-Monchengladbach-April-4-2015-Bundesliga,,1427c764
+Regular season,27,Sat,2015-04-04,15:30,Leverkusen,4–0,Hamburger SV,30210,BayArena,Manuel Gräfe,/en/matches/c20c273e/Bayer-Leverkusen-Hamburger-SV-April-4-2015-Bundesliga,,c20c273e
+Regular season,27,Sat,2015-04-04,15:30,Werder Bremen,0–0,Mainz 05,41000,Weserstadion,Michael Weiner,/en/matches/877d0064/Werder-Bremen-Mainz-05-April-4-2015-Bundesliga,,877d0064
+Regular season,27,Sat,2015-04-04,15:30,Wolfsburg,3–1,Stuttgart,30000,Volkswagen Arena,Tobias Welz,/en/matches/f568e2c4/Wolfsburg-Stuttgart-April-4-2015-Bundesliga,,f568e2c4
+Regular season,27,Sun,2015-04-05,15:30,Augsburg,0–0,Schalke 04,30660,WWK Arena,Florian Meyer,/en/matches/6d2c2082/Augsburg-Schalke-04-April-5-2015-Bundesliga,,6d2c2082
+Regular season,27,Sun,2015-04-05,17:30,Hertha BSC,2–0,Paderborn 07,44031,Olympiastadion Berlin,Peter Sippel,/en/matches/b4367f92/Hertha-BSC-Paderborn-07-April-5-2015-Bundesliga,,b4367f92
+Regular season,28,Fri,2015-04-10,20:30,Hannover 96,1–1,Hertha BSC,46000,HDI-Arena,Marco Fritz,/en/matches/93f01ede/Hannover-96-Hertha-BSC-April-10-2015-Bundesliga,,93f01ede
+Regular season,28,Sat,2015-04-11,15:30,Bayern Munich,3–0,Eint Frankfurt,75000,Allianz Arena,Markus Schmidt,/en/matches/bda8bded/Bayern-Munich-Eintracht-Frankfurt-April-11-2015-Bundesliga,,bda8bded
+Regular season,28,Sat,2015-04-11,18:30,Hamburger SV,0–2,Wolfsburg,57000,Volksparkstadion,Felix Zwayer,/en/matches/5b41569d/Hamburger-SV-Wolfsburg-April-11-2015-Bundesliga,,5b41569d
+Regular season,28,Sat,2015-04-11,15:30,M'Gladbach,3–1,Dortmund,54010,Stadion im Borussia-Park,Manuel Gräfe,/en/matches/69a4f385/Monchengladbach-Dortmund-April-11-2015-Bundesliga,,69a4f385
+Regular season,28,Sat,2015-04-11,15:30,Mainz 05,2–3,Leverkusen,31578,Opel Arena,Guido Winkmann,/en/matches/fefd6131/Mainz-05-Bayer-Leverkusen-April-11-2015-Bundesliga,,fefd6131
+Regular season,28,Sat,2015-04-11,15:30,Paderborn 07,2–1,Augsburg,14446,Benteler-Arena,Tobias Stieler,/en/matches/d629ad6f/Paderborn-07-Augsburg-April-11-2015-Bundesliga,,d629ad6f
+Regular season,28,Sat,2015-04-11,15:30,Schalke 04,0–0,Freiburg,61471,Veltins-Arena,Jochen Drees,/en/matches/3f61609e/Schalke-04-Freiburg-April-11-2015-Bundesliga,,3f61609e
+Regular season,28,Sun,2015-04-12,15:30,Köln,3–2,Hoffenheim,45000,RheinEnergieSTADION,Peter Sippel,/en/matches/c29678dc/Koln-Hoffenheim-April-12-2015-Bundesliga,,c29678dc
+Regular season,28,Sun,2015-04-12,17:30,Stuttgart,3–2,Werder Bremen,51330,Mercedes-Benz Arena,Günter Perl,/en/matches/d99c9618/Stuttgart-Werder-Bremen-April-12-2015-Bundesliga,,d99c9618
+Regular season,29,Fri,2015-04-17,20:30,Eint Frankfurt,0–0,M'Gladbach,51500,Commerzbank-Arena,Marco Fritz,/en/matches/07a519a9/Eintracht-Frankfurt-Monchengladbach-April-17-2015-Bundesliga,,07a519a9
+Regular season,29,Sat,2015-04-18,18:30,Augsburg,2–1,Stuttgart,30660,WWK Arena,Thorsten Kinhöfer,/en/matches/9010b390/Augsburg-Stuttgart-April-18-2015-Bundesliga,,9010b390
+Regular season,29,Sat,2015-04-18,15:30,Dortmund,3–0,Paderborn 07,80667,Signal Iduna Park,Felix Brych,/en/matches/b1aaeedc/Dortmund-Paderborn-07-April-18-2015-Bundesliga,,b1aaeedc
+Regular season,29,Sat,2015-04-18,15:30,Freiburg,2–3,Mainz 05,24000,Schwarzwald-Stadion,Sascha Stegemann,/en/matches/f781f5cb/Freiburg-Mainz-05-April-18-2015-Bundesliga,,f781f5cb
+Regular season,29,Sat,2015-04-18,15:30,Hertha BSC,0–0,Köln,51203,Olympiastadion Berlin,Knut Kircher,/en/matches/52d82293/Hertha-BSC-Koln-April-18-2015-Bundesliga,,52d82293
+Regular season,29,Sat,2015-04-18,15:30,Hoffenheim,0–2,Bayern Munich,30150,PreZero Arena,Tobias Stieler,/en/matches/b24e804a/Hoffenheim-Bayern-Munich-April-18-2015-Bundesliga,,b24e804a
+Regular season,29,Sat,2015-04-18,15:30,Leverkusen,4–0,Hannover 96,29482,BayArena,Daniel Siebert,/en/matches/2f41eb20/Bayer-Leverkusen-Hannover-96-April-18-2015-Bundesliga,,2f41eb20
+Regular season,29,Sun,2015-04-19,15:30,Werder Bremen,1–0,Hamburger SV,42100,Weserstadion,Wolfgang Stark,/en/matches/b014f678/Werder-Bremen-Hamburger-SV-April-19-2015-Bundesliga,,b014f678
+Regular season,29,Sun,2015-04-19,17:30,Wolfsburg,1–1,Schalke 04,30000,Volkswagen Arena,Christian Dingert,/en/matches/45cd8641/Wolfsburg-Schalke-04-April-19-2015-Bundesliga,,45cd8641
+Regular season,30,Fri,2015-04-24,20:30,Mainz 05,2–0,Schalke 04,34000,Opel Arena,Robert Hartmann,/en/matches/144945ab/Mainz-05-Schalke-04-April-24-2015-Bundesliga,,144945ab
+Regular season,30,Sat,2015-04-25,18:30,Bayern Munich,1–0,Hertha BSC,75000,Allianz Arena,Guido Winkmann,/en/matches/92032582/Bayern-Munich-Hertha-BSC-April-25-2015-Bundesliga,,92032582
+Regular season,30,Sat,2015-04-25,15:30,Dortmund,2–0,Eint Frankfurt,80667,Signal Iduna Park,Michael Weiner,/en/matches/be912c01/Dortmund-Eintracht-Frankfurt-April-25-2015-Bundesliga,,be912c01
+Regular season,30,Sat,2015-04-25,15:30,Hamburger SV,3–2,Augsburg,51321,Volksparkstadion,Tobias Welz,/en/matches/7e041eb9/Hamburger-SV-Augsburg-April-25-2015-Bundesliga,,7e041eb9
+Regular season,30,Sat,2015-04-25,15:30,Hannover 96,1–2,Hoffenheim,46200,HDI-Arena,Günter Perl,/en/matches/68e62ae8/Hannover-96-Hoffenheim-April-25-2015-Bundesliga,,68e62ae8
+Regular season,30,Sat,2015-04-25,15:30,Köln,1–1,Leverkusen,45600,RheinEnergieSTADION,Deniz Aytekin,/en/matches/000bdcb3/Koln-Bayer-Leverkusen-April-25-2015-Bundesliga,,000bdcb3
+Regular season,30,Sat,2015-04-25,15:30,Stuttgart,2–2,Freiburg,58000,Mercedes-Benz Arena,Wolfgang Stark,/en/matches/ff532c53/Stuttgart-Freiburg-April-25-2015-Bundesliga,,ff532c53
+Regular season,30,Sun,2015-04-26,17:30,M'Gladbach,1–0,Wolfsburg,52147,Stadion im Borussia-Park,Bastian Dankert,/en/matches/5a4b4f30/Monchengladbach-Wolfsburg-April-26-2015-Bundesliga,,5a4b4f30
+Regular season,30,Sun,2015-04-26,15:30,Paderborn 07,2–2,Werder Bremen,15000,Benteler-Arena,Florian Meyer,/en/matches/4404566b/Paderborn-07-Werder-Bremen-April-26-2015-Bundesliga,,4404566b
+Regular season,31,Sat,2015-05-02,15:30,Augsburg,0–0,Köln,29185,WWK Arena,Marco Fritz,/en/matches/4ad918db/Augsburg-Koln-May-2-2015-Bundesliga,,4ad918db
+Regular season,31,Sat,2015-05-02,15:30,Freiburg,1–2,Paderborn 07,24000,Schwarzwald-Stadion,Manuel Gräfe,/en/matches/74925cae/Freiburg-Paderborn-07-May-2-2015-Bundesliga,,74925cae
+Regular season,31,Sat,2015-05-02,15:30,Hoffenheim,1–1,Dortmund,30150,PreZero Arena,Jochen Drees,/en/matches/cc3070e7/Hoffenheim-Dortmund-May-2-2015-Bundesliga,,cc3070e7
+Regular season,31,Sat,2015-05-02,18:30,Leverkusen,2–0,Bayern Munich,30210,BayArena,Christian Dingert,/en/matches/44a13859/Bayer-Leverkusen-Bayern-Munich-May-2-2015-Bundesliga,,44a13859
+Regular season,31,Sat,2015-05-02,15:30,Schalke 04,3–2,Stuttgart,61973,Veltins-Arena,Felix Zwayer,/en/matches/c4c2a7b0/Schalke-04-Stuttgart-May-2-2015-Bundesliga,,c4c2a7b0
+Regular season,31,Sat,2015-05-02,15:30,Werder Bremen,1–0,Eint Frankfurt,42100,Weserstadion,Robert Hartmann,/en/matches/94eaec49/Werder-Bremen-Eintracht-Frankfurt-May-2-2015-Bundesliga,,94eaec49
+Regular season,31,Sat,2015-05-02,15:30,Wolfsburg,2–2,Hannover 96,29514,Volkswagen Arena,Felix Brych,/en/matches/55563688/Wolfsburg-Hannover-96-May-2-2015-Bundesliga,,55563688
+Regular season,31,Sun,2015-05-03,17:30,Hertha BSC,1–2,M'Gladbach,56881,Olympiastadion Berlin,Thorsten Kinhöfer,/en/matches/79efa5e9/Hertha-BSC-Monchengladbach-May-3-2015-Bundesliga,,79efa5e9
+Regular season,31,Sun,2015-05-03,15:30,Mainz 05,1–2,Hamburger SV,34000,Opel Arena,Peter Sippel,/en/matches/70754afd/Mainz-05-Hamburger-SV-May-3-2015-Bundesliga,,70754afd
+Regular season,32,Fri,2015-05-08,20:30,Hamburger SV,1–1,Freiburg,57000,Volksparkstadion,Knut Kircher,/en/matches/41b6dfa6/Hamburger-SV-Freiburg-May-8-2015-Bundesliga,,41b6dfa6
+Regular season,32,Sat,2015-05-09,15:30,Bayern Munich,0–1,Augsburg,75000,Allianz Arena,Sascha Stegemann,/en/matches/275ebc72/Bayern-Munich-Augsburg-May-9-2015-Bundesliga,,275ebc72
+Regular season,32,Sat,2015-05-09,15:30,Dortmund,2–0,Hertha BSC,80667,Signal Iduna Park,Tobias Stieler,/en/matches/079747db/Dortmund-Hertha-BSC-May-9-2015-Bundesliga,,079747db
+Regular season,32,Sat,2015-05-09,15:30,Eint Frankfurt,3–1,Hoffenheim,50600,Commerzbank-Arena,Daniel Siebert,/en/matches/e64cbfba/Eintracht-Frankfurt-Hoffenheim-May-9-2015-Bundesliga,,e64cbfba
+Regular season,32,Sat,2015-05-09,15:30,Hannover 96,1–1,Werder Bremen,49000,HDI-Arena,Deniz Aytekin,/en/matches/61ad9776/Hannover-96-Werder-Bremen-May-9-2015-Bundesliga,,61ad9776
+Regular season,32,Sat,2015-05-09,15:30,M'Gladbach,3–0,Leverkusen,53761,Stadion im Borussia-Park,Peter Gagelmann,/en/matches/2b15b800/Monchengladbach-Bayer-Leverkusen-May-9-2015-Bundesliga,,2b15b800
+Regular season,32,Sat,2015-05-09,18:30,Stuttgart,2–0,Mainz 05,54300,Mercedes-Benz Arena,Michael Weiner,/en/matches/b12f6b88/Stuttgart-Mainz-05-May-9-2015-Bundesliga,,b12f6b88
+Regular season,32,Sun,2015-05-10,17:30,Köln,2–0,Schalke 04,46500,RheinEnergieSTADION,Wolfgang Stark,/en/matches/d772bf8b/Koln-Schalke-04-May-10-2015-Bundesliga,,d772bf8b
+Regular season,32,Sun,2015-05-10,15:30,Paderborn 07,1–3,Wolfsburg,14659,Benteler-Arena,Markus Schmidt,/en/matches/33dc63a0/Paderborn-07-Wolfsburg-May-10-2015-Bundesliga,,33dc63a0
+Regular season,33,Sat,2015-05-16,15:30,Augsburg,1–2,Hannover 96,29899,WWK Arena,Felix Zwayer,/en/matches/095b0aea/Augsburg-Hannover-96-May-16-2015-Bundesliga,,095b0aea
+Regular season,33,Sat,2015-05-16,15:30,Freiburg,2–1,Bayern Munich,24000,Schwarzwald-Stadion,Tobias Welz,/en/matches/5f065490/Freiburg-Bayern-Munich-May-16-2015-Bundesliga,,5f065490
+Regular season,33,Sat,2015-05-16,15:30,Hertha BSC,0–0,Eint Frankfurt,60168,Olympiastadion Berlin,Florian Meyer,/en/matches/9d011cd8/Hertha-BSC-Eintracht-Frankfurt-May-16-2015-Bundesliga,,9d011cd8
+Regular season,33,Sat,2015-05-16,15:30,Leverkusen,2–0,Hoffenheim,29072,BayArena,Robert Hartmann,/en/matches/f7d00531/Bayer-Leverkusen-Hoffenheim-May-16-2015-Bundesliga,,f7d00531
+Regular season,33,Sat,2015-05-16,15:30,Mainz 05,2–0,Köln,33702,Opel Arena,Günter Perl,/en/matches/620815ce/Mainz-05-Koln-May-16-2015-Bundesliga,,620815ce
+Regular season,33,Sat,2015-05-16,15:30,Schalke 04,1–0,Paderborn 07,61973,Veltins-Arena,Bastian Dankert,/en/matches/21085204/Schalke-04-Paderborn-07-May-16-2015-Bundesliga,,21085204
+Regular season,33,Sat,2015-05-16,15:30,Stuttgart,2–1,Hamburger SV,60000,Mercedes-Benz Arena,Manuel Gräfe,/en/matches/d2d96d0a/Stuttgart-Hamburger-SV-May-16-2015-Bundesliga,,d2d96d0a
+Regular season,33,Sat,2015-05-16,15:30,Werder Bremen,0–2,M'Gladbach,42100,Weserstadion,Christian Dingert,/en/matches/4e078c9e/Werder-Bremen-Monchengladbach-May-16-2015-Bundesliga,,4e078c9e
+Regular season,33,Sat,2015-05-16,15:30,Wolfsburg,2–1,Dortmund,30000,Volkswagen Arena,Marco Fritz,/en/matches/b5435213/Wolfsburg-Dortmund-May-16-2015-Bundesliga,,b5435213
+Regular season,34,Sat,2015-05-23,15:30,Bayern Munich,2–0,Mainz 05,75000,Allianz Arena,Thorsten Kinhöfer,/en/matches/735e992c/Bayern-Munich-Mainz-05-May-23-2015-Bundesliga,,735e992c
+Regular season,34,Sat,2015-05-23,15:30,Dortmund,3–2,Werder Bremen,80667,Signal Iduna Park,Manuel Gräfe,/en/matches/e7ff37af/Dortmund-Werder-Bremen-May-23-2015-Bundesliga,,e7ff37af
+Regular season,34,Sat,2015-05-23,15:30,Eint Frankfurt,2–1,Leverkusen,51500,Commerzbank-Arena,Guido Winkmann,/en/matches/ce239c08/Eintracht-Frankfurt-Bayer-Leverkusen-May-23-2015-Bundesliga,,ce239c08
+Regular season,34,Sat,2015-05-23,15:30,Hamburger SV,2–0,Schalke 04,57000,Volksparkstadion,Tobias Welz,/en/matches/b6e95e42/Hamburger-SV-Schalke-04-May-23-2015-Bundesliga,,b6e95e42
+Regular season,34,Sat,2015-05-23,15:30,Hannover 96,2–1,Freiburg,49000,HDI-Arena,Wolfgang Stark,/en/matches/95c994ea/Hannover-96-Freiburg-May-23-2015-Bundesliga,,95c994ea
+Regular season,34,Sat,2015-05-23,15:30,Hoffenheim,2–1,Hertha BSC,30150,PreZero Arena,Knut Kircher,/en/matches/e83e0f0c/Hoffenheim-Hertha-BSC-May-23-2015-Bundesliga,,e83e0f0c
+Regular season,34,Sat,2015-05-23,15:30,Köln,2–2,Wolfsburg,49200,RheinEnergieSTADION,Peter Gagelmann,/en/matches/c7541138/Koln-Wolfsburg-May-23-2015-Bundesliga,,c7541138
+Regular season,34,Sat,2015-05-23,15:30,M'Gladbach,1–3,Augsburg,54010,Stadion im Borussia-Park,Michael Weiner,/en/matches/9654ef7b/Monchengladbach-Augsburg-May-23-2015-Bundesliga,,9654ef7b
+Regular season,34,Sat,2015-05-23,15:30,Paderborn 07,1–2,Stuttgart,15000,Benteler-Arena,Deniz Aytekin,/en/matches/da6df338/Paderborn-07-Stuttgart-May-23-2015-Bundesliga,,da6df338
+German 1/2 Relegation/Promotion Playoffs,,Thu,2015-05-28,20:30,Hamburger SV,1–1,Karlsruher,56615,Volksparkstadion,,/en/matches/7f6215b7/Hamburger-SV-Karlsruher-May-28-2015-German-12-RelegationPromotion-Play-offs,Leg 1 of 2,7f6215b7
+German 1/2 Relegation/Promotion Playoffs,,Mon,2015-06-01,19:00,Karlsruher,1–2,Hamburger SV,27986,Wildparkstadion,,/en/matches/bd6666c5/Karlsruher-Hamburger-SV-June-1-2015-German-12-RelegationPromotion-Play-offs,Leg 2 of 2; Hamburger SV won; Required Extra Time,bd6666c5

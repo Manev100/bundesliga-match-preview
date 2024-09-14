@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,2006-08-11,,Bayern Munich,2–0,Dortmund,,,Knut Kircher,/en/matches/509a13db/Der-Klassiker-Bayern-Munich-Dortmund-August-11-2006-Bundesliga,,509a13db
+1,Sat,2006-08-12,,Hamburger SV,1–1,Arminia,,,Helmut Fleischer,/en/matches/70f8671c/Hamburger-SV-Arminia-August-12-2006-Bundesliga,,70f8671c
+1,Sat,2006-08-12,,Leverkusen,3–0,AA Aachen,,,Peter Sippel,/en/matches/487cce5d/Bayer-Leverkusen-Alemannia-Aachen-August-12-2006-Bundesliga,,487cce5d
+1,Sat,2006-08-12,,M'Gladbach,2–0,Energie Cottbus,,,Peter Gagelmann,/en/matches/1faac84f/Monchengladbach-Energie-Cottbus-August-12-2006-Bundesliga,,1faac84f
+1,Sat,2006-08-12,,Mainz 05,2–1,Bochum,,,Michael Weiner,/en/matches/f8c35500/Mainz-05-Bochum-August-12-2006-Bundesliga,,f8c35500
+1,Sat,2006-08-12,,Schalke 04,1–1,Eint Frankfurt,,,Wolfgang Stark,/en/matches/67ebe614/Schalke-04-Eintracht-Frankfurt-August-12-2006-Bundesliga,,67ebe614
+1,Sat,2006-08-12,,Stuttgart,0–3,Nürnberg,,,Florian Meyer,/en/matches/571d883f/Stuttgart-Nurnberg-August-12-2006-Bundesliga,,571d883f
+1,Sun,2006-08-13,,Hannover 96,2–4,Werder Bremen,,,Franz-Xaver Wack,/en/matches/2555a19b/Hannover-96-Werder-Bremen-August-13-2006-Bundesliga,,2555a19b
+1,Sun,2006-08-13,,Wolfsburg,0–0,Hertha BSC,,,Thorsten Kinhöfer,/en/matches/a67d19c8/Wolfsburg-Hertha-BSC-August-13-2006-Bundesliga,,a67d19c8
+2,Fri,2006-08-18,,Nürnberg,1–0,M'Gladbach,,,Lutz Wagner,/en/matches/22681161/Nurnberg-Monchengladbach-August-18-2006-Bundesliga,,22681161
+2,Sat,2006-08-19,,AA Aachen,0–1,Schalke 04,,,Herbert Fandel,/en/matches/91ba0e8d/Alemannia-Aachen-Schalke-04-August-19-2006-Bundesliga,,91ba0e8d
+2,Sat,2006-08-19,,Dortmund,1–1,Mainz 05,,,Felix Brych,/en/matches/9fff1627/Dortmund-Mainz-05-August-19-2006-Bundesliga,,9fff1627
+2,Sat,2006-08-19,,Eint Frankfurt,0–0,Wolfsburg,,,Markus Schmidt,/en/matches/2cba5bee/Eintracht-Frankfurt-Wolfsburg-August-19-2006-Bundesliga,,2cba5bee
+2,Sat,2006-08-19,,Energie Cottbus,2–2,Hamburger SV,,,Günter Perl,/en/matches/84cab467/Energie-Cottbus-Hamburger-SV-August-19-2006-Bundesliga,,84cab467
+2,Sat,2006-08-19,,Hertha BSC,4–0,Hannover 96,,,Jochen Drees,/en/matches/5f969f8d/Hertha-BSC-Hannover-96-August-19-2006-Bundesliga,,5f969f8d
+2,Sat,2006-08-19,,Werder Bremen,2–1,Leverkusen,,,Wolfgang Stark,/en/matches/10db1b3a/Werder-Bremen-Bayer-Leverkusen-August-19-2006-Bundesliga,,10db1b3a
+2,Sun,2006-08-20,,Arminia,2–3,Stuttgart,,,Manuel Gräfe,/en/matches/8347238a/Arminia-Stuttgart-August-20-2006-Bundesliga,,8347238a
+2,Sun,2006-08-20,,Bochum,1–2,Bayern Munich,,,Babak Rafati,/en/matches/4c6d9d60/Bochum-Bayern-Munich-August-20-2006-Bundesliga,,4c6d9d60
+3,Fri,2006-08-25,,Schalke 04,2–0,Werder Bremen,,,Knut Kircher,/en/matches/853c6ffb/Schalke-04-Werder-Bremen-August-25-2006-Bundesliga,,853c6ffb
+3,Sat,2006-08-26,,Bayern Munich,0–0,Nürnberg,,,Thorsten Kinhöfer,/en/matches/bc30b416/Bayern-Munich-Nurnberg-August-26-2006-Bundesliga,,bc30b416
+3,Sat,2006-08-26,,Bochum,0–1,Energie Cottbus,,,Michael Kempter,/en/matches/544ba4f0/Bochum-Energie-Cottbus-August-26-2006-Bundesliga,,544ba4f0
+3,Sat,2006-08-26,,Hannover 96,0–3,AA Aachen,,,Peter Gagelmann,/en/matches/0c2a74a3/Hannover-96-Alemannia-Aachen-August-26-2006-Bundesliga,,0c2a74a3
+3,Sat,2006-08-26,,Leverkusen,1–1,Wolfsburg,,,Helmut Fleischer,/en/matches/9f848655/Bayer-Leverkusen-Wolfsburg-August-26-2006-Bundesliga,,9f848655
+3,Sat,2006-08-26,,M'Gladbach,1–0,Arminia,,,Wolfgang Stark,/en/matches/e198d098/Monchengladbach-Arminia-August-26-2006-Bundesliga,,e198d098
+3,Sat,2006-08-26,,Stuttgart,1–3,Dortmund,,,Franz-Xaver Wack,/en/matches/0f120196/Stuttgart-Dortmund-August-26-2006-Bundesliga,,0f120196
+3,Sun,2006-08-27,,Hamburger SV,1–1,Hertha BSC,,,Herbert Fandel,/en/matches/d45d2c05/Hamburger-SV-Hertha-BSC-August-27-2006-Bundesliga,,d45d2c05
+3,Sun,2006-08-27,,Mainz 05,1–1,Eint Frankfurt,,,Florian Meyer,/en/matches/66214b17/Mainz-05-Eintracht-Frankfurt-August-27-2006-Bundesliga,,66214b17
+4,Fri,2006-09-15,,Wolfsburg,1–2,Hannover 96,,,Felix Brych,/en/matches/4e168c94/Wolfsburg-Hannover-96-September-15-2006-Bundesliga,,4e168c94
+4,Sat,2006-09-16,,AA Aachen,4–2,M'Gladbach,,,Michael Weiner,/en/matches/71705151/Alemannia-Aachen-Monchengladbach-September-16-2006-Bundesliga,,71705151
+4,Sat,2006-09-16,,Arminia,2–1,Bayern Munich,,,Florian Meyer,/en/matches/b254598b/Arminia-Bayern-Munich-September-16-2006-Bundesliga,,b254598b
+4,Sat,2006-09-16,,Dortmund,1–0,Hamburger SV,,,Lutz Wagner,/en/matches/54034597/Dortmund-Hamburger-SV-September-16-2006-Bundesliga,,54034597
+4,Sat,2006-09-16,,Energie Cottbus,2–0,Mainz 05,,,Babak Rafati,/en/matches/27d4b0ec/Energie-Cottbus-Mainz-05-September-16-2006-Bundesliga,,27d4b0ec
+4,Sat,2006-09-16,,Nürnberg,1–1,Bochum,,,Manuel Gräfe,/en/matches/f88579b3/Nurnberg-Bochum-September-16-2006-Bundesliga,,f88579b3
+4,Sat,2006-09-16,,Werder Bremen,2–3,Stuttgart,,,Markus Merk,/en/matches/44b3039b/Werder-Bremen-Stuttgart-September-16-2006-Bundesliga,,44b3039b
+4,Sun,2006-09-17,,Eint Frankfurt,3–1,Leverkusen,,,Herbert Fandel,/en/matches/f5eda404/Eintracht-Frankfurt-Bayer-Leverkusen-September-17-2006-Bundesliga,,f5eda404
+4,Sun,2006-09-17,,Hertha BSC,2–0,Schalke 04,,,Peter Gagelmann,/en/matches/9b0d8709/Hertha-BSC-Schalke-04-September-17-2006-Bundesliga,,9b0d8709
+5,Fri,2006-09-22,,M'Gladbach,1–0,Dortmund,,,Herbert Fandel,/en/matches/fd6aa1b2/Monchengladbach-Dortmund-September-22-2006-Bundesliga,,fd6aa1b2
+5,Sat,2006-09-23,,Bayern Munich,2–1,AA Aachen,,,Markus Schmidt,/en/matches/7682210a/Bayern-Munich-Alemannia-Aachen-September-23-2006-Bundesliga,,7682210a
+5,Sat,2006-09-23,,Hamburger SV,1–1,Werder Bremen,,,Wolfgang Stark,/en/matches/c162caa2/Hamburger-SV-Werder-Bremen-September-23-2006-Bundesliga,,c162caa2
+5,Sat,2006-09-23,,Hannover 96,1–1,Leverkusen,,,Markus Merk,/en/matches/11e311a6/Hannover-96-Bayer-Leverkusen-September-23-2006-Bundesliga,,11e311a6
+5,Sat,2006-09-23,,Mainz 05,1–1,Hertha BSC,,,Knut Kircher,/en/matches/40eb2973/Mainz-05-Hertha-BSC-September-23-2006-Bundesliga,,40eb2973
+5,Sat,2006-09-23,,Schalke 04,2–0,Wolfsburg,,,Manuel Gräfe,/en/matches/916e9e84/Schalke-04-Wolfsburg-September-23-2006-Bundesliga,,916e9e84
+5,Sat,2006-09-23,,Stuttgart,1–1,Eint Frankfurt,,,Babak Rafati,/en/matches/a1b8609e/Stuttgart-Eintracht-Frankfurt-September-23-2006-Bundesliga,,a1b8609e
+5,Sun,2006-09-24,,Bochum,2–1,Arminia,,,Günter Perl,/en/matches/e9ad499d/Bochum-Arminia-September-24-2006-Bundesliga,,e9ad499d
+5,Sun,2006-09-24,,Energie Cottbus,1–1,Nürnberg,,,Michael Weiner,/en/matches/66a5502f/Energie-Cottbus-Nurnberg-September-24-2006-Bundesliga,,66a5502f
+6,Fri,2006-09-29,,Dortmund,2–2,Hannover 96,,,Wolfgang Stark,/en/matches/18fee2fe/Dortmund-Hannover-96-September-29-2006-Bundesliga,,18fee2fe
+6,Sat,2006-09-30,,AA Aachen,2–1,Bochum,,,Lutz Wagner,/en/matches/48f886ba/Alemannia-Aachen-Bochum-September-30-2006-Bundesliga,,48f886ba
+6,Sat,2006-09-30,,Arminia,3–1,Energie Cottbus,,,Jochen Drees,/en/matches/a8740f79/Arminia-Energie-Cottbus-September-30-2006-Bundesliga,,a8740f79
+6,Sat,2006-09-30,,Eint Frankfurt,2–2,Hamburger SV,,,Helmut Fleischer,/en/matches/b199f310/Eintracht-Frankfurt-Hamburger-SV-September-30-2006-Bundesliga,,b199f310
+6,Sat,2006-09-30,,Nürnberg,1–1,Mainz 05,,,Marc Seemann,/en/matches/3fcb6017/Nurnberg-Mainz-05-September-30-2006-Bundesliga,,3fcb6017
+6,Sat,2006-09-30,,Werder Bremen,3–0,M'Gladbach,,,Florian Meyer,/en/matches/1fac9410/Werder-Bremen-Monchengladbach-September-30-2006-Bundesliga,,1fac9410
+6,Sat,2006-09-30,,Wolfsburg,1–0,Bayern Munich,,,Markus Merk,/en/matches/e9379a88/Wolfsburg-Bayern-Munich-September-30-2006-Bundesliga,,e9379a88
+6,Sun,2006-10-01,,Hertha BSC,2–2,Stuttgart,,,Thorsten Kinhöfer,/en/matches/da06642c/Hertha-BSC-Stuttgart-October-1-2006-Bundesliga,,da06642c
+6,Sun,2006-10-01,,Leverkusen,3–1,Schalke 04,,,Franz-Xaver Wack,/en/matches/6c07bb21/Bayer-Leverkusen-Schalke-04-October-1-2006-Bundesliga,,6c07bb21
+7,Fri,2006-10-13,,Mainz 05,1–3,AA Aachen,,,Manuel Gräfe,/en/matches/9b9ffba9/Mainz-05-Alemannia-Aachen-October-13-2006-Bundesliga,,9b9ffba9
+7,Sat,2006-10-14,,Bayern Munich,4–2,Hertha BSC,,,Babak Rafati,/en/matches/a1f75d0a/Bayern-Munich-Hertha-BSC-October-14-2006-Bundesliga,,a1f75d0a
+7,Sat,2006-10-14,,Bochum,0–6,Werder Bremen,,,Michael Weiner,/en/matches/41c6b5c0/Bochum-Werder-Bremen-October-14-2006-Bundesliga,,41c6b5c0
+7,Sat,2006-10-14,,Hamburger SV,1–2,Schalke 04,,,Felix Brych,/en/matches/9d93b973/Hamburger-SV-Schalke-04-October-14-2006-Bundesliga,,9d93b973
+7,Sat,2006-10-14,,Hannover 96,1–1,Eint Frankfurt,,,Peter Sippel,/en/matches/b6426d30/Hannover-96-Eintracht-Frankfurt-October-14-2006-Bundesliga,,b6426d30
+7,Sat,2006-10-14,,M'Gladbach,3–1,Wolfsburg,,,Günter Perl,/en/matches/deffc64b/Monchengladbach-Wolfsburg-October-14-2006-Bundesliga,,deffc64b
+7,Sat,2006-10-14,,Stuttgart,3–0,Leverkusen,,,Peter Gagelmann,/en/matches/206c52c1/Stuttgart-Bayer-Leverkusen-October-14-2006-Bundesliga,,206c52c1
+7,Sun,2006-10-15,,Energie Cottbus,2–3,Dortmund,,,Florian Meyer,/en/matches/8c2db866/Energie-Cottbus-Dortmund-October-15-2006-Bundesliga,,8c2db866
+7,Sun,2006-10-15,,Nürnberg,1–1,Arminia,,,Markus Merk,/en/matches/eef9f1df/Nurnberg-Arminia-October-15-2006-Bundesliga,,eef9f1df
+8,Fri,2006-10-20,,Dortmund,1–1,Bochum,,,Peter Sippel,/en/matches/248eef1f/Dortmund-Bochum-October-20-2006-Bundesliga,,248eef1f
+8,Sat,2006-10-21,,AA Aachen,1–2,Energie Cottbus,,,Franz-Xaver Wack,/en/matches/e3b50cb7/Alemannia-Aachen-Energie-Cottbus-October-21-2006-Bundesliga,,e3b50cb7
+8,Sat,2006-10-21,,Arminia,1–0,Mainz 05,,,Wolfgang Stark,/en/matches/8b5d9e4e/Arminia-Mainz-05-October-21-2006-Bundesliga,,8b5d9e4e
+8,Sat,2006-10-21,,Hertha BSC,2–1,M'Gladbach,,,Markus Merk,/en/matches/f659940d/Hertha-BSC-Monchengladbach-October-21-2006-Bundesliga,,f659940d
+8,Sat,2006-10-21,,Schalke 04,2–1,Hannover 96,,,Helmut Fleischer,/en/matches/b4e84e3e/Schalke-04-Hannover-96-October-21-2006-Bundesliga,,b4e84e3e
+8,Sat,2006-10-21,,Werder Bremen,3–1,Bayern Munich,,,Herbert Fandel,/en/matches/cd6ca27c/Werder-Bremen-Bayern-Munich-October-21-2006-Bundesliga,,cd6ca27c
+8,Sat,2006-10-21,,Wolfsburg,1–1,Stuttgart,,,Lutz Wagner,/en/matches/25ce343d/Wolfsburg-Stuttgart-October-21-2006-Bundesliga,,25ce343d
+8,Sun,2006-10-22,,Eint Frankfurt,2–2,Nürnberg,,,Knut Kircher,/en/matches/b4bdceb3/Eintracht-Frankfurt-Nurnberg-October-22-2006-Bundesliga,,b4bdceb3
+8,Sun,2006-10-22,,Leverkusen,1–2,Hamburger SV,,,Jochen Drees,/en/matches/c254a858/Bayer-Leverkusen-Hamburger-SV-October-22-2006-Bundesliga,,c254a858
+9,Fri,2006-10-27,,Mainz 05,1–6,Werder Bremen,,,Thorsten Kinhöfer,/en/matches/a8230076/Mainz-05-Werder-Bremen-October-27-2006-Bundesliga,,a8230076
+9,Sat,2006-10-28,,Bayern Munich,2–0,Eint Frankfurt,,,Florian Meyer,/en/matches/cabe3cc4/Bayern-Munich-Eintracht-Frankfurt-October-28-2006-Bundesliga,,cabe3cc4
+9,Sat,2006-10-28,,Bochum,0–1,Wolfsburg,,,Helmut Fleischer,/en/matches/77494ef3/Bochum-Wolfsburg-October-28-2006-Bundesliga,,77494ef3
+9,Sat,2006-10-28,,Energie Cottbus,2–0,Hertha BSC,,,Lutz Wagner,/en/matches/ef67f0c9/Energie-Cottbus-Hertha-BSC-October-28-2006-Bundesliga,,ef67f0c9
+9,Sat,2006-10-28,,Hamburger SV,0–0,Hannover 96,,,Knut Kircher,/en/matches/a9d5846c/Hamburger-SV-Hannover-96-October-28-2006-Bundesliga,,a9d5846c
+9,Sat,2006-10-28,,M'Gladbach,0–2,Leverkusen,,,Felix Brych,/en/matches/31bd3db7/Monchengladbach-Bayer-Leverkusen-October-28-2006-Bundesliga,,31bd3db7
+9,Sat,2006-10-28,,Nürnberg,1–1,Dortmund,,,Peter Gagelmann,/en/matches/5451388d/Nurnberg-Dortmund-October-28-2006-Bundesliga,,5451388d
+9,Sun,2006-10-29,,Arminia,5–1,AA Aachen,,,Babak Rafati,/en/matches/3e883a5c/Arminia-Alemannia-Aachen-October-29-2006-Bundesliga,,3e883a5c
+9,Sun,2006-10-29,,Stuttgart,3–0,Schalke 04,,,Wolfgang Stark,/en/matches/9ae15a8c/Stuttgart-Schalke-04-October-29-2006-Bundesliga,,9ae15a8c
+10,Fri,2006-11-03,,Hannover 96,0–2,Bochum,,,Markus Schmidt,/en/matches/53f4ec55/Hannover-96-Bochum-November-3-2006-Bundesliga,,53f4ec55
+10,Sat,2006-11-04,,AA Aachen,2–4,Stuttgart,,,Felix Brych,/en/matches/09ff4f75/Alemannia-Aachen-Stuttgart-November-4-2006-Bundesliga,,09ff4f75
+10,Sat,2006-11-04,,Dortmund,1–1,Arminia,,,Günter Perl,/en/matches/e48377f3/Dortmund-Arminia-November-4-2006-Bundesliga,,e48377f3
+10,Sat,2006-11-04,,Hertha BSC,2–1,Nürnberg,,,Florian Meyer,/en/matches/b3bf6bb7/Hertha-BSC-Nurnberg-November-4-2006-Bundesliga,,b3bf6bb7
+10,Sat,2006-11-04,,Leverkusen,1–1,Mainz 05,,,Michael Weiner,/en/matches/f34be324/Bayer-Leverkusen-Mainz-05-November-4-2006-Bundesliga,,f34be324
+10,Sat,2006-11-04,,Werder Bremen,1–1,Energie Cottbus,,,Babak Rafati,/en/matches/fd343a1e/Werder-Bremen-Energie-Cottbus-November-4-2006-Bundesliga,,fd343a1e
+10,Sat,2006-11-04,,Wolfsburg,1–0,Hamburger SV,,,Markus Merk,/en/matches/e2c2573d/Wolfsburg-Hamburger-SV-November-4-2006-Bundesliga,,e2c2573d
+10,Sun,2006-11-05,,Eint Frankfurt,1–0,M'Gladbach,,,Franz-Xaver Wack,/en/matches/7b086ea4/Eintracht-Frankfurt-Monchengladbach-November-5-2006-Bundesliga,,7b086ea4
+10,Sun,2006-11-05,,Schalke 04,2–2,Bayern Munich,,,Knut Kircher,/en/matches/e72100be/Schalke-04-Bayern-Munich-November-5-2006-Bundesliga,,e72100be
+11,Tue,2006-11-07,,Dortmund,0–0,AA Aachen,,,Wolfgang Stark,/en/matches/1518726f/Dortmund-Alemannia-Aachen-November-7-2006-Bundesliga,,1518726f
+11,Tue,2006-11-07,,Mainz 05,1–2,Wolfsburg,,,Peter Gagelmann,/en/matches/2b108380/Mainz-05-Wolfsburg-November-7-2006-Bundesliga,,2b108380
+11,Tue,2006-11-07,,Nürnberg,1–2,Werder Bremen,,,Manuel Gräfe,/en/matches/9c1e3ba6/Nurnberg-Werder-Bremen-November-7-2006-Bundesliga,,9c1e3ba6
+11,Tue,2006-11-07,,Stuttgart,2–0,Hamburger SV,,,Herbert Fandel,/en/matches/0ebf427a/Stuttgart-Hamburger-SV-November-7-2006-Bundesliga,,0ebf427a
+11,Wed,2006-11-08,,Arminia,2–2,Hertha BSC,,,Michael Kempter,/en/matches/afab4e5a/Arminia-Hertha-BSC-November-8-2006-Bundesliga,,afab4e5a
+11,Wed,2006-11-08,,Bayern Munich,0–1,Hannover 96,,,Thorsten Kinhöfer,/en/matches/b4cd3cbd/Bayern-Munich-Hannover-96-November-8-2006-Bundesliga,,b4cd3cbd
+11,Wed,2006-11-08,,Bochum,1–3,Leverkusen,,,Lutz Wagner,/en/matches/9d7fc281/Bochum-Bayer-Leverkusen-November-8-2006-Bundesliga,,9d7fc281
+11,Wed,2006-11-08,,Energie Cottbus,0–1,Eint Frankfurt,,,Helmut Fleischer,/en/matches/67c1eb1c/Energie-Cottbus-Eintracht-Frankfurt-November-8-2006-Bundesliga,,67c1eb1c
+11,Wed,2006-11-08,,M'Gladbach,0–2,Schalke 04,,,Peter Sippel,/en/matches/edb53809/Monchengladbach-Schalke-04-November-8-2006-Bundesliga,,edb53809
+12,Fri,2006-11-10,,Werder Bremen,1–3,Dortmund,,,Franz-Xaver Wack,/en/matches/1fb4bcdd/Werder-Bremen-Dortmund-November-10-2006-Bundesliga,,1fb4bcdd
+12,Sat,2006-11-11,,Eint Frankfurt,0–3,Arminia,,,Michael Weiner,/en/matches/49cd51b6/Eintracht-Frankfurt-Arminia-November-11-2006-Bundesliga,,49cd51b6
+12,Sat,2006-11-11,,Hamburger SV,1–1,M'Gladbach,,,Florian Meyer,/en/matches/eac9c18a/Hamburger-SV-Monchengladbach-November-11-2006-Bundesliga,,eac9c18a
+12,Sat,2006-11-11,,Hertha BSC,3–3,Bochum,,,Felix Brych,/en/matches/7a7c7dc3/Hertha-BSC-Bochum-November-11-2006-Bundesliga,,7a7c7dc3
+12,Sat,2006-11-11,,Leverkusen,2–3,Bayern Munich,,,Markus Merk,/en/matches/038b3513/Bayer-Leverkusen-Bayern-Munich-November-11-2006-Bundesliga,,038b3513
+12,Sat,2006-11-11,,Schalke 04,4–0,Mainz 05,,,Günter Perl,/en/matches/79327a54/Schalke-04-Mainz-05-November-11-2006-Bundesliga,,79327a54
+12,Sat,2006-11-11,,Wolfsburg,0–0,Energie Cottbus,,,Marc Seemann,/en/matches/7ddf5ff7/Wolfsburg-Energie-Cottbus-November-11-2006-Bundesliga,,7ddf5ff7
+12,Sun,2006-11-12,,AA Aachen,1–1,Nürnberg,,,Babak Rafati,/en/matches/ca51b426/Alemannia-Aachen-Nurnberg-November-12-2006-Bundesliga,,ca51b426
+12,Sun,2006-11-12,,Hannover 96,1–2,Stuttgart,,,Jochen Drees,/en/matches/ecab60be/Hannover-96-Stuttgart-November-12-2006-Bundesliga,,ecab60be
+13,Fri,2006-11-17,,Bochum,4–3,Eint Frankfurt,,,Peter Gagelmann,/en/matches/a418124f/Bochum-Eintracht-Frankfurt-November-17-2006-Bundesliga,,a418124f
+13,Sat,2006-11-18,,AA Aachen,2–2,Werder Bremen,,,Markus Merk,/en/matches/9b9a37c5/Alemannia-Aachen-Werder-Bremen-November-18-2006-Bundesliga,,9b9a37c5
+13,Sat,2006-11-18,,Bayern Munich,2–1,Stuttgart,,,Michael Weiner,/en/matches/5f195073/Bayern-Munich-Stuttgart-November-18-2006-Bundesliga,,5f195073
+13,Sat,2006-11-18,,Dortmund,1–2,Hertha BSC,,,Knut Kircher,/en/matches/3bc1dc2a/Dortmund-Hertha-BSC-November-18-2006-Bundesliga,,3bc1dc2a
+13,Sat,2006-11-18,,Energie Cottbus,2–4,Schalke 04,,,Herbert Fandel,/en/matches/a1fffba2/Energie-Cottbus-Schalke-04-November-18-2006-Bundesliga,,a1fffba2
+13,Sat,2006-11-18,,Mainz 05,0–0,Hamburger SV,,,Helmut Fleischer,/en/matches/d8151bec/Mainz-05-Hamburger-SV-November-18-2006-Bundesliga,,d8151bec
+13,Sat,2006-11-18,,Nürnberg,3–2,Leverkusen,,,Markus Schmidt,/en/matches/ef49f7da/Nurnberg-Bayer-Leverkusen-November-18-2006-Bundesliga,,ef49f7da
+13,Sun,2006-11-19,,Arminia,0–0,Wolfsburg,,,Felix Brych,/en/matches/04880ed0/Arminia-Wolfsburg-November-19-2006-Bundesliga,,04880ed0
+13,Sun,2006-11-19,,M'Gladbach,0–1,Hannover 96,,,Wolfgang Stark,/en/matches/9db14acd/Monchengladbach-Hannover-96-November-19-2006-Bundesliga,,9db14acd
+14,Fri,2006-11-24,,Schalke 04,2–1,Bochum,,,Manuel Gräfe,/en/matches/b9500909/Schalke-04-Bochum-November-24-2006-Bundesliga,,b9500909
+14,Sat,2006-11-25,,Eint Frankfurt,1–1,Dortmund,,,Peter Sippel,/en/matches/e4e1d30e/Eintracht-Frankfurt-Dortmund-November-25-2006-Bundesliga,,e4e1d30e
+14,Sat,2006-11-25,,Hamburger SV,1–2,Bayern Munich,,,Thorsten Kinhöfer,/en/matches/da531991/Hamburger-SV-Bayern-Munich-November-25-2006-Bundesliga,,da531991
+14,Sat,2006-11-25,,Hannover 96,1–0,Mainz 05,,,Herbert Fandel,/en/matches/c237aa43/Hannover-96-Mainz-05-November-25-2006-Bundesliga,,c237aa43
+14,Sat,2006-11-25,,Hertha BSC,2–1,AA Aachen,,,Günter Perl,/en/matches/72ac8772/Hertha-BSC-Alemannia-Aachen-November-25-2006-Bundesliga,,72ac8772
+14,Sat,2006-11-25,,Werder Bremen,3–0,Arminia,,,Jochen Drees,/en/matches/74138275/Werder-Bremen-Arminia-November-25-2006-Bundesliga,,74138275
+14,Sat,2006-11-25,,Wolfsburg,1–1,Nürnberg,,,Lutz Wagner,/en/matches/dcd0d6c5/Wolfsburg-Nurnberg-November-25-2006-Bundesliga,,dcd0d6c5
+14,Sun,2006-11-26,,Leverkusen,3–1,Energie Cottbus,,,Wolfgang Stark,/en/matches/afcca805/Bayer-Leverkusen-Energie-Cottbus-November-26-2006-Bundesliga,,afcca805
+14,Sun,2006-11-26,,Stuttgart,1–0,M'Gladbach,,,Helmut Fleischer,/en/matches/967e09ad/Stuttgart-Monchengladbach-November-26-2006-Bundesliga,,967e09ad
+15,Fri,2006-12-01,,Mainz 05,0–0,Stuttgart,,,Babak Rafati,/en/matches/a73f6fab/Mainz-05-Stuttgart-December-1-2006-Bundesliga,,a73f6fab
+15,Sat,2006-12-02,,Arminia,0–0,Leverkusen,,,Knut Kircher,/en/matches/4d8498c7/Arminia-Bayer-Leverkusen-December-2-2006-Bundesliga,,4d8498c7
+15,Sat,2006-12-02,,Bayern Munich,1–1,M'Gladbach,,,Markus Merk,/en/matches/da73ce24/Bayern-Munich-Monchengladbach-December-2-2006-Bundesliga,,da73ce24
+15,Sat,2006-12-02,,Bochum,2–1,Hamburger SV,,,Wolfgang Stark,/en/matches/f2fc0b2e/Bochum-Hamburger-SV-December-2-2006-Bundesliga,,f2fc0b2e
+15,Sat,2006-12-02,,Dortmund,1–0,Wolfsburg,,,Peter Gagelmann,/en/matches/df41977d/Dortmund-Wolfsburg-December-2-2006-Bundesliga,,df41977d
+15,Sat,2006-12-02,,Energie Cottbus,0–1,Hannover 96,,,Manuel Gräfe,/en/matches/69d3e6d1/Energie-Cottbus-Hannover-96-December-2-2006-Bundesliga,,69d3e6d1
+15,Sat,2006-12-02,,Werder Bremen,3–1,Hertha BSC,,,Herbert Fandel,/en/matches/ee2ca030/Werder-Bremen-Hertha-BSC-December-2-2006-Bundesliga,,ee2ca030
+15,Sun,2006-12-03,,AA Aachen,2–3,Eint Frankfurt,,,Florian Meyer,/en/matches/ff3b14fe/Alemannia-Aachen-Eintracht-Frankfurt-December-3-2006-Bundesliga,,ff3b14fe
+15,Sun,2006-12-03,,Nürnberg,0–0,Schalke 04,,,Michael Weiner,/en/matches/57e5830d/Nurnberg-Schalke-04-December-3-2006-Bundesliga,,57e5830d
+16,Fri,2006-12-08,,Leverkusen,2–1,Hertha BSC,,,Felix Brych,/en/matches/644149d9/Bayer-Leverkusen-Hertha-BSC-December-8-2006-Bundesliga,,644149d9
+16,Sat,2006-12-09,,Bayern Munich,2–1,Energie Cottbus,,,Florian Meyer,/en/matches/3d9e3862/Bayern-Munich-Energie-Cottbus-December-9-2006-Bundesliga,,3d9e3862
+16,Sat,2006-12-09,,Eint Frankfurt,2–6,Werder Bremen,,,Thorsten Kinhöfer,/en/matches/58108fd4/Eintracht-Frankfurt-Werder-Bremen-December-9-2006-Bundesliga,,58108fd4
+16,Sat,2006-12-09,,Hamburger SV,0–0,Nürnberg,,,Herbert Fandel,/en/matches/f2d57360/Hamburger-SV-Nurnberg-December-9-2006-Bundesliga,,f2d57360
+16,Sat,2006-12-09,,Hannover 96,1–1,Arminia,,,Peter Sippel,/en/matches/971106b5/Hannover-96-Arminia-December-9-2006-Bundesliga,,971106b5
+16,Sat,2006-12-09,,M'Gladbach,1–1,Mainz 05,,,Markus Schmidt,/en/matches/80ca296c/Monchengladbach-Mainz-05-December-9-2006-Bundesliga,,80ca296c
+16,Sat,2006-12-09,,Stuttgart,1–0,Bochum,,,Markus Merk,/en/matches/5c2965fa/Stuttgart-Bochum-December-9-2006-Bundesliga,,5c2965fa
+16,Sun,2006-12-10,,Schalke 04,3–1,Dortmund,,,Wolfgang Stark,/en/matches/092eedcd/Revierderby-Schalke-04-Dortmund-December-10-2006-Bundesliga,,092eedcd
+16,Sun,2006-12-10,,Wolfsburg,1–2,AA Aachen,,,Michael Kempter,/en/matches/059ddd63/Wolfsburg-Alemannia-Aachen-December-10-2006-Bundesliga,,059ddd63
+17,Fri,2006-12-15,,Bochum,2–0,M'Gladbach,,,Günter Perl,/en/matches/61842e40/Bochum-Monchengladbach-December-15-2006-Bundesliga,,61842e40
+17,Sat,2006-12-16,,AA Aachen,3–3,Hamburger SV,,,Manuel Gräfe,/en/matches/05a89604/Alemannia-Aachen-Hamburger-SV-December-16-2006-Bundesliga,,05a89604
+17,Sat,2006-12-16,,Arminia,0–1,Schalke 04,,,Lutz Wagner,/en/matches/e1476566/Arminia-Schalke-04-December-16-2006-Bundesliga,,e1476566
+17,Sat,2006-12-16,,Energie Cottbus,0–0,Stuttgart,,,Felix Brych,/en/matches/dce615f7/Energie-Cottbus-Stuttgart-December-16-2006-Bundesliga,,dce615f7
+17,Sat,2006-12-16,,Hertha BSC,1–0,Eint Frankfurt,,,Marc Seemann,/en/matches/64f582ce/Hertha-BSC-Eintracht-Frankfurt-December-16-2006-Bundesliga,,64f582ce
+17,Sat,2006-12-16,,Mainz 05,0–4,Bayern Munich,,,Knut Kircher,/en/matches/65792ce1/Mainz-05-Bayern-Munich-December-16-2006-Bundesliga,,65792ce1
+17,Sat,2006-12-16,,Nürnberg,3–1,Hannover 96,,,Peter Gagelmann,/en/matches/99d27795/Nurnberg-Hannover-96-December-16-2006-Bundesliga,,99d27795
+17,Sun,2006-12-17,,Dortmund,1–2,Leverkusen,,,Markus Merk,/en/matches/61dc244a/Dortmund-Bayer-Leverkusen-December-17-2006-Bundesliga,,61dc244a
+17,Sun,2006-12-17,,Werder Bremen,2–1,Wolfsburg,,,Wolfgang Stark,/en/matches/b519c593/Werder-Bremen-Wolfsburg-December-17-2006-Bundesliga,,b519c593
+18,Fri,2007-01-26,,Dortmund,3–2,Bayern Munich,,,Manuel Gräfe,/en/matches/3a2d7f38/Der-Klassiker-Dortmund-Bayern-Munich-January-26-2007-Bundesliga,,3a2d7f38
+18,Sat,2007-01-27,,Arminia,1–1,Hamburger SV,,,Michael Weiner,/en/matches/d5e84ef3/Arminia-Hamburger-SV-January-27-2007-Bundesliga,,d5e84ef3
+18,Sat,2007-01-27,,Bochum,0–1,Mainz 05,,,Florian Meyer,/en/matches/603e6083/Bochum-Mainz-05-January-27-2007-Bundesliga,,603e6083
+18,Sat,2007-01-27,,Eint Frankfurt,1–3,Schalke 04,,,Helmut Fleischer,/en/matches/23f9df70/Eintracht-Frankfurt-Schalke-04-January-27-2007-Bundesliga,,23f9df70
+18,Sat,2007-01-27,,Energie Cottbus,3–1,M'Gladbach,,,Knut Kircher,/en/matches/191818c7/Energie-Cottbus-Monchengladbach-January-27-2007-Bundesliga,,191818c7
+18,Sat,2007-01-27,,Hertha BSC,2–1,Wolfsburg,,,Felix Brych,/en/matches/b8f4cfa9/Hertha-BSC-Wolfsburg-January-27-2007-Bundesliga,,b8f4cfa9
+18,Sat,2007-01-27,,Nürnberg,4–1,Stuttgart,,,Herbert Fandel,/en/matches/e98a9231/Nurnberg-Stuttgart-January-27-2007-Bundesliga,,e98a9231
+18,Sun,2007-01-28,,AA Aachen,2–3,Leverkusen,,,Thorsten Kinhöfer,/en/matches/ebc59c36/Alemannia-Aachen-Bayer-Leverkusen-January-28-2007-Bundesliga,,ebc59c36
+18,Sun,2007-01-28,,Werder Bremen,3–0,Hannover 96,,,Markus Merk,/en/matches/9f46bd1e/Werder-Bremen-Hannover-96-January-28-2007-Bundesliga,,9f46bd1e
+19,Tue,2007-01-30,,Bayern Munich,0–0,Bochum,,,Jochen Drees,/en/matches/a1258ba5/Bayern-Munich-Bochum-January-30-2007-Bundesliga,,a1258ba5
+19,Tue,2007-01-30,,M'Gladbach,0–0,Nürnberg,,,Babak Rafati,/en/matches/e67a0e37/Monchengladbach-Nurnberg-January-30-2007-Bundesliga,,e67a0e37
+19,Tue,2007-01-30,,Stuttgart,3–2,Arminia,,,Peter Gagelmann,/en/matches/2ea775bf/Stuttgart-Arminia-January-30-2007-Bundesliga,,2ea775bf
+19,Tue,2007-01-30,,Wolfsburg,2–2,Eint Frankfurt,,,Günter Perl,/en/matches/35cb56c0/Wolfsburg-Eintracht-Frankfurt-January-30-2007-Bundesliga,,35cb56c0
+19,Wed,2007-01-31,,Hamburger SV,1–1,Energie Cottbus,,,Peter Sippel,/en/matches/ecd84280/Hamburger-SV-Energie-Cottbus-January-31-2007-Bundesliga,,ecd84280
+19,Wed,2007-01-31,,Hannover 96,5–0,Hertha BSC,,,Markus Schmidt,/en/matches/20868182/Hannover-96-Hertha-BSC-January-31-2007-Bundesliga,,20868182
+19,Wed,2007-01-31,,Leverkusen,0–2,Werder Bremen,,,Lutz Wagner,/en/matches/73c04d7f/Bayer-Leverkusen-Werder-Bremen-January-31-2007-Bundesliga,,73c04d7f
+19,Wed,2007-01-31,,Mainz 05,1–0,Dortmund,,,Helmut Fleischer,/en/matches/98cb459c/Mainz-05-Dortmund-January-31-2007-Bundesliga,,98cb459c
+19,Wed,2007-01-31,,Schalke 04,2–1,AA Aachen,,,Florian Meyer,/en/matches/6120d53c/Schalke-04-Alemannia-Aachen-January-31-2007-Bundesliga,,6120d53c
+20,Fri,2007-02-02,,Nürnberg,3–0,Bayern Munich,,,Michael Weiner,/en/matches/c8a2fc11/Nurnberg-Bayern-Munich-February-2-2007-Bundesliga,,c8a2fc11
+20,Sat,2007-02-03,,AA Aachen,1–4,Hannover 96,,,Günter Perl,/en/matches/bd0ec9c3/Alemannia-Aachen-Hannover-96-February-3-2007-Bundesliga,,bd0ec9c3
+20,Sat,2007-02-03,,Arminia,0–2,M'Gladbach,,,Florian Meyer,/en/matches/c89869a3/Arminia-Monchengladbach-February-3-2007-Bundesliga,,c89869a3
+20,Sat,2007-02-03,,Eint Frankfurt,0–0,Mainz 05,,,Felix Brych,/en/matches/ffebf5b0/Eintracht-Frankfurt-Mainz-05-February-3-2007-Bundesliga,,ffebf5b0
+20,Sat,2007-02-03,,Energie Cottbus,0–0,Bochum,,,Wolfgang Stark,/en/matches/9c08dd3e/Energie-Cottbus-Bochum-February-3-2007-Bundesliga,,9c08dd3e
+20,Sat,2007-02-03,,Hertha BSC,2–1,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/7cd38a50/Hertha-BSC-Hamburger-SV-February-3-2007-Bundesliga,,7cd38a50
+20,Sat,2007-02-03,,Wolfsburg,3–2,Leverkusen,,,Knut Kircher,/en/matches/69e07112/Wolfsburg-Bayer-Leverkusen-February-3-2007-Bundesliga,,69e07112
+20,Sun,2007-02-04,,Dortmund,0–1,Stuttgart,,,Markus Merk,/en/matches/9f076385/Dortmund-Stuttgart-February-4-2007-Bundesliga,,9f076385
+20,Sun,2007-02-04,,Werder Bremen,0–2,Schalke 04,,,Herbert Fandel,/en/matches/78220496/Werder-Bremen-Schalke-04-February-4-2007-Bundesliga,,78220496
+21,Fri,2007-02-09,,Hannover 96,2–2,Wolfsburg,,,Helmut Fleischer,/en/matches/bb7cfdb8/Hannover-96-Wolfsburg-February-9-2007-Bundesliga,,bb7cfdb8
+21,Sat,2007-02-10,,Hamburger SV,3–0,Dortmund,,,Lutz Wagner,/en/matches/53463534/Hamburger-SV-Dortmund-February-10-2007-Bundesliga,,53463534
+21,Sat,2007-02-10,,Leverkusen,2–2,Eint Frankfurt,,,Michael Kempter,/en/matches/e3785714/Bayer-Leverkusen-Eintracht-Frankfurt-February-10-2007-Bundesliga,,e3785714
+21,Sat,2007-02-10,,M'Gladbach,0–0,AA Aachen,,,Peter Gagelmann,/en/matches/094a288f/Monchengladbach-Alemannia-Aachen-February-10-2007-Bundesliga,,094a288f
+21,Sat,2007-02-10,,Mainz 05,4–1,Energie Cottbus,,,Günter Perl,/en/matches/e7a43368/Mainz-05-Energie-Cottbus-February-10-2007-Bundesliga,,e7a43368
+21,Sat,2007-02-10,,Schalke 04,2–0,Hertha BSC,,,Michael Weiner,/en/matches/2976b511/Schalke-04-Hertha-BSC-February-10-2007-Bundesliga,,2976b511
+21,Sat,2007-02-10,,Stuttgart,4–1,Werder Bremen,,,Manuel Gräfe,/en/matches/edc19393/Stuttgart-Werder-Bremen-February-10-2007-Bundesliga,,edc19393
+21,Sun,2007-02-11,,Bayern Munich,1–0,Arminia,,,Babak Rafati,/en/matches/0ba7aa8a/Bayern-Munich-Arminia-February-11-2007-Bundesliga,,0ba7aa8a
+21,Sun,2007-02-11,,Bochum,0–2,Nürnberg,,,Knut Kircher,/en/matches/eab583f1/Bochum-Nurnberg-February-11-2007-Bundesliga,,eab583f1
+22,Fri,2007-02-16,,Eint Frankfurt,0–4,Stuttgart,,,Wolfgang Stark,/en/matches/3f0ea598/Eintracht-Frankfurt-Stuttgart-February-16-2007-Bundesliga,,3f0ea598
+22,Sat,2007-02-17,,AA Aachen,1–0,Bayern Munich,,,Manuel Gräfe,/en/matches/b0002406/Alemannia-Aachen-Bayern-Munich-February-17-2007-Bundesliga,,b0002406
+22,Sat,2007-02-17,,Dortmund,1–0,M'Gladbach,,,Markus Schmidt,/en/matches/94762e5f/Dortmund-Monchengladbach-February-17-2007-Bundesliga,,94762e5f
+22,Sat,2007-02-17,,Hertha BSC,1–2,Mainz 05,,,Peter Sippel,/en/matches/599f5b01/Hertha-BSC-Mainz-05-February-17-2007-Bundesliga,,599f5b01
+22,Sat,2007-02-17,,Leverkusen,0–1,Hannover 96,,,Peter Gagelmann,/en/matches/02330b7d/Bayer-Leverkusen-Hannover-96-February-17-2007-Bundesliga,,02330b7d
+22,Sat,2007-02-17,,Werder Bremen,0–2,Hamburger SV,,,Knut Kircher,/en/matches/f3c0ce35/Werder-Bremen-Hamburger-SV-February-17-2007-Bundesliga,,f3c0ce35
+22,Sat,2007-02-17,,Wolfsburg,2–2,Schalke 04,,,Jochen Drees,/en/matches/29bd6511/Wolfsburg-Schalke-04-February-17-2007-Bundesliga,,29bd6511
+22,Sun,2007-02-18,,Arminia,1–3,Bochum,,,Felix Brych,/en/matches/5ea6056e/Arminia-Bochum-February-18-2007-Bundesliga,,5ea6056e
+22,Sun,2007-02-18,,Nürnberg,1–0,Energie Cottbus,,,Thorsten Kinhöfer,/en/matches/44a40656/Nurnberg-Energie-Cottbus-February-18-2007-Bundesliga,,44a40656
+23,Fri,2007-02-23,,Stuttgart,0–0,Hertha BSC,,,Florian Meyer,/en/matches/0d3a8b86/Stuttgart-Hertha-BSC-February-23-2007-Bundesliga,,0d3a8b86
+23,Sat,2007-02-24,,Bayern Munich,2–1,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/c6512943/Bayern-Munich-Wolfsburg-February-24-2007-Bundesliga,,c6512943
+23,Sat,2007-02-24,,Bochum,2–2,AA Aachen,,,Peter Sippel,/en/matches/7b7d7b82/Bochum-Alemannia-Aachen-February-24-2007-Bundesliga,,7b7d7b82
+23,Sat,2007-02-24,,Energie Cottbus,2–1,Arminia,,,Markus Merk,/en/matches/d830ae90/Energie-Cottbus-Arminia-February-24-2007-Bundesliga,,d830ae90
+23,Sat,2007-02-24,,Hamburger SV,3–1,Eint Frankfurt,,,Günter Perl,/en/matches/c7ce122d/Hamburger-SV-Eintracht-Frankfurt-February-24-2007-Bundesliga,,c7ce122d
+23,Sat,2007-02-24,,Hannover 96,4–2,Dortmund,,,Herbert Fandel,/en/matches/4fd3f008/Hannover-96-Dortmund-February-24-2007-Bundesliga,,4fd3f008
+23,Sat,2007-02-24,,Mainz 05,2–1,Nürnberg,,,Peter Gagelmann,/en/matches/735134da/Mainz-05-Nurnberg-February-24-2007-Bundesliga,,735134da
+23,Sun,2007-02-25,,M'Gladbach,2–2,Werder Bremen,,,Helmut Fleischer,/en/matches/87de36a1/Monchengladbach-Werder-Bremen-February-25-2007-Bundesliga,,87de36a1
+23,Sun,2007-02-25,,Schalke 04,0–1,Leverkusen,,,Manuel Gräfe,/en/matches/baeb3326/Schalke-04-Bayer-Leverkusen-February-25-2007-Bundesliga,,baeb3326
+24,Fri,2007-03-02,,Schalke 04,0–2,Hamburger SV,,,Wolfgang Stark,/en/matches/01d38e17/Schalke-04-Hamburger-SV-March-2-2007-Bundesliga,,01d38e17
+24,Sat,2007-03-03,,Arminia,3–2,Nürnberg,,,Marc Seemann,/en/matches/1b510cf6/Arminia-Nurnberg-March-3-2007-Bundesliga,,1b510cf6
+24,Sat,2007-03-03,,Eint Frankfurt,2–0,Hannover 96,,,Markus Merk,/en/matches/97425ce5/Eintracht-Frankfurt-Hannover-96-March-3-2007-Bundesliga,,97425ce5
+24,Sat,2007-03-03,,Hertha BSC,2–3,Bayern Munich,,,Herbert Fandel,/en/matches/7c8999ea/Hertha-BSC-Bayern-Munich-March-3-2007-Bundesliga,,7c8999ea
+24,Sat,2007-03-03,,Leverkusen,3–1,Stuttgart,,,Felix Brych,/en/matches/a98baebe/Bayer-Leverkusen-Stuttgart-March-3-2007-Bundesliga,,a98baebe
+24,Sat,2007-03-03,,Werder Bremen,3–0,Bochum,,,Lutz Wagner,/en/matches/93a816e6/Werder-Bremen-Bochum-March-3-2007-Bundesliga,,93a816e6
+24,Sat,2007-03-03,,Wolfsburg,1–0,M'Gladbach,,,Peter Sippel,/en/matches/6d2a4a2f/Wolfsburg-Monchengladbach-March-3-2007-Bundesliga,,6d2a4a2f
+24,Sun,2007-03-04,,AA Aachen,2–1,Mainz 05,,,Michael Weiner,/en/matches/afcedc65/Alemannia-Aachen-Mainz-05-March-4-2007-Bundesliga,,afcedc65
+24,Sun,2007-03-04,,Dortmund,2–3,Energie Cottbus,,,Babak Rafati,/en/matches/38a191b4/Dortmund-Energie-Cottbus-March-4-2007-Bundesliga,,38a191b4
+25,Fri,2007-03-09,,Nürnberg,2–2,Eint Frankfurt,,,Florian Meyer,/en/matches/eb3f9c28/Nurnberg-Eintracht-Frankfurt-March-9-2007-Bundesliga,,eb3f9c28
+25,Sat,2007-03-10,,Bochum,2–0,Dortmund,,,Manuel Gräfe,/en/matches/a24d3435/Bochum-Dortmund-March-10-2007-Bundesliga,,a24d3435
+25,Sat,2007-03-10,,Energie Cottbus,0–2,AA Aachen,,,Peter Gagelmann,/en/matches/50c61acb/Energie-Cottbus-Alemannia-Aachen-March-10-2007-Bundesliga,,50c61acb
+25,Sat,2007-03-10,,Hannover 96,1–1,Schalke 04,,,Knut Kircher,/en/matches/185bbb99/Hannover-96-Schalke-04-March-10-2007-Bundesliga,,185bbb99
+25,Sat,2007-03-10,,M'Gladbach,3–1,Hertha BSC,,,Günter Perl,/en/matches/98c14879/Monchengladbach-Hertha-BSC-March-10-2007-Bundesliga,,98c14879
+25,Sat,2007-03-10,,Mainz 05,1–0,Arminia,,,Helmut Fleischer,/en/matches/40d86eb7/Mainz-05-Arminia-March-10-2007-Bundesliga,,40d86eb7
+25,Sat,2007-03-10,,Stuttgart,0–0,Wolfsburg,,,Wolfgang Stark,/en/matches/ee41d1d7/Stuttgart-Wolfsburg-March-10-2007-Bundesliga,,ee41d1d7
+25,Sun,2007-03-11,,Bayern Munich,1–1,Werder Bremen,,,Markus Merk,/en/matches/7b9f56a6/Bayern-Munich-Werder-Bremen-March-11-2007-Bundesliga,,7b9f56a6
+25,Sun,2007-03-11,,Hamburger SV,0–0,Leverkusen,,,Herbert Fandel,/en/matches/ce5b0c37/Hamburger-SV-Bayer-Leverkusen-March-11-2007-Bundesliga,,ce5b0c37
+26,Fri,2007-03-16,,Hertha BSC,0–1,Energie Cottbus,,,Jochen Drees,/en/matches/4c1f24cf/Hertha-BSC-Energie-Cottbus-March-16-2007-Bundesliga,,4c1f24cf
+26,Sat,2007-03-17,,AA Aachen,2–0,Arminia,,,Herbert Fandel,/en/matches/1c58e5da/Alemannia-Aachen-Arminia-March-17-2007-Bundesliga,,1c58e5da
+26,Sat,2007-03-17,,Dortmund,0–0,Nürnberg,,,Knut Kircher,/en/matches/01faccfe/Dortmund-Nurnberg-March-17-2007-Bundesliga,,01faccfe
+26,Sat,2007-03-17,,Eint Frankfurt,1–0,Bayern Munich,,,Michael Weiner,/en/matches/a77f4764/Eintracht-Frankfurt-Bayern-Munich-March-17-2007-Bundesliga,,a77f4764
+26,Sat,2007-03-17,,Hannover 96,0–0,Hamburger SV,,,Peter Sippel,/en/matches/741e8c3e/Hannover-96-Hamburger-SV-March-17-2007-Bundesliga,,741e8c3e
+26,Sat,2007-03-17,,Schalke 04,1–0,Stuttgart,,,Helmut Fleischer,/en/matches/d221e3c8/Schalke-04-Stuttgart-March-17-2007-Bundesliga,,d221e3c8
+26,Sat,2007-03-17,,Wolfsburg,3–1,Bochum,,,Markus Merk,/en/matches/587ec6ea/Wolfsburg-Bochum-March-17-2007-Bundesliga,,587ec6ea
+26,Sun,2007-03-18,,Leverkusen,1–0,M'Gladbach,,,Wolfgang Stark,/en/matches/0619739d/Bayer-Leverkusen-Monchengladbach-March-18-2007-Bundesliga,,0619739d
+26,Sun,2007-03-18,,Werder Bremen,2–0,Mainz 05,,,Thorsten Kinhöfer,/en/matches/09fa12ae/Werder-Bremen-Mainz-05-March-18-2007-Bundesliga,,09fa12ae
+27,Fri,2007-03-30,,Arminia,1–0,Dortmund,,,Peter Gagelmann,/en/matches/deae72a2/Arminia-Dortmund-March-30-2007-Bundesliga,,deae72a2
+27,Sat,2007-03-31,,Bayern Munich,2–0,Schalke 04,,,Herbert Fandel,/en/matches/2f895d95/Bayern-Munich-Schalke-04-March-31-2007-Bundesliga,,2f895d95
+27,Sat,2007-03-31,,Energie Cottbus,0–0,Werder Bremen,,,Knut Kircher,/en/matches/fe00cc00/Energie-Cottbus-Werder-Bremen-March-31-2007-Bundesliga,,fe00cc00
+27,Sat,2007-03-31,,M'Gladbach,1–1,Eint Frankfurt,,,Thorsten Kinhöfer,/en/matches/5643ad67/Monchengladbach-Eintracht-Frankfurt-March-31-2007-Bundesliga,,5643ad67
+27,Sat,2007-03-31,,Mainz 05,1–3,Leverkusen,,,Peter Sippel,/en/matches/8d4623bb/Mainz-05-Bayer-Leverkusen-March-31-2007-Bundesliga,,8d4623bb
+27,Sat,2007-03-31,,Nürnberg,2–1,Hertha BSC,,,Babak Rafati,/en/matches/1182fdf1/Nurnberg-Hertha-BSC-March-31-2007-Bundesliga,,1182fdf1
+27,Sat,2007-03-31,,Stuttgart,3–1,AA Aachen,,,Markus Merk,/en/matches/85180799/Stuttgart-Alemannia-Aachen-March-31-2007-Bundesliga,,85180799
+27,Sun,2007-04-01,,Bochum,2–0,Hannover 96,,,Helmut Fleischer,/en/matches/9d077348/Bochum-Hannover-96-April-1-2007-Bundesliga,,9d077348
+27,Sun,2007-04-01,,Hamburger SV,1–0,Wolfsburg,,,Günter Perl,/en/matches/61c07ba2/Hamburger-SV-Wolfsburg-April-1-2007-Bundesliga,,61c07ba2
+28,Sat,2007-04-07,,AA Aachen,1–4,Dortmund,,,Wolfgang Stark,/en/matches/f5fb52c6/Alemannia-Aachen-Dortmund-April-7-2007-Bundesliga,,f5fb52c6
+28,Sat,2007-04-07,,Eint Frankfurt,1–3,Energie Cottbus,,,Peter Sippel,/en/matches/c1ee0b2d/Eintracht-Frankfurt-Energie-Cottbus-April-7-2007-Bundesliga,,c1ee0b2d
+28,Sat,2007-04-07,,Hamburger SV,2–4,Stuttgart,,,Lutz Wagner,/en/matches/d99bedc8/Hamburger-SV-Stuttgart-April-7-2007-Bundesliga,,d99bedc8
+28,Sat,2007-04-07,,Hannover 96,1–2,Bayern Munich,,,Manuel Gräfe,/en/matches/5c5c0c00/Hannover-96-Bayern-Munich-April-7-2007-Bundesliga,,5c5c0c00
+28,Sat,2007-04-07,,Hertha BSC,1–1,Arminia,,,Felix Brych,/en/matches/826b714f/Hertha-BSC-Arminia-April-7-2007-Bundesliga,,826b714f
+28,Sat,2007-04-07,,Schalke 04,2–0,M'Gladbach,,,Florian Meyer,/en/matches/3a0232cd/Schalke-04-Monchengladbach-April-7-2007-Bundesliga,,3a0232cd
+28,Sat,2007-04-07,,Wolfsburg,3–2,Mainz 05,,,Michael Kempter,/en/matches/5d96e2dc/Wolfsburg-Mainz-05-April-7-2007-Bundesliga,,5d96e2dc
+28,Sun,2007-04-08,,Leverkusen,1–4,Bochum,,,Peter Gagelmann,/en/matches/97fc4dfe/Bayer-Leverkusen-Bochum-April-8-2007-Bundesliga,,97fc4dfe
+28,Sun,2007-04-08,,Werder Bremen,1–0,Nürnberg,,,Michael Weiner,/en/matches/bb690393/Werder-Bremen-Nurnberg-April-8-2007-Bundesliga,,bb690393
+29,Fri,2007-04-13,,M'Gladbach,0–1,Hamburger SV,,,Markus Merk,/en/matches/2a4218c3/Monchengladbach-Hamburger-SV-April-13-2007-Bundesliga,,2a4218c3
+29,Sat,2007-04-14,,Arminia,2–4,Eint Frankfurt,,,Helmut Fleischer,/en/matches/53a51077/Arminia-Eintracht-Frankfurt-April-14-2007-Bundesliga,,53a51077
+29,Sat,2007-04-14,,Bochum,1–3,Hertha BSC,,,Günter Perl,/en/matches/84fa9269/Bochum-Hertha-BSC-April-14-2007-Bundesliga,,84fa9269
+29,Sat,2007-04-14,,Energie Cottbus,3–2,Wolfsburg,,,Herbert Fandel,/en/matches/bd304c87/Energie-Cottbus-Wolfsburg-April-14-2007-Bundesliga,,bd304c87
+29,Sat,2007-04-14,,Mainz 05,0–3,Schalke 04,,,Michael Weiner,/en/matches/9887e47b/Mainz-05-Schalke-04-April-14-2007-Bundesliga,,9887e47b
+29,Sat,2007-04-14,,Nürnberg,1–0,AA Aachen,,,Thorsten Kinhöfer,/en/matches/fd98a98f/Nurnberg-Alemannia-Aachen-April-14-2007-Bundesliga,,fd98a98f
+29,Sat,2007-04-14,,Stuttgart,2–1,Hannover 96,,,Marc Seemann,/en/matches/9160b51a/Stuttgart-Hannover-96-April-14-2007-Bundesliga,,9160b51a
+29,Sun,2007-04-15,,Bayern Munich,2–1,Leverkusen,,,Knut Kircher,/en/matches/2ecd4ad6/Bayern-Munich-Bayer-Leverkusen-April-15-2007-Bundesliga,,2ecd4ad6
+29,Sun,2007-04-15,,Dortmund,0–2,Werder Bremen,,,Florian Meyer,/en/matches/0369c709/Dortmund-Werder-Bremen-April-15-2007-Bundesliga,,0369c709
+30,Fri,2007-04-20,,Werder Bremen,3–1,AA Aachen,,,Helmut Fleischer,/en/matches/c8c4028e/Werder-Bremen-Alemannia-Aachen-April-20-2007-Bundesliga,,c8c4028e
+30,Sat,2007-04-21,,Eint Frankfurt,0–3,Bochum,,,Babak Rafati,/en/matches/eb856a4e/Eintracht-Frankfurt-Bochum-April-21-2007-Bundesliga,,eb856a4e
+30,Sat,2007-04-21,,Hertha BSC,0–1,Dortmund,,,Peter Sippel,/en/matches/936762d2/Hertha-BSC-Dortmund-April-21-2007-Bundesliga,,936762d2
+30,Sat,2007-04-21,,Leverkusen,2–0,Nürnberg,,,Jochen Drees,/en/matches/549fd4e8/Bayer-Leverkusen-Nurnberg-April-21-2007-Bundesliga,,549fd4e8
+30,Sat,2007-04-21,,Schalke 04,2–0,Energie Cottbus,,,Manuel Gräfe,/en/matches/04f93dcf/Schalke-04-Energie-Cottbus-April-21-2007-Bundesliga,,04f93dcf
+30,Sat,2007-04-21,,Stuttgart,2–0,Bayern Munich,,,Markus Merk,/en/matches/faff742a/Stuttgart-Bayern-Munich-April-21-2007-Bundesliga,,faff742a
+30,Sat,2007-04-21,,Wolfsburg,2–3,Arminia,,,Knut Kircher,/en/matches/40b25af3/Wolfsburg-Arminia-April-21-2007-Bundesliga,,40b25af3
+30,Sun,2007-04-22,,Hamburger SV,2–2,Mainz 05,,,Herbert Fandel,/en/matches/7735d8a9/Hamburger-SV-Mainz-05-April-22-2007-Bundesliga,,7735d8a9
+30,Sun,2007-04-22,,Hannover 96,1–0,M'Gladbach,,,Felix Brych,/en/matches/9606c288/Hannover-96-Monchengladbach-April-22-2007-Bundesliga,,9606c288
+31,Fri,2007-04-27,,Bochum,2–1,Schalke 04,,,Knut Kircher,/en/matches/655213e5/Bochum-Schalke-04-April-27-2007-Bundesliga,,655213e5
+31,Sat,2007-04-28,,AA Aachen,0–4,Hertha BSC,,,Markus Merk,/en/matches/e9fecb49/Alemannia-Aachen-Hertha-BSC-April-28-2007-Bundesliga,,e9fecb49
+31,Sat,2007-04-28,,Bayern Munich,1–2,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/c2f886e0/Bayern-Munich-Hamburger-SV-April-28-2007-Bundesliga,,c2f886e0
+31,Sat,2007-04-28,,Dortmund,2–0,Eint Frankfurt,,,Felix Brych,/en/matches/9e0c6f22/Dortmund-Eintracht-Frankfurt-April-28-2007-Bundesliga,,9e0c6f22
+31,Sat,2007-04-28,,M'Gladbach,0–1,Stuttgart,,,Herbert Fandel,/en/matches/cd968d8c/Monchengladbach-Stuttgart-April-28-2007-Bundesliga,,cd968d8c
+31,Sat,2007-04-28,,Mainz 05,1–2,Hannover 96,,,Günter Perl,/en/matches/f5ac6346/Mainz-05-Hannover-96-April-28-2007-Bundesliga,,f5ac6346
+31,Sat,2007-04-28,,Nürnberg,1–1,Wolfsburg,,,Lutz Wagner,/en/matches/c6159115/Nurnberg-Wolfsburg-April-28-2007-Bundesliga,,c6159115
+31,Sun,2007-04-29,,Arminia,3–2,Werder Bremen,,,Michael Weiner,/en/matches/8ab8ed7f/Arminia-Werder-Bremen-April-29-2007-Bundesliga,,8ab8ed7f
+31,Sun,2007-04-29,,Energie Cottbus,2–1,Leverkusen,,,Florian Meyer,/en/matches/bd417806/Energie-Cottbus-Bayer-Leverkusen-April-29-2007-Bundesliga,,bd417806
+32,Fri,2007-05-04,,Hannover 96,2–0,Energie Cottbus,,,Thorsten Kinhöfer,/en/matches/3141c992/Hannover-96-Energie-Cottbus-May-4-2007-Bundesliga,,3141c992
+32,Sat,2007-05-05,,Eint Frankfurt,4–0,AA Aachen,,,Knut Kircher,/en/matches/40f2e051/Eintracht-Frankfurt-Alemannia-Aachen-May-5-2007-Bundesliga,,40f2e051
+32,Sat,2007-05-05,,Hamburger SV,0–3,Bochum,,,Felix Brych,/en/matches/3a800558/Hamburger-SV-Bochum-May-5-2007-Bundesliga,,3a800558
+32,Sat,2007-05-05,,M'Gladbach,1–1,Bayern Munich,,,Michael Weiner,/en/matches/f8eb605d/Monchengladbach-Bayern-Munich-May-5-2007-Bundesliga,,f8eb605d
+32,Sat,2007-05-05,,Schalke 04,1–0,Nürnberg,,,Florian Meyer,/en/matches/bbccf15b/Schalke-04-Nurnberg-May-5-2007-Bundesliga,,bbccf15b
+32,Sat,2007-05-05,,Stuttgart,2–0,Mainz 05,,,Manuel Gräfe,/en/matches/785c4b26/Stuttgart-Mainz-05-May-5-2007-Bundesliga,,785c4b26
+32,Sat,2007-05-05,,Wolfsburg,0–2,Dortmund,,,Markus Merk,/en/matches/b8019d29/Wolfsburg-Dortmund-May-5-2007-Bundesliga,,b8019d29
+32,Sun,2007-05-06,,Hertha BSC,1–4,Werder Bremen,,,Herbert Fandel,/en/matches/90cd720d/Hertha-BSC-Werder-Bremen-May-6-2007-Bundesliga,,90cd720d
+32,Sun,2007-05-06,,Leverkusen,1–2,Arminia,,,Peter Sippel,/en/matches/2139427b/Bayer-Leverkusen-Arminia-May-6-2007-Bundesliga,,2139427b
+33,Sat,2007-05-12,,AA Aachen,2–2,Wolfsburg,,,Manuel Gräfe,/en/matches/d2003618/Alemannia-Aachen-Wolfsburg-May-12-2007-Bundesliga,,d2003618
+33,Sat,2007-05-12,,Arminia,3–1,Hannover 96,,,Michael Kempter,/en/matches/8fe29e0e/Arminia-Hannover-96-May-12-2007-Bundesliga,,8fe29e0e
+33,Sat,2007-05-12,,Bochum,2–3,Stuttgart,,,Florian Meyer,/en/matches/d66956a8/Bochum-Stuttgart-May-12-2007-Bundesliga,,d66956a8
+33,Sat,2007-05-12,,Dortmund,2–0,Schalke 04,,,Herbert Fandel,/en/matches/f103838a/Revierderby-Dortmund-Schalke-04-May-12-2007-Bundesliga,,f103838a
+33,Sat,2007-05-12,,Energie Cottbus,0–3,Bayern Munich,,,Peter Gagelmann,/en/matches/811fb12e/Energie-Cottbus-Bayern-Munich-May-12-2007-Bundesliga,,811fb12e
+33,Sat,2007-05-12,,Hertha BSC,2–3,Leverkusen,,,Wolfgang Stark,/en/matches/039e22a5/Hertha-BSC-Bayer-Leverkusen-May-12-2007-Bundesliga,,039e22a5
+33,Sat,2007-05-12,,Mainz 05,3–0,M'Gladbach,,,Thorsten Kinhöfer,/en/matches/2f113ef5/Mainz-05-Monchengladbach-May-12-2007-Bundesliga,,2f113ef5
+33,Sat,2007-05-12,,Nürnberg,0–2,Hamburger SV,,,Knut Kircher,/en/matches/0707c0bb/Nurnberg-Hamburger-SV-May-12-2007-Bundesliga,,0707c0bb
+33,Sat,2007-05-12,,Werder Bremen,1–2,Eint Frankfurt,,,Markus Merk,/en/matches/d81da177/Werder-Bremen-Eintracht-Frankfurt-May-12-2007-Bundesliga,,d81da177
+34,Sat,2007-05-19,,Bayern Munich,5–2,Mainz 05,,,Babak Rafati,/en/matches/50dfc095/Bayern-Munich-Mainz-05-May-19-2007-Bundesliga,,50dfc095
+34,Sat,2007-05-19,,Eint Frankfurt,1–2,Hertha BSC,,,Günter Perl,/en/matches/d09520a3/Eintracht-Frankfurt-Hertha-BSC-May-19-2007-Bundesliga,,d09520a3
+34,Sat,2007-05-19,,Hamburger SV,4–0,AA Aachen,,,Marc Seemann,/en/matches/cd9c2869/Hamburger-SV-Alemannia-Aachen-May-19-2007-Bundesliga,,cd9c2869
+34,Sat,2007-05-19,,Hannover 96,0–3,Nürnberg,,,Jochen Drees,/en/matches/bc24353b/Hannover-96-Nurnberg-May-19-2007-Bundesliga,,bc24353b
+34,Sat,2007-05-19,,Leverkusen,2–1,Dortmund,,,Peter Gagelmann,/en/matches/504f8e59/Bayer-Leverkusen-Dortmund-May-19-2007-Bundesliga,,504f8e59
+34,Sat,2007-05-19,,M'Gladbach,0–2,Bochum,,,Markus Merk,/en/matches/9252e46d/Monchengladbach-Bochum-May-19-2007-Bundesliga,,9252e46d
+34,Sat,2007-05-19,,Schalke 04,2–1,Arminia,,,Felix Brych,/en/matches/b0512f93/Schalke-04-Arminia-May-19-2007-Bundesliga,,b0512f93
+34,Sat,2007-05-19,,Stuttgart,2–1,Energie Cottbus,,,Wolfgang Stark,/en/matches/1927e545/Stuttgart-Energie-Cottbus-May-19-2007-Bundesliga,,1927e545
+34,Sat,2007-05-19,,Wolfsburg,0–2,Werder Bremen,,,Peter Sippel,/en/matches/815c7f6b/Wolfsburg-Werder-Bremen-May-19-2007-Bundesliga,,815c7f6b

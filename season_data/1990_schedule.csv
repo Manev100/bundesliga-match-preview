@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Wed,1990-08-08,,Dortmund,0–3,Stuttgart,,,Manfred Harder,/en/matches/c8fced5b/Dortmund-Stuttgart-August-8-1990-Bundesliga,,c8fced5b
+1,Thu,1990-08-09,,Hertha BSC,1–2,St Pauli,,,Werner Föckler,/en/matches/613e107f/Hertha-BSC-St-Pauli-August-9-1990-Bundesliga,,613e107f
+1,Fri,1990-08-10,,Nürnberg,1–1,Uerdingen,,,Anton Matheis,/en/matches/a5febf2c/Nurnberg-Uerdingen-August-10-1990-Bundesliga,,a5febf2c
+1,Sat,1990-08-11,,Bayern Munich,1–1,Leverkusen,,,Hans-Peter Dellwing,/en/matches/46729a6c/Bayern-Munich-Bayer-Leverkusen-August-11-1990-Bundesliga,,46729a6c
+1,Sat,1990-08-11,,Eint Frankfurt,3–0,Karlsruher,,,Hellmut Krug,/en/matches/f14fdad7/Eintracht-Frankfurt-Karlsruher-August-11-1990-Bundesliga,,f14fdad7
+1,Sat,1990-08-11,,Hamburger SV,1–3,Kaiserslautern,,,Michael Prengel,/en/matches/19fb871a/Hamburger-SV-Kaiserslautern-August-11-1990-Bundesliga,,19fb871a
+1,Sat,1990-08-11,,Köln,1–1,Düsseldorf,,,Markus Merk,/en/matches/268c6517/Koln-Dusseldorf-August-11-1990-Bundesliga,,268c6517
+1,Sat,1990-08-11,,M'Gladbach,1–2,Bochum,,,Hans Scheuerer,/en/matches/2bf85907/Monchengladbach-Bochum-August-11-1990-Bundesliga,,2bf85907
+1,Sat,1990-08-11,,Wattenscheid,2–0,Werder Bremen,,,Eugen Strigel,/en/matches/e98a0571/Wattenscheid-Werder-Bremen-August-11-1990-Bundesliga,,e98a0571
+2,Tue,1990-08-14,,St Pauli,0–0,Bayern Munich,,,Edgar Steinborn,/en/matches/9b4f667e/St-Pauli-Bayern-Munich-August-14-1990-Bundesliga,,9b4f667e
+2,Fri,1990-08-17,,Stuttgart,4–0,Hertha BSC,,,Alfons Berg,/en/matches/e5fa1283/Stuttgart-Hertha-BSC-August-17-1990-Bundesliga,,e5fa1283
+2,Fri,1990-08-17,,Werder Bremen,3–0,M'Gladbach,,,Hermann Albrecht,/en/matches/9750c662/Werder-Bremen-Monchengladbach-August-17-1990-Bundesliga,,9750c662
+2,Sat,1990-08-18,,Bochum,1–0,Köln,,,Hans-Jürgen Weber,/en/matches/a97fbd5d/Bochum-Koln-August-18-1990-Bundesliga,,a97fbd5d
+2,Sat,1990-08-18,,Düsseldorf,2–1,Hamburger SV,,,Aron Schmidhuber,/en/matches/5b9145be/Dusseldorf-Hamburger-SV-August-18-1990-Bundesliga,,5b9145be
+2,Sat,1990-08-18,,Kaiserslautern,1–1,Eint Frankfurt,,,Georg Dardenne,/en/matches/117d1e47/Kaiserslautern-Eintracht-Frankfurt-August-18-1990-Bundesliga,,117d1e47
+2,Sat,1990-08-18,,Karlsruher,1–2,Dortmund,,,Werner Föckler,/en/matches/bbe8d765/Karlsruher-Dortmund-August-18-1990-Bundesliga,,bbe8d765
+2,Sat,1990-08-18,,Leverkusen,2–2,Nürnberg,,,Hans-Joachim Osmers,/en/matches/59327ce6/Bayer-Leverkusen-Nurnberg-August-18-1990-Bundesliga,,59327ce6
+2,Sat,1990-08-18,,Uerdingen,0–2,Wattenscheid,,,Hans-Jürgen Kasper,/en/matches/b54649a2/Uerdingen-Wattenscheid-August-18-1990-Bundesliga,,b54649a2
+3,Fri,1990-08-24,,Dortmund,0–2,Kaiserslautern,,,Wolf-Günter Wiesel,/en/matches/a8205b96/Dortmund-Kaiserslautern-August-24-1990-Bundesliga,,a8205b96
+3,Fri,1990-08-24,,Eint Frankfurt,5–1,Düsseldorf,,,Peter Mölm,/en/matches/f913d14e/Eintracht-Frankfurt-Dusseldorf-August-24-1990-Bundesliga,,f913d14e
+3,Fri,1990-08-24,,Hamburger SV,1–0,Bochum,,,Hans Fux,/en/matches/e85c41ef/Hamburger-SV-Bochum-August-24-1990-Bundesliga,,e85c41ef
+3,Sat,1990-08-25,,Bayern Munich,2–1,Stuttgart,,,Gerhard Theobald,/en/matches/2e83d8b6/Bayern-Munich-Stuttgart-August-25-1990-Bundesliga,,2e83d8b6
+3,Sat,1990-08-25,,Hertha BSC,1–1,Karlsruher,,,Wolfgang Mierswa,/en/matches/39a2c3c9/Hertha-BSC-Karlsruher-August-25-1990-Bundesliga,,39a2c3c9
+3,Sat,1990-08-25,,Köln,1–0,Werder Bremen,,,Manfred Amerell,/en/matches/cf7c9815/Koln-Werder-Bremen-August-25-1990-Bundesliga,,cf7c9815
+3,Sat,1990-08-25,,Nürnberg,5–2,St Pauli,,,Klaus Broska,/en/matches/227e6cb4/Nurnberg-St-Pauli-August-25-1990-Bundesliga,,227e6cb4
+3,Sat,1990-08-25,,Uerdingen,1–1,Leverkusen,,,Wolf-Rüdiger Umbach,/en/matches/3e6b3c4f/Uerdingen-Bayer-Leverkusen-August-25-1990-Bundesliga,,3e6b3c4f
+3,Sat,1990-08-25,,Wattenscheid,1–1,M'Gladbach,,,Hans-Joachim Osmers,/en/matches/252b4ff3/Wattenscheid-Monchengladbach-August-25-1990-Bundesliga,,252b4ff3
+4,Fri,1990-08-31,,Kaiserslautern,4–3,Hertha BSC,,,Lothar Löwer,/en/matches/1e026372/Kaiserslautern-Hertha-BSC-August-31-1990-Bundesliga,,1e026372
+4,Sat,1990-09-01,,Bochum,0–0,Eint Frankfurt,,,Alfons Berg,/en/matches/248ff1ce/Bochum-Eintracht-Frankfurt-September-1-1990-Bundesliga,,248ff1ce
+4,Sat,1990-09-01,,Karlsruher,2–3,Bayern Munich,,,Georg Dardenne,/en/matches/62a4d290/Karlsruher-Bayern-Munich-September-1-1990-Bundesliga,,62a4d290
+4,Sat,1990-09-01,,M'Gladbach,2–2,Köln,,,Gerhard Theobald,/en/matches/609208d6/Monchengladbach-Koln-September-1-1990-Bundesliga,,609208d6
+4,Sat,1990-09-01,,St Pauli,1–1,Uerdingen,,,Manfred Neuner,/en/matches/3ddf41fc/St-Pauli-Uerdingen-September-1-1990-Bundesliga,,3ddf41fc
+4,Sat,1990-09-01,,Stuttgart,2–1,Nürnberg,,,Manfred Führer,/en/matches/94581831/Stuttgart-Nurnberg-September-1-1990-Bundesliga,,94581831
+4,Sat,1990-09-01,,Werder Bremen,3–1,Hamburger SV,,,Hellmut Krug,/en/matches/fdc2b6a1/Werder-Bremen-Hamburger-SV-September-1-1990-Bundesliga,,fdc2b6a1
+4,Sun,1990-09-02,,Düsseldorf,0–0,Dortmund,,,Eugen Strigel,/en/matches/5fd0bcd6/Dusseldorf-Dortmund-September-2-1990-Bundesliga,,5fd0bcd6
+4,Tue,1990-09-04,,Leverkusen,2–1,Wattenscheid,,,Edgar Steinborn,/en/matches/f3de1bca/Bayer-Leverkusen-Wattenscheid-September-4-1990-Bundesliga,,f3de1bca
+5,Fri,1990-09-07,,Bayern Munich,4–0,Kaiserslautern,,,Jürgen Aust,/en/matches/544935dd/Bayern-Munich-Kaiserslautern-September-7-1990-Bundesliga,,544935dd
+5,Fri,1990-09-07,,Dortmund,1–0,Bochum,,,Hans-Joachim Osmers,/en/matches/3884373c/Dortmund-Bochum-September-7-1990-Bundesliga,,3884373c
+5,Fri,1990-09-07,,Uerdingen,2–0,Stuttgart,,,Wolfgang Mierswa,/en/matches/55680fbf/Uerdingen-Stuttgart-September-7-1990-Bundesliga,,55680fbf
+5,Sat,1990-09-08,,Eint Frankfurt,0–0,Werder Bremen,,,Klaus Broska,/en/matches/a9d94913/Eintracht-Frankfurt-Werder-Bremen-September-8-1990-Bundesliga,,a9d94913
+5,Sat,1990-09-08,,Hamburger SV,3–0,M'Gladbach,,,Markus Merk,/en/matches/ae1dc9b9/Hamburger-SV-Monchengladbach-September-8-1990-Bundesliga,,ae1dc9b9
+5,Sat,1990-09-08,,Hertha BSC,0–1,Düsseldorf,,,Wolf-Rüdiger Umbach,/en/matches/4a0e4b51/Hertha-BSC-Dusseldorf-September-8-1990-Bundesliga,,4a0e4b51
+5,Sat,1990-09-08,,Leverkusen,3–1,St Pauli,,,Manfred Amerell,/en/matches/b598fa44/Bayer-Leverkusen-St-Pauli-September-8-1990-Bundesliga,,b598fa44
+5,Sat,1990-09-08,,Nürnberg,0–0,Karlsruher,,,Karl-Josef Assenmacher,/en/matches/82e880e4/Nurnberg-Karlsruher-September-8-1990-Bundesliga,,82e880e4
+5,Sat,1990-09-08,,Wattenscheid,0–3,Köln,,,Hans-Peter Dellwing,/en/matches/76880c69/Wattenscheid-Koln-September-8-1990-Bundesliga,,76880c69
+6,Fri,1990-09-14,,Kaiserslautern,3–1,Nürnberg,,,Hans-Jürgen Kasper,/en/matches/13f16547/Kaiserslautern-Nurnberg-September-14-1990-Bundesliga,,13f16547
+6,Fri,1990-09-14,,Karlsruher,2–0,Uerdingen,,,Bodo Kriegelstein,/en/matches/4ebe0c67/Karlsruher-Uerdingen-September-14-1990-Bundesliga,,4ebe0c67
+6,Fri,1990-09-14,,St Pauli,1–1,Wattenscheid,,,Dieter Birlenbach,/en/matches/41183649/St-Pauli-Wattenscheid-September-14-1990-Bundesliga,,41183649
+6,Sat,1990-09-15,,Bochum,4–2,Hertha BSC,,,Karl Gangkofer,/en/matches/11dda82a/Bochum-Hertha-BSC-September-15-1990-Bundesliga,,11dda82a
+6,Sat,1990-09-15,,Düsseldorf,1–2,Bayern Munich,,,Manfred Harder,/en/matches/a4cff227/Dusseldorf-Bayern-Munich-September-15-1990-Bundesliga,,a4cff227
+6,Sat,1990-09-15,,Köln,1–0,Hamburger SV,,,Manfred Neuner,/en/matches/601128c8/Koln-Hamburger-SV-September-15-1990-Bundesliga,,601128c8
+6,Sat,1990-09-15,,M'Gladbach,1–1,Eint Frankfurt,,,Wolf-Günter Wiesel,/en/matches/b5107581/Monchengladbach-Eintracht-Frankfurt-September-15-1990-Bundesliga,,b5107581
+6,Sat,1990-09-15,,Stuttgart,0–2,Leverkusen,,,Markus Merk,/en/matches/45b62b29/Stuttgart-Bayer-Leverkusen-September-15-1990-Bundesliga,,45b62b29
+6,Sat,1990-09-15,,Werder Bremen,1–1,Dortmund,,,Hans-Peter Dellwing,/en/matches/b8b7d330/Werder-Bremen-Dortmund-September-15-1990-Bundesliga,,b8b7d330
+7,Fri,1990-09-21,,Wattenscheid,0–1,Hamburger SV,,,Hans Scheuerer,/en/matches/583569f4/Wattenscheid-Hamburger-SV-September-21-1990-Bundesliga,,583569f4
+7,Sat,1990-09-22,,Bayern Munich,2–2,Bochum,,,Wolfgang Mierswa,/en/matches/c4aa0a64/Bayern-Munich-Bochum-September-22-1990-Bundesliga,,c4aa0a64
+7,Sat,1990-09-22,,Dortmund,1–1,M'Gladbach,,,Aron Schmidhuber,/en/matches/ba134860/Dortmund-Monchengladbach-September-22-1990-Bundesliga,,ba134860
+7,Sat,1990-09-22,,Eint Frankfurt,1–0,Köln,,,Werner Föckler,/en/matches/83a91a4d/Eintracht-Frankfurt-Koln-September-22-1990-Bundesliga,,83a91a4d
+7,Sat,1990-09-22,,Hertha BSC,0–0,Werder Bremen,,,Hans-Jürgen Weber,/en/matches/8641572e/Hertha-BSC-Werder-Bremen-September-22-1990-Bundesliga,,8641572e
+7,Sat,1990-09-22,,Leverkusen,1–0,Karlsruher,,,Wolf-Günter Wiesel,/en/matches/7b311fa1/Bayer-Leverkusen-Karlsruher-September-22-1990-Bundesliga,,7b311fa1
+7,Sat,1990-09-22,,St Pauli,2–2,Stuttgart,,,Hellmut Krug,/en/matches/b6ec077c/St-Pauli-Stuttgart-September-22-1990-Bundesliga,,b6ec077c
+7,Sat,1990-09-22,,Uerdingen,3–7,Kaiserslautern,,,Rainer Boos,/en/matches/635224f2/Uerdingen-Kaiserslautern-September-22-1990-Bundesliga,,635224f2
+7,Sun,1990-09-23,,Nürnberg,3–0,Düsseldorf,,,Bodo Kriegelstein,/en/matches/7e48f1a5/Nurnberg-Dusseldorf-September-23-1990-Bundesliga,,7e48f1a5
+8,Fri,1990-09-28,,Kaiserslautern,2–1,Leverkusen,,,Hermann Albrecht,/en/matches/5910a25d/Kaiserslautern-Bayer-Leverkusen-September-28-1990-Bundesliga,,5910a25d
+8,Fri,1990-09-28,,M'Gladbach,2–0,Hertha BSC,,,Dieter Birlenbach,/en/matches/a3672358/Monchengladbach-Hertha-BSC-September-28-1990-Bundesliga,,a3672358
+8,Fri,1990-09-28,,Werder Bremen,1–0,Bayern Munich,,,Karl-Josef Assenmacher,/en/matches/93be3275/Werder-Bremen-Bayern-Munich-September-28-1990-Bundesliga,,93be3275
+8,Sat,1990-09-29,,Bochum,0–0,Nürnberg,,,Gerhard Theobald,/en/matches/8bc0aed9/Bochum-Nurnberg-September-29-1990-Bundesliga,,8bc0aed9
+8,Sat,1990-09-29,,Düsseldorf,0–2,Uerdingen,,,Lothar Löwer,/en/matches/578be4dd/Dusseldorf-Uerdingen-September-29-1990-Bundesliga,,578be4dd
+8,Sat,1990-09-29,,Hamburger SV,0–1,Eint Frankfurt,,,Manfred Führer,/en/matches/d8b88bb2/Hamburger-SV-Eintracht-Frankfurt-September-29-1990-Bundesliga,,d8b88bb2
+8,Sat,1990-09-29,,Karlsruher,1–1,St Pauli,,,Michael Prengel,/en/matches/0afcc5bd/Karlsruher-St-Pauli-September-29-1990-Bundesliga,,0afcc5bd
+8,Sat,1990-09-29,,Köln,0–1,Dortmund,,,Hans Fux,/en/matches/dc67e1e6/Koln-Dortmund-September-29-1990-Bundesliga,,dc67e1e6
+8,Sat,1990-09-29,,Stuttgart,1–4,Wattenscheid,,,Anton Matheis,/en/matches/a634ecff/Stuttgart-Wattenscheid-September-29-1990-Bundesliga,,a634ecff
+9,Fri,1990-10-05,,Uerdingen,4–1,Bochum,,,Eugen Strigel,/en/matches/97a5fda0/Uerdingen-Bochum-October-5-1990-Bundesliga,,97a5fda0
+9,Sat,1990-10-06,,Bayern Munich,4–1,M'Gladbach,,,Werner Föckler,/en/matches/de112dd7/Bayern-Munich-Monchengladbach-October-6-1990-Bundesliga,,de112dd7
+9,Sat,1990-10-06,,Dortmund,1–1,Hamburger SV,,,Manfred Amerell,/en/matches/0b9be33a/Dortmund-Hamburger-SV-October-6-1990-Bundesliga,,0b9be33a
+9,Sat,1990-10-06,,Hertha BSC,0–0,Köln,,,Karl-Heinz Tritschler,/en/matches/455c698a/Hertha-BSC-Koln-October-6-1990-Bundesliga,,455c698a
+9,Sat,1990-10-06,,Leverkusen,1–1,Düsseldorf,,,Manfred Neuner,/en/matches/50a39b24/Bayer-Leverkusen-Dusseldorf-October-6-1990-Bundesliga,,50a39b24
+9,Sat,1990-10-06,,Nürnberg,2–3,Werder Bremen,,,Michael Prengel,/en/matches/6059329f/Nurnberg-Werder-Bremen-October-6-1990-Bundesliga,,6059329f
+9,Sat,1990-10-06,,St Pauli,1–0,Kaiserslautern,,,Hans-Jürgen Weber,/en/matches/7c0475ac/St-Pauli-Kaiserslautern-October-6-1990-Bundesliga,,7c0475ac
+9,Sat,1990-10-06,,Stuttgart,2–2,Karlsruher,,,Aron Schmidhuber,/en/matches/2da9714f/Stuttgart-Karlsruher-October-6-1990-Bundesliga,,2da9714f
+9,Sat,1990-10-06,,Wattenscheid,1–0,Eint Frankfurt,,,Bodo Kriegelstein,/en/matches/c5d11747/Wattenscheid-Eintracht-Frankfurt-October-6-1990-Bundesliga,,c5d11747
+10,Fri,1990-10-12,,Karlsruher,1–3,Wattenscheid,,,Alfons Berg,/en/matches/90407ea1/Karlsruher-Wattenscheid-October-12-1990-Bundesliga,,90407ea1
+10,Sat,1990-10-13,,Bochum,3–1,Leverkusen,,,Dieter Birlenbach,/en/matches/58d2c82c/Bochum-Bayer-Leverkusen-October-13-1990-Bundesliga,,58d2c82c
+10,Sat,1990-10-13,,Düsseldorf,0–0,St Pauli,,,Rainer Boos,/en/matches/8086d684/Dusseldorf-St-Pauli-October-13-1990-Bundesliga,,8086d684
+10,Sat,1990-10-13,,Eint Frankfurt,3–1,Dortmund,,,Gerhard Theobald,/en/matches/152a2f87/Eintracht-Frankfurt-Dortmund-October-13-1990-Bundesliga,,152a2f87
+10,Sat,1990-10-13,,Kaiserslautern,2–0,Stuttgart,,,Klaus Broska,/en/matches/6eef731f/Kaiserslautern-Stuttgart-October-13-1990-Bundesliga,,6eef731f
+10,Sat,1990-10-13,,Köln,4–0,Bayern Munich,,,Wolf-Rüdiger Umbach,/en/matches/600ed84f/Koln-Bayern-Munich-October-13-1990-Bundesliga,,600ed84f
+10,Sat,1990-10-13,,M'Gladbach,2–0,Nürnberg,,,Edgar Steinborn,/en/matches/07121bb9/Monchengladbach-Nurnberg-October-13-1990-Bundesliga,,07121bb9
+10,Sat,1990-10-13,,Werder Bremen,4–3,Uerdingen,,,Aron Schmidhuber,/en/matches/d287dd91/Werder-Bremen-Uerdingen-October-13-1990-Bundesliga,,d287dd91
+10,Sun,1990-10-14,,Hamburger SV,2–0,Hertha BSC,,,Georg Dardenne,/en/matches/e614c660/Hamburger-SV-Hertha-BSC-October-14-1990-Bundesliga,,e614c660
+11,Fri,1990-10-19,,Leverkusen,0–0,Werder Bremen,,,Bodo Kriegelstein,/en/matches/cd24a8bc/Bayer-Leverkusen-Werder-Bremen-October-19-1990-Bundesliga,,cd24a8bc
+11,Fri,1990-10-19,,St Pauli,3–3,Bochum,,,Hans-Peter Dellwing,/en/matches/d7be159b/St-Pauli-Bochum-October-19-1990-Bundesliga,,d7be159b
+11,Fri,1990-10-19,,Wattenscheid,1–1,Dortmund,,,Hermann Albrecht,/en/matches/a6c89f1c/Wattenscheid-Dortmund-October-19-1990-Bundesliga,,a6c89f1c
+11,Sat,1990-10-20,,Bayern Munich,6–1,Hamburger SV,,,Hans-Jürgen Weber,/en/matches/30442d98/Bayern-Munich-Hamburger-SV-October-20-1990-Bundesliga,,30442d98
+11,Sat,1990-10-20,,Hertha BSC,1–0,Eint Frankfurt,,,Karl-Josef Assenmacher,/en/matches/8aab2e70/Hertha-BSC-Eintracht-Frankfurt-October-20-1990-Bundesliga,,8aab2e70
+11,Sat,1990-10-20,,Karlsruher,4–2,Kaiserslautern,,,Hellmut Krug,/en/matches/8b787b05/Karlsruher-Kaiserslautern-October-20-1990-Bundesliga,,8b787b05
+11,Sat,1990-10-20,,Nürnberg,0–4,Köln,,,Manfred Harder,/en/matches/f4893cfa/Nurnberg-Koln-October-20-1990-Bundesliga,,f4893cfa
+11,Sat,1990-10-20,,Stuttgart,1–1,Düsseldorf,,,Hans-Joachim Osmers,/en/matches/6f889cdc/Stuttgart-Dusseldorf-October-20-1990-Bundesliga,,6f889cdc
+11,Sat,1990-10-20,,Uerdingen,1–1,M'Gladbach,,,Hans Scheuerer,/en/matches/9bb4817b/Uerdingen-Monchengladbach-October-20-1990-Bundesliga,,9bb4817b
+12,Fri,1990-10-26,,Bochum,1–1,Stuttgart,,,Wolf-Günter Wiesel,/en/matches/a1e18a92/Bochum-Stuttgart-October-26-1990-Bundesliga,,a1e18a92
+12,Fri,1990-10-26,,Werder Bremen,1–0,St Pauli,,,Lothar Löwer,/en/matches/5e41f98d/Werder-Bremen-St-Pauli-October-26-1990-Bundesliga,,5e41f98d
+12,Sat,1990-10-27,,Dortmund,3–1,Hertha BSC,,,Hans-Jürgen Kasper,/en/matches/c5c3a8e7/Dortmund-Hertha-BSC-October-27-1990-Bundesliga,,c5c3a8e7
+12,Sat,1990-10-27,,Düsseldorf,5–2,Karlsruher,,,Edgar Steinborn,/en/matches/0262caa8/Dusseldorf-Karlsruher-October-27-1990-Bundesliga,,0262caa8
+12,Sat,1990-10-27,,Eint Frankfurt,1–4,Bayern Munich,,,Manfred Neuner,/en/matches/4499547e/Eintracht-Frankfurt-Bayern-Munich-October-27-1990-Bundesliga,,4499547e
+12,Sat,1990-10-27,,Hamburger SV,4–0,Nürnberg,,,Jürgen Aust,/en/matches/6d758ae4/Hamburger-SV-Nurnberg-October-27-1990-Bundesliga,,6d758ae4
+12,Sat,1990-10-27,,Kaiserslautern,1–1,Wattenscheid,,,Wolf-Rüdiger Umbach,/en/matches/e933fd7e/Kaiserslautern-Wattenscheid-October-27-1990-Bundesliga,,e933fd7e
+12,Sat,1990-10-27,,Köln,3–1,Uerdingen,,,Manfred Führer,/en/matches/c6f89cd0/Koln-Uerdingen-October-27-1990-Bundesliga,,c6f89cd0
+12,Sat,1990-10-27,,M'Gladbach,1–1,Leverkusen,,,Karl-Heinz Tritschler,/en/matches/059295e7/Monchengladbach-Bayer-Leverkusen-October-27-1990-Bundesliga,,059295e7
+13,Fri,1990-11-09,,Wattenscheid,3–1,Hertha BSC,,,Rainer Boos,/en/matches/144aad08/Wattenscheid-Hertha-BSC-November-9-1990-Bundesliga,,144aad08
+13,Sat,1990-11-10,,Bayern Munich,2–3,Dortmund,,,Alfons Berg,/en/matches/20e34212/Der-Klassiker-Bayern-Munich-Dortmund-November-10-1990-Bundesliga,,20e34212
+13,Sat,1990-11-10,,Kaiserslautern,0–0,Düsseldorf,,,Wolf-Günter Wiesel,/en/matches/7a495854/Kaiserslautern-Dusseldorf-November-10-1990-Bundesliga,,7a495854
+13,Sat,1990-11-10,,Karlsruher,3–2,Bochum,,,Michael Malbranc,/en/matches/c80c42fc/Karlsruher-Bochum-November-10-1990-Bundesliga,,c80c42fc
+13,Sat,1990-11-10,,Leverkusen,2–0,Köln,,,Hans Fux,/en/matches/3ac3768b/Bayer-Leverkusen-Koln-November-10-1990-Bundesliga,,3ac3768b
+13,Sat,1990-11-10,,Nürnberg,0–2,Eint Frankfurt,,,Lothar Löwer,/en/matches/1e32c816/Nurnberg-Eintracht-Frankfurt-November-10-1990-Bundesliga,,1e32c816
+13,Sat,1990-11-10,,St Pauli,1–1,M'Gladbach,,,Manfred Amerell,/en/matches/44b18715/St-Pauli-Monchengladbach-November-10-1990-Bundesliga,,44b18715
+13,Sat,1990-11-10,,Stuttgart,0–1,Werder Bremen,,,Georg Dardenne,/en/matches/e309a190/Stuttgart-Werder-Bremen-November-10-1990-Bundesliga,,e309a190
+13,Sat,1990-11-10,,Uerdingen,0–0,Hamburger SV,,,Dieter Birlenbach,/en/matches/46630707/Uerdingen-Hamburger-SV-November-10-1990-Bundesliga,,46630707
+14,Fri,1990-11-16,,Dortmund,0–2,Nürnberg,,,Wolfgang Mierswa,/en/matches/27dddf9a/Dortmund-Nurnberg-November-16-1990-Bundesliga,,27dddf9a
+14,Fri,1990-11-16,,Düsseldorf,2–1,Wattenscheid,,,Hans Fux,/en/matches/64d8aa41/Dusseldorf-Wattenscheid-November-16-1990-Bundesliga,,64d8aa41
+14,Fri,1990-11-16,,Köln,2–0,St Pauli,,,Hans Scheuerer,/en/matches/99027f29/Koln-St-Pauli-November-16-1990-Bundesliga,,99027f29
+14,Sat,1990-11-17,,Bochum,0–2,Kaiserslautern,,,Aron Schmidhuber,/en/matches/e9bd416f/Bochum-Kaiserslautern-November-17-1990-Bundesliga,,e9bd416f
+14,Sat,1990-11-17,,Eint Frankfurt,4–0,Uerdingen,,,Hans-Joachim Osmers,/en/matches/d92df16b/Eintracht-Frankfurt-Uerdingen-November-17-1990-Bundesliga,,d92df16b
+14,Sat,1990-11-17,,Hamburger SV,3–1,Leverkusen,,,Gerhard Theobald,/en/matches/54ed6f9e/Hamburger-SV-Bayer-Leverkusen-November-17-1990-Bundesliga,,54ed6f9e
+14,Sat,1990-11-17,,Hertha BSC,0–0,Bayern Munich,,,Michael Prengel,/en/matches/6f321d81/Hertha-BSC-Bayern-Munich-November-17-1990-Bundesliga,,6f321d81
+14,Sat,1990-11-17,,M'Gladbach,2–0,Stuttgart,,,Alfons Berg,/en/matches/bbe94fda/Monchengladbach-Stuttgart-November-17-1990-Bundesliga,,bbe94fda
+14,Sat,1990-11-17,,Werder Bremen,2–0,Karlsruher,,,Manfred Führer,/en/matches/dd3b9a86/Werder-Bremen-Karlsruher-November-17-1990-Bundesliga,,dd3b9a86
+15,Sat,1990-11-24,,Bayern Munich,7–0,Wattenscheid,,,Karl-Heinz Tritschler,/en/matches/3711b0d7/Bayern-Munich-Wattenscheid-November-24-1990-Bundesliga,,3711b0d7
+15,Sat,1990-11-24,,Kaiserslautern,1–0,Werder Bremen,,,Manfred Amerell,/en/matches/833a42d6/Kaiserslautern-Werder-Bremen-November-24-1990-Bundesliga,,833a42d6
+15,Sat,1990-11-24,,Karlsruher,3–2,M'Gladbach,,,Manfred Harder,/en/matches/f82e1c5a/Karlsruher-Monchengladbach-November-24-1990-Bundesliga,,f82e1c5a
+15,Sat,1990-11-24,,Leverkusen,2–2,Eint Frankfurt,,,Hans-Peter Dellwing,/en/matches/a3d9bef8/Bayer-Leverkusen-Eintracht-Frankfurt-November-24-1990-Bundesliga,,a3d9bef8
+15,Sat,1990-11-24,,Nürnberg,1–4,Hertha BSC,,,Werner Föckler,/en/matches/f0a4b20d/Nurnberg-Hertha-BSC-November-24-1990-Bundesliga,,f0a4b20d
+15,Sat,1990-11-24,,Stuttgart,3–2,Köln,,,Edgar Steinborn,/en/matches/2cf06bab/Stuttgart-Koln-November-24-1990-Bundesliga,,2cf06bab
+15,Sat,1990-11-24,,Uerdingen,1–3,Dortmund,,,Manfred Neuner,/en/matches/42e78e2c/Uerdingen-Dortmund-November-24-1990-Bundesliga,,42e78e2c
+15,Sun,1990-11-25,,St Pauli,0–2,Hamburger SV,,,Siegfried Kirschen,/en/matches/18c7b3a9/St-Pauli-Hamburger-SV-November-25-1990-Bundesliga,,18c7b3a9
+15,Sat,1990-12-01,,Bochum,0–0,Düsseldorf,,,Hermann Albrecht,/en/matches/e76c6669/Bochum-Dusseldorf-December-1-1990-Bundesliga,,e76c6669
+16,Fri,1990-12-07,,Dortmund,1–1,Leverkusen,,,Rainer Boos,/en/matches/662e62bf/Dortmund-Bayer-Leverkusen-December-7-1990-Bundesliga,,662e62bf
+16,Fri,1990-12-07,,Köln,0–0,Karlsruher,,,Hans-Jürgen Kasper,/en/matches/daa3b9b8/Koln-Karlsruher-December-7-1990-Bundesliga,,daa3b9b8
+16,Fri,1990-12-07,,M'Gladbach,2–2,Kaiserslautern,,,Manfred Neuner,/en/matches/9f6af410/Monchengladbach-Kaiserslautern-December-7-1990-Bundesliga,,9f6af410
+16,Sat,1990-12-08,,Bayern Munich,1–0,Nürnberg,,,Hellmut Krug,/en/matches/3b68c960/Bayern-Munich-Nurnberg-December-8-1990-Bundesliga,,3b68c960
+16,Sat,1990-12-08,,Eint Frankfurt,1–1,St Pauli,,,Georg Dardenne,/en/matches/5f6a9069/Eintracht-Frankfurt-St-Pauli-December-8-1990-Bundesliga,,5f6a9069
+16,Sat,1990-12-08,,Hamburger SV,2–0,Stuttgart,,,Karl-Josef Assenmacher,/en/matches/f921582f/Hamburger-SV-Stuttgart-December-8-1990-Bundesliga,,f921582f
+16,Sat,1990-12-08,,Hertha BSC,0–0,Uerdingen,,,Wieland Ziller,/en/matches/8f0db1fe/Hertha-BSC-Uerdingen-December-8-1990-Bundesliga,,8f0db1fe
+16,Sat,1990-12-08,,Wattenscheid,0–4,Bochum,,,Werner Föckler,/en/matches/196caf32/Wattenscheid-Bochum-December-8-1990-Bundesliga,,196caf32
+16,Sat,1990-12-08,,Werder Bremen,3–1,Düsseldorf,,,Karl Gangkofer,/en/matches/a8461ebd/Werder-Bremen-Dusseldorf-December-8-1990-Bundesliga,,a8461ebd
+17,Fri,1990-12-14,,Bochum,1–2,Werder Bremen,,,Hans-Peter Dellwing,/en/matches/3561cac6/Bochum-Werder-Bremen-December-14-1990-Bundesliga,,3561cac6
+17,Sat,1990-12-15,,Düsseldorf,4–1,M'Gladbach,,,Bodo Kriegelstein,/en/matches/858bd0e0/Dusseldorf-Monchengladbach-December-15-1990-Bundesliga,,858bd0e0
+17,Sat,1990-12-15,,St Pauli,0–2,Dortmund,,,Hans Fux,/en/matches/39538220/St-Pauli-Dortmund-December-15-1990-Bundesliga,,39538220
+17,Sat,1990-12-15,,Uerdingen,1–1,Bayern Munich,,,Markus Merk,/en/matches/d8a9d607/Uerdingen-Bayern-Munich-December-15-1990-Bundesliga,,d8a9d607
+17,Sun,1990-12-16,,Stuttgart,2–1,Eint Frankfurt,,,Hans-Jürgen Weber,/en/matches/51c51d6a/Stuttgart-Eintracht-Frankfurt-December-16-1990-Bundesliga,,51c51d6a
+17,Sat,1991-02-16,,Nürnberg,4–2,Wattenscheid,,,Hans-Peter Dellwing,/en/matches/e8e7b7e0/Nurnberg-Wattenscheid-February-16-1991-Bundesliga,,e8e7b7e0
+18,Sat,1991-02-23,,Bochum,3–0,M'Gladbach,,,Karl-Josef Assenmacher,/en/matches/e7b000bc/Bochum-Monchengladbach-February-23-1991-Bundesliga,,e7b000bc
+18,Sat,1991-02-23,,Kaiserslautern,1–0,Hamburger SV,,,Rainer Boos,/en/matches/ec05e5bb/Kaiserslautern-Hamburger-SV-February-23-1991-Bundesliga,,ec05e5bb
+18,Sat,1991-02-23,,Leverkusen,1–2,Bayern Munich,,,Werner Föckler,/en/matches/68a7aa0d/Bayer-Leverkusen-Bayern-Munich-February-23-1991-Bundesliga,,68a7aa0d
+18,Sat,1991-02-23,,Stuttgart,7–0,Dortmund,,,Wolf-Günter Wiesel,/en/matches/adfcdd8a/Stuttgart-Dortmund-February-23-1991-Bundesliga,,adfcdd8a
+18,Sat,1991-02-23,,Uerdingen,0–0,Nürnberg,,,Manfred Harder,/en/matches/12c26814/Uerdingen-Nurnberg-February-23-1991-Bundesliga,,12c26814
+18,Tue,1991-02-26,,Karlsruher,2–2,Eint Frankfurt,,,Jürgen Aust,/en/matches/d5046e84/Karlsruher-Eintracht-Frankfurt-February-26-1991-Bundesliga,,d5046e84
+18,Tue,1991-02-26,,Werder Bremen,1–1,Wattenscheid,,,Hans Fux,/en/matches/4cbdb01a/Werder-Bremen-Wattenscheid-February-26-1991-Bundesliga,,4cbdb01a
+18,Wed,1991-02-27,,Düsseldorf,0–2,Köln,,,Wolfgang Mierswa,/en/matches/784a2be0/Dusseldorf-Koln-February-27-1991-Bundesliga,,784a2be0
+19,Fri,1991-03-01,,Wattenscheid,0–0,Uerdingen,,,Manfred Amerell,/en/matches/e48f582c/Wattenscheid-Uerdingen-March-1-1991-Bundesliga,,e48f582c
+19,Sat,1991-03-02,,Bayern Munich,0–1,St Pauli,,,Manfred Führer,/en/matches/8776aa75/Bayern-Munich-St-Pauli-March-2-1991-Bundesliga,,8776aa75
+19,Sat,1991-03-02,,Dortmund,2–2,Karlsruher,,,Peter Mölm,/en/matches/c4536981/Dortmund-Karlsruher-March-2-1991-Bundesliga,,c4536981
+19,Sat,1991-03-02,,Eint Frankfurt,4–3,Kaiserslautern,,,Michael Prengel,/en/matches/7282ea6b/Eintracht-Frankfurt-Kaiserslautern-March-2-1991-Bundesliga,,7282ea6b
+19,Sat,1991-03-02,,Hamburger SV,1–0,Düsseldorf,,,Karl-Heinz Tritschler,/en/matches/cdfe6896/Hamburger-SV-Dusseldorf-March-2-1991-Bundesliga,,cdfe6896
+19,Sat,1991-03-02,,Hertha BSC,0–2,Stuttgart,,,Michael Malbranc,/en/matches/d7db5d2b/Hertha-BSC-Stuttgart-March-2-1991-Bundesliga,,d7db5d2b
+19,Sat,1991-03-02,,Köln,0–0,Bochum,,,Alfons Berg,/en/matches/4661b88d/Koln-Bochum-March-2-1991-Bundesliga,,4661b88d
+19,Sat,1991-03-02,,Nürnberg,1–0,Leverkusen,,,Hans-Jürgen Kasper,/en/matches/c1b270a1/Nurnberg-Bayer-Leverkusen-March-2-1991-Bundesliga,,c1b270a1
+19,Sun,1991-03-03,,M'Gladbach,1–1,Werder Bremen,,,Rainer Boos,/en/matches/d8b1e115/Monchengladbach-Werder-Bremen-March-3-1991-Bundesliga,,d8b1e115
+18,Tue,1991-03-05,,St Pauli,2–2,Hertha BSC,,,Hermann Albrecht,/en/matches/99540606/St-Pauli-Hertha-BSC-March-5-1991-Bundesliga,,99540606
+20,Fri,1991-03-08,,St Pauli,0–0,Nürnberg,,,Werner Föckler,/en/matches/28b6ffec/St-Pauli-Nurnberg-March-8-1991-Bundesliga,,28b6ffec
+20,Fri,1991-03-08,,Werder Bremen,2–1,Köln,,,Gerhard Theobald,/en/matches/52c9bf7d/Werder-Bremen-Koln-March-8-1991-Bundesliga,,52c9bf7d
+20,Sat,1991-03-09,,Bochum,0–1,Hamburger SV,,,Markus Merk,/en/matches/66cff9ad/Bochum-Hamburger-SV-March-9-1991-Bundesliga,,66cff9ad
+20,Sat,1991-03-09,,Düsseldorf,1–0,Eint Frankfurt,,,Hans-Jürgen Kasper,/en/matches/a330aaa5/Dusseldorf-Eintracht-Frankfurt-March-9-1991-Bundesliga,,a330aaa5
+20,Sat,1991-03-09,,Kaiserslautern,2–2,Dortmund,,,Hans Scheuerer,/en/matches/f1e7a128/Kaiserslautern-Dortmund-March-9-1991-Bundesliga,,f1e7a128
+20,Sat,1991-03-09,,Karlsruher,3–0,Hertha BSC,,,Karl-Josef Assenmacher,/en/matches/132fc7e0/Karlsruher-Hertha-BSC-March-9-1991-Bundesliga,,132fc7e0
+20,Sat,1991-03-09,,Leverkusen,1–0,Uerdingen,,,Wolf-Günter Wiesel,/en/matches/47b2f008/Bayer-Leverkusen-Uerdingen-March-9-1991-Bundesliga,,47b2f008
+20,Sat,1991-03-09,,M'Gladbach,1–1,Wattenscheid,,,Wolfgang Mierswa,/en/matches/36a79cfe/Monchengladbach-Wattenscheid-March-9-1991-Bundesliga,,36a79cfe
+20,Sat,1991-03-09,,Stuttgart,0–3,Bayern Munich,,,Siegfried Kirschen,/en/matches/1fc1722b/Stuttgart-Bayern-Munich-March-9-1991-Bundesliga,,1fc1722b
+21,Fri,1991-03-15,,Bayern Munich,3–0,Karlsruher,,,Lothar Löwer,/en/matches/e41d7c31/Bayern-Munich-Karlsruher-March-15-1991-Bundesliga,,e41d7c31
+21,Fri,1991-03-15,,Hamburger SV,3–2,Werder Bremen,,,Aron Schmidhuber,/en/matches/cb64395f/Hamburger-SV-Werder-Bremen-March-15-1991-Bundesliga,,cb64395f
+21,Fri,1991-03-15,,Wattenscheid,1–2,Leverkusen,,,Manfred Neuner,/en/matches/eba363f5/Wattenscheid-Bayer-Leverkusen-March-15-1991-Bundesliga,,eba363f5
+21,Sat,1991-03-16,,Dortmund,1–1,Düsseldorf,,,Wolf-Rüdiger Umbach,/en/matches/16676494/Dortmund-Dusseldorf-March-16-1991-Bundesliga,,16676494
+21,Sat,1991-03-16,,Eint Frankfurt,1–1,Bochum,,,Günther Habermann,/en/matches/3eaf81e5/Eintracht-Frankfurt-Bochum-March-16-1991-Bundesliga,,3eaf81e5
+21,Sat,1991-03-16,,Hertha BSC,0–2,Kaiserslautern,,,Klaus Broska,/en/matches/e28c4d57/Hertha-BSC-Kaiserslautern-March-16-1991-Bundesliga,,e28c4d57
+21,Sat,1991-03-16,,Köln,1–3,M'Gladbach,,,Hellmut Krug,/en/matches/471135f3/Koln-Monchengladbach-March-16-1991-Bundesliga,,471135f3
+21,Sat,1991-03-16,,Nürnberg,0–1,Stuttgart,,,Georg Dardenne,/en/matches/2eb2aae3/Nurnberg-Stuttgart-March-16-1991-Bundesliga,,2eb2aae3
+21,Sat,1991-03-16,,Uerdingen,2–0,St Pauli,,,Rainer Boos,/en/matches/ed6cdfb9/Uerdingen-St-Pauli-March-16-1991-Bundesliga,,ed6cdfb9
+17,Tue,1991-03-19,,Kaiserslautern,2–2,Köln,,,Eugen Strigel,/en/matches/17f988aa/Kaiserslautern-Koln-March-19-1991-Bundesliga,,17f988aa
+17,Tue,1991-03-19,,Karlsruher,2–2,Hamburger SV,,,Klaus Broska,/en/matches/93bc556f/Karlsruher-Hamburger-SV-March-19-1991-Bundesliga,,93bc556f
+17,Tue,1991-03-19,,Leverkusen,3–1,Hertha BSC,,,Karl-Heinz Tritschler,/en/matches/cefac905/Bayer-Leverkusen-Hertha-BSC-March-19-1991-Bundesliga,,cefac905
+22,Fri,1991-03-22,,M'Gladbach,1–1,Hamburger SV,,,Hans Fux,/en/matches/ae8e5462/Monchengladbach-Hamburger-SV-March-22-1991-Bundesliga,,ae8e5462
+22,Fri,1991-03-22,,Stuttgart,3–1,Uerdingen,,,Karl Gangkofer,/en/matches/1ab32c19/Stuttgart-Uerdingen-March-22-1991-Bundesliga,,1ab32c19
+22,Fri,1991-03-22,,Werder Bremen,1–1,Eint Frankfurt,,,Edgar Steinborn,/en/matches/71ed11c4/Werder-Bremen-Eintracht-Frankfurt-March-22-1991-Bundesliga,,71ed11c4
+22,Sat,1991-03-23,,Bochum,2–2,Dortmund,,,Karl-Heinz Tritschler,/en/matches/374dcb2f/Bochum-Dortmund-March-23-1991-Bundesliga,,374dcb2f
+22,Sat,1991-03-23,,Düsseldorf,4–2,Hertha BSC,,,Hans-Joachim Osmers,/en/matches/806b246a/Dusseldorf-Hertha-BSC-March-23-1991-Bundesliga,,806b246a
+22,Sat,1991-03-23,,Kaiserslautern,2–1,Bayern Munich,,,Karl-Josef Assenmacher,/en/matches/7ebb18e3/Kaiserslautern-Bayern-Munich-March-23-1991-Bundesliga,,7ebb18e3
+22,Sat,1991-03-23,,Karlsruher,2–0,Nürnberg,,,Hans-Jürgen Weber,/en/matches/db199bc0/Karlsruher-Nurnberg-March-23-1991-Bundesliga,,db199bc0
+22,Sat,1991-03-23,,Köln,1–1,Wattenscheid,,,Michael Prengel,/en/matches/666d8c61/Koln-Wattenscheid-March-23-1991-Bundesliga,,666d8c61
+22,Sat,1991-03-23,,St Pauli,1–0,Leverkusen,,,Markus Merk,/en/matches/ca264271/St-Pauli-Bayer-Leverkusen-March-23-1991-Bundesliga,,ca264271
+23,Tue,1991-04-02,,Bayern Munich,0–1,Düsseldorf,,,Wolf-Günter Wiesel,/en/matches/a93d973c/Bayern-Munich-Dusseldorf-April-2-1991-Bundesliga,,a93d973c
+23,Tue,1991-04-02,,Dortmund,1–1,Werder Bremen,,,Manfred Neuner,/en/matches/73de29a6/Dortmund-Werder-Bremen-April-2-1991-Bundesliga,,73de29a6
+23,Tue,1991-04-02,,Hertha BSC,2–4,Bochum,,,Hans Scheuerer,/en/matches/21496365/Hertha-BSC-Bochum-April-2-1991-Bundesliga,,21496365
+23,Tue,1991-04-02,,Leverkusen,0–0,Stuttgart,,,Wolfgang Mierswa,/en/matches/2293d00e/Bayer-Leverkusen-Stuttgart-April-2-1991-Bundesliga,,2293d00e
+23,Tue,1991-04-02,,Nürnberg,1–4,Kaiserslautern,,,Manfred Führer,/en/matches/50b5ff18/Nurnberg-Kaiserslautern-April-2-1991-Bundesliga,,50b5ff18
+23,Tue,1991-04-02,,Uerdingen,1–1,Karlsruher,,,Hans-Peter Dellwing,/en/matches/da67cdf0/Uerdingen-Karlsruher-April-2-1991-Bundesliga,,da67cdf0
+23,Wed,1991-04-03,,Eint Frankfurt,5–1,M'Gladbach,,,Michael Malbranc,/en/matches/3f70b2bf/Eintracht-Frankfurt-Monchengladbach-April-3-1991-Bundesliga,,3f70b2bf
+23,Wed,1991-04-03,,Hamburger SV,1–1,Köln,,,Werner Föckler,/en/matches/e986b1da/Hamburger-SV-Koln-April-3-1991-Bundesliga,,e986b1da
+23,Wed,1991-04-03,,Wattenscheid,2–2,St Pauli,,,Edgar Steinborn,/en/matches/dd0fe090/Wattenscheid-St-Pauli-April-3-1991-Bundesliga,,dd0fe090
+24,Fri,1991-04-05,,Düsseldorf,3–0,Nürnberg,,,Wieland Ziller,/en/matches/455cd3a0/Dusseldorf-Nurnberg-April-5-1991-Bundesliga,,455cd3a0
+24,Fri,1991-04-05,,Karlsruher,2–0,Leverkusen,,,Hans-Joachim Osmers,/en/matches/db1891a1/Karlsruher-Bayer-Leverkusen-April-5-1991-Bundesliga,,db1891a1
+24,Fri,1991-04-05,,Werder Bremen,6–0,Hertha BSC,,,Michael Prengel,/en/matches/8f12f916/Werder-Bremen-Hertha-BSC-April-5-1991-Bundesliga,,8f12f916
+24,Sat,1991-04-06,,Bochum,1–2,Bayern Munich,,,Manfred Harder,/en/matches/6d414bcd/Bochum-Bayern-Munich-April-6-1991-Bundesliga,,6d414bcd
+24,Sat,1991-04-06,,Hamburger SV,0–0,Wattenscheid,,,Alfons Berg,/en/matches/af7ad4ba/Hamburger-SV-Wattenscheid-April-6-1991-Bundesliga,,af7ad4ba
+24,Sat,1991-04-06,,Kaiserslautern,2–0,Uerdingen,,,Dieter Birlenbach,/en/matches/abf933c0/Kaiserslautern-Uerdingen-April-6-1991-Bundesliga,,abf933c0
+24,Sat,1991-04-06,,Köln,2–1,Eint Frankfurt,,,Wolf-Günter Wiesel,/en/matches/796e94b6/Koln-Eintracht-Frankfurt-April-6-1991-Bundesliga,,796e94b6
+24,Sat,1991-04-06,,M'Gladbach,2–1,Dortmund,,,Hermann Albrecht,/en/matches/08f2db78/Monchengladbach-Dortmund-April-6-1991-Bundesliga,,08f2db78
+24,Sat,1991-04-06,,Stuttgart,2–1,St Pauli,,,Gerhard Theobald,/en/matches/456c2669/Stuttgart-St-Pauli-April-6-1991-Bundesliga,,456c2669
+25,Fri,1991-04-12,,Hertha BSC,1–1,M'Gladbach,,,Manfred Harder,/en/matches/8105bc32/Hertha-BSC-Monchengladbach-April-12-1991-Bundesliga,,8105bc32
+25,Fri,1991-04-12,,St Pauli,2–0,Karlsruher,,,Anton Matheis,/en/matches/c3f70bff/St-Pauli-Karlsruher-April-12-1991-Bundesliga,,c3f70bff
+25,Fri,1991-04-12,,Wattenscheid,2–2,Stuttgart,,,Hans-Jürgen Kasper,/en/matches/3a1e4b61/Wattenscheid-Stuttgart-April-12-1991-Bundesliga,,3a1e4b61
+25,Sat,1991-04-13,,Bayern Munich,1–1,Werder Bremen,,,Klaus Broska,/en/matches/3229819a/Bayern-Munich-Werder-Bremen-April-13-1991-Bundesliga,,3229819a
+25,Sat,1991-04-13,,Dortmund,1–2,Köln,,,Bodo Kriegelstein,/en/matches/7db6e67b/Dortmund-Koln-April-13-1991-Bundesliga,,7db6e67b
+25,Sat,1991-04-13,,Eint Frankfurt,0–6,Hamburger SV,,,Lothar Löwer,/en/matches/444aa21a/Eintracht-Frankfurt-Hamburger-SV-April-13-1991-Bundesliga,,444aa21a
+25,Sat,1991-04-13,,Leverkusen,2–2,Kaiserslautern,,,Wolf-Rüdiger Umbach,/en/matches/28eae946/Bayer-Leverkusen-Kaiserslautern-April-13-1991-Bundesliga,,28eae946
+25,Sat,1991-04-13,,Nürnberg,3–2,Bochum,,,Hans Fux,/en/matches/75b738a2/Nurnberg-Bochum-April-13-1991-Bundesliga,,75b738a2
+25,Sat,1991-04-13,,Uerdingen,1–2,Düsseldorf,,,Aron Schmidhuber,/en/matches/84e40960/Uerdingen-Dusseldorf-April-13-1991-Bundesliga,,84e40960
+26,Tue,1991-04-16,,Bochum,0–2,Uerdingen,,,Wolf-Rüdiger Umbach,/en/matches/f3ca5c5c/Bochum-Uerdingen-April-16-1991-Bundesliga,,f3ca5c5c
+26,Tue,1991-04-16,,Eint Frankfurt,4–0,Wattenscheid,,,Eugen Strigel,/en/matches/ac89d49f/Eintracht-Frankfurt-Wattenscheid-April-16-1991-Bundesliga,,ac89d49f
+26,Tue,1991-04-16,,Karlsruher,0–0,Stuttgart,,,Karl-Heinz Tritschler,/en/matches/526c6227/Karlsruher-Stuttgart-April-16-1991-Bundesliga,,526c6227
+26,Tue,1991-04-16,,M'Gladbach,1–1,Bayern Munich,,,Markus Merk,/en/matches/d73a2041/Monchengladbach-Bayern-Munich-April-16-1991-Bundesliga,,d73a2041
+26,Wed,1991-04-17,,Düsseldorf,0–2,Leverkusen,,,Manfred Amerell,/en/matches/99d65724/Dusseldorf-Bayer-Leverkusen-April-17-1991-Bundesliga,,99d65724
+26,Wed,1991-04-17,,Hamburger SV,4–0,Dortmund,,,Hans-Peter Dellwing,/en/matches/6c01e33e/Hamburger-SV-Dortmund-April-17-1991-Bundesliga,,6c01e33e
+26,Wed,1991-04-17,,Kaiserslautern,1–0,St Pauli,,,Manfred Neuner,/en/matches/61f2633d/Kaiserslautern-St-Pauli-April-17-1991-Bundesliga,,61f2633d
+26,Wed,1991-04-17,,Köln,2–1,Hertha BSC,,,Peter Mölm,/en/matches/d5ba4d89/Koln-Hertha-BSC-April-17-1991-Bundesliga,,d5ba4d89
+26,Wed,1991-04-17,,Werder Bremen,0–0,Nürnberg,,,Karl-Josef Assenmacher,/en/matches/59905e16/Werder-Bremen-Nurnberg-April-17-1991-Bundesliga,,59905e16
+27,Fri,1991-04-19,,Wattenscheid,1–1,Karlsruher,,,Michael Malbranc,/en/matches/d58a2540/Wattenscheid-Karlsruher-April-19-1991-Bundesliga,,d58a2540
+27,Sat,1991-04-20,,Bayern Munich,2–2,Köln,,,Edgar Steinborn,/en/matches/c2fdfdb2/Bayern-Munich-Koln-April-20-1991-Bundesliga,,c2fdfdb2
+27,Sat,1991-04-20,,Dortmund,0–3,Eint Frankfurt,,,Werner Föckler,/en/matches/4cd0cb64/Dortmund-Eintracht-Frankfurt-April-20-1991-Bundesliga,,4cd0cb64
+27,Sat,1991-04-20,,Leverkusen,4–2,Bochum,,,Aron Schmidhuber,/en/matches/5a372c97/Bayer-Leverkusen-Bochum-April-20-1991-Bundesliga,,5a372c97
+27,Sat,1991-04-20,,Nürnberg,2–2,M'Gladbach,,,Hans-Joachim Osmers,/en/matches/6071ed62/Nurnberg-Monchengladbach-April-20-1991-Bundesliga,,6071ed62
+27,Sat,1991-04-20,,St Pauli,2–3,Düsseldorf,,,Eugen Strigel,/en/matches/051d34f0/St-Pauli-Dusseldorf-April-20-1991-Bundesliga,,051d34f0
+27,Sat,1991-04-20,,Stuttgart,2–2,Kaiserslautern,,,Lothar Löwer,/en/matches/91c8821e/Stuttgart-Kaiserslautern-April-20-1991-Bundesliga,,91c8821e
+27,Sat,1991-04-20,,Uerdingen,0–0,Werder Bremen,,,Hermann Albrecht,/en/matches/f1807780/Uerdingen-Werder-Bremen-April-20-1991-Bundesliga,,f1807780
+27,Fri,1991-04-26,,Hertha BSC,1–4,Hamburger SV,,,Manfred Führer,/en/matches/a0552c08/Hertha-BSC-Hamburger-SV-April-26-1991-Bundesliga,,a0552c08
+28,Fri,1991-05-03,,Bochum,3–0,St Pauli,,,Dieter Birlenbach,/en/matches/2b3e9663/Bochum-St-Pauli-May-3-1991-Bundesliga,,2b3e9663
+28,Fri,1991-05-03,,Kaiserslautern,3–2,Karlsruher,,,Georg Dardenne,/en/matches/80848853/Kaiserslautern-Karlsruher-May-3-1991-Bundesliga,,80848853
+28,Sat,1991-05-04,,Dortmund,2–2,Wattenscheid,,,Bernd Heynemann,/en/matches/130efcc4/Dortmund-Wattenscheid-May-4-1991-Bundesliga,,130efcc4
+28,Sat,1991-05-04,,Düsseldorf,0–4,Stuttgart,,,Markus Merk,/en/matches/b6c62695/Dusseldorf-Stuttgart-May-4-1991-Bundesliga,,b6c62695
+28,Sat,1991-05-04,,Eint Frankfurt,5–1,Hertha BSC,,,Jürgen Aust,/en/matches/c7b9f835/Eintracht-Frankfurt-Hertha-BSC-May-4-1991-Bundesliga,,c7b9f835
+28,Sat,1991-05-04,,Köln,3–1,Nürnberg,,,Michael Malbranc,/en/matches/6f47ed60/Koln-Nurnberg-May-4-1991-Bundesliga,,6f47ed60
+28,Sat,1991-05-04,,M'Gladbach,1–1,Uerdingen,,,Klaus Broska,/en/matches/50a0ba79/Monchengladbach-Uerdingen-May-4-1991-Bundesliga,,50a0ba79
+28,Sat,1991-05-04,,Werder Bremen,1–1,Leverkusen,,,Karl-Heinz Tritschler,/en/matches/12ca4c19/Werder-Bremen-Bayer-Leverkusen-May-4-1991-Bundesliga,,12ca4c19
+28,Sun,1991-05-05,,Hamburger SV,2–3,Bayern Munich,,,Hellmut Krug,/en/matches/ca51d696/Hamburger-SV-Bayern-Munich-May-5-1991-Bundesliga,,ca51d696
+29,Fri,1991-05-10,,Karlsruher,1–1,Düsseldorf,,,Wolfgang Mierswa,/en/matches/0af8ae66/Karlsruher-Dusseldorf-May-10-1991-Bundesliga,,0af8ae66
+29,Fri,1991-05-10,,Leverkusen,2–5,M'Gladbach,,,Eugen Strigel,/en/matches/d4107a27/Bayer-Leverkusen-Monchengladbach-May-10-1991-Bundesliga,,d4107a27
+29,Fri,1991-05-10,,Stuttgart,2–2,Bochum,,,Rainer Boos,/en/matches/6250c4e3/Stuttgart-Bochum-May-10-1991-Bundesliga,,6250c4e3
+29,Sat,1991-05-11,,Bayern Munich,2–0,Eint Frankfurt,,,Bodo Kriegelstein,/en/matches/99b04a53/Bayern-Munich-Eintracht-Frankfurt-May-11-1991-Bundesliga,,99b04a53
+29,Sat,1991-05-11,,Hertha BSC,2–2,Dortmund,,,Manfred Amerell,/en/matches/17116099/Hertha-BSC-Dortmund-May-11-1991-Bundesliga,,17116099
+29,Sat,1991-05-11,,Nürnberg,3–1,Hamburger SV,,,Michael Prengel,/en/matches/54486bde/Nurnberg-Hamburger-SV-May-11-1991-Bundesliga,,54486bde
+29,Sat,1991-05-11,,St Pauli,0–0,Werder Bremen,,,Manfred Harder,/en/matches/bc3faba6/St-Pauli-Werder-Bremen-May-11-1991-Bundesliga,,bc3faba6
+29,Sat,1991-05-11,,Uerdingen,0–3,Köln,,,Alfons Berg,/en/matches/02f1b860/Uerdingen-Koln-May-11-1991-Bundesliga,,02f1b860
+29,Sat,1991-05-11,,Wattenscheid,0–0,Kaiserslautern,,,Hermann Albrecht,/en/matches/bdade020/Wattenscheid-Kaiserslautern-May-11-1991-Bundesliga,,bdade020
+30,Fri,1991-05-17,,Dortmund,2–3,Bayern Munich,,,Gerhard Theobald,/en/matches/e527b100/Der-Klassiker-Dortmund-Bayern-Munich-May-17-1991-Bundesliga,,e527b100
+30,Fri,1991-05-17,,Eint Frankfurt,0–1,Nürnberg,,,Manfred Führer,/en/matches/abc67633/Eintracht-Frankfurt-Nurnberg-May-17-1991-Bundesliga,,abc67633
+30,Fri,1991-05-17,,Werder Bremen,0–1,Stuttgart,,,Werner Föckler,/en/matches/4f7cdabb/Werder-Bremen-Stuttgart-May-17-1991-Bundesliga,,4f7cdabb
+30,Sat,1991-05-18,,Bochum,0–1,Karlsruher,,,Hans-Jürgen Kasper,/en/matches/3647bd6c/Bochum-Karlsruher-May-18-1991-Bundesliga,,3647bd6c
+30,Sat,1991-05-18,,Düsseldorf,0–0,Kaiserslautern,,,Michael Malbranc,/en/matches/f4984825/Dusseldorf-Kaiserslautern-May-18-1991-Bundesliga,,f4984825
+30,Sat,1991-05-18,,Hamburger SV,2–0,Uerdingen,,,Manfred Neuner,/en/matches/bf5ba4a7/Hamburger-SV-Uerdingen-May-18-1991-Bundesliga,,bf5ba4a7
+30,Sat,1991-05-18,,Hertha BSC,2–3,Wattenscheid,,,Karl Gangkofer,/en/matches/c82cf1ce/Hertha-BSC-Wattenscheid-May-18-1991-Bundesliga,,c82cf1ce
+30,Sat,1991-05-18,,Köln,1–1,Leverkusen,,,Hans Scheuerer,/en/matches/7a4f89d8/Koln-Bayer-Leverkusen-May-18-1991-Bundesliga,,7a4f89d8
+30,Sat,1991-05-18,,M'Gladbach,1–1,St Pauli,,,Bodo Kriegelstein,/en/matches/046ded08/Monchengladbach-St-Pauli-May-18-1991-Bundesliga,,046ded08
+31,Fri,1991-05-24,,Kaiserslautern,4–1,Bochum,,,Karl-Heinz Tritschler,/en/matches/a7157be2/Kaiserslautern-Bochum-May-24-1991-Bundesliga,,a7157be2
+31,Fri,1991-05-24,,Nürnberg,1–1,Dortmund,,,Wolf-Rüdiger Umbach,/en/matches/68af83b4/Nurnberg-Dortmund-May-24-1991-Bundesliga,,68af83b4
+31,Fri,1991-05-24,,Uerdingen,2–3,Eint Frankfurt,,,Peter Mölm,/en/matches/b84f256d/Uerdingen-Eintracht-Frankfurt-May-24-1991-Bundesliga,,b84f256d
+31,Sat,1991-05-25,,Bayern Munich,7–3,Hertha BSC,,,Hans-Jürgen Kasper,/en/matches/e5eeb59c/Bayern-Munich-Hertha-BSC-May-25-1991-Bundesliga,,e5eeb59c
+31,Sat,1991-05-25,,Karlsruher,1–1,Werder Bremen,,,Lothar Löwer,/en/matches/24fd2ac0/Karlsruher-Werder-Bremen-May-25-1991-Bundesliga,,24fd2ac0
+31,Sat,1991-05-25,,Leverkusen,2–2,Hamburger SV,,,Rainer Boos,/en/matches/1daef6ce/Bayer-Leverkusen-Hamburger-SV-May-25-1991-Bundesliga,,1daef6ce
+31,Sat,1991-05-25,,St Pauli,2–0,Köln,,,Hans-Peter Dellwing,/en/matches/f93bccae/St-Pauli-Koln-May-25-1991-Bundesliga,,f93bccae
+31,Sat,1991-05-25,,Stuttgart,1–1,M'Gladbach,,,Dieter Birlenbach,/en/matches/eb7d83d0/Stuttgart-Monchengladbach-May-25-1991-Bundesliga,,eb7d83d0
+31,Sat,1991-05-25,,Wattenscheid,2–0,Düsseldorf,,,Karl-Josef Assenmacher,/en/matches/70a56bd9/Wattenscheid-Dusseldorf-May-25-1991-Bundesliga,,70a56bd9
+32,Thu,1991-05-30,,Eint Frankfurt,3–1,Leverkusen,,,Anton Matheis,/en/matches/78d2c614/Eintracht-Frankfurt-Bayer-Leverkusen-May-30-1991-Bundesliga,,78d2c614
+32,Fri,1991-05-31,,Dortmund,1–0,Uerdingen,,,Karl-Josef Assenmacher,/en/matches/21fae9f0/Dortmund-Uerdingen-May-31-1991-Bundesliga,,21fae9f0
+32,Fri,1991-05-31,,Düsseldorf,3–4,Bochum,,,Manfred Neuner,/en/matches/0a8a1ba4/Dusseldorf-Bochum-May-31-1991-Bundesliga,,0a8a1ba4
+32,Sat,1991-06-01,,Hamburger SV,5–0,St Pauli,,,Manfred Amerell,/en/matches/5155c606/Hamburger-SV-St-Pauli-June-1-1991-Bundesliga,,5155c606
+32,Sat,1991-06-01,,Hertha BSC,2–4,Nürnberg,,,Georg Dardenne,/en/matches/506ac067/Hertha-BSC-Nurnberg-June-1-1991-Bundesliga,,506ac067
+32,Sat,1991-06-01,,Köln,1–6,Stuttgart,,,Bodo Kriegelstein,/en/matches/ccb9a58f/Koln-Stuttgart-June-1-1991-Bundesliga,,ccb9a58f
+32,Sat,1991-06-01,,M'Gladbach,2–1,Karlsruher,,,Manfred Führer,/en/matches/a404bce6/Monchengladbach-Karlsruher-June-1-1991-Bundesliga,,a404bce6
+32,Sat,1991-06-01,,Wattenscheid,3–2,Bayern Munich,,,Wolf-Günter Wiesel,/en/matches/6669104c/Wattenscheid-Bayern-Munich-June-1-1991-Bundesliga,,6669104c
+32,Sat,1991-06-01,,Werder Bremen,1–2,Kaiserslautern,,,Eugen Strigel,/en/matches/5b8012ff/Werder-Bremen-Kaiserslautern-June-1-1991-Bundesliga,,5b8012ff
+33,Sat,1991-06-08,,Bochum,0–0,Wattenscheid,,,Hans Scheuerer,/en/matches/89a57af2/Bochum-Wattenscheid-June-8-1991-Bundesliga,,89a57af2
+33,Sat,1991-06-08,,Düsseldorf,1–2,Werder Bremen,,,Alfons Berg,/en/matches/7d208ab1/Dusseldorf-Werder-Bremen-June-8-1991-Bundesliga,,7d208ab1
+33,Sat,1991-06-08,,Kaiserslautern,2–3,M'Gladbach,,,Wolf-Günter Wiesel,/en/matches/7d3842eb/Kaiserslautern-Monchengladbach-June-8-1991-Bundesliga,,7d3842eb
+33,Sat,1991-06-08,,Karlsruher,1–1,Köln,,,Hermann Albrecht,/en/matches/9fa58418/Karlsruher-Koln-June-8-1991-Bundesliga,,9fa58418
+33,Sat,1991-06-08,,Leverkusen,1–2,Dortmund,,,Dieter Birlenbach,/en/matches/6a51801f/Bayer-Leverkusen-Dortmund-June-8-1991-Bundesliga,,6a51801f
+33,Sat,1991-06-08,,Nürnberg,0–1,Bayern Munich,,,Hans-Jürgen Weber,/en/matches/f1056120/Nurnberg-Bayern-Munich-June-8-1991-Bundesliga,,f1056120
+33,Sat,1991-06-08,,St Pauli,1–1,Eint Frankfurt,,,Michael Prengel,/en/matches/41b63f59/St-Pauli-Eintracht-Frankfurt-June-8-1991-Bundesliga,,41b63f59
+33,Sat,1991-06-08,,Stuttgart,2–0,Hamburger SV,,,Klaus Broska,/en/matches/d0796b67/Stuttgart-Hamburger-SV-June-8-1991-Bundesliga,,d0796b67
+33,Sat,1991-06-08,,Uerdingen,1–2,Hertha BSC,,,Aron Schmidhuber,/en/matches/cea42957/Uerdingen-Hertha-BSC-June-8-1991-Bundesliga,,cea42957
+34,Sat,1991-06-15,,Bayern Munich,2–2,Uerdingen,,,Alfons Berg,/en/matches/da56d3bf/Bayern-Munich-Uerdingen-June-15-1991-Bundesliga,,da56d3bf
+34,Sat,1991-06-15,,Dortmund,5–2,St Pauli,,,Karl-Heinz Tritschler,/en/matches/d15fae16/Dortmund-St-Pauli-June-15-1991-Bundesliga,,d15fae16
+34,Sat,1991-06-15,,Eint Frankfurt,4–0,Stuttgart,,,Hellmut Krug,/en/matches/c31b18d2/Eintracht-Frankfurt-Stuttgart-June-15-1991-Bundesliga,,c31b18d2
+34,Sat,1991-06-15,,Hamburger SV,2–2,Karlsruher,,,Hans-Jürgen Weber,/en/matches/e51ff743/Hamburger-SV-Karlsruher-June-15-1991-Bundesliga,,e51ff743
+34,Sat,1991-06-15,,Hertha BSC,1–2,Leverkusen,,,Hans Fux,/en/matches/66939f01/Hertha-BSC-Bayer-Leverkusen-June-15-1991-Bundesliga,,66939f01
+34,Sat,1991-06-15,,Köln,2–6,Kaiserslautern,,,Manfred Harder,/en/matches/c023d9c2/Koln-Kaiserslautern-June-15-1991-Bundesliga,,c023d9c2
+34,Sat,1991-06-15,,M'Gladbach,2–0,Düsseldorf,,,Georg Dardenne,/en/matches/cc76edd8/Monchengladbach-Dusseldorf-June-15-1991-Bundesliga,,cc76edd8
+34,Sat,1991-06-15,,Wattenscheid,0–1,Nürnberg,,,Markus Merk,/en/matches/3cc37cf5/Wattenscheid-Nurnberg-June-15-1991-Bundesliga,,3cc37cf5
+34,Sat,1991-06-15,,Werder Bremen,2–1,Bochum,,,Wieland Ziller,/en/matches/dc9a28dd/Werder-Bremen-Bochum-June-15-1991-Bundesliga,,dc9a28dd

@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,2009-08-07,,Wolfsburg,2–0,Stuttgart,,,Felix Brych,/en/matches/630b172c/Wolfsburg-Stuttgart-August-7-2009-Bundesliga,,630b172c
+1,Sat,2009-08-08,,Dortmund,1–0,Köln,,,Wolfgang Stark,/en/matches/1ed266f5/Dortmund-Koln-August-8-2009-Bundesliga,,1ed266f5
+1,Sat,2009-08-08,,Hertha BSC,1–0,Hannover 96,,,Guido Winkmann,/en/matches/3fdae7e9/Hertha-BSC-Hannover-96-August-8-2009-Bundesliga,,3fdae7e9
+1,Sat,2009-08-08,,Hoffenheim,1–1,Bayern Munich,,,Babak Rafati,/en/matches/ecf64e15/Hoffenheim-Bayern-Munich-August-8-2009-Bundesliga,,ecf64e15
+1,Sat,2009-08-08,,Mainz 05,2–2,Leverkusen,,,Deniz Aytekin,/en/matches/78472e7e/Mainz-05-Bayer-Leverkusen-August-8-2009-Bundesliga,,78472e7e
+1,Sat,2009-08-08,,Nürnberg,1–2,Schalke 04,,,Knut Kircher,/en/matches/8e55ef1b/Nurnberg-Schalke-04-August-8-2009-Bundesliga,,8e55ef1b
+1,Sat,2009-08-08,,Werder Bremen,2–3,Eint Frankfurt,,,Helmut Fleischer,/en/matches/5880a490/Werder-Bremen-Eintracht-Frankfurt-August-8-2009-Bundesliga,,5880a490
+1,Sun,2009-08-09,,Bochum,3–3,M'Gladbach,,,Michael Kempter,/en/matches/411ce466/Bochum-Monchengladbach-August-9-2009-Bundesliga,,411ce466
+1,Sun,2009-08-09,,Freiburg,1–1,Hamburger SV,,,Peter Sippel,/en/matches/db1a25e7/Freiburg-Hamburger-SV-August-9-2009-Bundesliga,,db1a25e7
+2,Sat,2009-08-15,,Bayern Munich,1–1,Werder Bremen,,,Manuel Gräfe,/en/matches/56b0593d/Bayern-Munich-Werder-Bremen-August-15-2009-Bundesliga,,56b0593d
+2,Sat,2009-08-15,,Eint Frankfurt,1–1,Nürnberg,,,Michael Weiner,/en/matches/dea870a1/Eintracht-Frankfurt-Nurnberg-August-15-2009-Bundesliga,,dea870a1
+2,Sat,2009-08-15,,Hamburger SV,4–1,Dortmund,,,Michael Kempter,/en/matches/e7ee3aa9/Hamburger-SV-Dortmund-August-15-2009-Bundesliga,,e7ee3aa9
+2,Sat,2009-08-15,,Hannover 96,1–1,Mainz 05,,,Felix Zwayer,/en/matches/b417e103/Hannover-96-Mainz-05-August-15-2009-Bundesliga,,b417e103
+2,Sat,2009-08-15,,Köln,1–3,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/f9021462/Koln-Wolfsburg-August-15-2009-Bundesliga,,f9021462
+2,Sat,2009-08-15,,Leverkusen,1–0,Hoffenheim,,,Peter Gagelmann,/en/matches/10cd1bf0/Bayer-Leverkusen-Hoffenheim-August-15-2009-Bundesliga,,10cd1bf0
+2,Sat,2009-08-15,,Stuttgart,4–2,Freiburg,,,Lutz Wagner,/en/matches/e8563d43/Stuttgart-Freiburg-August-15-2009-Bundesliga,,e8563d43
+2,Sun,2009-08-16,,M'Gladbach,2–1,Hertha BSC,,,Markus Schmidt,/en/matches/c7f5c06f/Monchengladbach-Hertha-BSC-August-16-2009-Bundesliga,,c7f5c06f
+2,Sun,2009-08-16,,Schalke 04,3–0,Bochum,,,Günter Perl,/en/matches/5154c738/Schalke-04-Bochum-August-16-2009-Bundesliga,,5154c738
+3,Fri,2009-08-21,,Hoffenheim,0–0,Schalke 04,,,Michael Weiner,/en/matches/9b879ff5/Hoffenheim-Schalke-04-August-21-2009-Bundesliga,,9b879ff5
+3,Sat,2009-08-22,,Dortmund,1–1,Stuttgart,,,Helmut Fleischer,/en/matches/a05c401f/Dortmund-Stuttgart-August-22-2009-Bundesliga,,a05c401f
+3,Sat,2009-08-22,,Freiburg,0–5,Leverkusen,,,Marco Fritz,/en/matches/d8a4c721/Freiburg-Bayer-Leverkusen-August-22-2009-Bundesliga,,d8a4c721
+3,Sat,2009-08-22,,Köln,0–0,Eint Frankfurt,,,Manuel Gräfe,/en/matches/b8530aa3/Koln-Eintracht-Frankfurt-August-22-2009-Bundesliga,,b8530aa3
+3,Sat,2009-08-22,,Mainz 05,2–1,Bayern Munich,,,Thorsten Kinhöfer,/en/matches/abb7117e/Mainz-05-Bayern-Munich-August-22-2009-Bundesliga,,abb7117e
+3,Sat,2009-08-22,,Nürnberg,0–2,Hannover 96,,,Jochen Drees,/en/matches/c23771a4/Nurnberg-Hannover-96-August-22-2009-Bundesliga,,c23771a4
+3,Sun,2009-08-23,,Bochum,1–0,Hertha BSC,,,Felix Brych,/en/matches/7e1980a3/Bochum-Hertha-BSC-August-23-2009-Bundesliga,,7e1980a3
+3,Sun,2009-08-23,,Werder Bremen,3–0,M'Gladbach,,,Günter Perl,/en/matches/402a1e52/Werder-Bremen-Monchengladbach-August-23-2009-Bundesliga,,402a1e52
+3,Sun,2009-08-23,,Wolfsburg,2–4,Hamburger SV,,,Knut Kircher,/en/matches/b4479fef/Wolfsburg-Hamburger-SV-August-23-2009-Bundesliga,,b4479fef
+4,Fri,2009-08-28,,M'Gladbach,2–0,Mainz 05,,,Peter Sippel,/en/matches/cc8086b9/Monchengladbach-Mainz-05-August-28-2009-Bundesliga,,cc8086b9
+4,Sat,2009-08-29,,Bayern Munich,3–0,Wolfsburg,,,Michael Kempter,/en/matches/65ff9c52/Bayern-Munich-Wolfsburg-August-29-2009-Bundesliga,,65ff9c52
+4,Sat,2009-08-29,,Eint Frankfurt,1–1,Dortmund,,,Florian Meyer,/en/matches/49e7168a/Eintracht-Frankfurt-Dortmund-August-29-2009-Bundesliga,,49e7168a
+4,Sat,2009-08-29,,Hannover 96,0–1,Hoffenheim,,,Lutz Wagner,/en/matches/988f16eb/Hannover-96-Hoffenheim-August-29-2009-Bundesliga,,988f16eb
+4,Sat,2009-08-29,,Leverkusen,2–1,Bochum,,,Wolfgang Stark,/en/matches/5166b2d0/Bayer-Leverkusen-Bochum-August-29-2009-Bundesliga,,5166b2d0
+4,Sat,2009-08-29,,Schalke 04,0–1,Freiburg,,,Helmut Fleischer,/en/matches/3f88ff7a/Schalke-04-Freiburg-August-29-2009-Bundesliga,,3f88ff7a
+4,Sat,2009-08-29,,Stuttgart,0–0,Nürnberg,,,Babak Rafati,/en/matches/c3b14576/Stuttgart-Nurnberg-August-29-2009-Bundesliga,,c3b14576
+4,Sun,2009-08-30,,Hamburger SV,3–1,Köln,,,Felix Brych,/en/matches/8f2491d9/Hamburger-SV-Koln-August-30-2009-Bundesliga,,8f2491d9
+4,Sun,2009-08-30,,Hertha BSC,2–3,Werder Bremen,,,Thorsten Kinhöfer,/en/matches/9799b639/Hertha-BSC-Werder-Bremen-August-30-2009-Bundesliga,,9799b639
+5,Sat,2009-09-12,,Dortmund,1–5,Bayern Munich,,,Knut Kircher,/en/matches/6488baf7/Der-Klassiker-Dortmund-Bayern-Munich-September-12-2009-Bundesliga,,6488baf7
+5,Sat,2009-09-12,,Freiburg,0–2,Eint Frankfurt,,,Guido Winkmann,/en/matches/97fce90b/Freiburg-Eintracht-Frankfurt-September-12-2009-Bundesliga,,97fce90b
+5,Sat,2009-09-12,,Hamburger SV,3–1,Stuttgart,,,Wolfgang Stark,/en/matches/73b0a3de/Hamburger-SV-Stuttgart-September-12-2009-Bundesliga,,73b0a3de
+5,Sat,2009-09-12,,Hoffenheim,3–0,Bochum,,,Felix Zwayer,/en/matches/d0cad679/Hoffenheim-Bochum-September-12-2009-Bundesliga,,d0cad679
+5,Sat,2009-09-12,,Mainz 05,2–1,Hertha BSC,,,Florian Meyer,/en/matches/1c28fcf2/Mainz-05-Hertha-BSC-September-12-2009-Bundesliga,,1c28fcf2
+5,Sat,2009-09-12,,Nürnberg,1–0,M'Gladbach,,,Peter Gagelmann,/en/matches/1fcc6fc4/Nurnberg-Monchengladbach-September-12-2009-Bundesliga,,1fcc6fc4
+5,Sat,2009-09-12,,Wolfsburg,2–3,Leverkusen,,,Felix Brych,/en/matches/48f4f76c/Wolfsburg-Bayer-Leverkusen-September-12-2009-Bundesliga,,48f4f76c
+5,Sun,2009-09-13,,Köln,1–2,Schalke 04,,,Jochen Drees,/en/matches/fc3eeee1/Koln-Schalke-04-September-13-2009-Bundesliga,,fc3eeee1
+5,Sun,2009-09-13,,Werder Bremen,0–0,Hannover 96,,,Markus Schmidt,/en/matches/205ffb47/Werder-Bremen-Hannover-96-September-13-2009-Bundesliga,,205ffb47
+6,Fri,2009-09-18,,Schalke 04,1–2,Wolfsburg,,,Manuel Gräfe,/en/matches/76d7232d/Schalke-04-Wolfsburg-September-18-2009-Bundesliga,,76d7232d
+6,Sat,2009-09-19,,Bayern Munich,2–1,Nürnberg,,,Florian Meyer,/en/matches/b731469e/Bayern-Munich-Nurnberg-September-19-2009-Bundesliga,,b731469e
+6,Sat,2009-09-19,,Bochum,2–3,Mainz 05,,,Babak Rafati,/en/matches/7865a328/Bochum-Mainz-05-September-19-2009-Bundesliga,,7865a328
+6,Sat,2009-09-19,,Hannover 96,1–1,Dortmund,,,Günter Perl,/en/matches/c37916e5/Hannover-96-Dortmund-September-19-2009-Bundesliga,,c37916e5
+6,Sat,2009-09-19,,M'Gladbach,2–4,Hoffenheim,,,Wolfgang Stark,/en/matches/5f117709/Monchengladbach-Hoffenheim-September-19-2009-Bundesliga,,5f117709
+6,Sat,2009-09-19,,Stuttgart,0–2,Köln,,,Michael Weiner,/en/matches/f1ffbdee/Stuttgart-Koln-September-19-2009-Bundesliga,,f1ffbdee
+6,Sun,2009-09-20,,Eint Frankfurt,1–1,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/a11d015f/Eintracht-Frankfurt-Hamburger-SV-September-20-2009-Bundesliga,,a11d015f
+6,Sun,2009-09-20,,Hertha BSC,0–4,Freiburg,,,Deniz Aytekin,/en/matches/88e24e05/Hertha-BSC-Freiburg-September-20-2009-Bundesliga,,88e24e05
+6,Sun,2009-09-20,,Leverkusen,0–0,Werder Bremen,,,Peter Sippel,/en/matches/3741ded9/Bayer-Leverkusen-Werder-Bremen-September-20-2009-Bundesliga,,3741ded9
+7,Fri,2009-09-25,,Nürnberg,0–1,Bochum,,,Marco Fritz,/en/matches/aab5ee00/Nurnberg-Bochum-September-25-2009-Bundesliga,,aab5ee00
+7,Sat,2009-09-26,,Dortmund,0–1,Schalke 04,,,Wolfgang Stark,/en/matches/8a55ffba/Revierderby-Dortmund-Schalke-04-September-26-2009-Bundesliga,,8a55ffba
+7,Sat,2009-09-26,,Eint Frankfurt,0–3,Stuttgart,,,Manuel Gräfe,/en/matches/5d3887fe/Eintracht-Frankfurt-Stuttgart-September-26-2009-Bundesliga,,5d3887fe
+7,Sat,2009-09-26,,Hamburger SV,1–0,Bayern Munich,,,Michael Weiner,/en/matches/526a2c41/Hamburger-SV-Bayern-Munich-September-26-2009-Bundesliga,,526a2c41
+7,Sat,2009-09-26,,Köln,0–1,Leverkusen,,,Michael Kempter,/en/matches/b261edad/Koln-Bayer-Leverkusen-September-26-2009-Bundesliga,,b261edad
+7,Sat,2009-09-26,,Werder Bremen,3–0,Mainz 05,,,Felix Brych,/en/matches/c004dae2/Werder-Bremen-Mainz-05-September-26-2009-Bundesliga,,c004dae2
+7,Sat,2009-09-26,,Wolfsburg,4–2,Hannover 96,,,Peter Gagelmann,/en/matches/41b9dab2/Wolfsburg-Hannover-96-September-26-2009-Bundesliga,,41b9dab2
+7,Sun,2009-09-27,,Freiburg,3–0,M'Gladbach,,,Thorsten Kinhöfer,/en/matches/3a811229/Freiburg-Monchengladbach-September-27-2009-Bundesliga,,3a811229
+7,Sun,2009-09-27,,Hoffenheim,5–1,Hertha BSC,,,Peter Sippel,/en/matches/27ba3fb6/Hoffenheim-Hertha-BSC-September-27-2009-Bundesliga,,27ba3fb6
+8,Fri,2009-10-02,,Schalke 04,2–0,Eint Frankfurt,,,Michael Kempter,/en/matches/e3da78e7/Schalke-04-Eintracht-Frankfurt-October-2-2009-Bundesliga,,e3da78e7
+8,Sat,2009-10-03,,Bayern Munich,0–0,Köln,,,Lutz Wagner,/en/matches/7840b6ed/Bayern-Munich-Koln-October-3-2009-Bundesliga,,7840b6ed
+8,Sat,2009-10-03,,Bochum,1–1,Wolfsburg,,,Jochen Drees,/en/matches/d173914f/Bochum-Wolfsburg-October-3-2009-Bundesliga,,d173914f
+8,Sat,2009-10-03,,Hannover 96,5–2,Freiburg,,,Wolfgang Stark,/en/matches/8afb0895/Hannover-96-Freiburg-October-3-2009-Bundesliga,,8afb0895
+8,Sat,2009-10-03,,Leverkusen,4–0,Nürnberg,,,Markus Schmidt,/en/matches/80ce06a5/Bayer-Leverkusen-Nurnberg-October-3-2009-Bundesliga,,80ce06a5
+8,Sat,2009-10-03,,M'Gladbach,0–1,Dortmund,,,Manuel Gräfe,/en/matches/4f1d034b/Monchengladbach-Dortmund-October-3-2009-Bundesliga,,4f1d034b
+8,Sat,2009-10-03,,Mainz 05,2–1,Hoffenheim,,,Guido Winkmann,/en/matches/aa8d90a8/Mainz-05-Hoffenheim-October-3-2009-Bundesliga,,aa8d90a8
+8,Sun,2009-10-04,,Hertha BSC,1–3,Hamburger SV,,,Günter Perl,/en/matches/ee88b840/Hertha-BSC-Hamburger-SV-October-4-2009-Bundesliga,,ee88b840
+8,Sun,2009-10-04,,Stuttgart,0–2,Werder Bremen,,,Florian Meyer,/en/matches/2851a7b5/Stuttgart-Werder-Bremen-October-4-2009-Bundesliga,,2851a7b5
+9,Sat,2009-10-17,,Eint Frankfurt,2–1,Hannover 96,,,Deniz Aytekin,/en/matches/b10ca220/Eintracht-Frankfurt-Hannover-96-October-17-2009-Bundesliga,,b10ca220
+9,Sat,2009-10-17,,Freiburg,1–2,Bayern Munich,,,Manuel Gräfe,/en/matches/8677c609/Freiburg-Bayern-Munich-October-17-2009-Bundesliga,,8677c609
+9,Sat,2009-10-17,,Hamburger SV,0–0,Leverkusen,,,Florian Meyer,/en/matches/779e5265/Hamburger-SV-Bayer-Leverkusen-October-17-2009-Bundesliga,,779e5265
+9,Sat,2009-10-17,,Köln,1–0,Mainz 05,,,Peter Gagelmann,/en/matches/b23d4b92/Koln-Mainz-05-October-17-2009-Bundesliga,,b23d4b92
+9,Sat,2009-10-17,,Nürnberg,3–0,Hertha BSC,,,Thorsten Kinhöfer,/en/matches/935ed815/Nurnberg-Hertha-BSC-October-17-2009-Bundesliga,,935ed815
+9,Sat,2009-10-17,,Stuttgart,1–2,Schalke 04,,,Felix Brych,/en/matches/51293599/Stuttgart-Schalke-04-October-17-2009-Bundesliga,,51293599
+9,Sat,2009-10-17,,Werder Bremen,2–0,Hoffenheim,,,Knut Kircher,/en/matches/9da56350/Werder-Bremen-Hoffenheim-October-17-2009-Bundesliga,,9da56350
+9,Sun,2009-10-18,,Dortmund,2–0,Bochum,,,Michael Weiner,/en/matches/e93bb8e4/Dortmund-Bochum-October-18-2009-Bundesliga,,e93bb8e4
+9,Sun,2009-10-18,,Wolfsburg,2–1,M'Gladbach,,,Helmut Fleischer,/en/matches/d96d660b/Wolfsburg-Monchengladbach-October-18-2009-Bundesliga,,d96d660b
+10,Fri,2009-10-23,,Leverkusen,1–1,Dortmund,,,Babak Rafati,/en/matches/2ee7ec23/Bayer-Leverkusen-Dortmund-October-23-2009-Bundesliga,,2ee7ec23
+10,Sat,2009-10-24,,Bayern Munich,2–1,Eint Frankfurt,,,Jochen Drees,/en/matches/cee0000c/Bayern-Munich-Eintracht-Frankfurt-October-24-2009-Bundesliga,,cee0000c
+10,Sat,2009-10-24,,Hannover 96,1–0,Stuttgart,,,Guido Winkmann,/en/matches/892ef78c/Hannover-96-Stuttgart-October-24-2009-Bundesliga,,892ef78c
+10,Sat,2009-10-24,,Hoffenheim,3–0,Nürnberg,,,Michael Weiner,/en/matches/d4675520/Hoffenheim-Nurnberg-October-24-2009-Bundesliga,,d4675520
+10,Sat,2009-10-24,,M'Gladbach,0–0,Köln,,,Knut Kircher,/en/matches/e4d1cccc/Monchengladbach-Koln-October-24-2009-Bundesliga,,e4d1cccc
+10,Sat,2009-10-24,,Mainz 05,3–0,Freiburg,,,Markus Schmidt,/en/matches/17b51684/Mainz-05-Freiburg-October-24-2009-Bundesliga,,17b51684
+10,Sun,2009-10-25,,Bochum,1–4,Werder Bremen,,,Peter Sippel,/en/matches/21319f47/Bochum-Werder-Bremen-October-25-2009-Bundesliga,,21319f47
+10,Sun,2009-10-25,,Hertha BSC,0–0,Wolfsburg,,,Lutz Wagner,/en/matches/4cbfa8e2/Hertha-BSC-Wolfsburg-October-25-2009-Bundesliga,,4cbfa8e2
+10,Sun,2009-10-25,,Schalke 04,3–3,Hamburger SV,,,Manuel Gräfe,/en/matches/6296b523/Schalke-04-Hamburger-SV-October-25-2009-Bundesliga,,6296b523
+11,Fri,2009-10-30,,Dortmund,2–0,Hertha BSC,,,Felix Brych,/en/matches/e7972828/Dortmund-Hertha-BSC-October-30-2009-Bundesliga,,e7972828
+11,Sat,2009-10-31,,Hamburger SV,2–3,M'Gladbach,,,Deniz Aytekin,/en/matches/b1a344d7/Hamburger-SV-Monchengladbach-October-31-2009-Bundesliga,,b1a344d7
+11,Sat,2009-10-31,,Köln,0–1,Hannover 96,,,Helmut Fleischer,/en/matches/6877c5b1/Koln-Hannover-96-October-31-2009-Bundesliga,,6877c5b1
+11,Sat,2009-10-31,,Nürnberg,2–2,Werder Bremen,,,Guido Winkmann,/en/matches/b0a61212/Nurnberg-Werder-Bremen-October-31-2009-Bundesliga,,b0a61212
+11,Sat,2009-10-31,,Schalke 04,2–2,Leverkusen,,,Michael Weiner,/en/matches/2a133d76/Schalke-04-Bayer-Leverkusen-October-31-2009-Bundesliga,,2a133d76
+11,Sat,2009-10-31,,Stuttgart,0–0,Bayern Munich,,,Michael Kempter,/en/matches/b1c970f6/Stuttgart-Bayern-Munich-October-31-2009-Bundesliga,,b1c970f6
+11,Sat,2009-10-31,,Wolfsburg,3–3,Mainz 05,,,Marco Fritz,/en/matches/9a9715b6/Wolfsburg-Mainz-05-October-31-2009-Bundesliga,,9a9715b6
+11,Sun,2009-11-01,,Eint Frankfurt,2–1,Bochum,,,Peter Gagelmann,/en/matches/4dc9ac3d/Eintracht-Frankfurt-Bochum-November-1-2009-Bundesliga,,4dc9ac3d
+11,Sun,2009-11-01,,Freiburg,0–1,Hoffenheim,,,Florian Meyer,/en/matches/7d512b16/Freiburg-Hoffenheim-November-1-2009-Bundesliga,,7d512b16
+12,Fri,2009-11-06,,Leverkusen,4–0,Eint Frankfurt,,,Felix Zwayer,/en/matches/630ea865/Bayer-Leverkusen-Eintracht-Frankfurt-November-6-2009-Bundesliga,,630ea865
+12,Sat,2009-11-07,,Bayern Munich,1–1,Schalke 04,,,Florian Meyer,/en/matches/39d96581/Bayern-Munich-Schalke-04-November-7-2009-Bundesliga,,39d96581
+12,Sat,2009-11-07,,Bochum,1–2,Freiburg,,,Felix Brych,/en/matches/efdf6955/Bochum-Freiburg-November-7-2009-Bundesliga,,efdf6955
+12,Sat,2009-11-07,,Hoffenheim,1–2,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/108ba4db/Hoffenheim-Wolfsburg-November-7-2009-Bundesliga,,108ba4db
+12,Sat,2009-11-07,,M'Gladbach,0–0,Stuttgart,,,Günter Perl,/en/matches/70ab3c8a/Monchengladbach-Stuttgart-November-7-2009-Bundesliga,,70ab3c8a
+12,Sat,2009-11-07,,Mainz 05,1–0,Nürnberg,,,Michael Kempter,/en/matches/ee30d89e/Mainz-05-Nurnberg-November-7-2009-Bundesliga,,ee30d89e
+12,Sun,2009-11-08,,Hannover 96,2–2,Hamburger SV,,,Jochen Drees,/en/matches/f4354b3b/Hannover-96-Hamburger-SV-November-8-2009-Bundesliga,,f4354b3b
+12,Sun,2009-11-08,,Hertha BSC,0–1,Köln,,,Babak Rafati,/en/matches/d9e78843/Hertha-BSC-Koln-November-8-2009-Bundesliga,,d9e78843
+12,Sun,2009-11-08,,Werder Bremen,1–1,Dortmund,,,Manuel Gräfe,/en/matches/e13fa654/Werder-Bremen-Dortmund-November-8-2009-Bundesliga,,e13fa654
+13,Sat,2009-11-21,,Dortmund,0–0,Mainz 05,,,Michael Weiner,/en/matches/5e724cba/Dortmund-Mainz-05-November-21-2009-Bundesliga,,5e724cba
+13,Sat,2009-11-21,,Eint Frankfurt,1–2,M'Gladbach,,,Peter Sippel,/en/matches/df1df6a3/Eintracht-Frankfurt-Monchengladbach-November-21-2009-Bundesliga,,df1df6a3
+13,Sat,2009-11-21,,Freiburg,0–6,Werder Bremen,,,Thorsten Kinhöfer,/en/matches/4b9b84f8/Freiburg-Werder-Bremen-November-21-2009-Bundesliga,,4b9b84f8
+13,Sat,2009-11-21,,Köln,0–4,Hoffenheim,,,Felix Brych,/en/matches/aba33f4f/Koln-Hoffenheim-November-21-2009-Bundesliga,,aba33f4f
+13,Sat,2009-11-21,,Schalke 04,2–0,Hannover 96,,,Lutz Wagner,/en/matches/c4f0e4fb/Schalke-04-Hannover-96-November-21-2009-Bundesliga,,c4f0e4fb
+13,Sat,2009-11-21,,Stuttgart,1–1,Hertha BSC,,,Peter Gagelmann,/en/matches/d33cd0cf/Stuttgart-Hertha-BSC-November-21-2009-Bundesliga,,d33cd0cf
+13,Sat,2009-11-21,,Wolfsburg,2–3,Nürnberg,,,Markus Schmidt,/en/matches/f45fb8f1/Wolfsburg-Nurnberg-November-21-2009-Bundesliga,,f45fb8f1
+13,Sun,2009-11-22,,Bayern Munich,1–1,Leverkusen,,,Knut Kircher,/en/matches/da522c67/Bayern-Munich-Bayer-Leverkusen-November-22-2009-Bundesliga,,da522c67
+13,Sun,2009-11-22,,Hamburger SV,0–1,Bochum,,,Günter Perl,/en/matches/40b8d2b6/Hamburger-SV-Bochum-November-22-2009-Bundesliga,,40b8d2b6
+14,Fri,2009-11-27,,Bochum,0–0,Köln,,,Deniz Aytekin,/en/matches/6c2c3de6/Bochum-Koln-November-27-2009-Bundesliga,,6c2c3de6
+14,Sat,2009-11-28,,Hertha BSC,1–3,Eint Frankfurt,,,Helmut Fleischer,/en/matches/de76e907/Hertha-BSC-Eintracht-Frankfurt-November-28-2009-Bundesliga,,de76e907
+14,Sat,2009-11-28,,Hoffenheim,1–2,Dortmund,,,Michael Kempter,/en/matches/819e9fd7/Hoffenheim-Dortmund-November-28-2009-Bundesliga,,819e9fd7
+14,Sat,2009-11-28,,M'Gladbach,1–0,Schalke 04,,,Wolfgang Stark,/en/matches/adcace5c/Monchengladbach-Schalke-04-November-28-2009-Bundesliga,,adcace5c
+14,Sat,2009-11-28,,Mainz 05,1–1,Hamburger SV,,,Manuel Gräfe,/en/matches/bfe2bee8/Mainz-05-Hamburger-SV-November-28-2009-Bundesliga,,bfe2bee8
+14,Sat,2009-11-28,,Nürnberg,0–1,Freiburg,,,Babak Rafati,/en/matches/858e7beb/Nurnberg-Freiburg-November-28-2009-Bundesliga,,858e7beb
+14,Sat,2009-11-28,,Werder Bremen,2–2,Wolfsburg,,,Günter Perl,/en/matches/c856f5a6/Werder-Bremen-Wolfsburg-November-28-2009-Bundesliga,,c856f5a6
+14,Sun,2009-11-29,,Hannover 96,0–3,Bayern Munich,,,Thorsten Kinhöfer,/en/matches/bd5094a7/Hannover-96-Bayern-Munich-November-29-2009-Bundesliga,,bd5094a7
+14,Sun,2009-11-29,,Leverkusen,4–0,Stuttgart,,,Florian Meyer,/en/matches/142aae28/Bayer-Leverkusen-Stuttgart-November-29-2009-Bundesliga,,142aae28
+15,Fri,2009-12-04,,Bayern Munich,2–1,M'Gladbach,,,Michael Weiner,/en/matches/2630e088/Bayern-Munich-Monchengladbach-December-4-2009-Bundesliga,,2630e088
+15,Sat,2009-12-05,,Dortmund,4–0,Nürnberg,,,Peter Gagelmann,/en/matches/8a81b2e9/Dortmund-Nurnberg-December-5-2009-Bundesliga,,8a81b2e9
+15,Sat,2009-12-05,,Eint Frankfurt,2–0,Mainz 05,,,Felix Brych,/en/matches/b24c7edf/Eintracht-Frankfurt-Mainz-05-December-5-2009-Bundesliga,,b24c7edf
+15,Sat,2009-12-05,,Hamburger SV,0–0,Hoffenheim,,,Wolfgang Stark,/en/matches/f78a3929/Hamburger-SV-Hoffenheim-December-5-2009-Bundesliga,,f78a3929
+15,Sat,2009-12-05,,Hannover 96,0–0,Leverkusen,,,Peter Sippel,/en/matches/43ebaac0/Hannover-96-Bayer-Leverkusen-December-5-2009-Bundesliga,,43ebaac0
+15,Sat,2009-12-05,,Stuttgart,1–1,Bochum,,,Lutz Wagner,/en/matches/9937bd14/Stuttgart-Bochum-December-5-2009-Bundesliga,,9937bd14
+15,Sat,2009-12-05,,Wolfsburg,2–2,Freiburg,,,Guido Winkmann,/en/matches/afa4b56b/Wolfsburg-Freiburg-December-5-2009-Bundesliga,,afa4b56b
+15,Sun,2009-12-06,,Köln,0–0,Werder Bremen,,,Jochen Drees,/en/matches/80265191/Koln-Werder-Bremen-December-6-2009-Bundesliga,,80265191
+15,Sun,2009-12-06,,Schalke 04,2–0,Hertha BSC,,,Knut Kircher,/en/matches/645f3306/Schalke-04-Hertha-BSC-December-6-2009-Bundesliga,,645f3306
+16,Fri,2009-12-11,,Hertha BSC,2–2,Leverkusen,,,Babak Rafati,/en/matches/49911452/Hertha-BSC-Bayer-Leverkusen-December-11-2009-Bundesliga,,49911452
+16,Sat,2009-12-12,,Bochum,1–5,Bayern Munich,,,Florian Meyer,/en/matches/f1e1168d/Bochum-Bayern-Munich-December-12-2009-Bundesliga,,f1e1168d
+16,Sat,2009-12-12,,Freiburg,0–0,Köln,,,Felix Zwayer,/en/matches/43015530/Freiburg-Koln-December-12-2009-Bundesliga,,43015530
+16,Sat,2009-12-12,,Hoffenheim,1–1,Eint Frankfurt,,,Günter Perl,/en/matches/839d2f1a/Hoffenheim-Eintracht-Frankfurt-December-12-2009-Bundesliga,,839d2f1a
+16,Sat,2009-12-12,,M'Gladbach,5–3,Hannover 96,,,Michael Kempter,/en/matches/2f51a742/Monchengladbach-Hannover-96-December-12-2009-Bundesliga,,2f51a742
+16,Sat,2009-12-12,,Nürnberg,0–4,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/4929e473/Nurnberg-Hamburger-SV-December-12-2009-Bundesliga,,4929e473
+16,Sat,2009-12-12,,Werder Bremen,0–2,Schalke 04,,,Helmut Fleischer,/en/matches/4223d678/Werder-Bremen-Schalke-04-December-12-2009-Bundesliga,,4223d678
+16,Sun,2009-12-13,,Mainz 05,1–1,Stuttgart,,,Wolfgang Stark,/en/matches/abd6098b/Mainz-05-Stuttgart-December-13-2009-Bundesliga,,abd6098b
+16,Sun,2009-12-13,,Wolfsburg,1–3,Dortmund,,,Knut Kircher,/en/matches/5284c7ed/Wolfsburg-Dortmund-December-13-2009-Bundesliga,,5284c7ed
+17,Fri,2009-12-18,,Schalke 04,1–0,Mainz 05,,,Deniz Aytekin,/en/matches/67ff087b/Schalke-04-Mainz-05-December-18-2009-Bundesliga,,67ff087b
+17,Sat,2009-12-19,,Bayern Munich,5–2,Hertha BSC,,,Marco Fritz,/en/matches/8f476f33/Bayern-Munich-Hertha-BSC-December-19-2009-Bundesliga,,8f476f33
+17,Sat,2009-12-19,,Dortmund,1–0,Freiburg,,,Peter Sippel,/en/matches/5137a3a9/Dortmund-Freiburg-December-19-2009-Bundesliga,,5137a3a9
+17,Sat,2009-12-19,,Eint Frankfurt,2–2,Wolfsburg,,,Wolfgang Stark,/en/matches/9ab674df/Eintracht-Frankfurt-Wolfsburg-December-19-2009-Bundesliga,,9ab674df
+17,Sat,2009-12-19,,Hannover 96,2–3,Bochum,,,Knut Kircher,/en/matches/b86fbafa/Hannover-96-Bochum-December-19-2009-Bundesliga,,b86fbafa
+17,Sat,2009-12-19,,Leverkusen,3–2,M'Gladbach,,,Jochen Drees,/en/matches/9ecd78cc/Bayer-Leverkusen-Monchengladbach-December-19-2009-Bundesliga,,9ecd78cc
+17,Sat,2009-12-19,,Stuttgart,3–1,Hoffenheim,,,Manuel Gräfe,/en/matches/6a03955b/Stuttgart-Hoffenheim-December-19-2009-Bundesliga,,6a03955b
+17,Sun,2009-12-20,,Hamburger SV,2–1,Werder Bremen,,,Florian Meyer,/en/matches/9a55a194/Hamburger-SV-Werder-Bremen-December-20-2009-Bundesliga,,9a55a194
+17,Sun,2009-12-20,,Köln,3–0,Nürnberg,,,Lutz Wagner,/en/matches/ac7d5c57/Koln-Nurnberg-December-20-2009-Bundesliga,,ac7d5c57
+18,Fri,2010-01-15,,Bayern Munich,2–0,Hoffenheim,,,Thorsten Kinhöfer,/en/matches/bfbf31a4/Bayern-Munich-Hoffenheim-January-15-2010-Bundesliga,,bfbf31a4
+18,Sat,2010-01-16,,Eint Frankfurt,1–0,Werder Bremen,,,Michael Weiner,/en/matches/89ab6167/Eintracht-Frankfurt-Werder-Bremen-January-16-2010-Bundesliga,,89ab6167
+18,Sat,2010-01-16,,Hamburger SV,2–0,Freiburg,,,Lutz Wagner,/en/matches/7a56bc85/Hamburger-SV-Freiburg-January-16-2010-Bundesliga,,7a56bc85
+18,Sat,2010-01-16,,Hannover 96,0–3,Hertha BSC,,,Peter Gagelmann,/en/matches/658c95df/Hannover-96-Hertha-BSC-January-16-2010-Bundesliga,,658c95df
+18,Sat,2010-01-16,,Leverkusen,4–2,Mainz 05,,,Helmut Fleischer,/en/matches/e157715e/Bayer-Leverkusen-Mainz-05-January-16-2010-Bundesliga,,e157715e
+18,Sat,2010-01-16,,M'Gladbach,1–2,Bochum,,,Babak Rafati,/en/matches/c60ad7b1/Monchengladbach-Bochum-January-16-2010-Bundesliga,,c60ad7b1
+18,Sat,2010-01-16,,Stuttgart,3–1,Wolfsburg,,,Peter Sippel,/en/matches/7a79a8b1/Stuttgart-Wolfsburg-January-16-2010-Bundesliga,,7a79a8b1
+18,Sun,2010-01-17,,Köln,2–3,Dortmund,,,Florian Meyer,/en/matches/e42a503c/Koln-Dortmund-January-17-2010-Bundesliga,,e42a503c
+18,Sun,2010-01-17,,Schalke 04,1–0,Nürnberg,,,Michael Kempter,/en/matches/5a619f21/Schalke-04-Nurnberg-January-17-2010-Bundesliga,,5a619f21
+19,Fri,2010-01-22,,Freiburg,0–1,Stuttgart,,,Felix Brych,/en/matches/787924f0/Freiburg-Stuttgart-January-22-2010-Bundesliga,,787924f0
+19,Sat,2010-01-23,,Bochum,2–2,Schalke 04,,,Wolfgang Stark,/en/matches/3cedd19c/Bochum-Schalke-04-January-23-2010-Bundesliga,,3cedd19c
+19,Sat,2010-01-23,,Dortmund,1–0,Hamburger SV,,,Manuel Gräfe,/en/matches/79c93c06/Dortmund-Hamburger-SV-January-23-2010-Bundesliga,,79c93c06
+19,Sat,2010-01-23,,Hertha BSC,0–0,M'Gladbach,,,Markus Schmidt,/en/matches/3c3bf11d/Hertha-BSC-Monchengladbach-January-23-2010-Bundesliga,,3c3bf11d
+19,Sat,2010-01-23,,Mainz 05,1–0,Hannover 96,,,Guido Winkmann,/en/matches/ec70ea71/Mainz-05-Hannover-96-January-23-2010-Bundesliga,,ec70ea71
+19,Sat,2010-01-23,,Nürnberg,1–1,Eint Frankfurt,,,Jochen Drees,/en/matches/39ea17e9/Nurnberg-Eintracht-Frankfurt-January-23-2010-Bundesliga,,39ea17e9
+19,Sat,2010-01-23,,Werder Bremen,2–3,Bayern Munich,,,Knut Kircher,/en/matches/0f53d9b2/Werder-Bremen-Bayern-Munich-January-23-2010-Bundesliga,,0f53d9b2
+19,Sun,2010-01-24,,Hoffenheim,0–3,Leverkusen,,,Deniz Aytekin,/en/matches/3da74b22/Hoffenheim-Bayer-Leverkusen-January-24-2010-Bundesliga,,3da74b22
+19,Sun,2010-01-24,,Wolfsburg,2–3,Köln,,,Günter Perl,/en/matches/4b83240c/Wolfsburg-Koln-January-24-2010-Bundesliga,,4b83240c
+20,Fri,2010-01-29,,Hamburger SV,1–1,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/d395c02d/Hamburger-SV-Wolfsburg-January-29-2010-Bundesliga,,d395c02d
+20,Sat,2010-01-30,,Bayern Munich,3–0,Mainz 05,,,Babak Rafati,/en/matches/968003fb/Bayern-Munich-Mainz-05-January-30-2010-Bundesliga,,968003fb
+20,Sat,2010-01-30,,Eint Frankfurt,1–2,Köln,,,Peter Sippel,/en/matches/88571660/Eintracht-Frankfurt-Koln-January-30-2010-Bundesliga,,88571660
+20,Sat,2010-01-30,,Hannover 96,1–3,Nürnberg,,,Knut Kircher,/en/matches/082ce091/Hannover-96-Nurnberg-January-30-2010-Bundesliga,,082ce091
+20,Sat,2010-01-30,,Hertha BSC,0–0,Bochum,,,Michael Weiner,/en/matches/cd612bbc/Hertha-BSC-Bochum-January-30-2010-Bundesliga,,cd612bbc
+20,Sat,2010-01-30,,M'Gladbach,4–3,Werder Bremen,,,Felix Brych,/en/matches/0f38ddb0/Monchengladbach-Werder-Bremen-January-30-2010-Bundesliga,,0f38ddb0
+20,Sat,2010-01-30,,Schalke 04,2–0,Hoffenheim,,,Florian Meyer,/en/matches/bd125598/Schalke-04-Hoffenheim-January-30-2010-Bundesliga,,bd125598
+20,Sun,2010-01-31,,Leverkusen,3–1,Freiburg,,,Wolfgang Stark,/en/matches/4b120969/Bayer-Leverkusen-Freiburg-January-31-2010-Bundesliga,,4b120969
+20,Sun,2010-01-31,,Stuttgart,4–1,Dortmund,,,Peter Gagelmann,/en/matches/15b38ac4/Stuttgart-Dortmund-January-31-2010-Bundesliga,,15b38ac4
+21,Fri,2010-02-05,,Werder Bremen,2–1,Hertha BSC,,,Günter Perl,/en/matches/da363080/Werder-Bremen-Hertha-BSC-February-5-2010-Bundesliga,,da363080
+21,Sat,2010-02-06,,Bochum,1–1,Leverkusen,,,Lutz Wagner,/en/matches/887d376f/Bochum-Bayer-Leverkusen-February-6-2010-Bundesliga,,887d376f
+21,Sat,2010-02-06,,Freiburg,0–0,Schalke 04,,,Jochen Drees,/en/matches/1cc14309/Freiburg-Schalke-04-February-6-2010-Bundesliga,,1cc14309
+21,Sat,2010-02-06,,Hoffenheim,2–1,Hannover 96,,,Helmut Fleischer,/en/matches/2bbb8f1c/Hoffenheim-Hannover-96-February-6-2010-Bundesliga,,2bbb8f1c
+21,Sat,2010-02-06,,Köln,3–3,Hamburger SV,,,Michael Weiner,/en/matches/4a54a90c/Koln-Hamburger-SV-February-6-2010-Bundesliga,,4a54a90c
+21,Sat,2010-02-06,,Nürnberg,1–2,Stuttgart,,,Felix Zwayer,/en/matches/2c7097e9/Nurnberg-Stuttgart-February-6-2010-Bundesliga,,2c7097e9
+21,Sat,2010-02-06,,Wolfsburg,1–3,Bayern Munich,,,Manuel Gräfe,/en/matches/179a0cae/Wolfsburg-Bayern-Munich-February-6-2010-Bundesliga,,179a0cae
+21,Sun,2010-02-07,,Dortmund,2–3,Eint Frankfurt,,,Wolfgang Stark,/en/matches/c30d7910/Dortmund-Eintracht-Frankfurt-February-7-2010-Bundesliga,,c30d7910
+21,Sun,2010-02-07,,Mainz 05,1–0,M'Gladbach,,,Knut Kircher,/en/matches/1f6d9f60/Mainz-05-Monchengladbach-February-7-2010-Bundesliga,,1f6d9f60
+22,Fri,2010-02-12,,M'Gladbach,2–1,Nürnberg,,,Florian Meyer,/en/matches/fc4feb85/Monchengladbach-Nurnberg-February-12-2010-Bundesliga,,fc4feb85
+22,Sat,2010-02-13,,Bayern Munich,3–1,Dortmund,,,Knut Kircher,/en/matches/22ad5ac4/Der-Klassiker-Bayern-Munich-Dortmund-February-13-2010-Bundesliga,,22ad5ac4
+22,Sat,2010-02-13,,Bochum,2–1,Hoffenheim,,,Marco Fritz,/en/matches/9bced65e/Bochum-Hoffenheim-February-13-2010-Bundesliga,,9bced65e
+22,Sat,2010-02-13,,Hannover 96,1–5,Werder Bremen,,,Markus Schmidt,/en/matches/f3560f84/Hannover-96-Werder-Bremen-February-13-2010-Bundesliga,,f3560f84
+22,Sat,2010-02-13,,Hertha BSC,1–1,Mainz 05,,,Felix Brych,/en/matches/2f5dd7e2/Hertha-BSC-Mainz-05-February-13-2010-Bundesliga,,2f5dd7e2
+22,Sat,2010-02-13,,Leverkusen,2–1,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/1291fda2/Bayer-Leverkusen-Wolfsburg-February-13-2010-Bundesliga,,1291fda2
+22,Sat,2010-02-13,,Stuttgart,1–3,Hamburger SV,,,Deniz Aytekin,/en/matches/acef1ed5/Stuttgart-Hamburger-SV-February-13-2010-Bundesliga,,acef1ed5
+22,Sun,2010-02-14,,Eint Frankfurt,2–1,Freiburg,,,Babak Rafati,/en/matches/ad562ec1/Eintracht-Frankfurt-Freiburg-February-14-2010-Bundesliga,,ad562ec1
+22,Sun,2010-02-14,,Schalke 04,2–0,Köln,,,Peter Gagelmann,/en/matches/c650a55a/Schalke-04-Koln-February-14-2010-Bundesliga,,c650a55a
+23,Fri,2010-02-19,,Hoffenheim,2–2,M'Gladbach,,,Wolfgang Stark,/en/matches/ace1f125/Hoffenheim-Monchengladbach-February-19-2010-Bundesliga,,ace1f125
+23,Sat,2010-02-20,,Dortmund,4–1,Hannover 96,,,Lutz Wagner,/en/matches/55bf5283/Dortmund-Hannover-96-February-20-2010-Bundesliga,,55bf5283
+23,Sat,2010-02-20,,Hamburger SV,0–0,Eint Frankfurt,,,Markus Wingenbach,/en/matches/43f6bf43/Hamburger-SV-Eintracht-Frankfurt-February-20-2010-Bundesliga,,43f6bf43
+23,Sat,2010-02-20,,Köln,1–5,Stuttgart,,,Manuel Gräfe,/en/matches/b16f761a/Koln-Stuttgart-February-20-2010-Bundesliga,,b16f761a
+23,Sat,2010-02-20,,Mainz 05,0–0,Bochum,,,Günter Perl,/en/matches/ef606cee/Mainz-05-Bochum-February-20-2010-Bundesliga,,ef606cee
+23,Sat,2010-02-20,,Nürnberg,1–1,Bayern Munich,,,Thorsten Kinhöfer,/en/matches/72e09c07/Nurnberg-Bayern-Munich-February-20-2010-Bundesliga,,72e09c07
+23,Sun,2010-02-21,,Freiburg,0–3,Hertha BSC,,,Guido Winkmann,/en/matches/c3c9c358/Freiburg-Hertha-BSC-February-21-2010-Bundesliga,,c3c9c358
+23,Sun,2010-02-21,,Werder Bremen,2–2,Leverkusen,,,Michael Weiner,/en/matches/3587880e/Werder-Bremen-Bayer-Leverkusen-February-21-2010-Bundesliga,,3587880e
+23,Sun,2010-02-21,,Wolfsburg,2–1,Schalke 04,,,Helmut Fleischer,/en/matches/715a72f1/Wolfsburg-Schalke-04-February-21-2010-Bundesliga,,715a72f1
+24,Fri,2010-02-26,,Schalke 04,2–1,Dortmund,,,Manuel Gräfe,/en/matches/2eef7e7d/Revierderby-Schalke-04-Dortmund-February-26-2010-Bundesliga,,2eef7e7d
+24,Sat,2010-02-27,,Bochum,0–0,Nürnberg,,,Peter Gagelmann,/en/matches/2d55d972/Bochum-Nurnberg-February-27-2010-Bundesliga,,2d55d972
+24,Sat,2010-02-27,,Hertha BSC,0–2,Hoffenheim,,,Thorsten Kinhöfer,/en/matches/f105c79b/Hertha-BSC-Hoffenheim-February-27-2010-Bundesliga,,f105c79b
+24,Sat,2010-02-27,,Leverkusen,0–0,Köln,,,Knut Kircher,/en/matches/82cc9642/Bayer-Leverkusen-Koln-February-27-2010-Bundesliga,,82cc9642
+24,Sat,2010-02-27,,M'Gladbach,1–1,Freiburg,,,Peter Sippel,/en/matches/0b08c74a/Monchengladbach-Freiburg-February-27-2010-Bundesliga,,0b08c74a
+24,Sat,2010-02-27,,Mainz 05,1–2,Werder Bremen,,,Babak Rafati,/en/matches/5108b626/Mainz-05-Werder-Bremen-February-27-2010-Bundesliga,,5108b626
+24,Sat,2010-02-27,,Stuttgart,2–1,Eint Frankfurt,,,Jochen Drees,/en/matches/b94a3ce9/Stuttgart-Eintracht-Frankfurt-February-27-2010-Bundesliga,,b94a3ce9
+24,Sun,2010-02-28,,Bayern Munich,1–0,Hamburger SV,,,Lutz Wagner,/en/matches/da28ae06/Bayern-Munich-Hamburger-SV-February-28-2010-Bundesliga,,da28ae06
+24,Sun,2010-02-28,,Hannover 96,0–1,Wolfsburg,,,Felix Brych,/en/matches/91098241/Hannover-96-Wolfsburg-February-28-2010-Bundesliga,,91098241
+25,Sat,2010-03-06,,Dortmund,3–0,M'Gladbach,,,Michael Weiner,/en/matches/7a3108b8/Dortmund-Monchengladbach-March-6-2010-Bundesliga,,7a3108b8
+25,Sat,2010-03-06,,Eint Frankfurt,1–4,Schalke 04,,,Guido Winkmann,/en/matches/7c931e3b/Eintracht-Frankfurt-Schalke-04-March-6-2010-Bundesliga,,7c931e3b
+25,Sat,2010-03-06,,Freiburg,1–2,Hannover 96,,,Thorsten Kinhöfer,/en/matches/3b96d218/Freiburg-Hannover-96-March-6-2010-Bundesliga,,3b96d218
+25,Sat,2010-03-06,,Hamburger SV,1–0,Hertha BSC,,,Helmut Fleischer,/en/matches/b4dc69db/Hamburger-SV-Hertha-BSC-March-6-2010-Bundesliga,,b4dc69db
+25,Sat,2010-03-06,,Köln,1–1,Bayern Munich,,,Babak Rafati,/en/matches/4590fad4/Koln-Bayern-Munich-March-6-2010-Bundesliga,,4590fad4
+25,Sat,2010-03-06,,Werder Bremen,2–2,Stuttgart,,,Felix Brych,/en/matches/d4ddbe92/Werder-Bremen-Stuttgart-March-6-2010-Bundesliga,,d4ddbe92
+25,Sat,2010-03-06,,Wolfsburg,4–1,Bochum,,,Felix Zwayer,/en/matches/9114f40e/Wolfsburg-Bochum-March-6-2010-Bundesliga,,9114f40e
+25,Sun,2010-03-07,,Hoffenheim,0–1,Mainz 05,,,Florian Meyer,/en/matches/9f28d6c2/Hoffenheim-Mainz-05-March-7-2010-Bundesliga,,9f28d6c2
+25,Sun,2010-03-07,,Nürnberg,3–2,Leverkusen,,,Jochen Drees,/en/matches/6dd31748/Nurnberg-Bayer-Leverkusen-March-7-2010-Bundesliga,,6dd31748
+26,Fri,2010-03-12,,Schalke 04,2–1,Stuttgart,,,Lutz Wagner,/en/matches/f7a92150/Schalke-04-Stuttgart-March-12-2010-Bundesliga,,f7a92150
+26,Sat,2010-03-13,,Bayern Munich,2–1,Freiburg,,,Markus Schmidt,/en/matches/58d19c91/Bayern-Munich-Freiburg-March-13-2010-Bundesliga,,58d19c91
+26,Sat,2010-03-13,,Bochum,1–4,Dortmund,,,Wolfgang Stark,/en/matches/378fe22e/Bochum-Dortmund-March-13-2010-Bundesliga,,378fe22e
+26,Sat,2010-03-13,,Hannover 96,2–1,Eint Frankfurt,,,Peter Gagelmann,/en/matches/c2315626/Hannover-96-Eintracht-Frankfurt-March-13-2010-Bundesliga,,c2315626
+26,Sat,2010-03-13,,Hertha BSC,1–2,Nürnberg,,,Knut Kircher,/en/matches/9a285390/Hertha-BSC-Nurnberg-March-13-2010-Bundesliga,,9a285390
+26,Sat,2010-03-13,,M'Gladbach,0–4,Wolfsburg,,,Günter Perl,/en/matches/51cf482d/Monchengladbach-Wolfsburg-March-13-2010-Bundesliga,,51cf482d
+26,Sat,2010-03-13,,Mainz 05,1–0,Köln,,,Marco Fritz,/en/matches/796f800a/Mainz-05-Koln-March-13-2010-Bundesliga,,796f800a
+26,Sun,2010-03-14,,Hoffenheim,0–1,Werder Bremen,,,Peter Sippel,/en/matches/3484d3e6/Hoffenheim-Werder-Bremen-March-14-2010-Bundesliga,,3484d3e6
+26,Sun,2010-03-14,,Leverkusen,4–2,Hamburger SV,,,Deniz Aytekin,/en/matches/008b8069/Bayer-Leverkusen-Hamburger-SV-March-14-2010-Bundesliga,,008b8069
+27,Fri,2010-03-19,,Köln,1–1,M'Gladbach,,,Felix Brych,/en/matches/97db7fe6/Koln-Monchengladbach-March-19-2010-Bundesliga,,97db7fe6
+27,Sat,2010-03-20,,Dortmund,3–0,Leverkusen,,,Florian Meyer,/en/matches/b2c25a8c/Dortmund-Bayer-Leverkusen-March-20-2010-Bundesliga,,b2c25a8c
+27,Sat,2010-03-20,,Eint Frankfurt,2–1,Bayern Munich,,,Michael Weiner,/en/matches/1f7d148a/Eintracht-Frankfurt-Bayern-Munich-March-20-2010-Bundesliga,,1f7d148a
+27,Sat,2010-03-20,,Freiburg,1–0,Mainz 05,,,Knut Kircher,/en/matches/7753b3e2/Freiburg-Mainz-05-March-20-2010-Bundesliga,,7753b3e2
+27,Sat,2010-03-20,,Nürnberg,0–0,Hoffenheim,,,Thorsten Kinhöfer,/en/matches/aee45b8e/Nurnberg-Hoffenheim-March-20-2010-Bundesliga,,aee45b8e
+27,Sat,2010-03-20,,Stuttgart,2–0,Hannover 96,,,Guido Winkmann,/en/matches/c094eb03/Stuttgart-Hannover-96-March-20-2010-Bundesliga,,c094eb03
+27,Sat,2010-03-20,,Werder Bremen,3–2,Bochum,,,Markus Wingenbach,/en/matches/21601dd3/Werder-Bremen-Bochum-March-20-2010-Bundesliga,,21601dd3
+27,Sun,2010-03-21,,Hamburger SV,2–2,Schalke 04,,,Wolfgang Stark,/en/matches/491a5605/Hamburger-SV-Schalke-04-March-21-2010-Bundesliga,,491a5605
+27,Sun,2010-03-21,,Wolfsburg,1–5,Hertha BSC,,,Peter Sippel,/en/matches/c512574d/Wolfsburg-Hertha-BSC-March-21-2010-Bundesliga,,c512574d
+28,Fri,2010-03-26,,Bochum,1–2,Eint Frankfurt,,,Felix Brych,/en/matches/2d38bd99/Bochum-Eintracht-Frankfurt-March-26-2010-Bundesliga,,2d38bd99
+28,Sat,2010-03-27,,Bayern Munich,1–2,Stuttgart,,,Florian Meyer,/en/matches/4ce7f4ed/Bayern-Munich-Stuttgart-March-27-2010-Bundesliga,,4ce7f4ed
+28,Sat,2010-03-27,,Hannover 96,1–4,Köln,,,Jochen Drees,/en/matches/1e3cb5d5/Hannover-96-Koln-March-27-2010-Bundesliga,,1e3cb5d5
+28,Sat,2010-03-27,,Hertha BSC,0–0,Dortmund,,,Lutz Wagner,/en/matches/d94edda8/Hertha-BSC-Dortmund-March-27-2010-Bundesliga,,d94edda8
+28,Sat,2010-03-27,,Leverkusen,0–2,Schalke 04,,,Michael Weiner,/en/matches/162e99ff/Bayer-Leverkusen-Schalke-04-March-27-2010-Bundesliga,,162e99ff
+28,Sat,2010-03-27,,Mainz 05,0–2,Wolfsburg,,,Wolfgang Stark,/en/matches/e28bf02a/Mainz-05-Wolfsburg-March-27-2010-Bundesliga,,e28bf02a
+28,Sat,2010-03-27,,Werder Bremen,4–2,Nürnberg,,,Markus Schmidt,/en/matches/d08cf99c/Werder-Bremen-Nurnberg-March-27-2010-Bundesliga,,d08cf99c
+28,Sun,2010-03-28,,Hoffenheim,1–1,Freiburg,,,Helmut Fleischer,/en/matches/ed062dae/Hoffenheim-Freiburg-March-28-2010-Bundesliga,,ed062dae
+28,Sun,2010-03-28,,M'Gladbach,1–0,Hamburger SV,,,Felix Zwayer,/en/matches/f29eaf5f/Monchengladbach-Hamburger-SV-March-28-2010-Bundesliga,,f29eaf5f
+29,Sat,2010-04-03,,Dortmund,2–1,Werder Bremen,,,Babak Rafati,/en/matches/e7fa6681/Dortmund-Werder-Bremen-April-3-2010-Bundesliga,,e7fa6681
+29,Sat,2010-04-03,,Eint Frankfurt,3–2,Leverkusen,,,Wolfgang Stark,/en/matches/2807def2/Eintracht-Frankfurt-Bayer-Leverkusen-April-3-2010-Bundesliga,,2807def2
+29,Sat,2010-04-03,,Freiburg,1–1,Bochum,,,Jochen Drees,/en/matches/36929cbb/Freiburg-Bochum-April-3-2010-Bundesliga,,36929cbb
+29,Sat,2010-04-03,,Köln,0–3,Hertha BSC,,,Peter Gagelmann,/en/matches/113acf7d/Koln-Hertha-BSC-April-3-2010-Bundesliga,,113acf7d
+29,Sat,2010-04-03,,Nürnberg,2–0,Mainz 05,,,Michael Weiner,/en/matches/c0d5e10f/Nurnberg-Mainz-05-April-3-2010-Bundesliga,,c0d5e10f
+29,Sat,2010-04-03,,Schalke 04,1–2,Bayern Munich,,,Manuel Gräfe,/en/matches/eb19dd3d/Schalke-04-Bayern-Munich-April-3-2010-Bundesliga,,eb19dd3d
+29,Sat,2010-04-03,,Stuttgart,2–1,M'Gladbach,,,Helmut Fleischer,/en/matches/221147ad/Stuttgart-Monchengladbach-April-3-2010-Bundesliga,,221147ad
+29,Sun,2010-04-04,,Hamburger SV,0–0,Hannover 96,,,Peter Sippel,/en/matches/5fe78694/Hamburger-SV-Hannover-96-April-4-2010-Bundesliga,,5fe78694
+29,Sun,2010-04-04,,Wolfsburg,4–0,Hoffenheim,,,Knut Kircher,/en/matches/a5d6452e/Wolfsburg-Hoffenheim-April-4-2010-Bundesliga,,a5d6452e
+30,Fri,2010-04-09,,M'Gladbach,2–0,Eint Frankfurt,,,Thorsten Kinhöfer,/en/matches/180d2b6e/Monchengladbach-Eintracht-Frankfurt-April-9-2010-Bundesliga,,180d2b6e
+30,Sat,2010-04-10,,Hannover 96,4–2,Schalke 04,,,Peter Gagelmann,/en/matches/d559cbf9/Hannover-96-Schalke-04-April-10-2010-Bundesliga,,d559cbf9
+30,Sat,2010-04-10,,Hertha BSC,0–1,Stuttgart,,,Michael Weiner,/en/matches/52160c5d/Hertha-BSC-Stuttgart-April-10-2010-Bundesliga,,52160c5d
+30,Sat,2010-04-10,,Hoffenheim,0–2,Köln,,,Günter Perl,/en/matches/681a7c19/Hoffenheim-Koln-April-10-2010-Bundesliga,,681a7c19
+30,Sat,2010-04-10,,Leverkusen,1–1,Bayern Munich,,,Knut Kircher,/en/matches/23921c58/Bayer-Leverkusen-Bayern-Munich-April-10-2010-Bundesliga,,23921c58
+30,Sat,2010-04-10,,Mainz 05,1–0,Dortmund,,,Deniz Aytekin,/en/matches/0eeb187e/Mainz-05-Dortmund-April-10-2010-Bundesliga,,0eeb187e
+30,Sat,2010-04-10,,Werder Bremen,4–0,Freiburg,,,Felix Brych,/en/matches/aa15ad3b/Werder-Bremen-Freiburg-April-10-2010-Bundesliga,,aa15ad3b
+30,Sun,2010-04-11,,Bochum,1–2,Hamburger SV,,,Wolfgang Stark,/en/matches/9bce8d8a/Bochum-Hamburger-SV-April-11-2010-Bundesliga,,9bce8d8a
+30,Sun,2010-04-11,,Nürnberg,0–2,Wolfsburg,,,Guido Winkmann,/en/matches/54bde048/Nurnberg-Wolfsburg-April-11-2010-Bundesliga,,54bde048
+31,Fri,2010-04-16,,Köln,2–0,Bochum,,,Peter Sippel,/en/matches/e77578f5/Koln-Bochum-April-16-2010-Bundesliga,,e77578f5
+31,Sat,2010-04-17,,Bayern Munich,7–0,Hannover 96,,,Markus Wingenbach,/en/matches/1b47e224/Bayern-Munich-Hannover-96-April-17-2010-Bundesliga,,1b47e224
+31,Sat,2010-04-17,,Freiburg,2–1,Nürnberg,,,Lutz Wagner,/en/matches/d5dc3875/Freiburg-Nurnberg-April-17-2010-Bundesliga,,d5dc3875
+31,Sat,2010-04-17,,Hamburger SV,0–1,Mainz 05,,,Günter Perl,/en/matches/331b562f/Hamburger-SV-Mainz-05-April-17-2010-Bundesliga,,331b562f
+31,Sat,2010-04-17,,Schalke 04,3–1,M'Gladbach,,,Deniz Aytekin,/en/matches/944e35b7/Schalke-04-Monchengladbach-April-17-2010-Bundesliga,,944e35b7
+31,Sat,2010-04-17,,Stuttgart,2–1,Leverkusen,,,Manuel Gräfe,/en/matches/ec2db73e/Stuttgart-Bayer-Leverkusen-April-17-2010-Bundesliga,,ec2db73e
+31,Sat,2010-04-17,,Wolfsburg,2–4,Werder Bremen,,,Jochen Drees,/en/matches/121f02fd/Wolfsburg-Werder-Bremen-April-17-2010-Bundesliga,,121f02fd
+31,Sun,2010-04-18,,Dortmund,1–1,Hoffenheim,,,Wolfgang Stark,/en/matches/397e84d0/Dortmund-Hoffenheim-April-18-2010-Bundesliga,,397e84d0
+31,Sun,2010-04-18,,Eint Frankfurt,2–2,Hertha BSC,,,Felix Brych,/en/matches/21de41a0/Eintracht-Frankfurt-Hertha-BSC-April-18-2010-Bundesliga,,21de41a0
+32,Fri,2010-04-23,,Bochum,0–2,Stuttgart,,,Peter Gagelmann,/en/matches/7e525a7a/Bochum-Stuttgart-April-23-2010-Bundesliga,,7e525a7a
+32,Sat,2010-04-24,,Hertha BSC,0–1,Schalke 04,,,Jochen Drees,/en/matches/5d3bc134/Hertha-BSC-Schalke-04-April-24-2010-Bundesliga,,5d3bc134
+32,Sat,2010-04-24,,Leverkusen,3–0,Hannover 96,,,Thorsten Kinhöfer,/en/matches/048d222e/Bayer-Leverkusen-Hannover-96-April-24-2010-Bundesliga,,048d222e
+32,Sat,2010-04-24,,M'Gladbach,1–1,Bayern Munich,,,Michael Weiner,/en/matches/bb7a85c3/Monchengladbach-Bayern-Munich-April-24-2010-Bundesliga,,bb7a85c3
+32,Sat,2010-04-24,,Mainz 05,3–3,Eint Frankfurt,,,Florian Meyer,/en/matches/a2a89ccf/Mainz-05-Eintracht-Frankfurt-April-24-2010-Bundesliga,,a2a89ccf
+32,Sat,2010-04-24,,Nürnberg,2–3,Dortmund,,,Knut Kircher,/en/matches/4871c8b1/Nurnberg-Dortmund-April-24-2010-Bundesliga,,4871c8b1
+32,Sat,2010-04-24,,Werder Bremen,1–0,Köln,,,Guido Winkmann,/en/matches/646d1f90/Werder-Bremen-Koln-April-24-2010-Bundesliga,,646d1f90
+32,Sun,2010-04-25,,Freiburg,1–0,Wolfsburg,,,Marco Fritz,/en/matches/a4054698/Freiburg-Wolfsburg-April-25-2010-Bundesliga,,a4054698
+32,Sun,2010-04-25,,Hoffenheim,5–1,Hamburger SV,,,Manuel Gräfe,/en/matches/19f78479/Hoffenheim-Hamburger-SV-April-25-2010-Bundesliga,,19f78479
+33,Sat,2010-05-01,,Bayern Munich,3–1,Bochum,,,Markus Schmidt,/en/matches/0308d28c/Bayern-Munich-Bochum-May-1-2010-Bundesliga,,0308d28c
+33,Sat,2010-05-01,,Dortmund,1–1,Wolfsburg,,,Felix Brych,/en/matches/fe822c10/Dortmund-Wolfsburg-May-1-2010-Bundesliga,,fe822c10
+33,Sat,2010-05-01,,Eint Frankfurt,1–2,Hoffenheim,,,Deniz Aytekin,/en/matches/2a8c89eb/Eintracht-Frankfurt-Hoffenheim-May-1-2010-Bundesliga,,2a8c89eb
+33,Sat,2010-05-01,,Hamburger SV,4–0,Nürnberg,,,Thorsten Kinhöfer,/en/matches/2f319985/Hamburger-SV-Nurnberg-May-1-2010-Bundesliga,,2f319985
+33,Sat,2010-05-01,,Hannover 96,6–1,M'Gladbach,,,Wolfgang Stark,/en/matches/cd912413/Hannover-96-Monchengladbach-May-1-2010-Bundesliga,,cd912413
+33,Sat,2010-05-01,,Köln,2–2,Freiburg,,,Markus Wingenbach,/en/matches/58b65230/Koln-Freiburg-May-1-2010-Bundesliga,,58b65230
+33,Sat,2010-05-01,,Leverkusen,1–1,Hertha BSC,,,Peter Sippel,/en/matches/a1e5497c/Bayer-Leverkusen-Hertha-BSC-May-1-2010-Bundesliga,,a1e5497c
+33,Sat,2010-05-01,,Schalke 04,0–2,Werder Bremen,,,Knut Kircher,/en/matches/6eca6c3f/Schalke-04-Werder-Bremen-May-1-2010-Bundesliga,,6eca6c3f
+33,Sat,2010-05-01,,Stuttgart,2–2,Mainz 05,,,Felix Zwayer,/en/matches/0a137056/Stuttgart-Mainz-05-May-1-2010-Bundesliga,,0a137056
+34,Sat,2010-05-08,,Bochum,0–3,Hannover 96,,,Manuel Gräfe,/en/matches/d184dd0b/Bochum-Hannover-96-May-8-2010-Bundesliga,,d184dd0b
+34,Sat,2010-05-08,,Freiburg,3–1,Dortmund,,,Günter Perl,/en/matches/277df253/Freiburg-Dortmund-May-8-2010-Bundesliga,,277df253
+34,Sat,2010-05-08,,Hertha BSC,1–3,Bayern Munich,,,Florian Meyer,/en/matches/5a45de4e/Hertha-BSC-Bayern-Munich-May-8-2010-Bundesliga,,5a45de4e
+34,Sat,2010-05-08,,Hoffenheim,1–1,Stuttgart,,,Jochen Drees,/en/matches/3148aa90/Hoffenheim-Stuttgart-May-8-2010-Bundesliga,,3148aa90
+34,Sat,2010-05-08,,M'Gladbach,1–1,Leverkusen,,,Lutz Wagner,/en/matches/fd9dc0bb/Monchengladbach-Bayer-Leverkusen-May-8-2010-Bundesliga,,fd9dc0bb
+34,Sat,2010-05-08,,Mainz 05,0–0,Schalke 04,,,Babak Rafati,/en/matches/59646f17/Mainz-05-Schalke-04-May-8-2010-Bundesliga,,59646f17
+34,Sat,2010-05-08,,Nürnberg,1–0,Köln,,,Peter Gagelmann,/en/matches/be3f274d/Nurnberg-Koln-May-8-2010-Bundesliga,,be3f274d
+34,Sat,2010-05-08,,Werder Bremen,1–1,Hamburger SV,,,Michael Weiner,/en/matches/742bcc39/Werder-Bremen-Hamburger-SV-May-8-2010-Bundesliga,,742bcc39
+34,Sat,2010-05-08,,Wolfsburg,3–1,Eint Frankfurt,,,Guido Winkmann,/en/matches/70e84877/Wolfsburg-Eintracht-Frankfurt-May-8-2010-Bundesliga,,70e84877

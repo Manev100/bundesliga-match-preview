@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,1993-08-06,,Dortmund,2–1,Karlsruher,,,Hartmut Strampe,/en/matches/6d51b6de/Dortmund-Karlsruher-August-6-1993-Bundesliga,,6d51b6de
+1,Fri,1993-08-06,,Hamburger SV,5–2,Nürnberg,,,Edgar Steinborn,/en/matches/3b19df2c/Hamburger-SV-Nurnberg-August-6-1993-Bundesliga,,3b19df2c
+1,Fri,1993-08-06,,M'Gladbach,0–4,Eint Frankfurt,,,Hans-Joachim Osmers,/en/matches/4bf750e0/Monchengladbach-Eintracht-Frankfurt-August-6-1993-Bundesliga,,4bf750e0
+1,Sat,1993-08-07,,Bayern Munich,3–1,Freiburg,,,Karl-Josef Assenmacher,/en/matches/90074f1f/Bayern-Munich-Freiburg-August-7-1993-Bundesliga,,90074f1f
+1,Sat,1993-08-07,,Köln,0–2,Kaiserslautern,,,Hermann Albrecht,/en/matches/63f7992d/Koln-Kaiserslautern-August-7-1993-Bundesliga,,63f7992d
+1,Sat,1993-08-07,,MSV Duisburg,2–2,Leverkusen,,,Karl-Heinz Gläser,/en/matches/f3472b9a/MSV-Duisburg-Bayer-Leverkusen-August-7-1993-Bundesliga,,f3472b9a
+1,Sat,1993-08-07,,VfB Leipzig,3–3,Dresden,,,Manfred Amerell,/en/matches/282888f6/VfB-Leipzig-Dresden-August-7-1993-Bundesliga,,282888f6
+1,Sat,1993-08-07,,Wattenscheid,3–0,Schalke 04,,,Eugen Strigel,/en/matches/fd5ab157/Wattenscheid-Schalke-04-August-7-1993-Bundesliga,,fd5ab157
+1,Sun,1993-08-08,,Werder Bremen,5–1,Stuttgart,,,Manfred Führer,/en/matches/aa97b750/Werder-Bremen-Stuttgart-August-8-1993-Bundesliga,,aa97b750
+2,Fri,1993-08-13,,Dresden,0–1,MSV Duisburg,,,Bernd Heynemann,/en/matches/36aebe4a/Dresden-MSV-Duisburg-August-13-1993-Bundesliga,,36aebe4a
+2,Fri,1993-08-13,,Nürnberg,1–0,Köln,,,Hans-Peter Dellwing,/en/matches/2fd8fac3/Nurnberg-Koln-August-13-1993-Bundesliga,,2fd8fac3
+2,Sat,1993-08-14,,Eint Frankfurt,2–2,Werder Bremen,,,Karl-Josef Assenmacher,/en/matches/0711217c/Eintracht-Frankfurt-Werder-Bremen-August-14-1993-Bundesliga,,0711217c
+2,Sat,1993-08-14,,Freiburg,4–1,Wattenscheid,,,Markus Merk,/en/matches/68e7c7ba/Freiburg-Wattenscheid-August-14-1993-Bundesliga,,68e7c7ba
+2,Sat,1993-08-14,,Kaiserslautern,4–2,M'Gladbach,,,Aron Schmidhuber,/en/matches/db7615db/Kaiserslautern-Monchengladbach-August-14-1993-Bundesliga,,db7615db
+2,Sat,1993-08-14,,Karlsruher,2–0,Hamburger SV,,,Alfons Berg,/en/matches/a8676868/Karlsruher-Hamburger-SV-August-14-1993-Bundesliga,,a8676868
+2,Sat,1993-08-14,,Leverkusen,2–1,Bayern Munich,,,Hartmut Strampe,/en/matches/d47b80de/Bayer-Leverkusen-Bayern-Munich-August-14-1993-Bundesliga,,d47b80de
+2,Sun,1993-08-15,,Schalke 04,1–0,Dortmund,,,Hans Fux,/en/matches/4e4f83f5/Revierderby-Schalke-04-Dortmund-August-15-1993-Bundesliga,,4e4f83f5
+3,Tue,1993-08-17,,Werder Bremen,3–1,VfB Leipzig,,,Jürgen Jansen,/en/matches/e69313e5/Werder-Bremen-VfB-Leipzig-August-17-1993-Bundesliga,,e69313e5
+3,Fri,1993-08-20,,Köln,2–1,Karlsruher,,,Günther Habermann,/en/matches/7e68a919/Koln-Karlsruher-August-20-1993-Bundesliga,,7e68a919
+3,Fri,1993-08-20,,Wattenscheid,1–2,Leverkusen,,,Bernhard Zerr,/en/matches/8417c865/Wattenscheid-Bayer-Leverkusen-August-20-1993-Bundesliga,,8417c865
+3,Sat,1993-08-21,,Dortmund,3–2,Freiburg,,,Volkmar Fischer,/en/matches/8e237ec6/Dortmund-Freiburg-August-21-1993-Bundesliga,,8e237ec6
+3,Sat,1993-08-21,,Eint Frankfurt,1–0,Kaiserslautern,,,Hans-Jürgen Weber,/en/matches/f78f28b0/Eintracht-Frankfurt-Kaiserslautern-August-21-1993-Bundesliga,,f78f28b0
+3,Sat,1993-08-21,,Hamburger SV,4–1,Schalke 04,,,Hans-Peter Best,/en/matches/08dd740d/Hamburger-SV-Schalke-04-August-21-1993-Bundesliga,,08dd740d
+3,Sat,1993-08-21,,M'Gladbach,2–0,Nürnberg,,,Michael Malbranc,/en/matches/cd54c4cb/Monchengladbach-Nurnberg-August-21-1993-Bundesliga,,cd54c4cb
+3,Sat,1993-08-21,,MSV Duisburg,2–2,Stuttgart,,,Manfred Harder,/en/matches/81855d82/MSV-Duisburg-Stuttgart-August-21-1993-Bundesliga,,81855d82
+3,Sun,1993-08-22,,Bayern Munich,5–0,Dresden,,,Alfons Berg,/en/matches/101be5d9/Bayern-Munich-Dresden-August-22-1993-Bundesliga,,101be5d9
+4,Fri,1993-08-27,,Freiburg,0–1,Hamburger SV,,,Jürgen Aust,/en/matches/d783133b/Freiburg-Hamburger-SV-August-27-1993-Bundesliga,,d783133b
+4,Fri,1993-08-27,,Karlsruher,1–0,M'Gladbach,,,Hans-Jürgen Kasper,/en/matches/215fc796/Karlsruher-Monchengladbach-August-27-1993-Bundesliga,,215fc796
+4,Fri,1993-08-27,,VfB Leipzig,1–1,MSV Duisburg,,,Manfred Schmidt,/en/matches/3f5d3564/VfB-Leipzig-MSV-Duisburg-August-27-1993-Bundesliga,,3f5d3564
+4,Sat,1993-08-28,,Dresden,1–1,Wattenscheid,,,Michael Malbranc,/en/matches/f512e5bb/Dresden-Wattenscheid-August-28-1993-Bundesliga,,f512e5bb
+4,Sat,1993-08-28,,Kaiserslautern,2–3,Werder Bremen,,,Eugen Strigel,/en/matches/ce153cd4/Kaiserslautern-Werder-Bremen-August-28-1993-Bundesliga,,ce153cd4
+4,Sat,1993-08-28,,Leverkusen,2–1,Dortmund,,,Hans-Joachim Osmers,/en/matches/e5af548d/Bayer-Leverkusen-Dortmund-August-28-1993-Bundesliga,,e5af548d
+4,Sat,1993-08-28,,Nürnberg,1–5,Eint Frankfurt,,,Karl-Heinz Gläser,/en/matches/18dcabf9/Nurnberg-Eintracht-Frankfurt-August-28-1993-Bundesliga,,18dcabf9
+4,Sat,1993-08-28,,Schalke 04,1–2,Köln,,,Edgar Steinborn,/en/matches/5314fd28/Schalke-04-Koln-August-28-1993-Bundesliga,,5314fd28
+4,Sun,1993-08-29,,Stuttgart,2–2,Bayern Munich,,,Hans Fux,/en/matches/b64bf052/Stuttgart-Bayern-Munich-August-29-1993-Bundesliga,,b64bf052
+5,Tue,1993-08-31,,Eint Frankfurt,3–1,Karlsruher,,,Hellmut Krug,/en/matches/c61031c4/Eintracht-Frankfurt-Karlsruher-August-31-1993-Bundesliga,,c61031c4
+5,Tue,1993-08-31,,Kaiserslautern,3–1,Nürnberg,,,Karl-Josef Assenmacher,/en/matches/e0c437ea/Kaiserslautern-Nurnberg-August-31-1993-Bundesliga,,e0c437ea
+5,Tue,1993-08-31,,M'Gladbach,3–2,Schalke 04,,,Hartmut Strampe,/en/matches/28a601f8/Monchengladbach-Schalke-04-August-31-1993-Bundesliga,,28a601f8
+5,Tue,1993-08-31,,Werder Bremen,1–5,MSV Duisburg,,,Volkmar Fischer,/en/matches/b4ebc5cd/Werder-Bremen-MSV-Duisburg-August-31-1993-Bundesliga,,b4ebc5cd
+5,Wed,1993-09-01,,Bayern Munich,3–0,VfB Leipzig,,,Jürgen Aust,/en/matches/08e2226e/Bayern-Munich-VfB-Leipzig-September-1-1993-Bundesliga,,08e2226e
+5,Wed,1993-09-01,,Dortmund,4–0,Dresden,,,Manfred Schmidt,/en/matches/1e8775d5/Dortmund-Dresden-September-1-1993-Bundesliga,,1e8775d5
+5,Wed,1993-09-01,,Hamburger SV,2–1,Leverkusen,,,Hans-Peter Dellwing,/en/matches/7e69a02b/Hamburger-SV-Bayer-Leverkusen-September-1-1993-Bundesliga,,7e69a02b
+5,Wed,1993-09-01,,Köln,2–0,Freiburg,,,Manfred Harder,/en/matches/52f8395e/Koln-Freiburg-September-1-1993-Bundesliga,,52f8395e
+5,Wed,1993-09-01,,Wattenscheid,2–4,Stuttgart,,,Günther Habermann,/en/matches/7cf738e9/Wattenscheid-Stuttgart-September-1-1993-Bundesliga,,7cf738e9
+6,Fri,1993-09-03,,Karlsruher,1–1,Kaiserslautern,,,Lutz Michael Fröhlich,/en/matches/b27f71bf/Karlsruher-Kaiserslautern-September-3-1993-Bundesliga,,b27f71bf
+6,Fri,1993-09-03,,Nürnberg,0–1,Werder Bremen,,,Hans-Jürgen Weber,/en/matches/629b450e/Nurnberg-Werder-Bremen-September-3-1993-Bundesliga,,629b450e
+6,Sat,1993-09-04,,Freiburg,3–3,M'Gladbach,,,Günther Habermann,/en/matches/a81bcee2/Freiburg-Monchengladbach-September-4-1993-Bundesliga,,a81bcee2
+6,Sat,1993-09-04,,Leverkusen,2–1,Köln,,,Hans-Peter Best,/en/matches/505da160/Bayer-Leverkusen-Koln-September-4-1993-Bundesliga,,505da160
+6,Sat,1993-09-04,,MSV Duisburg,2–2,Bayern Munich,,,Karl-Josef Assenmacher,/en/matches/c3731fe2/MSV-Duisburg-Bayern-Munich-September-4-1993-Bundesliga,,c3731fe2
+6,Sat,1993-09-04,,Schalke 04,1–3,Eint Frankfurt,,,Hans-Jürgen Kasper,/en/matches/9eb1dfc0/Schalke-04-Eintracht-Frankfurt-September-4-1993-Bundesliga,,9eb1dfc0
+6,Sat,1993-09-04,,Stuttgart,2–2,Dortmund,,,Edgar Steinborn,/en/matches/2592e827/Stuttgart-Dortmund-September-4-1993-Bundesliga,,2592e827
+6,Sat,1993-09-04,,VfB Leipzig,0–0,Wattenscheid,,,Hermann Albrecht,/en/matches/b6082e54/VfB-Leipzig-Wattenscheid-September-4-1993-Bundesliga,,b6082e54
+6,Sun,1993-09-05,,Dresden,1–1,Hamburger SV,,,Aron Schmidhuber,/en/matches/49743984/Dresden-Hamburger-SV-September-5-1993-Bundesliga,,49743984
+7,Tue,1993-09-07,,Dortmund,0–1,VfB Leipzig,,,Hans-Peter Best,/en/matches/ae28f324/Dortmund-VfB-Leipzig-September-7-1993-Bundesliga,,ae28f324
+7,Tue,1993-09-07,,M'Gladbach,2–2,Leverkusen,,,Eugen Strigel,/en/matches/cc45b920/Monchengladbach-Bayer-Leverkusen-September-7-1993-Bundesliga,,cc45b920
+7,Tue,1993-09-07,,Nürnberg,1–1,Karlsruher,,,Hans-Joachim Osmers,/en/matches/a9860f7c/Nurnberg-Karlsruher-September-7-1993-Bundesliga,,a9860f7c
+7,Wed,1993-09-08,,Eint Frankfurt,3–0,Freiburg,,,Aron Schmidhuber,/en/matches/5e9e8991/Eintracht-Frankfurt-Freiburg-September-8-1993-Bundesliga,,5e9e8991
+7,Wed,1993-09-08,,Hamburger SV,3–2,Stuttgart,,,Bernd Heynemann,/en/matches/d2bdf07d/Hamburger-SV-Stuttgart-September-8-1993-Bundesliga,,d2bdf07d
+7,Wed,1993-09-08,,Kaiserslautern,0–0,Schalke 04,,,Manfred Amerell,/en/matches/797729f9/Kaiserslautern-Schalke-04-September-8-1993-Bundesliga,,797729f9
+7,Wed,1993-09-08,,Köln,0–1,Dresden,,,Bernhard Zerr,/en/matches/6bce0004/Koln-Dresden-September-8-1993-Bundesliga,,6bce0004
+7,Wed,1993-09-08,,Wattenscheid,0–2,MSV Duisburg,,,Hans Fux,/en/matches/4c1686dd/Wattenscheid-MSV-Duisburg-September-8-1993-Bundesliga,,4c1686dd
+7,Thu,1993-09-09,,Werder Bremen,1–0,Bayern Munich,,,Markus Merk,/en/matches/2f2f32d2/Werder-Bremen-Bayern-Munich-September-9-1993-Bundesliga,,2f2f32d2
+2,Sat,1993-09-11,,Stuttgart,0–0,VfB Leipzig,,,Hartmut Strampe,/en/matches/d91d9dc6/Stuttgart-VfB-Leipzig-September-11-1993-Bundesliga,,d91d9dc6
+8,Fri,1993-09-17,,Freiburg,2–3,Kaiserslautern,,,Georg Dardenne,/en/matches/bc24cc8d/Freiburg-Kaiserslautern-September-17-1993-Bundesliga,,bc24cc8d
+8,Fri,1993-09-17,,Stuttgart,1–1,Köln,,,Karl-Heinz Gläser,/en/matches/53cc8542/Stuttgart-Koln-September-17-1993-Bundesliga,,53cc8542
+8,Fri,1993-09-17,,VfB Leipzig,1–4,Hamburger SV,,,Hellmut Krug,/en/matches/627cad8f/VfB-Leipzig-Hamburger-SV-September-17-1993-Bundesliga,,627cad8f
+8,Sat,1993-09-18,,Bayern Munich,3–3,Wattenscheid,,,Hans-Jürgen Kasper,/en/matches/4be324a8/Bayern-Munich-Wattenscheid-September-18-1993-Bundesliga,,4be324a8
+8,Sat,1993-09-18,,Dresden,2–1,M'Gladbach,,,Volkmar Fischer,/en/matches/865cb271/Dresden-Monchengladbach-September-18-1993-Bundesliga,,865cb271
+8,Sat,1993-09-18,,Leverkusen,2–2,Eint Frankfurt,,,Bernd Heynemann,/en/matches/0fbeafdc/Bayer-Leverkusen-Eintracht-Frankfurt-September-18-1993-Bundesliga,,0fbeafdc
+8,Sat,1993-09-18,,MSV Duisburg,2–2,Dortmund,,,Alfons Berg,/en/matches/94ad7e90/MSV-Duisburg-Dortmund-September-18-1993-Bundesliga,,94ad7e90
+8,Sat,1993-09-18,,Schalke 04,1–2,Nürnberg,,,Markus Merk,/en/matches/414170f2/Schalke-04-Nurnberg-September-18-1993-Bundesliga,,414170f2
+8,Sun,1993-09-19,,Karlsruher,0–3,Werder Bremen,,,Hans-Peter Dellwing,/en/matches/a341fe65/Karlsruher-Werder-Bremen-September-19-1993-Bundesliga,,a341fe65
+9,Fri,1993-09-24,,Eint Frankfurt,3–2,Dresden,,,Jürgen Jansen,/en/matches/07193344/Eintracht-Frankfurt-Dresden-September-24-1993-Bundesliga,,07193344
+9,Fri,1993-09-24,,Hamburger SV,0–1,MSV Duisburg,,,Bernhard Zerr,/en/matches/93cfb1c0/Hamburger-SV-MSV-Duisburg-September-24-1993-Bundesliga,,93cfb1c0
+9,Fri,1993-09-24,,Karlsruher,0–0,Schalke 04,,,Michael Malbranc,/en/matches/ba3bef98/Karlsruher-Schalke-04-September-24-1993-Bundesliga,,ba3bef98
+9,Sat,1993-09-25,,Dortmund,1–1,Bayern Munich,,,Wieland Ziller,/en/matches/48a6651d/Der-Klassiker-Dortmund-Bayern-Munich-September-25-1993-Bundesliga,,48a6651d
+9,Sat,1993-09-25,,Kaiserslautern,3–2,Leverkusen,,,Günther Habermann,/en/matches/75122589/Kaiserslautern-Bayer-Leverkusen-September-25-1993-Bundesliga,,75122589
+9,Sat,1993-09-25,,Köln,3–1,VfB Leipzig,,,Eugen Strigel,/en/matches/5de30891/Koln-VfB-Leipzig-September-25-1993-Bundesliga,,5de30891
+9,Sat,1993-09-25,,Nürnberg,2–2,Freiburg,,,Alfons Berg,/en/matches/553a45de/Nurnberg-Freiburg-September-25-1993-Bundesliga,,553a45de
+9,Sat,1993-09-25,,Werder Bremen,0–0,Wattenscheid,,,Hans-Peter Best,/en/matches/20ba13eb/Werder-Bremen-Wattenscheid-September-25-1993-Bundesliga,,20ba13eb
+9,Wed,1993-09-29,,M'Gladbach,0–2,Stuttgart,,,Wolf-Günter Wiesel,/en/matches/7462683c/Monchengladbach-Stuttgart-September-29-1993-Bundesliga,,7462683c
+10,Fri,1993-10-01,,Dresden,3–1,Kaiserslautern,,,Manfred Führer,/en/matches/eca18187/Dresden-Kaiserslautern-October-1-1993-Bundesliga,,eca18187
+10,Fri,1993-10-01,,MSV Duisburg,0–0,Köln,,,Hans-Jürgen Kasper,/en/matches/8b80e987/MSV-Duisburg-Koln-October-1-1993-Bundesliga,,8b80e987
+10,Sat,1993-10-02,,Bayern Munich,4–0,Hamburger SV,,,Hans-Jürgen Weber,/en/matches/fe1626ad/Bayern-Munich-Hamburger-SV-October-2-1993-Bundesliga,,fe1626ad
+10,Sat,1993-10-02,,Freiburg,3–3,Karlsruher,,,Edgar Steinborn,/en/matches/ea4b0730/Freiburg-Karlsruher-October-2-1993-Bundesliga,,ea4b0730
+10,Sat,1993-10-02,,Leverkusen,4–0,Nürnberg,,,Manfred Harder,/en/matches/b82cf4b0/Bayer-Leverkusen-Nurnberg-October-2-1993-Bundesliga,,b82cf4b0
+10,Sat,1993-10-02,,Schalke 04,1–1,Werder Bremen,,,Hermann Albrecht,/en/matches/b52e2b5d/Schalke-04-Werder-Bremen-October-2-1993-Bundesliga,,b52e2b5d
+10,Sat,1993-10-02,,Stuttgart,0–2,Eint Frankfurt,,,Karl-Josef Assenmacher,/en/matches/ba2167c9/Stuttgart-Eintracht-Frankfurt-October-2-1993-Bundesliga,,ba2167c9
+10,Sat,1993-10-02,,VfB Leipzig,1–1,M'Gladbach,,,Markus Merk,/en/matches/148bcaf3/VfB-Leipzig-Monchengladbach-October-2-1993-Bundesliga,,148bcaf3
+10,Sun,1993-10-03,,Wattenscheid,1–2,Dortmund,,,Karl-Heinz Gläser,/en/matches/f122ef8c/Wattenscheid-Dortmund-October-3-1993-Bundesliga,,f122ef8c
+11,Fri,1993-10-08,,Karlsruher,2–0,Leverkusen,,,Wieland Ziller,/en/matches/7eef5c1d/Karlsruher-Bayer-Leverkusen-October-8-1993-Bundesliga,,7eef5c1d
+11,Fri,1993-10-08,,Nürnberg,3–0,Dresden,,,Hartmut Strampe,/en/matches/7d8e5b40/Nurnberg-Dresden-October-8-1993-Bundesliga,,7d8e5b40
+11,Fri,1993-10-08,,Werder Bremen,4–0,Dortmund,,,Aron Schmidhuber,/en/matches/492315d8/Werder-Bremen-Dortmund-October-8-1993-Bundesliga,,492315d8
+11,Sat,1993-10-09,,Eint Frankfurt,2–1,VfB Leipzig,,,Georg Dardenne,/en/matches/ea781558/Eintracht-Frankfurt-VfB-Leipzig-October-9-1993-Bundesliga,,ea781558
+11,Sat,1993-10-09,,Hamburger SV,2–1,Wattenscheid,,,Alfons Berg,/en/matches/c77ba219/Hamburger-SV-Wattenscheid-October-9-1993-Bundesliga,,c77ba219
+11,Sat,1993-10-09,,Kaiserslautern,5–0,Stuttgart,,,Hans-Jürgen Weber,/en/matches/4bb559cc/Kaiserslautern-Stuttgart-October-9-1993-Bundesliga,,4bb559cc
+11,Sat,1993-10-09,,Köln,0–4,Bayern Munich,,,Hans-Joachim Osmers,/en/matches/cd85468b/Koln-Bayern-Munich-October-9-1993-Bundesliga,,cd85468b
+11,Sat,1993-10-09,,M'Gladbach,4–1,MSV Duisburg,,,Manfred Amerell,/en/matches/fb66b423/Monchengladbach-MSV-Duisburg-October-9-1993-Bundesliga,,fb66b423
+11,Sat,1993-10-09,,Schalke 04,1–3,Freiburg,,,Bernd Heynemann,/en/matches/d76e2fed/Schalke-04-Freiburg-October-9-1993-Bundesliga,,d76e2fed
+12,Fri,1993-10-15,,Dresden,1–1,Karlsruher,,,Hans-Jürgen Kasper,/en/matches/ee7046e9/Dresden-Karlsruher-October-15-1993-Bundesliga,,ee7046e9
+12,Fri,1993-10-15,,MSV Duisburg,1–0,Eint Frankfurt,,,Wolf-Günter Wiesel,/en/matches/c29d4d2d/MSV-Duisburg-Eintracht-Frankfurt-October-15-1993-Bundesliga,,c29d4d2d
+12,Fri,1993-10-15,,Wattenscheid,2–2,Köln,,,Volkmar Fischer,/en/matches/b4a2ebcd/Wattenscheid-Koln-October-15-1993-Bundesliga,,b4a2ebcd
+12,Sat,1993-10-16,,Bayern Munich,3–1,M'Gladbach,,,Karl-Heinz Gläser,/en/matches/c28f383b/Bayern-Munich-Monchengladbach-October-16-1993-Bundesliga,,c28f383b
+12,Sat,1993-10-16,,Dortmund,2–1,Hamburger SV,,,Eugen Strigel,/en/matches/b40f9cd5/Dortmund-Hamburger-SV-October-16-1993-Bundesliga,,b40f9cd5
+12,Sat,1993-10-16,,Freiburg,0–0,Werder Bremen,,,Wieland Ziller,/en/matches/1fb75dd8/Freiburg-Werder-Bremen-October-16-1993-Bundesliga,,1fb75dd8
+12,Sat,1993-10-16,,Leverkusen,5–1,Schalke 04,,,Jürgen Jansen,/en/matches/209afd84/Bayer-Leverkusen-Schalke-04-October-16-1993-Bundesliga,,209afd84
+12,Sat,1993-10-16,,Stuttgart,1–0,Nürnberg,,,Manfred Schmidt,/en/matches/76260901/Stuttgart-Nurnberg-October-16-1993-Bundesliga,,76260901
+12,Sun,1993-10-17,,VfB Leipzig,0–0,Kaiserslautern,,,Bernhard Zerr,/en/matches/2b1fdd62/VfB-Leipzig-Kaiserslautern-October-17-1993-Bundesliga,,2b1fdd62
+13,Fri,1993-10-22,,Kaiserslautern,2–0,MSV Duisburg,,,Hermann Albrecht,/en/matches/7d997a19/Kaiserslautern-MSV-Duisburg-October-22-1993-Bundesliga,,7d997a19
+13,Fri,1993-10-22,,M'Gladbach,3–3,Wattenscheid,,,Edgar Steinborn,/en/matches/6350b383/Monchengladbach-Wattenscheid-October-22-1993-Bundesliga,,6350b383
+13,Fri,1993-10-22,,Nürnberg,5–0,VfB Leipzig,,,Michael Malbranc,/en/matches/4cbbc7f7/Nurnberg-VfB-Leipzig-October-22-1993-Bundesliga,,4cbbc7f7
+13,Sat,1993-10-23,,Eint Frankfurt,2–2,Bayern Munich,,,Günther Habermann,/en/matches/6a088c1d/Eintracht-Frankfurt-Bayern-Munich-October-23-1993-Bundesliga,,6a088c1d
+13,Sat,1993-10-23,,Freiburg,1–0,Leverkusen,,,Hans-Joachim Osmers,/en/matches/9e96ee79/Freiburg-Bayer-Leverkusen-October-23-1993-Bundesliga,,9e96ee79
+13,Sat,1993-10-23,,Köln,2–0,Dortmund,,,Hans Scheuerer,/en/matches/2d88d78f/Koln-Dortmund-October-23-1993-Bundesliga,,2d88d78f
+13,Sat,1993-10-23,,Schalke 04,0–0,Dresden,,,Manfred Amerell,/en/matches/093630ee/Schalke-04-Dresden-October-23-1993-Bundesliga,,093630ee
+13,Sun,1993-10-24,,Werder Bremen,0–2,Hamburger SV,,,Georg Dardenne,/en/matches/e2a26f2d/Werder-Bremen-Hamburger-SV-October-24-1993-Bundesliga,,e2a26f2d
+14,Fri,1993-10-29,,Dortmund,3–0,M'Gladbach,,,Karl-Josef Assenmacher,/en/matches/7531e40c/Dortmund-Monchengladbach-October-29-1993-Bundesliga,,7531e40c
+14,Fri,1993-10-29,,Dresden,1–2,Freiburg,,,Wolf-Günter Wiesel,/en/matches/a9055ba2/Dresden-Freiburg-October-29-1993-Bundesliga,,a9055ba2
+14,Sat,1993-10-30,,Bayern Munich,4–0,Kaiserslautern,,,Bernd Heynemann,/en/matches/928a20a9/Bayern-Munich-Kaiserslautern-October-30-1993-Bundesliga,,928a20a9
+14,Sat,1993-10-30,,Hamburger SV,2–4,Köln,,,Manfred Schmidt,/en/matches/7922a977/Hamburger-SV-Koln-October-30-1993-Bundesliga,,7922a977
+14,Sat,1993-10-30,,Leverkusen,2–2,Werder Bremen,,,Hans Fux,/en/matches/1359ffb9/Bayer-Leverkusen-Werder-Bremen-October-30-1993-Bundesliga,,1359ffb9
+14,Sat,1993-10-30,,MSV Duisburg,1–0,Nürnberg,,,Wieland Ziller,/en/matches/c33d3c2d/MSV-Duisburg-Nurnberg-October-30-1993-Bundesliga,,c33d3c2d
+14,Sat,1993-10-30,,Stuttgart,3–0,Schalke 04,,,Manfred Harder,/en/matches/a594b887/Stuttgart-Schalke-04-October-30-1993-Bundesliga,,a594b887
+14,Sat,1993-10-30,,VfB Leipzig,1–0,Karlsruher,,,Hans-Jürgen Weber,/en/matches/fd028640/VfB-Leipzig-Karlsruher-October-30-1993-Bundesliga,,fd028640
+14,Sat,1993-10-30,,Wattenscheid,0–0,Eint Frankfurt,,,Lutz Michael Fröhlich,/en/matches/50ab1837/Wattenscheid-Eintracht-Frankfurt-October-30-1993-Bundesliga,,50ab1837
+15,Fri,1993-11-05,,Kaiserslautern,4–1,Wattenscheid,,,Wieland Ziller,/en/matches/a1cdf184/Kaiserslautern-Wattenscheid-November-5-1993-Bundesliga,,a1cdf184
+15,Fri,1993-11-05,,M'Gladbach,2–2,Hamburger SV,,,Lutz Michael Fröhlich,/en/matches/036c56bd/Monchengladbach-Hamburger-SV-November-5-1993-Bundesliga,,036c56bd
+15,Fri,1993-11-05,,Schalke 04,3–1,VfB Leipzig,,,Hans-Peter Dellwing,/en/matches/26ced278/Schalke-04-VfB-Leipzig-November-5-1993-Bundesliga,,26ced278
+15,Sat,1993-11-06,,Dresden,1–1,Leverkusen,,,Hermann Albrecht,/en/matches/71dde092/Dresden-Bayer-Leverkusen-November-6-1993-Bundesliga,,71dde092
+15,Sat,1993-11-06,,Eint Frankfurt,2–0,Dortmund,,,Michael Malbranc,/en/matches/e926c7cc/Eintracht-Frankfurt-Dortmund-November-6-1993-Bundesliga,,e926c7cc
+15,Sat,1993-11-06,,Freiburg,2–1,Stuttgart,,,Hellmut Krug,/en/matches/e67cdc64/Freiburg-Stuttgart-November-6-1993-Bundesliga,,e67cdc64
+15,Sat,1993-11-06,,Karlsruher,5–0,MSV Duisburg,,,Hartmut Strampe,/en/matches/e150c45e/Karlsruher-MSV-Duisburg-November-6-1993-Bundesliga,,e150c45e
+15,Sat,1993-11-06,,Köln,2–0,Werder Bremen,,,Manfred Amerell,/en/matches/2dc45b0b/Koln-Werder-Bremen-November-6-1993-Bundesliga,,2dc45b0b
+15,Sat,1993-11-06,,Nürnberg,2–0,Bayern Munich,,,Jürgen Aust,/en/matches/71ce3ffa/Nurnberg-Bayern-Munich-November-6-1993-Bundesliga,,71ce3ffa
+13,Wed,1993-11-10,,Karlsruher,0–0,Stuttgart,,,Hans Scheuerer,/en/matches/0400cb31/Karlsruher-Stuttgart-November-10-1993-Bundesliga,,0400cb31
+16,Fri,1993-11-12,,Dortmund,2–1,Kaiserslautern,,,Hans Fux,/en/matches/4885288d/Dortmund-Kaiserslautern-November-12-1993-Bundesliga,,4885288d
+16,Fri,1993-11-12,,MSV Duisburg,1–0,Schalke 04,,,Markus Merk,/en/matches/e1b1549d/MSV-Duisburg-Schalke-04-November-12-1993-Bundesliga,,e1b1549d
+16,Fri,1993-11-12,,Werder Bremen,0–1,Dresden,,,Hellmut Krug,/en/matches/fb093ffc/Werder-Bremen-Dresden-November-12-1993-Bundesliga,,fb093ffc
+16,Sat,1993-11-13,,Bayern Munich,1–0,Karlsruher,,,Manfred Führer,/en/matches/48a56594/Bayern-Munich-Karlsruher-November-13-1993-Bundesliga,,48a56594
+16,Sat,1993-11-13,,Hamburger SV,3–0,Eint Frankfurt,,,Hans-Jürgen Weber,/en/matches/7399ec8a/Hamburger-SV-Eintracht-Frankfurt-November-13-1993-Bundesliga,,7399ec8a
+16,Sat,1993-11-13,,Köln,0–4,M'Gladbach,,,Aron Schmidhuber,/en/matches/ce829718/Koln-Monchengladbach-November-13-1993-Bundesliga,,ce829718
+16,Sat,1993-11-13,,Stuttgart,1–4,Leverkusen,,,Hans-Peter Dellwing,/en/matches/19906a6a/Stuttgart-Bayer-Leverkusen-November-13-1993-Bundesliga,,19906a6a
+16,Sat,1993-11-13,,Wattenscheid,2–1,Nürnberg,,,Wolf-Günter Wiesel,/en/matches/394df077/Wattenscheid-Nurnberg-November-13-1993-Bundesliga,,394df077
+16,Sun,1993-11-14,,VfB Leipzig,2–2,Freiburg,,,Karl-Josef Assenmacher,/en/matches/668fec3a/VfB-Leipzig-Freiburg-November-14-1993-Bundesliga,,668fec3a
+17,Fri,1993-11-19,,Eint Frankfurt,0–3,Köln,,,Frank Fleske,/en/matches/dbd87b76/Eintracht-Frankfurt-Koln-November-19-1993-Bundesliga,,dbd87b76
+17,Fri,1993-11-19,,Karlsruher,2–0,Wattenscheid,,,Roland Schäfer,/en/matches/7f864f04/Karlsruher-Wattenscheid-November-19-1993-Bundesliga,,7f864f04
+17,Fri,1993-11-19,,M'Gladbach,3–2,Werder Bremen,,,Bernhard Zerr,/en/matches/002bd83a/Monchengladbach-Werder-Bremen-November-19-1993-Bundesliga,,002bd83a
+17,Sat,1993-11-20,,Freiburg,1–2,MSV Duisburg,,,Manfred Harder,/en/matches/07d71334/Freiburg-MSV-Duisburg-November-20-1993-Bundesliga,,07d71334
+17,Sat,1993-11-20,,Kaiserslautern,3–0,Hamburger SV,,,Aron Schmidhuber,/en/matches/65b92f96/Kaiserslautern-Hamburger-SV-November-20-1993-Bundesliga,,65b92f96
+17,Sat,1993-11-20,,Leverkusen,3–1,VfB Leipzig,,,Bernd Hauer,/en/matches/e8327c0d/Bayer-Leverkusen-VfB-Leipzig-November-20-1993-Bundesliga,,e8327c0d
+17,Sat,1993-11-20,,Nürnberg,0–0,Dortmund,,,Markus Merk,/en/matches/a9a8b62e/Nurnberg-Dortmund-November-20-1993-Bundesliga,,a9a8b62e
+17,Sat,1993-11-20,,Schalke 04,1–1,Bayern Munich,,,Hartmut Strampe,/en/matches/bd7b8617/Schalke-04-Bayern-Munich-November-20-1993-Bundesliga,,bd7b8617
+17,Sun,1993-11-21,,Dresden,1–0,Stuttgart,,,Georg Dardenne,/en/matches/63f33261/Dresden-Stuttgart-November-21-1993-Bundesliga,,63f33261
+18,Fri,1993-11-26,,Dresden,1–0,VfB Leipzig,,,Edgar Steinborn,/en/matches/d3dcf809/Dresden-VfB-Leipzig-November-26-1993-Bundesliga,,d3dcf809
+18,Fri,1993-11-26,,Kaiserslautern,3–0,Köln,,,Hans-Jürgen Kasper,/en/matches/a8f61f29/Kaiserslautern-Koln-November-26-1993-Bundesliga,,a8f61f29
+18,Fri,1993-11-26,,Schalke 04,4–1,Wattenscheid,,,Hans Scheuerer,/en/matches/996bbd65/Schalke-04-Wattenscheid-November-26-1993-Bundesliga,,996bbd65
+18,Sat,1993-11-27,,Eint Frankfurt,0–3,M'Gladbach,,,Hans-Joachim Osmers,/en/matches/802d0f98/Eintracht-Frankfurt-Monchengladbach-November-27-1993-Bundesliga,,802d0f98
+18,Sat,1993-11-27,,Freiburg,3–1,Bayern Munich,,,Volkmar Fischer,/en/matches/6a020cf7/Freiburg-Bayern-Munich-November-27-1993-Bundesliga,,6a020cf7
+18,Sat,1993-11-27,,Karlsruher,3–3,Dortmund,,,Wolf-Günter Wiesel,/en/matches/ae86371c/Karlsruher-Dortmund-November-27-1993-Bundesliga,,ae86371c
+18,Sat,1993-11-27,,Leverkusen,2–1,MSV Duisburg,,,Manfred Führer,/en/matches/ab3eaa12/Bayer-Leverkusen-MSV-Duisburg-November-27-1993-Bundesliga,,ab3eaa12
+18,Sat,1993-11-27,,Nürnberg,0–1,Hamburger SV,,,Jürgen Jansen,/en/matches/2d57e934/Nurnberg-Hamburger-SV-November-27-1993-Bundesliga,,2d57e934
+18,Sat,1993-11-27,,Stuttgart,0–0,Werder Bremen,,,Jürgen Aust,/en/matches/4eff0ff8/Stuttgart-Werder-Bremen-November-27-1993-Bundesliga,,4eff0ff8
+19,Fri,1993-12-03,,Dortmund,1–1,Schalke 04,,,Hans-Jürgen Weber,/en/matches/58e365ff/Revierderby-Dortmund-Schalke-04-December-3-1993-Bundesliga,,58e365ff
+19,Fri,1993-12-03,,M'Gladbach,3–1,Kaiserslautern,,,Hans-Peter Best,/en/matches/164eba8d/Monchengladbach-Kaiserslautern-December-3-1993-Bundesliga,,164eba8d
+19,Sat,1993-12-04,,Bayern Munich,1–1,Leverkusen,,,Wieland Ziller,/en/matches/899979e3/Bayern-Munich-Bayer-Leverkusen-December-4-1993-Bundesliga,,899979e3
+19,Sat,1993-12-04,,Hamburger SV,1–1,Karlsruher,,,Markus Merk,/en/matches/310cad30/Hamburger-SV-Karlsruher-December-4-1993-Bundesliga,,310cad30
+19,Sat,1993-12-04,,Köln,0–1,Nürnberg,,,Karl-Heinz Gläser,/en/matches/9d30d37c/Koln-Nurnberg-December-4-1993-Bundesliga,,9d30d37c
+19,Sat,1993-12-04,,VfB Leipzig,0–0,Stuttgart,,,Jürgen Jansen,/en/matches/7df9236d/VfB-Leipzig-Stuttgart-December-4-1993-Bundesliga,,7df9236d
+19,Sat,1993-12-04,,Wattenscheid,3–1,Freiburg,,,Hans-Peter Dellwing,/en/matches/8c0ca1ef/Wattenscheid-Freiburg-December-4-1993-Bundesliga,,8c0ca1ef
+19,Sat,1993-12-04,,Werder Bremen,1–0,Eint Frankfurt,,,Bernd Heynemann,/en/matches/ecc12c55/Werder-Bremen-Eintracht-Frankfurt-December-4-1993-Bundesliga,,ecc12c55
+19,Sun,1993-12-05,,MSV Duisburg,1–1,Dresden,,,Aron Schmidhuber,/en/matches/91af8cfe/MSV-Duisburg-Dresden-December-5-1993-Bundesliga,,91af8cfe
+20,Fri,1993-12-10,,Dresden,1–1,Bayern Munich,,,Karl-Josef Assenmacher,/en/matches/4beaf06e/Dresden-Bayern-Munich-December-10-1993-Bundesliga,,4beaf06e
+20,Fri,1993-12-10,,Nürnberg,2–4,M'Gladbach,,,Bernd Heynemann,/en/matches/c57c8f40/Nurnberg-Monchengladbach-December-10-1993-Bundesliga,,c57c8f40
+20,Fri,1993-12-10,,Stuttgart,4–0,MSV Duisburg,,,Michael Malbranc,/en/matches/0eb642ad/Stuttgart-MSV-Duisburg-December-10-1993-Bundesliga,,0eb642ad
+20,Sat,1993-12-11,,Freiburg,4–1,Dortmund,,,Lutz Michael Fröhlich,/en/matches/b68b635a/Freiburg-Dortmund-December-11-1993-Bundesliga,,b68b635a
+20,Sat,1993-12-11,,Kaiserslautern,1–1,Eint Frankfurt,,,Jürgen Aust,/en/matches/677096d4/Kaiserslautern-Eintracht-Frankfurt-December-11-1993-Bundesliga,,677096d4
+20,Sat,1993-12-11,,Karlsruher,2–0,Köln,,,Alfons Berg,/en/matches/d7a6a1cf/Karlsruher-Koln-December-11-1993-Bundesliga,,d7a6a1cf
+20,Sat,1993-12-11,,Leverkusen,1–1,Wattenscheid,,,Winfried Buchhart,/en/matches/cc74c571/Bayer-Leverkusen-Wattenscheid-December-11-1993-Bundesliga,,cc74c571
+20,Sat,1993-12-11,,Schalke 04,1–0,Hamburger SV,,,Günther Habermann,/en/matches/7fc0b058/Schalke-04-Hamburger-SV-December-11-1993-Bundesliga,,7fc0b058
+20,Sat,1993-12-11,,VfB Leipzig,1–1,Werder Bremen,,,Manfred Führer,/en/matches/0a4dabc8/VfB-Leipzig-Werder-Bremen-December-11-1993-Bundesliga,,0a4dabc8
+21,Fri,1994-02-11,,M'Gladbach,1–2,Karlsruher,,,Jürgen Aust,/en/matches/b80f1ce4/Monchengladbach-Karlsruher-February-11-1994-Bundesliga,,b80f1ce4
+21,Fri,1994-02-11,,Wattenscheid,1–1,Dresden,,,Hans-Joachim Osmers,/en/matches/7f6780c4/Wattenscheid-Dresden-February-11-1994-Bundesliga,,7f6780c4
+21,Sat,1994-02-12,,Dortmund,1–0,Leverkusen,,,Bernd Heynemann,/en/matches/370955bf/Dortmund-Bayer-Leverkusen-February-12-1994-Bundesliga,,370955bf
+21,Sat,1994-02-12,,Eint Frankfurt,1–1,Nürnberg,,,Volkmar Fischer,/en/matches/69a4ee04/Eintracht-Frankfurt-Nurnberg-February-12-1994-Bundesliga,,69a4ee04
+21,Sat,1994-02-12,,Hamburger SV,1–1,Freiburg,,,Hellmut Krug,/en/matches/467a68b4/Hamburger-SV-Freiburg-February-12-1994-Bundesliga,,467a68b4
+21,Sat,1994-02-12,,MSV Duisburg,2–1,VfB Leipzig,,,Hans Scheuerer,/en/matches/3bc2cc51/MSV-Duisburg-VfB-Leipzig-February-12-1994-Bundesliga,,3bc2cc51
+21,Sat,1994-02-12,,Werder Bremen,2–0,Kaiserslautern,,,Hans-Jürgen Weber,/en/matches/6bf99520/Werder-Bremen-Kaiserslautern-February-12-1994-Bundesliga,,6bf99520
+21,Sun,1994-02-13,,Bayern Munich,1–3,Stuttgart,,,Wolf-Günter Wiesel,/en/matches/081f8e74/Bayern-Munich-Stuttgart-February-13-1994-Bundesliga,,081f8e74
+21,Wed,1994-02-16,,Köln,1–1,Schalke 04,,,Hermann Albrecht,/en/matches/bcae831c/Koln-Schalke-04-February-16-1994-Bundesliga,,bcae831c
+22,Fri,1994-02-18,,Dresden,3–0,Dortmund,,,Hans-Peter Best,/en/matches/9e193480/Dresden-Dortmund-February-18-1994-Bundesliga,,9e193480
+22,Fri,1994-02-18,,MSV Duisburg,1–0,Werder Bremen,,,Hans-Peter Dellwing,/en/matches/9e4a67a8/MSV-Duisburg-Werder-Bremen-February-18-1994-Bundesliga,,9e4a67a8
+22,Fri,1994-02-18,,Stuttgart,3–0,Wattenscheid,,,Manfred Amerell,/en/matches/00cf9b58/Stuttgart-Wattenscheid-February-18-1994-Bundesliga,,00cf9b58
+22,Sat,1994-02-19,,Freiburg,2–4,Köln,,,Markus Merk,/en/matches/620cc49e/Freiburg-Koln-February-19-1994-Bundesliga,,620cc49e
+22,Sat,1994-02-19,,Karlsruher,1–0,Eint Frankfurt,,,Jürgen Jansen,/en/matches/ad040bb5/Karlsruher-Eintracht-Frankfurt-February-19-1994-Bundesliga,,ad040bb5
+22,Sat,1994-02-19,,Leverkusen,1–2,Hamburger SV,,,Bernhard Zerr,/en/matches/b49e7f47/Bayer-Leverkusen-Hamburger-SV-February-19-1994-Bundesliga,,b49e7f47
+22,Sat,1994-02-19,,Nürnberg,0–2,Kaiserslautern,,,Georg Dardenne,/en/matches/81be3a40/Nurnberg-Kaiserslautern-February-19-1994-Bundesliga,,81be3a40
+22,Sat,1994-02-19,,Schalke 04,2–1,M'Gladbach,,,Hans Fux,/en/matches/cebc223c/Schalke-04-Monchengladbach-February-19-1994-Bundesliga,,cebc223c
+22,Sat,1994-02-19,,VfB Leipzig,1–3,Bayern Munich,,,Hellmut Krug,/en/matches/de69a348/VfB-Leipzig-Bayern-Munich-February-19-1994-Bundesliga,,de69a348
+23,Fri,1994-02-25,,Werder Bremen,2–2,Nürnberg,,,Edgar Steinborn,/en/matches/bf4e8786/Werder-Bremen-Nurnberg-February-25-1994-Bundesliga,,bf4e8786
+23,Sat,1994-02-26,,Bayern Munich,4–0,MSV Duisburg,,,Manfred Harder,/en/matches/fade3efa/Bayern-Munich-MSV-Duisburg-February-26-1994-Bundesliga,,fade3efa
+23,Sat,1994-02-26,,Eint Frankfurt,1–3,Schalke 04,,,Lutz Michael Fröhlich,/en/matches/fd257203/Eintracht-Frankfurt-Schalke-04-February-26-1994-Bundesliga,,fd257203
+23,Sat,1994-02-26,,Hamburger SV,1–1,Dresden,,,Manfred Führer,/en/matches/3293cfa5/Hamburger-SV-Dresden-February-26-1994-Bundesliga,,3293cfa5
+23,Sat,1994-02-26,,Kaiserslautern,0–0,Karlsruher,,,Karl-Josef Assenmacher,/en/matches/065e74cf/Kaiserslautern-Karlsruher-February-26-1994-Bundesliga,,065e74cf
+23,Sat,1994-02-26,,Köln,1–1,Leverkusen,,,Eugen Strigel,/en/matches/a19025c0/Koln-Bayer-Leverkusen-February-26-1994-Bundesliga,,a19025c0
+23,Sat,1994-02-26,,M'Gladbach,1–1,Freiburg,,,Frank Fleske,/en/matches/aa78e898/Monchengladbach-Freiburg-February-26-1994-Bundesliga,,aa78e898
+23,Sun,1994-02-27,,Wattenscheid,2–2,VfB Leipzig,,,Hartmut Strampe,/en/matches/0cf2670b/Wattenscheid-VfB-Leipzig-February-27-1994-Bundesliga,,0cf2670b
+24,Fri,1994-03-04,,Dresden,1–1,Köln,,,Hans Scheuerer,/en/matches/89ded8fd/Dresden-Koln-March-4-1994-Bundesliga,,89ded8fd
+24,Fri,1994-03-04,,MSV Duisburg,2–1,Wattenscheid,,,Günther Habermann,/en/matches/9b76ca05/MSV-Duisburg-Wattenscheid-March-4-1994-Bundesliga,,9b76ca05
+24,Sat,1994-03-05,,Bayern Munich,2–0,Werder Bremen,,,Georg Dardenne,/en/matches/6043d42a/Bayern-Munich-Werder-Bremen-March-5-1994-Bundesliga,,6043d42a
+24,Sat,1994-03-05,,Karlsruher,3–2,Nürnberg,,,Hans-Jürgen Weber,/en/matches/516e7a6c/Karlsruher-Nurnberg-March-5-1994-Bundesliga,,516e7a6c
+24,Sat,1994-03-05,,Leverkusen,0–1,M'Gladbach,,,Hermann Albrecht,/en/matches/0cdc2306/Bayer-Leverkusen-Monchengladbach-March-5-1994-Bundesliga,,0cdc2306
+24,Sat,1994-03-05,,Schalke 04,2–0,Kaiserslautern,,,Manfred Schmidt,/en/matches/c46511d8/Schalke-04-Kaiserslautern-March-5-1994-Bundesliga,,c46511d8
+24,Sat,1994-03-05,,Stuttgart,4–0,Hamburger SV,,,Wieland Ziller,/en/matches/7f77624d/Stuttgart-Hamburger-SV-March-5-1994-Bundesliga,,7f77624d
+24,Sat,1994-03-05,,VfB Leipzig,2–3,Dortmund,,,Aron Schmidhuber,/en/matches/ff83f3d5/VfB-Leipzig-Dortmund-March-5-1994-Bundesliga,,ff83f3d5
+24,Sun,1994-03-06,,Freiburg,1–3,Eint Frankfurt,,,Michael Malbranc,/en/matches/4eaefb08/Freiburg-Eintracht-Frankfurt-March-6-1994-Bundesliga,,4eaefb08
+23,Tue,1994-03-08,,Dortmund,1–2,Stuttgart,,,Manfred Harder,/en/matches/25ddb00c/Dortmund-Stuttgart-March-8-1994-Bundesliga,,25ddb00c
+25,Fri,1994-03-11,,Dortmund,2–1,MSV Duisburg,,,Jürgen Aust,/en/matches/fc2246ad/Dortmund-MSV-Duisburg-March-11-1994-Bundesliga,,fc2246ad
+25,Fri,1994-03-11,,Eint Frankfurt,2–0,Leverkusen,,,Karl-Heinz Gläser,/en/matches/b1d66f90/Eintracht-Frankfurt-Bayer-Leverkusen-March-11-1994-Bundesliga,,b1d66f90
+25,Sat,1994-03-12,,Hamburger SV,3–0,VfB Leipzig,,,Rainer Werthmann,/en/matches/0c6d1d9d/Hamburger-SV-VfB-Leipzig-March-12-1994-Bundesliga,,0c6d1d9d
+25,Sat,1994-03-12,,Kaiserslautern,1–0,Freiburg,,,Manfred Führer,/en/matches/38294a70/Kaiserslautern-Freiburg-March-12-1994-Bundesliga,,38294a70
+25,Sat,1994-03-12,,M'Gladbach,2–1,Dresden,,,Hans-Peter Dellwing,/en/matches/ed2d56f9/Monchengladbach-Dresden-March-12-1994-Bundesliga,,ed2d56f9
+25,Sat,1994-03-12,,Nürnberg,1–0,Schalke 04,,,Wieland Ziller,/en/matches/c3622ad0/Nurnberg-Schalke-04-March-12-1994-Bundesliga,,c3622ad0
+25,Sat,1994-03-12,,Wattenscheid,1–3,Bayern Munich,,,Lutz Michael Fröhlich,/en/matches/7a62a19a/Wattenscheid-Bayern-Munich-March-12-1994-Bundesliga,,7a62a19a
+25,Sat,1994-03-12,,Werder Bremen,0–2,Karlsruher,,,Volkmar Fischer,/en/matches/f04780e6/Werder-Bremen-Karlsruher-March-12-1994-Bundesliga,,f04780e6
+25,Sun,1994-03-13,,Köln,3–1,Stuttgart,,,Bernd Heynemann,/en/matches/ad361de6/Koln-Stuttgart-March-13-1994-Bundesliga,,ad361de6
+26,Fri,1994-03-18,,MSV Duisburg,0–1,Hamburger SV,,,Hermann Albrecht,/en/matches/32718297/MSV-Duisburg-Hamburger-SV-March-18-1994-Bundesliga,,32718297
+26,Fri,1994-03-18,,VfB Leipzig,2–3,Köln,,,Hans-Joachim Osmers,/en/matches/fa13196f/VfB-Leipzig-Koln-March-18-1994-Bundesliga,,fa13196f
+26,Sat,1994-03-19,,Dresden,0–4,Eint Frankfurt,,,Hans-Jürgen Weber,/en/matches/32243d54/Dresden-Eintracht-Frankfurt-March-19-1994-Bundesliga,,32243d54
+26,Sat,1994-03-19,,Freiburg,0–0,Nürnberg,,,Hans-Jürgen Kasper,/en/matches/d305e42c/Freiburg-Nurnberg-March-19-1994-Bundesliga,,d305e42c
+26,Sat,1994-03-19,,Leverkusen,3–2,Kaiserslautern,,,Manfred Amerell,/en/matches/27bc9cfb/Bayer-Leverkusen-Kaiserslautern-March-19-1994-Bundesliga,,27bc9cfb
+26,Sat,1994-03-19,,Schalke 04,2–0,Karlsruher,,,Markus Merk,/en/matches/d1ba9cbb/Schalke-04-Karlsruher-March-19-1994-Bundesliga,,d1ba9cbb
+26,Sat,1994-03-19,,Stuttgart,3–0,M'Gladbach,,,Roland Schäfer,/en/matches/24f56044/Stuttgart-Monchengladbach-March-19-1994-Bundesliga,,24f56044
+26,Sun,1994-03-20,,Bayern Munich,0–0,Dortmund,,,Hartmut Strampe,/en/matches/00ac6ec4/Der-Klassiker-Bayern-Munich-Dortmund-March-20-1994-Bundesliga,,00ac6ec4
+26,Tue,1994-03-22,,Wattenscheid,2–2,Werder Bremen,,,Hans-Peter Best,/en/matches/b643862b/Wattenscheid-Werder-Bremen-March-22-1994-Bundesliga,,b643862b
+27,Fri,1994-03-25,,Kaiserslautern,0–0,Dresden,,,Hellmut Krug,/en/matches/bec6a44f/Kaiserslautern-Dresden-March-25-1994-Bundesliga,,bec6a44f
+27,Fri,1994-03-25,,Karlsruher,2–1,Freiburg,,,Lutz Michael Fröhlich,/en/matches/1eb7fda9/Karlsruher-Freiburg-March-25-1994-Bundesliga,,1eb7fda9
+27,Fri,1994-03-25,,Werder Bremen,0–1,Schalke 04,,,Bernhard Zerr,/en/matches/c869f289/Werder-Bremen-Schalke-04-March-25-1994-Bundesliga,,c869f289
+27,Sat,1994-03-26,,Dortmund,2–0,Wattenscheid,,,Georg Dardenne,/en/matches/e1997adb/Dortmund-Wattenscheid-March-26-1994-Bundesliga,,e1997adb
+27,Sat,1994-03-26,,Eint Frankfurt,0–0,Stuttgart,,,Hans-Jürgen Kasper,/en/matches/ae55d8e0/Eintracht-Frankfurt-Stuttgart-March-26-1994-Bundesliga,,ae55d8e0
+27,Sat,1994-03-26,,Köln,1–0,MSV Duisburg,,,Wieland Ziller,/en/matches/58caf768/Koln-MSV-Duisburg-March-26-1994-Bundesliga,,58caf768
+27,Sat,1994-03-26,,M'Gladbach,6–1,VfB Leipzig,,,Alfons Berg,/en/matches/3246ebc6/Monchengladbach-VfB-Leipzig-March-26-1994-Bundesliga,,3246ebc6
+27,Sat,1994-03-26,,Nürnberg,2–3,Leverkusen,,,Wolf-Günter Wiesel,/en/matches/9bf1a881/Nurnberg-Bayer-Leverkusen-March-26-1994-Bundesliga,,9bf1a881
+27,Sun,1994-03-27,,Hamburger SV,1–2,Bayern Munich,,,Edgar Steinborn,/en/matches/bdca6b5b/Hamburger-SV-Bayern-Munich-March-27-1994-Bundesliga,,bdca6b5b
+28,Thu,1994-03-31,,Dresden,1–1,Nürnberg,,,Michael Malbranc,/en/matches/11d32e32/Dresden-Nurnberg-March-31-1994-Bundesliga,,11d32e32
+28,Thu,1994-03-31,,MSV Duisburg,2–0,M'Gladbach,,,Hartmut Strampe,/en/matches/36dbc0b8/MSV-Duisburg-Monchengladbach-March-31-1994-Bundesliga,,36dbc0b8
+28,Thu,1994-03-31,,Stuttgart,1–1,Kaiserslautern,,,Jürgen Jansen,/en/matches/fa774895/Stuttgart-Kaiserslautern-March-31-1994-Bundesliga,,fa774895
+28,Thu,1994-03-31,,Wattenscheid,3–1,Hamburger SV,,,Karl-Heinz Gläser,/en/matches/b0105f8d/Wattenscheid-Hamburger-SV-March-31-1994-Bundesliga,,b0105f8d
+28,Sat,1994-04-02,,Bayern Munich,1–0,Köln,,,Manfred Schmidt,/en/matches/50237847/Bayern-Munich-Koln-April-2-1994-Bundesliga,,50237847
+28,Sat,1994-04-02,,Dortmund,3–2,Werder Bremen,,,Hermann Albrecht,/en/matches/483b0315/Dortmund-Werder-Bremen-April-2-1994-Bundesliga,,483b0315
+28,Sat,1994-04-02,,Freiburg,2–3,Schalke 04,,,Hans Scheuerer,/en/matches/3e3376a1/Freiburg-Schalke-04-April-2-1994-Bundesliga,,3e3376a1
+28,Sat,1994-04-02,,Leverkusen,3–1,Karlsruher,,,Günther Habermann,/en/matches/a8c7f168/Bayer-Leverkusen-Karlsruher-April-2-1994-Bundesliga,,a8c7f168
+28,Sat,1994-04-02,,VfB Leipzig,1–0,Eint Frankfurt,,,Hans-Peter Dellwing,/en/matches/e9775030/VfB-Leipzig-Eintracht-Frankfurt-April-2-1994-Bundesliga,,e9775030
+29,Tue,1994-04-05,,Hamburger SV,0–0,Dortmund,,,Bernhard Zerr,/en/matches/51330386/Hamburger-SV-Dortmund-April-5-1994-Bundesliga,,51330386
+29,Tue,1994-04-05,,Kaiserslautern,1–0,VfB Leipzig,,,Eugen Strigel,/en/matches/520f84fc/Kaiserslautern-VfB-Leipzig-April-5-1994-Bundesliga,,520f84fc
+29,Tue,1994-04-05,,Köln,3–2,Wattenscheid,,,Manfred Amerell,/en/matches/156de23a/Koln-Wattenscheid-April-5-1994-Bundesliga,,156de23a
+29,Tue,1994-04-05,,M'Gladbach,2–0,Bayern Munich,,,Bernd Heynemann,/en/matches/9fb19938/Monchengladbach-Bayern-Munich-April-5-1994-Bundesliga,,9fb19938
+29,Tue,1994-04-05,,Nürnberg,1–0,Stuttgart,,,Lutz Michael Fröhlich,/en/matches/114dabf0/Nurnberg-Stuttgart-April-5-1994-Bundesliga,,114dabf0
+29,Wed,1994-04-06,,Eint Frankfurt,1–2,MSV Duisburg,,,Bernd Hauer,/en/matches/a63fc1af/Eintracht-Frankfurt-MSV-Duisburg-April-6-1994-Bundesliga,,a63fc1af
+29,Wed,1994-04-06,,Karlsruher,1–0,Dresden,,,Edgar Steinborn,/en/matches/9173b11e/Karlsruher-Dresden-April-6-1994-Bundesliga,,9173b11e
+29,Wed,1994-04-06,,Schalke 04,1–1,Leverkusen,,,Manfred Harder,/en/matches/3ee1b64d/Schalke-04-Bayer-Leverkusen-April-6-1994-Bundesliga,,3ee1b64d
+29,Wed,1994-04-06,,Werder Bremen,3–2,Freiburg,,,Rainer Werthmann,/en/matches/b71e9ec3/Werder-Bremen-Freiburg-April-6-1994-Bundesliga,,b71e9ec3
+30,Fri,1994-04-08,,Dortmund,2–1,Köln,,,Aron Schmidhuber,/en/matches/5e53a776/Dortmund-Koln-April-8-1994-Bundesliga,,5e53a776
+30,Fri,1994-04-08,,VfB Leipzig,0–2,Nürnberg,,,Karl-Josef Assenmacher,/en/matches/ca6477f2/VfB-Leipzig-Nurnberg-April-8-1994-Bundesliga,,ca6477f2
+30,Sat,1994-04-09,,Bayern Munich,2–1,Eint Frankfurt,,,Jürgen Aust,/en/matches/8f2399c3/Bayern-Munich-Eintracht-Frankfurt-April-9-1994-Bundesliga,,8f2399c3
+30,Sat,1994-04-09,,Dresden,1–0,Schalke 04,,,Alfons Berg,/en/matches/4f284aaa/Dresden-Schalke-04-April-9-1994-Bundesliga,,4f284aaa
+30,Sat,1994-04-09,,Hamburger SV,1–1,Werder Bremen,,,Markus Merk,/en/matches/c588db56/Hamburger-SV-Werder-Bremen-April-9-1994-Bundesliga,,c588db56
+30,Sat,1994-04-09,,Leverkusen,2–1,Freiburg,,,Hartmut Strampe,/en/matches/8ef4836c/Bayer-Leverkusen-Freiburg-April-9-1994-Bundesliga,,8ef4836c
+30,Sat,1994-04-09,,Stuttgart,3–0,Karlsruher,,,Hermann Albrecht,/en/matches/e2f0f9ad/Stuttgart-Karlsruher-April-9-1994-Bundesliga,,e2f0f9ad
+30,Sat,1994-04-09,,Wattenscheid,3–1,M'Gladbach,,,Manfred Schmidt,/en/matches/ef276d4e/Wattenscheid-Monchengladbach-April-9-1994-Bundesliga,,ef276d4e
+30,Sun,1994-04-10,,MSV Duisburg,1–7,Kaiserslautern,,,Hans Fux,/en/matches/0749ca2b/MSV-Duisburg-Kaiserslautern-April-10-1994-Bundesliga,,0749ca2b
+31,Thu,1994-04-14,,Kaiserslautern,4–0,Bayern Munich,,,Manfred Harder,/en/matches/14094e7b/Kaiserslautern-Bayern-Munich-April-14-1994-Bundesliga,,14094e7b
+31,Fri,1994-04-15,,Freiburg,0–1,Dresden,,,Aron Schmidhuber,/en/matches/f20befcc/Freiburg-Dresden-April-15-1994-Bundesliga,,f20befcc
+31,Fri,1994-04-15,,Köln,3–0,Hamburger SV,,,Winfried Buchhart,/en/matches/0d5d53b4/Koln-Hamburger-SV-April-15-1994-Bundesliga,,0d5d53b4
+31,Sat,1994-04-16,,Eint Frankfurt,5–1,Wattenscheid,,,Bernd Heynemann,/en/matches/43defe30/Eintracht-Frankfurt-Wattenscheid-April-16-1994-Bundesliga,,43defe30
+31,Sat,1994-04-16,,Karlsruher,3–2,VfB Leipzig,,,Manfred Führer,/en/matches/ce022156/Karlsruher-VfB-Leipzig-April-16-1994-Bundesliga,,ce022156
+31,Sat,1994-04-16,,Nürnberg,0–0,MSV Duisburg,,,Frank Fleske,/en/matches/a3343db3/Nurnberg-MSV-Duisburg-April-16-1994-Bundesliga,,a3343db3
+31,Sat,1994-04-16,,Schalke 04,0–1,Stuttgart,,,Volkmar Fischer,/en/matches/ce0f2d55/Schalke-04-Stuttgart-April-16-1994-Bundesliga,,ce0f2d55
+31,Sat,1994-04-16,,Werder Bremen,2–1,Leverkusen,,,Hans-Peter Dellwing,/en/matches/2497c257/Werder-Bremen-Bayer-Leverkusen-April-16-1994-Bundesliga,,2497c257
+31,Sun,1994-04-17,,M'Gladbach,0–0,Dortmund,,,Hans Scheuerer,/en/matches/fc4db7f6/Monchengladbach-Dortmund-April-17-1994-Bundesliga,,fc4db7f6
+32,Fri,1994-04-22,,Wattenscheid,0–2,Kaiserslautern,,,Wolf-Günter Wiesel,/en/matches/51c9fa5f/Wattenscheid-Kaiserslautern-April-22-1994-Bundesliga,,51c9fa5f
+32,Fri,1994-04-22,,Werder Bremen,3–1,Köln,,,Hans Fux,/en/matches/c08337ad/Werder-Bremen-Koln-April-22-1994-Bundesliga,,c08337ad
+32,Sat,1994-04-23,,Dortmund,2–0,Eint Frankfurt,,,Wieland Ziller,/en/matches/ad4b6322/Dortmund-Eintracht-Frankfurt-April-23-1994-Bundesliga,,ad4b6322
+32,Sat,1994-04-23,,Hamburger SV,1–3,M'Gladbach,,,Aron Schmidhuber,/en/matches/3de66ddd/Hamburger-SV-Monchengladbach-April-23-1994-Bundesliga,,3de66ddd
+32,Sat,1994-04-23,,MSV Duisburg,1–2,Karlsruher,,,Hans-Jürgen Kasper,/en/matches/918fad29/MSV-Duisburg-Karlsruher-April-23-1994-Bundesliga,,918fad29
+32,Sat,1994-04-23,,Stuttgart,0–4,Freiburg,,,Georg Dardenne,/en/matches/8cd86fcd/Stuttgart-Freiburg-April-23-1994-Bundesliga,,8cd86fcd
+32,Sat,1994-04-23,,VfB Leipzig,2–2,Schalke 04,,,Hans Scheuerer,/en/matches/b0833ed4/VfB-Leipzig-Schalke-04-April-23-1994-Bundesliga,,b0833ed4
+32,Sun,1994-04-24,,Leverkusen,1–1,Dresden,,,Bernhard Zerr,/en/matches/8f52d38b/Bayer-Leverkusen-Dresden-April-24-1994-Bundesliga,,8f52d38b
+33,Sat,1994-04-30,,Dresden,1–0,Werder Bremen,,,Günther Habermann,/en/matches/80dbf891/Dresden-Werder-Bremen-April-30-1994-Bundesliga,,80dbf891
+33,Sat,1994-04-30,,Eint Frankfurt,1–1,Hamburger SV,,,Jürgen Jansen,/en/matches/4bac6b7e/Eintracht-Frankfurt-Hamburger-SV-April-30-1994-Bundesliga,,4bac6b7e
+33,Sat,1994-04-30,,Freiburg,1–0,VfB Leipzig,,,Hans-Jürgen Weber,/en/matches/1a4b694a/Freiburg-VfB-Leipzig-April-30-1994-Bundesliga,,1a4b694a
+33,Sat,1994-04-30,,Kaiserslautern,2–0,Dortmund,,,Lutz Michael Fröhlich,/en/matches/2d57735f/Kaiserslautern-Dortmund-April-30-1994-Bundesliga,,2d57735f
+33,Sat,1994-04-30,,Karlsruher,1–1,Bayern Munich,,,Hellmut Krug,/en/matches/ce2bae13/Karlsruher-Bayern-Munich-April-30-1994-Bundesliga,,ce2bae13
+33,Sat,1994-04-30,,Leverkusen,1–1,Stuttgart,,,Wieland Ziller,/en/matches/b080f624/Bayer-Leverkusen-Stuttgart-April-30-1994-Bundesliga,,b080f624
+33,Sat,1994-04-30,,M'Gladbach,4–1,Köln,,,Eugen Strigel,/en/matches/1ca6cfdd/Monchengladbach-Koln-April-30-1994-Bundesliga,,1ca6cfdd
+33,Sat,1994-04-30,,Nürnberg,4–1,Wattenscheid,,,Hans-Peter Best,/en/matches/d31bb02c/Nurnberg-Wattenscheid-April-30-1994-Bundesliga,,d31bb02c
+33,Sat,1994-04-30,,Schalke 04,1–3,MSV Duisburg,,,Georg Dardenne,/en/matches/58885599/Schalke-04-MSV-Duisburg-April-30-1994-Bundesliga,,58885599
+32,Tue,1994-05-03,,Bayern Munich,5–0,Nürnberg,,,Bernd Heynemann,/en/matches/bd4018c9/Bayern-Munich-Nurnberg-May-3-1994-Bundesliga,,bd4018c9
+34,Sat,1994-05-07,,Bayern Munich,2–0,Schalke 04,,,Lutz Michael Fröhlich,/en/matches/9cbfff72/Bayern-Munich-Schalke-04-May-7-1994-Bundesliga,,9cbfff72
+34,Sat,1994-05-07,,Dortmund,4–1,Nürnberg,,,Hans-Peter Dellwing,/en/matches/a70bc3a6/Dortmund-Nurnberg-May-7-1994-Bundesliga,,a70bc3a6
+34,Sat,1994-05-07,,Hamburger SV,1–3,Kaiserslautern,,,Karl-Josef Assenmacher,/en/matches/973cbd04/Hamburger-SV-Kaiserslautern-May-7-1994-Bundesliga,,973cbd04
+34,Sat,1994-05-07,,Köln,2–3,Eint Frankfurt,,,Hellmut Krug,/en/matches/fbd08185/Koln-Eintracht-Frankfurt-May-7-1994-Bundesliga,,fbd08185
+34,Sat,1994-05-07,,MSV Duisburg,0–2,Freiburg,,,Alfons Berg,/en/matches/3536fbad/MSV-Duisburg-Freiburg-May-7-1994-Bundesliga,,3536fbad
+34,Sat,1994-05-07,,Stuttgart,3–0,Dresden,,,Markus Merk,/en/matches/8c2de068/Stuttgart-Dresden-May-7-1994-Bundesliga,,8c2de068
+34,Sat,1994-05-07,,VfB Leipzig,2–3,Leverkusen,,,Manfred Amerell,/en/matches/c433d927/VfB-Leipzig-Bayer-Leverkusen-May-7-1994-Bundesliga,,c433d927
+34,Sat,1994-05-07,,Wattenscheid,5–1,Karlsruher,,,Jürgen Aust,/en/matches/6a0463c6/Wattenscheid-Karlsruher-May-7-1994-Bundesliga,,6a0463c6
+34,Sat,1994-05-07,,Werder Bremen,4–2,M'Gladbach,,,Manfred Schmidt,/en/matches/4841a882/Werder-Bremen-Monchengladbach-May-7-1994-Bundesliga,,4841a882

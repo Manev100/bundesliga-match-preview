@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,2000-08-11,,Dortmund,1–0,Hansa Rostock,,,Jörg Keßler,/en/matches/f779608b/Dortmund-Hansa-Rostock-August-11-2000-Bundesliga,,f779608b
+1,Sat,2000-08-12,,Bayern Munich,4–1,Hertha BSC,,,Markus Merk,/en/matches/9e4663b3/Bayern-Munich-Hertha-BSC-August-12-2000-Bundesliga,,9e4663b3
+1,Sat,2000-08-12,,Freiburg,4–0,Stuttgart,,,Hellmut Krug,/en/matches/2fb5ce2d/Freiburg-Stuttgart-August-12-2000-Bundesliga,,2fb5ce2d
+1,Sat,2000-08-12,,Hamburger SV,2–2,1860 Munich,,,Herbert Fandel,/en/matches/01228188/Hamburger-SV-1860-Munich-August-12-2000-Bundesliga,,01228188
+1,Sat,2000-08-12,,Kaiserslautern,0–1,Bochum,,,Helmut Fleischer,/en/matches/aac8aff5/Kaiserslautern-Bochum-August-12-2000-Bundesliga,,aac8aff5
+1,Sat,2000-08-12,,Leverkusen,2–0,Wolfsburg,,,Edgar Steinborn,/en/matches/587112e1/Bayer-Leverkusen-Wolfsburg-August-12-2000-Bundesliga,,587112e1
+1,Sat,2000-08-12,,Werder Bremen,3–1,Energie Cottbus,,,Wolfgang Stark,/en/matches/d84cca93/Werder-Bremen-Energie-Cottbus-August-12-2000-Bundesliga,,d84cca93
+1,Sun,2000-08-13,,Eint Frankfurt,3–0,Unterhaching,,,Hartmut Strampe,/en/matches/ee383840/Eintracht-Frankfurt-Unterhaching-August-13-2000-Bundesliga,,ee383840
+1,Sun,2000-08-13,,Schalke 04,2–1,Köln,,,Hermann Albrecht,/en/matches/9767b7c4/Schalke-04-Koln-August-13-2000-Bundesliga,,9767b7c4
+2,Fri,2000-08-18,,Energie Cottbus,1–4,Dortmund,,,Franz-Xaver Wack,/en/matches/75f965db/Energie-Cottbus-Dortmund-August-18-2000-Bundesliga,,75f965db
+2,Sat,2000-08-19,,1860 Munich,2–1,Werder Bremen,,,Bernd Heynemann,/en/matches/16c73923/1860-Munich-Werder-Bremen-August-19-2000-Bundesliga,,16c73923
+2,Sat,2000-08-19,,Bochum,0–3,Bayern Munich,,,Alfons Berg,/en/matches/09fb0d4b/Bochum-Bayern-Munich-August-19-2000-Bundesliga,,09fb0d4b
+2,Sat,2000-08-19,,Hertha BSC,4–0,Hamburger SV,,,Jürgen Aust,/en/matches/2a8fbc9b/Hertha-BSC-Hamburger-SV-August-19-2000-Bundesliga,,2a8fbc9b
+2,Sat,2000-08-19,,Stuttgart,4–1,Leverkusen,,,Herbert Fandel,/en/matches/415581d4/Stuttgart-Bayer-Leverkusen-August-19-2000-Bundesliga,,415581d4
+2,Sat,2000-08-19,,Unterhaching,1–1,Freiburg,,,Lutz Wagner,/en/matches/550ea393/Unterhaching-Freiburg-August-19-2000-Bundesliga,,550ea393
+2,Sat,2000-08-19,,Wolfsburg,4–0,Kaiserslautern,,,Peter Sippel,/en/matches/cd5c077c/Wolfsburg-Kaiserslautern-August-19-2000-Bundesliga,,cd5c077c
+2,Sun,2000-08-20,,Hansa Rostock,0–4,Schalke 04,,,Uwe Kemmling,/en/matches/46ed625d/Hansa-Rostock-Schalke-04-August-20-2000-Bundesliga,,46ed625d
+2,Sun,2000-08-20,,Köln,4–1,Eint Frankfurt,,,Jürgen Jansen,/en/matches/d811a821/Koln-Eintracht-Frankfurt-August-20-2000-Bundesliga,,d811a821
+3,Tue,2000-09-05,,Freiburg,0–0,Köln,,,Florian Meyer,/en/matches/e71f8af4/Freiburg-Koln-September-5-2000-Bundesliga,,e71f8af4
+3,Tue,2000-09-05,,Kaiserslautern,1–0,Stuttgart,,,Franz-Xaver Wack,/en/matches/01739090/Kaiserslautern-Stuttgart-September-5-2000-Bundesliga,,01739090
+3,Tue,2000-09-05,,Leverkusen,1–0,Unterhaching,,,Bernhard Zerr,/en/matches/7cf7a515/Bayer-Leverkusen-Unterhaching-September-5-2000-Bundesliga,,7cf7a515
+3,Tue,2000-09-05,,Schalke 04,3–0,Energie Cottbus,,,Edgar Steinborn,/en/matches/de96633c/Schalke-04-Energie-Cottbus-September-5-2000-Bundesliga,,de96633c
+3,Wed,2000-09-06,,Bayern Munich,3–1,Wolfsburg,,,Lutz Wagner,/en/matches/0db5dcfb/Bayern-Munich-Wolfsburg-September-6-2000-Bundesliga,,0db5dcfb
+3,Wed,2000-09-06,,Dortmund,2–3,1860 Munich,,,Alfons Berg,/en/matches/dcf95740/Dortmund-1860-Munich-September-6-2000-Bundesliga,,dcf95740
+3,Wed,2000-09-06,,Eint Frankfurt,4–0,Hansa Rostock,,,Michael Weiner,/en/matches/48e78ca9/Eintracht-Frankfurt-Hansa-Rostock-September-6-2000-Bundesliga,,48e78ca9
+3,Wed,2000-09-06,,Hamburger SV,2–1,Werder Bremen,,,Helmut Fleischer,/en/matches/be409975/Hamburger-SV-Werder-Bremen-September-6-2000-Bundesliga,,be409975
+3,Wed,2000-09-06,,Hertha BSC,4–0,Bochum,,,Hartmut Strampe,/en/matches/3cd11e85/Hertha-BSC-Bochum-September-6-2000-Bundesliga,,3cd11e85
+4,Fri,2000-09-08,,Unterhaching,0–0,Kaiserslautern,,,Hellmut Krug,/en/matches/5db51379/Unterhaching-Kaiserslautern-September-8-2000-Bundesliga,,5db51379
+4,Sat,2000-09-09,,1860 Munich,1–1,Schalke 04,,,Peter Gagelmann,/en/matches/9e652ec5/1860-Munich-Schalke-04-September-9-2000-Bundesliga,,9e652ec5
+4,Sat,2000-09-09,,Bochum,0–4,Hamburger SV,,,Jörg Keßler,/en/matches/7777088a/Bochum-Hamburger-SV-September-9-2000-Bundesliga,,7777088a
+4,Sat,2000-09-09,,Köln,1–1,Leverkusen,,,Markus Merk,/en/matches/c3a667ca/Koln-Bayer-Leverkusen-September-9-2000-Bundesliga,,c3a667ca
+4,Sat,2000-09-09,,Stuttgart,2–1,Bayern Munich,,,Bernd Heynemann,/en/matches/ff6c7d13/Stuttgart-Bayern-Munich-September-9-2000-Bundesliga,,ff6c7d13
+4,Sat,2000-09-09,,Werder Bremen,1–2,Dortmund,,,Lutz Michael Fröhlich,/en/matches/09fbd9c9/Werder-Bremen-Dortmund-September-9-2000-Bundesliga,,09fbd9c9
+4,Sat,2000-09-09,,Wolfsburg,2–1,Hertha BSC,,,Hermann Albrecht,/en/matches/11a55c4f/Wolfsburg-Hertha-BSC-September-9-2000-Bundesliga,,11a55c4f
+4,Sun,2000-09-10,,Energie Cottbus,2–0,Eint Frankfurt,,,Jürgen Aust,/en/matches/1889ff3c/Energie-Cottbus-Eintracht-Frankfurt-September-10-2000-Bundesliga,,1889ff3c
+4,Sun,2000-09-10,,Hansa Rostock,0–0,Freiburg,,,Jürgen Jansen,/en/matches/9c2ff18b/Hansa-Rostock-Freiburg-September-10-2000-Bundesliga,,9c2ff18b
+5,Fri,2000-09-15,,Kaiserslautern,3–1,Köln,,,Hartmut Strampe,/en/matches/48dff186/Kaiserslautern-Koln-September-15-2000-Bundesliga,,48dff186
+5,Sat,2000-09-16,,Bayern Munich,3–1,Unterhaching,,,Jürgen Jansen,/en/matches/72616383/Bayern-Munich-Unterhaching-September-16-2000-Bundesliga,,72616383
+5,Sat,2000-09-16,,Bochum,2–1,Wolfsburg,,,Lutz Michael Fröhlich,/en/matches/d5b6999c/Bochum-Wolfsburg-September-16-2000-Bundesliga,,d5b6999c
+5,Sat,2000-09-16,,Eint Frankfurt,1–0,1860 Munich,,,Hellmut Krug,/en/matches/f3b94d58/Eintracht-Frankfurt-1860-Munich-September-16-2000-Bundesliga,,f3b94d58
+5,Sat,2000-09-16,,Freiburg,4–1,Energie Cottbus,,,Helmut Fleischer,/en/matches/a5ef0499/Freiburg-Energie-Cottbus-September-16-2000-Bundesliga,,a5ef0499
+5,Sat,2000-09-16,,Hamburger SV,2–3,Dortmund,,,Bernd Heynemann,/en/matches/e8d5b32c/Hamburger-SV-Dortmund-September-16-2000-Bundesliga,,e8d5b32c
+5,Sat,2000-09-16,,Leverkusen,1–2,Hansa Rostock,,,Franz-Xaver Wack,/en/matches/4c1364e8/Bayer-Leverkusen-Hansa-Rostock-September-16-2000-Bundesliga,,4c1364e8
+5,Sun,2000-09-17,,Hertha BSC,2–0,Stuttgart,,,Florian Meyer,/en/matches/f3aa5498/Hertha-BSC-Stuttgart-September-17-2000-Bundesliga,,f3aa5498
+5,Sun,2000-09-17,,Schalke 04,1–1,Werder Bremen,,,Alfons Berg,/en/matches/58e4488f/Schalke-04-Werder-Bremen-September-17-2000-Bundesliga,,58e4488f
+6,Fri,2000-09-22,,1860 Munich,3–1,Freiburg,,,Lutz Michael Fröhlich,/en/matches/944e2ea6/1860-Munich-Freiburg-September-22-2000-Bundesliga,,944e2ea6
+6,Sat,2000-09-23,,Dortmund,0–4,Schalke 04,,,Markus Merk,/en/matches/e36d9d3e/Revierderby-Dortmund-Schalke-04-September-23-2000-Bundesliga,,e36d9d3e
+6,Sat,2000-09-23,,Energie Cottbus,1–2,Leverkusen,,,Lutz Wagner,/en/matches/bc48b4e1/Energie-Cottbus-Bayer-Leverkusen-September-23-2000-Bundesliga,,bc48b4e1
+6,Sat,2000-09-23,,Köln,1–2,Bayern Munich,,,Hellmut Krug,/en/matches/d2abf916/Koln-Bayern-Munich-September-23-2000-Bundesliga,,d2abf916
+6,Sat,2000-09-23,,Stuttgart,1–1,Bochum,,,Wolfgang Stark,/en/matches/c2685634/Stuttgart-Bochum-September-23-2000-Bundesliga,,c2685634
+6,Sat,2000-09-23,,Werder Bremen,1–1,Eint Frankfurt,,,Peter Sippel,/en/matches/3e5168ff/Werder-Bremen-Eintracht-Frankfurt-September-23-2000-Bundesliga,,3e5168ff
+6,Sat,2000-09-23,,Wolfsburg,4–4,Hamburger SV,,,Alfons Berg,/en/matches/e35031e7/Wolfsburg-Hamburger-SV-September-23-2000-Bundesliga,,e35031e7
+6,Sun,2000-09-24,,Hansa Rostock,1–0,Kaiserslautern,,,Jürgen Aust,/en/matches/99e24ca0/Hansa-Rostock-Kaiserslautern-September-24-2000-Bundesliga,,99e24ca0
+6,Sun,2000-09-24,,Unterhaching,5–2,Hertha BSC,,,Michael Weiner,/en/matches/2c133b6f/Unterhaching-Hertha-BSC-September-24-2000-Bundesliga,,2c133b6f
+7,Fri,2000-09-29,,Eint Frankfurt,1–1,Dortmund,,,Hermann Albrecht,/en/matches/a15d534f/Eintracht-Frankfurt-Dortmund-September-29-2000-Bundesliga,,a15d534f
+7,Sat,2000-09-30,,Bayern Munich,0–1,Hansa Rostock,,,Alfons Berg,/en/matches/5f7ed3b0/Bayern-Munich-Hansa-Rostock-September-30-2000-Bundesliga,,5f7ed3b0
+7,Sat,2000-09-30,,Bochum,3–0,Unterhaching,,,Uwe Kemmling,/en/matches/fafb8397/Bochum-Unterhaching-September-30-2000-Bundesliga,,fafb8397
+7,Sat,2000-09-30,,Hamburger SV,2–0,Schalke 04,,,Lutz Wagner,/en/matches/b57cfa0b/Hamburger-SV-Schalke-04-September-30-2000-Bundesliga,,b57cfa0b
+7,Sat,2000-09-30,,Hertha BSC,4–2,Köln,,,Edgar Steinborn,/en/matches/c12f203d/Hertha-BSC-Koln-September-30-2000-Bundesliga,,c12f203d
+7,Sat,2000-09-30,,Kaiserslautern,1–1,Energie Cottbus,,,Bernd Heynemann,/en/matches/5528e3a7/Kaiserslautern-Energie-Cottbus-September-30-2000-Bundesliga,,5528e3a7
+7,Sat,2000-09-30,,Leverkusen,0–0,1860 Munich,,,Hartmut Strampe,/en/matches/ef2be4fb/Bayer-Leverkusen-1860-Munich-September-30-2000-Bundesliga,,ef2be4fb
+7,Sun,2000-10-01,,Freiburg,0–1,Werder Bremen,,,Jörg Keßler,/en/matches/71beafc4/Freiburg-Werder-Bremen-October-1-2000-Bundesliga,,71beafc4
+7,Sun,2000-10-01,,Wolfsburg,2–2,Stuttgart,,,Markus Merk,/en/matches/85212132/Wolfsburg-Stuttgart-October-1-2000-Bundesliga,,85212132
+8,Fri,2000-10-13,,Dortmund,1–0,Freiburg,,,Herbert Fandel,/en/matches/55069a5f/Dortmund-Freiburg-October-13-2000-Bundesliga,,55069a5f
+8,Sat,2000-10-14,,1860 Munich,0–4,Kaiserslautern,,,Uwe Kemmling,/en/matches/1b0bfa42/1860-Munich-Kaiserslautern-October-14-2000-Bundesliga,,1b0bfa42
+8,Sat,2000-10-14,,Energie Cottbus,1–0,Bayern Munich,,,Markus Merk,/en/matches/784c9d06/Energie-Cottbus-Bayern-Munich-October-14-2000-Bundesliga,,784c9d06
+8,Sat,2000-10-14,,Köln,2–0,Bochum,,,Michael Weiner,/en/matches/588eb004/Koln-Bochum-October-14-2000-Bundesliga,,588eb004
+8,Sat,2000-10-14,,Schalke 04,4–0,Eint Frankfurt,,,Florian Meyer,/en/matches/9bec1b0b/Schalke-04-Eintracht-Frankfurt-October-14-2000-Bundesliga,,9bec1b0b
+8,Sat,2000-10-14,,Stuttgart,3–3,Hamburger SV,,,Jürgen Aust,/en/matches/d940fff7/Stuttgart-Hamburger-SV-October-14-2000-Bundesliga,,d940fff7
+8,Sat,2000-10-14,,Werder Bremen,3–3,Leverkusen,,,Hellmut Krug,/en/matches/182e277d/Werder-Bremen-Bayer-Leverkusen-October-14-2000-Bundesliga,,182e277d
+8,Sun,2000-10-15,,Hansa Rostock,0–2,Hertha BSC,,,Hartmut Strampe,/en/matches/3772adaf/Hansa-Rostock-Hertha-BSC-October-15-2000-Bundesliga,,3772adaf
+8,Sun,2000-10-15,,Unterhaching,0–3,Wolfsburg,,,Edgar Steinborn,/en/matches/bcdfb9d1/Unterhaching-Wolfsburg-October-15-2000-Bundesliga,,bcdfb9d1
+9,Fri,2000-10-20,,Kaiserslautern,2–0,Werder Bremen,,,Jürgen Jansen,/en/matches/ff8a96cf/Kaiserslautern-Werder-Bremen-October-20-2000-Bundesliga,,ff8a96cf
+9,Sat,2000-10-21,,Bayern Munich,3–1,1860 Munich,,,Jürgen Aust,/en/matches/e2e0937c/Bayern-Munich-1860-Munich-October-21-2000-Bundesliga,,e2e0937c
+9,Sat,2000-10-21,,Hamburger SV,2–0,Eint Frankfurt,,,Lutz Michael Fröhlich,/en/matches/58ebbbd5/Hamburger-SV-Eintracht-Frankfurt-October-21-2000-Bundesliga,,58ebbbd5
+9,Sat,2000-10-21,,Hertha BSC,3–1,Energie Cottbus,,,Jörg Keßler,/en/matches/8d9c88b2/Hertha-BSC-Energie-Cottbus-October-21-2000-Bundesliga,,8d9c88b2
+9,Sat,2000-10-21,,Leverkusen,2–0,Dortmund,,,Helmut Fleischer,/en/matches/a33cb54d/Bayer-Leverkusen-Dortmund-October-21-2000-Bundesliga,,a33cb54d
+9,Sat,2000-10-21,,Stuttgart,2–2,Unterhaching,,,Herbert Fandel,/en/matches/5cb27834/Stuttgart-Unterhaching-October-21-2000-Bundesliga,,5cb27834
+9,Sat,2000-10-21,,Wolfsburg,6–0,Köln,,,Franz-Xaver Wack,/en/matches/9f003652/Wolfsburg-Koln-October-21-2000-Bundesliga,,9f003652
+9,Sun,2000-10-22,,Bochum,1–2,Hansa Rostock,,,Peter Gagelmann,/en/matches/5ba6d297/Bochum-Hansa-Rostock-October-22-2000-Bundesliga,,5ba6d297
+9,Sun,2000-10-22,,Freiburg,3–1,Schalke 04,,,Wolfgang Stark,/en/matches/35675075/Freiburg-Schalke-04-October-22-2000-Bundesliga,,35675075
+10,Fri,2000-10-27,,Energie Cottbus,2–0,Bochum,,,Hermann Albrecht,/en/matches/80221ed6/Energie-Cottbus-Bochum-October-27-2000-Bundesliga,,80221ed6
+10,Sat,2000-10-28,,Dortmund,1–2,Kaiserslautern,,,Alfons Berg,/en/matches/71481718/Dortmund-Kaiserslautern-October-28-2000-Bundesliga,,71481718
+10,Sat,2000-10-28,,Eint Frankfurt,3–0,Freiburg,,,Hartmut Strampe,/en/matches/6b39fdf5/Eintracht-Frankfurt-Freiburg-October-28-2000-Bundesliga,,6b39fdf5
+10,Sat,2000-10-28,,Hansa Rostock,1–1,Wolfsburg,,,Hellmut Krug,/en/matches/ab8191bb/Hansa-Rostock-Wolfsburg-October-28-2000-Bundesliga,,ab8191bb
+10,Sat,2000-10-28,,Schalke 04,0–0,Leverkusen,,,Lutz Michael Fröhlich,/en/matches/e0f9c56b/Schalke-04-Bayer-Leverkusen-October-28-2000-Bundesliga,,e0f9c56b
+10,Sat,2000-10-28,,Unterhaching,2–1,Hamburger SV,,,Florian Meyer,/en/matches/1ca7a70e/Unterhaching-Hamburger-SV-October-28-2000-Bundesliga,,1ca7a70e
+10,Sat,2000-10-28,,Werder Bremen,1–1,Bayern Munich,,,Herbert Fandel,/en/matches/46e1c397/Werder-Bremen-Bayern-Munich-October-28-2000-Bundesliga,,46e1c397
+10,Sun,2000-10-29,,1860 Munich,0–1,Hertha BSC,,,Jürgen Jansen,/en/matches/fc7efc16/1860-Munich-Hertha-BSC-October-29-2000-Bundesliga,,fc7efc16
+10,Sun,2000-10-29,,Köln,3–2,Stuttgart,,,Helmut Fleischer,/en/matches/b795a7e0/Koln-Stuttgart-October-29-2000-Bundesliga,,b795a7e0
+11,Fri,2000-11-03,,Leverkusen,1–0,Eint Frankfurt,,,Herbert Fandel,/en/matches/8fcbf134/Bayer-Leverkusen-Eintracht-Frankfurt-November-3-2000-Bundesliga,,8fcbf134
+11,Sat,2000-11-04,,Bayern Munich,6–2,Dortmund,,,Hartmut Strampe,/en/matches/74e50d80/Der-Klassiker-Bayern-Munich-Dortmund-November-4-2000-Bundesliga,,74e50d80
+11,Sat,2000-11-04,,Bochum,1–1,1860 Munich,,,Markus Merk,/en/matches/0b24ea29/Bochum-1860-Munich-November-4-2000-Bundesliga,,0b24ea29
+11,Sat,2000-11-04,,Hamburger SV,5–0,Freiburg,,,Hellmut Krug,/en/matches/77853c3d/Hamburger-SV-Freiburg-November-4-2000-Bundesliga,,77853c3d
+11,Sat,2000-11-04,,Hertha BSC,4–1,Werder Bremen,,,Franz-Xaver Wack,/en/matches/1f5eedd6/Hertha-BSC-Werder-Bremen-November-4-2000-Bundesliga,,1f5eedd6
+11,Sat,2000-11-04,,Kaiserslautern,3–2,Schalke 04,,,Edgar Steinborn,/en/matches/d9ed5eee/Kaiserslautern-Schalke-04-November-4-2000-Bundesliga,,d9ed5eee
+11,Sat,2000-11-04,,Stuttgart,1–0,Hansa Rostock,,,Michael Weiner,/en/matches/18841d56/Stuttgart-Hansa-Rostock-November-4-2000-Bundesliga,,18841d56
+11,Sun,2000-11-05,,Unterhaching,0–0,Köln,,,Bernd Heynemann,/en/matches/d75df834/Unterhaching-Koln-November-5-2000-Bundesliga,,d75df834
+11,Sun,2000-11-05,,Wolfsburg,1–1,Energie Cottbus,,,Wolfgang Stark,/en/matches/f5477733/Wolfsburg-Energie-Cottbus-November-5-2000-Bundesliga,,f5477733
+12,Fri,2000-11-10,,Dortmund,2–0,Hertha BSC,,,Florian Meyer,/en/matches/6ac17c22/Dortmund-Hertha-BSC-November-10-2000-Bundesliga,,6ac17c22
+12,Sat,2000-11-11,,1860 Munich,2–2,Wolfsburg,,,Herbert Fandel,/en/matches/d1435268/1860-Munich-Wolfsburg-November-11-2000-Bundesliga,,d1435268
+12,Sat,2000-11-11,,Freiburg,0–1,Leverkusen,,,Franz-Xaver Wack,/en/matches/7f3e6274/Freiburg-Bayer-Leverkusen-November-11-2000-Bundesliga,,7f3e6274
+12,Sat,2000-11-11,,Hansa Rostock,2–2,Unterhaching,,,Markus Merk,/en/matches/aa91b83a/Hansa-Rostock-Unterhaching-November-11-2000-Bundesliga,,aa91b83a
+12,Sat,2000-11-11,,Köln,4–2,Hamburger SV,,,Hermann Albrecht,/en/matches/ce29292f/Koln-Hamburger-SV-November-11-2000-Bundesliga,,ce29292f
+12,Sat,2000-11-11,,Schalke 04,3–2,Bayern Munich,,,Bernd Heynemann,/en/matches/70ba54a7/Schalke-04-Bayern-Munich-November-11-2000-Bundesliga,,70ba54a7
+12,Sat,2000-11-11,,Werder Bremen,2–0,Bochum,,,Helmut Fleischer,/en/matches/14054601/Werder-Bremen-Bochum-November-11-2000-Bundesliga,,14054601
+12,Sun,2000-11-12,,Eint Frankfurt,3–1,Kaiserslautern,,,Wolfgang Stark,/en/matches/eb043e25/Eintracht-Frankfurt-Kaiserslautern-November-12-2000-Bundesliga,,eb043e25
+12,Sun,2000-11-12,,Energie Cottbus,2–1,Stuttgart,,,Uwe Kemmling,/en/matches/cf440d97/Energie-Cottbus-Stuttgart-November-12-2000-Bundesliga,,cf440d97
+13,Fri,2000-11-17,,Stuttgart,2–2,1860 Munich,,,Hellmut Krug,/en/matches/88aea2fb/Stuttgart-1860-Munich-November-17-2000-Bundesliga,,88aea2fb
+13,Sat,2000-11-18,,Bayern Munich,1–2,Eint Frankfurt,,,Edgar Steinborn,/en/matches/b054cabe/Bayern-Munich-Eintracht-Frankfurt-November-18-2000-Bundesliga,,b054cabe
+13,Sat,2000-11-18,,Hamburger SV,1–3,Leverkusen,,,Markus Merk,/en/matches/b06a948b/Hamburger-SV-Bayer-Leverkusen-November-18-2000-Bundesliga,,b06a948b
+13,Sat,2000-11-18,,Hertha BSC,0–4,Schalke 04,,,Herbert Fandel,/en/matches/981d8c32/Hertha-BSC-Schalke-04-November-18-2000-Bundesliga,,981d8c32
+13,Sat,2000-11-18,,Kaiserslautern,0–2,Freiburg,,,Lutz Wagner,/en/matches/ef4f0cbf/Kaiserslautern-Freiburg-November-18-2000-Bundesliga,,ef4f0cbf
+13,Sat,2000-11-18,,Köln,5–2,Hansa Rostock,,,Peter Sippel,/en/matches/0dd582df/Koln-Hansa-Rostock-November-18-2000-Bundesliga,,0dd582df
+13,Sat,2000-11-18,,Wolfsburg,1–1,Werder Bremen,,,Jörg Keßler,/en/matches/bac4f041/Wolfsburg-Werder-Bremen-November-18-2000-Bundesliga,,bac4f041
+13,Sun,2000-11-19,,Bochum,1–1,Dortmund,,,Jürgen Aust,/en/matches/a625f844/Bochum-Dortmund-November-19-2000-Bundesliga,,a625f844
+13,Sun,2000-11-19,,Unterhaching,2–1,Energie Cottbus,,,Peter Gagelmann,/en/matches/2a49c079/Unterhaching-Energie-Cottbus-November-19-2000-Bundesliga,,2a49c079
+14,Fri,2000-11-24,,Schalke 04,2–1,Bochum,,,Uwe Kemmling,/en/matches/8f590cc7/Schalke-04-Bochum-November-24-2000-Bundesliga,,8f590cc7
+14,Sat,2000-11-25,,Dortmund,2–1,Wolfsburg,,,Markus Merk,/en/matches/64183948/Dortmund-Wolfsburg-November-25-2000-Bundesliga,,64183948
+14,Sat,2000-11-25,,Eint Frankfurt,0–4,Hertha BSC,,,Hellmut Krug,/en/matches/0c516ff3/Eintracht-Frankfurt-Hertha-BSC-November-25-2000-Bundesliga,,0c516ff3
+14,Sat,2000-11-25,,Energie Cottbus,0–2,Köln,,,Alfons Berg,/en/matches/c649434e/Energie-Cottbus-Koln-November-25-2000-Bundesliga,,c649434e
+14,Sat,2000-11-25,,Freiburg,1–1,Bayern Munich,,,Herbert Fandel,/en/matches/d4a65e2b/Freiburg-Bayern-Munich-November-25-2000-Bundesliga,,d4a65e2b
+14,Sat,2000-11-25,,Hansa Rostock,1–0,Hamburger SV,,,Jürgen Jansen,/en/matches/4ceebbd0/Hansa-Rostock-Hamburger-SV-November-25-2000-Bundesliga,,4ceebbd0
+14,Sun,2000-11-26,,1860 Munich,0–2,Unterhaching,,,Florian Meyer,/en/matches/3612f5d8/1860-Munich-Unterhaching-November-26-2000-Bundesliga,,3612f5d8
+14,Sun,2000-11-26,,Leverkusen,4–2,Kaiserslautern,,,Hermann Albrecht,/en/matches/260b3726/Bayer-Leverkusen-Kaiserslautern-November-26-2000-Bundesliga,,260b3726
+14,Sun,2000-11-26,,Werder Bremen,1–0,Stuttgart,,,Lutz Michael Fröhlich,/en/matches/f9d7b737/Werder-Bremen-Stuttgart-November-26-2000-Bundesliga,,f9d7b737
+15,Sat,2000-12-02,,Bayern Munich,2–0,Leverkusen,,,Hellmut Krug,/en/matches/05097d52/Bayern-Munich-Bayer-Leverkusen-December-2-2000-Bundesliga,,05097d52
+15,Sat,2000-12-02,,Bochum,2–1,Eint Frankfurt,,,Bernd Heynemann,/en/matches/7c1a5588/Bochum-Eintracht-Frankfurt-December-2-2000-Bundesliga,,7c1a5588
+15,Sat,2000-12-02,,Hertha BSC,2–2,Freiburg,,,Markus Merk,/en/matches/67c1a9ba/Hertha-BSC-Freiburg-December-2-2000-Bundesliga,,67c1a9ba
+15,Sat,2000-12-02,,Köln,4–0,1860 Munich,,,Lutz Michael Fröhlich,/en/matches/7184ced3/Koln-1860-Munich-December-2-2000-Bundesliga,,7184ced3
+15,Sat,2000-12-02,,Stuttgart,0–2,Dortmund,,,Edgar Steinborn,/en/matches/149119b7/Stuttgart-Dortmund-December-2-2000-Bundesliga,,149119b7
+15,Sat,2000-12-02,,Wolfsburg,2–0,Schalke 04,,,Jürgen Aust,/en/matches/634ff3ae/Wolfsburg-Schalke-04-December-2-2000-Bundesliga,,634ff3ae
+15,Sun,2000-12-03,,Energie Cottbus,1–0,Hansa Rostock,,,Herbert Fandel,/en/matches/9f8e12a5/Energie-Cottbus-Hansa-Rostock-December-3-2000-Bundesliga,,9f8e12a5
+15,Sun,2000-12-03,,Kaiserslautern,2–1,Hamburger SV,,,Helmut Fleischer,/en/matches/0d2f4efb/Kaiserslautern-Hamburger-SV-December-3-2000-Bundesliga,,0d2f4efb
+16,Fri,2000-12-08,,Eint Frankfurt,1–2,Wolfsburg,,,Peter Gagelmann,/en/matches/2368a06e/Eintracht-Frankfurt-Wolfsburg-December-8-2000-Bundesliga,,2368a06e
+16,Sat,2000-12-09,,1860 Munich,2–1,Hansa Rostock,,,Alfons Berg,/en/matches/6aada625/1860-Munich-Hansa-Rostock-December-9-2000-Bundesliga,,6aada625
+16,Sat,2000-12-09,,Dortmund,3–0,Unterhaching,,,Michael Weiner,/en/matches/9103e906/Dortmund-Unterhaching-December-9-2000-Bundesliga,,9103e906
+16,Sat,2000-12-09,,Freiburg,5–0,Bochum,,,Jörg Keßler,/en/matches/0747e255/Freiburg-Bochum-December-9-2000-Bundesliga,,0747e255
+16,Sat,2000-12-09,,Kaiserslautern,0–0,Bayern Munich,,,Jürgen Aust,/en/matches/b68b8c6d/Kaiserslautern-Bayern-Munich-December-9-2000-Bundesliga,,b68b8c6d
+16,Sat,2000-12-09,,Schalke 04,2–1,Stuttgart,,,Lutz Wagner,/en/matches/1a932185/Schalke-04-Stuttgart-December-9-2000-Bundesliga,,1a932185
+16,Sun,2000-12-10,,Hamburger SV,2–1,Energie Cottbus,,,Franz-Xaver Wack,/en/matches/70267755/Hamburger-SV-Energie-Cottbus-December-10-2000-Bundesliga,,70267755
+16,Sun,2000-12-10,,Leverkusen,4–0,Hertha BSC,,,Bernd Heynemann,/en/matches/dc7c8031/Bayer-Leverkusen-Hertha-BSC-December-10-2000-Bundesliga,,dc7c8031
+16,Sun,2000-12-10,,Werder Bremen,2–1,Köln,,,Uwe Kemmling,/en/matches/cfe17249/Werder-Bremen-Koln-December-10-2000-Bundesliga,,cfe17249
+17,Tue,2000-12-12,,Stuttgart,4–1,Eint Frankfurt,,,Peter Sippel,/en/matches/48db5f51/Stuttgart-Eintracht-Frankfurt-December-12-2000-Bundesliga,,48db5f51
+17,Tue,2000-12-12,,Unterhaching,0–2,Schalke 04,,,Lutz Michael Fröhlich,/en/matches/b3f61c39/Unterhaching-Schalke-04-December-12-2000-Bundesliga,,b3f61c39
+17,Tue,2000-12-12,,Wolfsburg,1–2,Freiburg,,,Hermann Albrecht,/en/matches/a05df014/Wolfsburg-Freiburg-December-12-2000-Bundesliga,,a05df014
+17,Wed,2000-12-13,,Bayern Munich,2–1,Hamburger SV,,,Hartmut Strampe,/en/matches/0ca5c627/Bayern-Munich-Hamburger-SV-December-13-2000-Bundesliga,,0ca5c627
+17,Wed,2000-12-13,,Bochum,3–2,Leverkusen,,,Florian Meyer,/en/matches/9c60d9ea/Bochum-Bayer-Leverkusen-December-13-2000-Bundesliga,,9c60d9ea
+17,Wed,2000-12-13,,Energie Cottbus,2–3,1860 Munich,,,Edgar Steinborn,/en/matches/b9802c9d/Energie-Cottbus-1860-Munich-December-13-2000-Bundesliga,,b9802c9d
+17,Wed,2000-12-13,,Hansa Rostock,5–2,Werder Bremen,,,Wolfgang Stark,/en/matches/682ab2af/Hansa-Rostock-Werder-Bremen-December-13-2000-Bundesliga,,682ab2af
+17,Wed,2000-12-13,,Hertha BSC,2–4,Kaiserslautern,,,Jürgen Jansen,/en/matches/c86ef90b/Hertha-BSC-Kaiserslautern-December-13-2000-Bundesliga,,c86ef90b
+17,Wed,2000-12-13,,Köln,0–0,Dortmund,,,Helmut Fleischer,/en/matches/66e7045e/Koln-Dortmund-December-13-2000-Bundesliga,,66e7045e
+18,Fri,2000-12-15,,Unterhaching,2–0,Eint Frankfurt,,,Uwe Kemmling,/en/matches/8dfe2dfc/Unterhaching-Eintracht-Frankfurt-December-15-2000-Bundesliga,,8dfe2dfc
+18,Sat,2000-12-16,,1860 Munich,2–1,Hamburger SV,,,Markus Merk,/en/matches/62ca2ab7/1860-Munich-Hamburger-SV-December-16-2000-Bundesliga,,62ca2ab7
+18,Sat,2000-12-16,,Bochum,0–1,Kaiserslautern,,,Franz-Xaver Wack,/en/matches/e53b1221/Bochum-Kaiserslautern-December-16-2000-Bundesliga,,e53b1221
+18,Sat,2000-12-16,,Hansa Rostock,1–2,Dortmund,,,Bernd Heynemann,/en/matches/bb7dbb08/Hansa-Rostock-Dortmund-December-16-2000-Bundesliga,,bb7dbb08
+18,Sat,2000-12-16,,Köln,2–2,Schalke 04,,,Herbert Fandel,/en/matches/7298f028/Koln-Schalke-04-December-16-2000-Bundesliga,,7298f028
+18,Sat,2000-12-16,,Stuttgart,0–0,Freiburg,,,Hellmut Krug,/en/matches/ec3ec2cd/Stuttgart-Freiburg-December-16-2000-Bundesliga,,ec3ec2cd
+18,Sat,2000-12-16,,Wolfsburg,2–0,Leverkusen,,,Lutz Wagner,/en/matches/94bf7312/Wolfsburg-Bayer-Leverkusen-December-16-2000-Bundesliga,,94bf7312
+18,Sun,2000-12-17,,Energie Cottbus,3–1,Werder Bremen,,,Jürgen Aust,/en/matches/b5ef05a2/Energie-Cottbus-Werder-Bremen-December-17-2000-Bundesliga,,b5ef05a2
+18,Sun,2000-12-17,,Hertha BSC,1–3,Bayern Munich,,,Alfons Berg,/en/matches/13f11b91/Hertha-BSC-Bayern-Munich-December-17-2000-Bundesliga,,13f11b91
+15,Wed,2000-12-20,,Unterhaching,0–0,Werder Bremen,,,Hartmut Strampe,/en/matches/b2e50887/Unterhaching-Werder-Bremen-December-20-2000-Bundesliga,,b2e50887
+19,Fri,2001-01-26,,Schalke 04,2–0,Hansa Rostock,,,Hartmut Strampe,/en/matches/54c955c8/Schalke-04-Hansa-Rostock-January-26-2001-Bundesliga,,54c955c8
+19,Sat,2001-01-27,,Bayern Munich,3–2,Bochum,,,Edgar Steinborn,/en/matches/9b551b34/Bayern-Munich-Bochum-January-27-2001-Bundesliga,,9b551b34
+19,Sat,2001-01-27,,Dortmund,2–0,Energie Cottbus,,,Lutz Michael Fröhlich,/en/matches/69784a2c/Dortmund-Energie-Cottbus-January-27-2001-Bundesliga,,69784a2c
+19,Sat,2001-01-27,,Eint Frankfurt,1–5,Köln,,,Wolfgang Stark,/en/matches/5d24dfaa/Eintracht-Frankfurt-Koln-January-27-2001-Bundesliga,,5d24dfaa
+19,Sat,2001-01-27,,Freiburg,2–0,Unterhaching,,,Markus Merk,/en/matches/33996d0a/Freiburg-Unterhaching-January-27-2001-Bundesliga,,33996d0a
+19,Sat,2001-01-27,,Kaiserslautern,0–0,Wolfsburg,,,Hellmut Krug,/en/matches/039de9d9/Kaiserslautern-Wolfsburg-January-27-2001-Bundesliga,,039de9d9
+19,Sat,2001-01-27,,Werder Bremen,2–0,1860 Munich,,,Lutz Wagner,/en/matches/a6207c36/Werder-Bremen-1860-Munich-January-27-2001-Bundesliga,,a6207c36
+19,Sun,2001-01-28,,Hamburger SV,1–2,Hertha BSC,,,Herbert Fandel,/en/matches/3127368c/Hamburger-SV-Hertha-BSC-January-28-2001-Bundesliga,,3127368c
+19,Sun,2001-01-28,,Leverkusen,4–0,Stuttgart,,,Helmut Fleischer,/en/matches/14f4ea08/Bayer-Leverkusen-Stuttgart-January-28-2001-Bundesliga,,14f4ea08
+20,Fri,2001-02-02,,1860 Munich,1–0,Dortmund,,,Jürgen Aust,/en/matches/a7f96cfa/1860-Munich-Dortmund-February-2-2001-Bundesliga,,a7f96cfa
+20,Sat,2001-02-03,,Bochum,1–3,Hertha BSC,,,Peter Sippel,/en/matches/5c874a4d/Bochum-Hertha-BSC-February-3-2001-Bundesliga,,5c874a4d
+20,Sat,2001-02-03,,Energie Cottbus,4–1,Schalke 04,,,Florian Meyer,/en/matches/404d4cb6/Energie-Cottbus-Schalke-04-February-3-2001-Bundesliga,,404d4cb6
+20,Sat,2001-02-03,,Köln,0–1,Freiburg,,,Jörg Keßler,/en/matches/868dcf34/Koln-Freiburg-February-3-2001-Bundesliga,,868dcf34
+20,Sat,2001-02-03,,Stuttgart,6–1,Kaiserslautern,,,Michael Weiner,/en/matches/12e0fc11/Stuttgart-Kaiserslautern-February-3-2001-Bundesliga,,12e0fc11
+20,Sat,2001-02-03,,Werder Bremen,3–1,Hamburger SV,,,Hermann Albrecht,/en/matches/68709565/Werder-Bremen-Hamburger-SV-February-3-2001-Bundesliga,,68709565
+20,Sat,2001-02-03,,Wolfsburg,1–3,Bayern Munich,,,Lutz Michael Fröhlich,/en/matches/8cdb8016/Wolfsburg-Bayern-Munich-February-3-2001-Bundesliga,,8cdb8016
+20,Sun,2001-02-04,,Hansa Rostock,0–2,Eint Frankfurt,,,Franz-Xaver Wack,/en/matches/f5cbdf66/Hansa-Rostock-Eintracht-Frankfurt-February-4-2001-Bundesliga,,f5cbdf66
+20,Sun,2001-02-04,,Unterhaching,1–2,Leverkusen,,,Peter Gagelmann,/en/matches/31f12639/Unterhaching-Bayer-Leverkusen-February-4-2001-Bundesliga,,31f12639
+21,Fri,2001-02-09,,Eint Frankfurt,1–0,Energie Cottbus,,,Markus Merk,/en/matches/e4ba01b0/Eintracht-Frankfurt-Energie-Cottbus-February-9-2001-Bundesliga,,e4ba01b0
+21,Sat,2001-02-10,,Bayern Munich,1–0,Stuttgart,,,Uwe Kemmling,/en/matches/59576103/Bayern-Munich-Stuttgart-February-10-2001-Bundesliga,,59576103
+21,Sat,2001-02-10,,Hamburger SV,3–0,Bochum,,,Hartmut Strampe,/en/matches/70e1b606/Hamburger-SV-Bochum-February-10-2001-Bundesliga,,70e1b606
+21,Sat,2001-02-10,,Hertha BSC,1–3,Wolfsburg,,,Jürgen Jansen,/en/matches/f141e547/Hertha-BSC-Wolfsburg-February-10-2001-Bundesliga,,f141e547
+21,Sat,2001-02-10,,Kaiserslautern,4–0,Unterhaching,,,Jürgen Aust,/en/matches/4439fdb7/Kaiserslautern-Unterhaching-February-10-2001-Bundesliga,,4439fdb7
+21,Sat,2001-02-10,,Leverkusen,4–1,Köln,,,Hellmut Krug,/en/matches/5b59f4fd/Bayer-Leverkusen-Koln-February-10-2001-Bundesliga,,5b59f4fd
+21,Sat,2001-02-10,,Schalke 04,2–0,1860 Munich,,,Bernd Heynemann,/en/matches/ebf78d38/Schalke-04-1860-Munich-February-10-2001-Bundesliga,,ebf78d38
+21,Sun,2001-02-11,,Dortmund,0–0,Werder Bremen,,,Herbert Fandel,/en/matches/5eb2ec87/Dortmund-Werder-Bremen-February-11-2001-Bundesliga,,5eb2ec87
+21,Sun,2001-02-11,,Freiburg,0–0,Hansa Rostock,,,Hermann Albrecht,/en/matches/57b78f08/Freiburg-Hansa-Rostock-February-11-2001-Bundesliga,,57b78f08
+22,Fri,2001-02-16,,1860 Munich,2–2,Eint Frankfurt,,,Michael Weiner,/en/matches/ca562b62/1860-Munich-Eintracht-Frankfurt-February-16-2001-Bundesliga,,ca562b62
+22,Sat,2001-02-17,,Dortmund,4–2,Hamburger SV,,,Franz-Xaver Wack,/en/matches/f81bdd8b/Dortmund-Hamburger-SV-February-17-2001-Bundesliga,,f81bdd8b
+22,Sat,2001-02-17,,Energie Cottbus,0–2,Freiburg,,,Peter Sippel,/en/matches/7afabf01/Energie-Cottbus-Freiburg-February-17-2001-Bundesliga,,7afabf01
+22,Sat,2001-02-17,,Hansa Rostock,2–1,Leverkusen,,,Edgar Steinborn,/en/matches/fbc31940/Hansa-Rostock-Bayer-Leverkusen-February-17-2001-Bundesliga,,fbc31940
+22,Sat,2001-02-17,,Unterhaching,1–0,Bayern Munich,,,Lutz Wagner,/en/matches/e338aecc/Unterhaching-Bayern-Munich-February-17-2001-Bundesliga,,e338aecc
+22,Sat,2001-02-17,,Werder Bremen,2–1,Schalke 04,,,Helmut Fleischer,/en/matches/b8f36020/Werder-Bremen-Schalke-04-February-17-2001-Bundesliga,,b8f36020
+22,Sat,2001-02-17,,Wolfsburg,0–0,Bochum,,,Alfons Berg,/en/matches/7d82b3e6/Wolfsburg-Bochum-February-17-2001-Bundesliga,,7d82b3e6
+22,Sun,2001-02-18,,Köln,0–1,Kaiserslautern,,,Florian Meyer,/en/matches/4a326fc0/Koln-Kaiserslautern-February-18-2001-Bundesliga,,4a326fc0
+22,Sun,2001-02-18,,Stuttgart,0–1,Hertha BSC,,,Wolfgang Stark,/en/matches/7d349c5f/Stuttgart-Hertha-BSC-February-18-2001-Bundesliga,,7d349c5f
+23,Fri,2001-02-23,,Leverkusen,1–3,Energie Cottbus,,,Hermann Albrecht,/en/matches/c55d2b7b/Bayer-Leverkusen-Energie-Cottbus-February-23-2001-Bundesliga,,c55d2b7b
+23,Sat,2001-02-24,,Bayern Munich,1–1,Köln,,,Bernd Heynemann,/en/matches/d3136c23/Bayern-Munich-Koln-February-24-2001-Bundesliga,,d3136c23
+23,Sat,2001-02-24,,Eint Frankfurt,1–2,Werder Bremen,,,Jürgen Aust,/en/matches/7e877779/Eintracht-Frankfurt-Werder-Bremen-February-24-2001-Bundesliga,,7e877779
+23,Sat,2001-02-24,,Freiburg,0–3,1860 Munich,,,Jürgen Jansen,/en/matches/34975fde/Freiburg-1860-Munich-February-24-2001-Bundesliga,,34975fde
+23,Sat,2001-02-24,,Hamburger SV,3–2,Wolfsburg,,,Peter Gagelmann,/en/matches/35963d03/Hamburger-SV-Wolfsburg-February-24-2001-Bundesliga,,35963d03
+23,Sat,2001-02-24,,Schalke 04,0–0,Dortmund,,,Markus Merk,/en/matches/b402da46/Revierderby-Schalke-04-Dortmund-February-24-2001-Bundesliga,,b402da46
+23,Sun,2001-02-25,,Bochum,0–0,Stuttgart,,,Herbert Fandel,/en/matches/9963073d/Bochum-Stuttgart-February-25-2001-Bundesliga,,9963073d
+23,Sun,2001-02-25,,Kaiserslautern,0–1,Hansa Rostock,,,Lutz Michael Fröhlich,/en/matches/a75e5bec/Kaiserslautern-Hansa-Rostock-February-25-2001-Bundesliga,,a75e5bec
+24,Fri,2001-03-02,,Dortmund,6–1,Eint Frankfurt,,,Uwe Kemmling,/en/matches/53aaa33f/Dortmund-Eintracht-Frankfurt-March-2-2001-Bundesliga,,53aaa33f
+24,Sat,2001-03-03,,Energie Cottbus,0–2,Kaiserslautern,,,Helmut Fleischer,/en/matches/351e60ed/Energie-Cottbus-Kaiserslautern-March-3-2001-Bundesliga,,351e60ed
+24,Sat,2001-03-03,,Hansa Rostock,3–2,Bayern Munich,,,Markus Merk,/en/matches/8770bc11/Hansa-Rostock-Bayern-Munich-March-3-2001-Bundesliga,,8770bc11
+24,Sat,2001-03-03,,Köln,1–0,Hertha BSC,,,Franz-Xaver Wack,/en/matches/85498a42/Koln-Hertha-BSC-March-3-2001-Bundesliga,,85498a42
+24,Sat,2001-03-03,,Stuttgart,2–1,Wolfsburg,,,Lutz Wagner,/en/matches/4092312d/Stuttgart-Wolfsburg-March-3-2001-Bundesliga,,4092312d
+24,Sat,2001-03-03,,Unterhaching,2–1,Bochum,,,Florian Meyer,/en/matches/74dbbe71/Unterhaching-Bochum-March-3-2001-Bundesliga,,74dbbe71
+24,Sat,2001-03-03,,Werder Bremen,3–1,Freiburg,,,Hellmut Krug,/en/matches/bfac3e15/Werder-Bremen-Freiburg-March-3-2001-Bundesliga,,bfac3e15
+24,Sun,2001-03-04,,1860 Munich,1–0,Leverkusen,,,Herbert Fandel,/en/matches/4300c499/1860-Munich-Bayer-Leverkusen-March-4-2001-Bundesliga,,4300c499
+24,Sun,2001-03-04,,Schalke 04,0–1,Hamburger SV,,,Jörg Keßler,/en/matches/5865056b/Schalke-04-Hamburger-SV-March-4-2001-Bundesliga,,5865056b
+23,Wed,2001-03-07,,Hertha BSC,2–1,Unterhaching,,,Hartmut Strampe,/en/matches/1b2533d9/Hertha-BSC-Unterhaching-March-7-2001-Bundesliga,,1b2533d9
+25,Fri,2001-03-09,,Leverkusen,3–0,Werder Bremen,,,Wolfgang Stark,/en/matches/cfc2469e/Bayer-Leverkusen-Werder-Bremen-March-9-2001-Bundesliga,,cfc2469e
+25,Sat,2001-03-10,,Bayern Munich,2–0,Energie Cottbus,,,Michael Weiner,/en/matches/acfe1842/Bayern-Munich-Energie-Cottbus-March-10-2001-Bundesliga,,acfe1842
+25,Sat,2001-03-10,,Bochum,2–3,Köln,,,Lutz Michael Fröhlich,/en/matches/a1ea79a6/Bochum-Koln-March-10-2001-Bundesliga,,a1ea79a6
+25,Sat,2001-03-10,,Eint Frankfurt,0–0,Schalke 04,,,Hermann Albrecht,/en/matches/e80e1c00/Eintracht-Frankfurt-Schalke-04-March-10-2001-Bundesliga,,e80e1c00
+25,Sat,2001-03-10,,Freiburg,2–2,Dortmund,,,Alfons Berg,/en/matches/2bce2edd/Freiburg-Dortmund-March-10-2001-Bundesliga,,2bce2edd
+25,Sat,2001-03-10,,Hertha BSC,1–0,Hansa Rostock,,,Jürgen Aust,/en/matches/0af11c0f/Hertha-BSC-Hansa-Rostock-March-10-2001-Bundesliga,,0af11c0f
+25,Sat,2001-03-10,,Wolfsburg,6–1,Unterhaching,,,Bernd Heynemann,/en/matches/009108b7/Wolfsburg-Unterhaching-March-10-2001-Bundesliga,,009108b7
+25,Sun,2001-03-11,,Hamburger SV,2–2,Stuttgart,,,Jürgen Jansen,/en/matches/3dd34328/Hamburger-SV-Stuttgart-March-11-2001-Bundesliga,,3dd34328
+25,Sun,2001-03-11,,Kaiserslautern,3–2,1860 Munich,,,Hartmut Strampe,/en/matches/1ff8e63b/Kaiserslautern-1860-Munich-March-11-2001-Bundesliga,,1ff8e63b
+26,Fri,2001-03-16,,Köln,0–0,Wolfsburg,,,Herbert Fandel,/en/matches/ec974f93/Koln-Wolfsburg-March-16-2001-Bundesliga,,ec974f93
+26,Sat,2001-03-17,,1860 Munich,0–2,Bayern Munich,,,Hellmut Krug,/en/matches/56809598/1860-Munich-Bayern-Munich-March-17-2001-Bundesliga,,56809598
+26,Sat,2001-03-17,,Dortmund,1–3,Leverkusen,,,Bernd Heynemann,/en/matches/6323a4a1/Dortmund-Bayer-Leverkusen-March-17-2001-Bundesliga,,6323a4a1
+26,Sat,2001-03-17,,Eint Frankfurt,1–1,Hamburger SV,,,Helmut Fleischer,/en/matches/c29defbc/Eintracht-Frankfurt-Hamburger-SV-March-17-2001-Bundesliga,,c29defbc
+26,Sat,2001-03-17,,Energie Cottbus,3–0,Hertha BSC,,,Alfons Berg,/en/matches/1b5f8b0c/Energie-Cottbus-Hertha-BSC-March-17-2001-Bundesliga,,1b5f8b0c
+26,Sat,2001-03-17,,Hansa Rostock,2–0,Bochum,,,Jörg Keßler,/en/matches/77a82bdd/Hansa-Rostock-Bochum-March-17-2001-Bundesliga,,77a82bdd
+26,Sat,2001-03-17,,Schalke 04,0–0,Freiburg,,,Uwe Kemmling,/en/matches/9e708397/Schalke-04-Freiburg-March-17-2001-Bundesliga,,9e708397
+26,Sun,2001-03-18,,Unterhaching,0–0,Stuttgart,,,Lutz Michael Fröhlich,/en/matches/d22bf519/Unterhaching-Stuttgart-March-18-2001-Bundesliga,,d22bf519
+26,Sun,2001-03-18,,Werder Bremen,1–2,Kaiserslautern,,,Franz-Xaver Wack,/en/matches/b5176f94/Werder-Bremen-Kaiserslautern-March-18-2001-Bundesliga,,b5176f94
+27,Fri,2001-03-30,,Wolfsburg,2–1,Hansa Rostock,,,Jürgen Jansen,/en/matches/a3a5f393/Wolfsburg-Hansa-Rostock-March-30-2001-Bundesliga,,a3a5f393
+27,Sat,2001-03-31,,Bayern Munich,2–3,Werder Bremen,,,Florian Meyer,/en/matches/3fff1e17/Bayern-Munich-Werder-Bremen-March-31-2001-Bundesliga,,3fff1e17
+27,Sat,2001-03-31,,Freiburg,5–2,Eint Frankfurt,,,Herbert Fandel,/en/matches/e721da20/Freiburg-Eintracht-Frankfurt-March-31-2001-Bundesliga,,e721da20
+27,Sat,2001-03-31,,Hamburger SV,1–1,Unterhaching,,,Hellmut Krug,/en/matches/72c0ee59/Hamburger-SV-Unterhaching-March-31-2001-Bundesliga,,72c0ee59
+27,Sat,2001-03-31,,Hertha BSC,3–0,1860 Munich,,,Edgar Steinborn,/en/matches/13e4e9c3/Hertha-BSC-1860-Munich-March-31-2001-Bundesliga,,13e4e9c3
+27,Sat,2001-03-31,,Leverkusen,0–3,Schalke 04,,,Markus Merk,/en/matches/b3750316/Bayer-Leverkusen-Schalke-04-March-31-2001-Bundesliga,,b3750316
+27,Sat,2001-03-31,,Stuttgart,0–3,Köln,,,Peter Gagelmann,/en/matches/20118023/Stuttgart-Koln-March-31-2001-Bundesliga,,20118023
+27,Sun,2001-04-01,,Bochum,1–0,Energie Cottbus,,,Franz-Xaver Wack,/en/matches/23871243/Bochum-Energie-Cottbus-April-1-2001-Bundesliga,,23871243
+27,Sun,2001-04-01,,Kaiserslautern,1–4,Dortmund,,,Lutz Michael Fröhlich,/en/matches/60c49764/Kaiserslautern-Dortmund-April-1-2001-Bundesliga,,60c49764
+28,Fri,2001-04-06,,Energie Cottbus,0–0,Wolfsburg,,,Hermann Albrecht,/en/matches/698ec862/Energie-Cottbus-Wolfsburg-April-6-2001-Bundesliga,,698ec862
+28,Sat,2001-04-07,,1860 Munich,2–4,Bochum,,,Bernd Heynemann,/en/matches/a69bc5e9/1860-Munich-Bochum-April-7-2001-Bundesliga,,a69bc5e9
+28,Sat,2001-04-07,,Dortmund,1–1,Bayern Munich,,,Hartmut Strampe,/en/matches/3cd2e8d1/Der-Klassiker-Dortmund-Bayern-Munich-April-7-2001-Bundesliga,,3cd2e8d1
+28,Sat,2001-04-07,,Eint Frankfurt,1–3,Leverkusen,,,Jörg Keßler,/en/matches/46a01b18/Eintracht-Frankfurt-Bayer-Leverkusen-April-7-2001-Bundesliga,,46a01b18
+28,Sat,2001-04-07,,Freiburg,0–0,Hamburger SV,,,Markus Merk,/en/matches/e7e7d838/Freiburg-Hamburger-SV-April-7-2001-Bundesliga,,e7e7d838
+28,Sat,2001-04-07,,Köln,1–1,Unterhaching,,,Alfons Berg,/en/matches/ff154628/Koln-Unterhaching-April-7-2001-Bundesliga,,ff154628
+28,Sat,2001-04-07,,Werder Bremen,3–1,Hertha BSC,,,Peter Sippel,/en/matches/307ad1bb/Werder-Bremen-Hertha-BSC-April-7-2001-Bundesliga,,307ad1bb
+28,Sun,2001-04-08,,Hansa Rostock,1–1,Stuttgart,,,Franz-Xaver Wack,/en/matches/f3805231/Hansa-Rostock-Stuttgart-April-8-2001-Bundesliga,,f3805231
+28,Sun,2001-04-08,,Schalke 04,5–1,Kaiserslautern,,,Wolfgang Stark,/en/matches/a765c43e/Schalke-04-Kaiserslautern-April-8-2001-Bundesliga,,a765c43e
+29,Thu,2001-04-12,,Stuttgart,1–0,Energie Cottbus,,,Bernd Heynemann,/en/matches/97712d69/Stuttgart-Energie-Cottbus-April-12-2001-Bundesliga,,97712d69
+29,Sat,2001-04-14,,Bayern Munich,1–3,Schalke 04,,,Jürgen Aust,/en/matches/fb2dfec5/Bayern-Munich-Schalke-04-April-14-2001-Bundesliga,,fb2dfec5
+29,Sat,2001-04-14,,Bochum,1–2,Werder Bremen,,,Uwe Kemmling,/en/matches/a7fe5ad5/Bochum-Werder-Bremen-April-14-2001-Bundesliga,,a7fe5ad5
+29,Sat,2001-04-14,,Hertha BSC,1–0,Dortmund,,,Hermann Albrecht,/en/matches/6551590c/Hertha-BSC-Dortmund-April-14-2001-Bundesliga,,6551590c
+29,Sat,2001-04-14,,Kaiserslautern,4–2,Eint Frankfurt,,,Hellmut Krug,/en/matches/0c8a5288/Kaiserslautern-Eintracht-Frankfurt-April-14-2001-Bundesliga,,0c8a5288
+29,Sat,2001-04-14,,Leverkusen,1–3,Freiburg,,,Helmut Fleischer,/en/matches/ea8d5d77/Bayer-Leverkusen-Freiburg-April-14-2001-Bundesliga,,ea8d5d77
+29,Sat,2001-04-14,,Wolfsburg,0–1,1860 Munich,,,Lutz Michael Fröhlich,/en/matches/4789fe8a/Wolfsburg-1860-Munich-April-14-2001-Bundesliga,,4789fe8a
+29,Sun,2001-04-15,,Hamburger SV,1–1,Köln,,,Jörg Keßler,/en/matches/c147fdb1/Hamburger-SV-Koln-April-15-2001-Bundesliga,,c147fdb1
+29,Sun,2001-04-15,,Unterhaching,1–1,Hansa Rostock,,,Edgar Steinborn,/en/matches/e57bf861/Unterhaching-Hansa-Rostock-April-15-2001-Bundesliga,,e57bf861
+30,Fri,2001-04-20,,Dortmund,5–0,Bochum,,,Helmut Fleischer,/en/matches/ffc0656b/Dortmund-Bochum-April-20-2001-Bundesliga,,ffc0656b
+30,Sat,2001-04-21,,Eint Frankfurt,0–2,Bayern Munich,,,Jürgen Jansen,/en/matches/e10405aa/Eintracht-Frankfurt-Bayern-Munich-April-21-2001-Bundesliga,,e10405aa
+30,Sat,2001-04-21,,Energie Cottbus,1–0,Unterhaching,,,Markus Merk,/en/matches/27ba926f/Energie-Cottbus-Unterhaching-April-21-2001-Bundesliga,,27ba926f
+30,Sat,2001-04-21,,Hansa Rostock,2–1,Köln,,,Wolfgang Stark,/en/matches/d32f6f36/Hansa-Rostock-Koln-April-21-2001-Bundesliga,,d32f6f36
+30,Sat,2001-04-21,,Leverkusen,1–1,Hamburger SV,,,Lutz Wagner,/en/matches/b352d9c7/Bayer-Leverkusen-Hamburger-SV-April-21-2001-Bundesliga,,b352d9c7
+30,Sat,2001-04-21,,Schalke 04,3–1,Hertha BSC,,,Herbert Fandel,/en/matches/db098732/Schalke-04-Hertha-BSC-April-21-2001-Bundesliga,,db098732
+30,Sat,2001-04-21,,Werder Bremen,2–3,Wolfsburg,,,Hellmut Krug,/en/matches/07be83b0/Werder-Bremen-Wolfsburg-April-21-2001-Bundesliga,,07be83b0
+30,Sun,2001-04-22,,1860 Munich,2–1,Stuttgart,,,Michael Weiner,/en/matches/a206eaa2/1860-Munich-Stuttgart-April-22-2001-Bundesliga,,a206eaa2
+30,Sun,2001-04-22,,Freiburg,5–2,Kaiserslautern,,,Hartmut Strampe,/en/matches/635dbcb0/Freiburg-Kaiserslautern-April-22-2001-Bundesliga,,635dbcb0
+31,Fri,2001-04-27,,Wolfsburg,1–1,Dortmund,,,Herbert Fandel,/en/matches/db1ad058/Wolfsburg-Dortmund-April-27-2001-Bundesliga,,db1ad058
+31,Sat,2001-04-28,,Bayern Munich,1–0,Freiburg,,,Edgar Steinborn,/en/matches/fc0f8805/Bayern-Munich-Freiburg-April-28-2001-Bundesliga,,fc0f8805
+31,Sat,2001-04-28,,Bochum,1–1,Schalke 04,,,Alfons Berg,/en/matches/2def70e7/Bochum-Schalke-04-April-28-2001-Bundesliga,,2def70e7
+31,Sat,2001-04-28,,Hertha BSC,3–0,Eint Frankfurt,,,Helmut Fleischer,/en/matches/11860135/Hertha-BSC-Eintracht-Frankfurt-April-28-2001-Bundesliga,,11860135
+31,Sat,2001-04-28,,Kaiserslautern,0–1,Leverkusen,,,Hermann Albrecht,/en/matches/596b7af4/Kaiserslautern-Bayer-Leverkusen-April-28-2001-Bundesliga,,596b7af4
+31,Sat,2001-04-28,,Köln,4–0,Energie Cottbus,,,Hellmut Krug,/en/matches/00281ee6/Koln-Energie-Cottbus-April-28-2001-Bundesliga,,00281ee6
+31,Sat,2001-04-28,,Stuttgart,2–1,Werder Bremen,,,Markus Merk,/en/matches/014d0194/Stuttgart-Werder-Bremen-April-28-2001-Bundesliga,,014d0194
+31,Sun,2001-04-29,,Hamburger SV,2–1,Hansa Rostock,,,Bernd Heynemann,/en/matches/67a626be/Hamburger-SV-Hansa-Rostock-April-29-2001-Bundesliga,,67a626be
+31,Sun,2001-04-29,,Unterhaching,3–2,1860 Munich,,,Jürgen Aust,/en/matches/f6fd2947/Unterhaching-1860-Munich-April-29-2001-Bundesliga,,f6fd2947
+32,Fri,2001-05-04,,Dortmund,0–0,Stuttgart,,,Alfons Berg,/en/matches/8bb6a1c2/Dortmund-Stuttgart-May-4-2001-Bundesliga,,8bb6a1c2
+32,Sat,2001-05-05,,1860 Munich,3–1,Köln,,,Florian Meyer,/en/matches/4b24c27f/1860-Munich-Koln-May-5-2001-Bundesliga,,4b24c27f
+32,Sat,2001-05-05,,Eint Frankfurt,3–0,Bochum,,,Markus Merk,/en/matches/9cc37a57/Eintracht-Frankfurt-Bochum-May-5-2001-Bundesliga,,9cc37a57
+32,Sat,2001-05-05,,Hamburger SV,1–1,Kaiserslautern,,,Hellmut Krug,/en/matches/9621df30/Hamburger-SV-Kaiserslautern-May-5-2001-Bundesliga,,9621df30
+32,Sat,2001-05-05,,Hansa Rostock,1–0,Energie Cottbus,,,Hartmut Strampe,/en/matches/d364feed/Hansa-Rostock-Energie-Cottbus-May-5-2001-Bundesliga,,d364feed
+32,Sat,2001-05-05,,Leverkusen,0–1,Bayern Munich,,,Bernd Heynemann,/en/matches/2176d066/Bayer-Leverkusen-Bayern-Munich-May-5-2001-Bundesliga,,2176d066
+32,Sat,2001-05-05,,Schalke 04,2–1,Wolfsburg,,,Helmut Fleischer,/en/matches/7f1f7d25/Schalke-04-Wolfsburg-May-5-2001-Bundesliga,,7f1f7d25
+32,Sun,2001-05-06,,Freiburg,1–0,Hertha BSC,,,Jürgen Aust,/en/matches/b9d07678/Freiburg-Hertha-BSC-May-6-2001-Bundesliga,,b9d07678
+32,Sun,2001-05-06,,Werder Bremen,0–0,Unterhaching,,,Lutz Michael Fröhlich,/en/matches/ff1f4be0/Werder-Bremen-Unterhaching-May-6-2001-Bundesliga,,ff1f4be0
+33,Sat,2001-05-12,,Bayern Munich,2–1,Kaiserslautern,,,Lutz Wagner,/en/matches/325e870d/Bayern-Munich-Kaiserslautern-May-12-2001-Bundesliga,,325e870d
+33,Sat,2001-05-12,,Bochum,1–3,Freiburg,,,Peter Sippel,/en/matches/5be10621/Bochum-Freiburg-May-12-2001-Bundesliga,,5be10621
+33,Sat,2001-05-12,,Energie Cottbus,4–2,Hamburger SV,,,Jürgen Jansen,/en/matches/9eee93e3/Energie-Cottbus-Hamburger-SV-May-12-2001-Bundesliga,,9eee93e3
+33,Sat,2001-05-12,,Hansa Rostock,0–0,1860 Munich,,,Markus Merk,/en/matches/117212bc/Hansa-Rostock-1860-Munich-May-12-2001-Bundesliga,,117212bc
+33,Sat,2001-05-12,,Hertha BSC,1–1,Leverkusen,,,Herbert Fandel,/en/matches/7edba2ce/Hertha-BSC-Bayer-Leverkusen-May-12-2001-Bundesliga,,7edba2ce
+33,Sat,2001-05-12,,Köln,1–3,Werder Bremen,,,Hermann Albrecht,/en/matches/caf99765/Koln-Werder-Bremen-May-12-2001-Bundesliga,,caf99765
+33,Sat,2001-05-12,,Stuttgart,1–0,Schalke 04,,,Bernd Heynemann,/en/matches/f064a9a0/Stuttgart-Schalke-04-May-12-2001-Bundesliga,,f064a9a0
+33,Sat,2001-05-12,,Unterhaching,1–4,Dortmund,,,Edgar Steinborn,/en/matches/927d3355/Unterhaching-Dortmund-May-12-2001-Bundesliga,,927d3355
+33,Sat,2001-05-12,,Wolfsburg,3–0,Eint Frankfurt,,,Hellmut Krug,/en/matches/366e1666/Wolfsburg-Eintracht-Frankfurt-May-12-2001-Bundesliga,,366e1666
+34,Sat,2001-05-19,,1860 Munich,0–1,Energie Cottbus,,,Herbert Fandel,/en/matches/29b9e602/1860-Munich-Energie-Cottbus-May-19-2001-Bundesliga,,29b9e602
+34,Sat,2001-05-19,,Dortmund,3–3,Köln,,,Peter Gagelmann,/en/matches/78b443c9/Dortmund-Koln-May-19-2001-Bundesliga,,78b443c9
+34,Sat,2001-05-19,,Eint Frankfurt,2–1,Stuttgart,,,Lutz Michael Fröhlich,/en/matches/f3c66b64/Eintracht-Frankfurt-Stuttgart-May-19-2001-Bundesliga,,f3c66b64
+34,Sat,2001-05-19,,Freiburg,4–1,Wolfsburg,,,Alfons Berg,/en/matches/89efc056/Freiburg-Wolfsburg-May-19-2001-Bundesliga,,89efc056
+34,Sat,2001-05-19,,Hamburger SV,1–1,Bayern Munich,,,Markus Merk,/en/matches/1ba6269f/Hamburger-SV-Bayern-Munich-May-19-2001-Bundesliga,,1ba6269f
+34,Sat,2001-05-19,,Kaiserslautern,0–1,Hertha BSC,,,Bernd Heynemann,/en/matches/b775ad9f/Kaiserslautern-Hertha-BSC-May-19-2001-Bundesliga,,b775ad9f
+34,Sat,2001-05-19,,Leverkusen,1–0,Bochum,,,Michael Weiner,/en/matches/1d380477/Bayer-Leverkusen-Bochum-May-19-2001-Bundesliga,,1d380477
+34,Sat,2001-05-19,,Schalke 04,5–3,Unterhaching,,,Hartmut Strampe,/en/matches/39da37a1/Schalke-04-Unterhaching-May-19-2001-Bundesliga,,39da37a1
+34,Sat,2001-05-19,,Werder Bremen,3–0,Hansa Rostock,,,Uwe Kemmling,/en/matches/ec2c8ffd/Werder-Bremen-Hansa-Rostock-May-19-2001-Bundesliga,,ec2c8ffd

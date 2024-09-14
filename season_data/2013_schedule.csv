@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,2013-08-09,,Bayern Munich,3–1,M'Gladbach,,,Tobias Welz,/en/matches/378439b6/Bayern-Munich-Monchengladbach-August-9-2013-Bundesliga,,378439b6
+1,Sat,2013-08-10,,Augsburg,0–4,Dortmund,,,Knut Kircher,/en/matches/a41476d3/Augsburg-Dortmund-August-10-2013-Bundesliga,,a41476d3
+1,Sat,2013-08-10,,Braunschweig,0–1,Werder Bremen,,,Deniz Aytekin,/en/matches/4a00c7a5/Eintracht-Braunschweig-Werder-Bremen-August-10-2013-Bundesliga,,4a00c7a5
+1,Sat,2013-08-10,,Hannover 96,2–0,Wolfsburg,,,Felix Brych,/en/matches/8c3b438f/Hannover-96-Wolfsburg-August-10-2013-Bundesliga,,8c3b438f
+1,Sat,2013-08-10,,Hertha BSC,6–1,Eint Frankfurt,,,Michael Weiner,/en/matches/4e72dcef/Hertha-BSC-Eintracht-Frankfurt-August-10-2013-Bundesliga,,4e72dcef
+1,Sat,2013-08-10,,Hoffenheim,2–2,Nürnberg,,,Thorsten Kinhöfer,/en/matches/20c12346/Hoffenheim-Nurnberg-August-10-2013-Bundesliga,,20c12346
+1,Sat,2013-08-10,,Leverkusen,3–1,Freiburg,,,Günter Perl,/en/matches/99e973db/Bayer-Leverkusen-Freiburg-August-10-2013-Bundesliga,,99e973db
+1,Sun,2013-08-11,,Mainz 05,3–2,Stuttgart,,,Florian Meyer,/en/matches/d4a710dd/Mainz-05-Stuttgart-August-11-2013-Bundesliga,,d4a710dd
+1,Sun,2013-08-11,,Schalke 04,3–3,Hamburger SV,,,Manuel Gräfe,/en/matches/f21206f8/Schalke-04-Hamburger-SV-August-11-2013-Bundesliga,,f21206f8
+2,Sat,2013-08-17,,Eint Frankfurt,0–1,Bayern Munich,,,Peter Gagelmann,/en/matches/c557c182/Eintracht-Frankfurt-Bayern-Munich-August-17-2013-Bundesliga,,c557c182
+2,Sat,2013-08-17,,Freiburg,1–2,Mainz 05,,,Robert Hartmann,/en/matches/bc7f31e3/Freiburg-Mainz-05-August-17-2013-Bundesliga,,bc7f31e3
+2,Sat,2013-08-17,,Hamburger SV,1–5,Hoffenheim,,,Günter Perl,/en/matches/64063604/Hamburger-SV-Hoffenheim-August-17-2013-Bundesliga,,64063604
+2,Sat,2013-08-17,,M'Gladbach,3–0,Hannover 96,,,Jochen Drees,/en/matches/d0daf853/Monchengladbach-Hannover-96-August-17-2013-Bundesliga,,d0daf853
+2,Sat,2013-08-17,,Stuttgart,0–1,Leverkusen,,,Felix Zwayer,/en/matches/910b12fc/Stuttgart-Bayer-Leverkusen-August-17-2013-Bundesliga,,910b12fc
+2,Sat,2013-08-17,,Werder Bremen,1–0,Augsburg,,,Daniel Siebert,/en/matches/19f77b01/Werder-Bremen-Augsburg-August-17-2013-Bundesliga,,19f77b01
+2,Sat,2013-08-17,,Wolfsburg,4–0,Schalke 04,,,Wolfgang Stark,/en/matches/1e6025ed/Wolfsburg-Schalke-04-August-17-2013-Bundesliga,,1e6025ed
+2,Sun,2013-08-18,,Dortmund,2–1,Braunschweig,,,Peter Sippel,/en/matches/95074cf8/Dortmund-Eintracht-Braunschweig-August-18-2013-Bundesliga,,95074cf8
+2,Sun,2013-08-18,,Nürnberg,2–2,Hertha BSC,,,Guido Winkmann,/en/matches/988aa1ae/Nurnberg-Hertha-BSC-August-18-2013-Bundesliga,,988aa1ae
+3,Fri,2013-08-23,,Dortmund,1–0,Werder Bremen,,,Felix Zwayer,/en/matches/80144112/Dortmund-Werder-Bremen-August-23-2013-Bundesliga,,80144112
+3,Sat,2013-08-24,,Bayern Munich,2–0,Nürnberg,,,Christian Dingert,/en/matches/63aa773d/Bayern-Munich-Nurnberg-August-24-2013-Bundesliga,,63aa773d
+3,Sat,2013-08-24,,Hannover 96,2–1,Schalke 04,,,Bastian Dankert,/en/matches/a4295ca4/Hannover-96-Schalke-04-August-24-2013-Bundesliga,,a4295ca4
+3,Sat,2013-08-24,,Hertha BSC,1–0,Hamburger SV,,,Marco Fritz,/en/matches/e8c79e60/Hertha-BSC-Hamburger-SV-August-24-2013-Bundesliga,,e8c79e60
+3,Sat,2013-08-24,,Hoffenheim,3–3,Freiburg,,,Tobias Stieler,/en/matches/cc6b79f9/Hoffenheim-Freiburg-August-24-2013-Bundesliga,,cc6b79f9
+3,Sat,2013-08-24,,Leverkusen,4–2,M'Gladbach,,,Felix Brych,/en/matches/2f5b7a08/Bayer-Leverkusen-Monchengladbach-August-24-2013-Bundesliga,,2f5b7a08
+3,Sat,2013-08-24,,Mainz 05,2–0,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/565f4b40/Mainz-05-Wolfsburg-August-24-2013-Bundesliga,,565f4b40
+3,Sun,2013-08-25,,Augsburg,2–1,Stuttgart,,,Tobias Welz,/en/matches/8aae6e9f/Augsburg-Stuttgart-August-25-2013-Bundesliga,,8aae6e9f
+3,Sun,2013-08-25,,Braunschweig,0–2,Eint Frankfurt,,,Wolfgang Stark,/en/matches/6b24e7af/Eintracht-Braunschweig-Eintracht-Frankfurt-August-25-2013-Bundesliga,,6b24e7af
+4,Tue,2013-08-27,,Freiburg,1–1,Bayern Munich,,,Florian Meyer,/en/matches/5f5b1cc9/Freiburg-Bayern-Munich-August-27-2013-Bundesliga,,5f5b1cc9
+4,Sat,2013-08-31,,Hamburger SV,4–0,Braunschweig,,,Knut Kircher,/en/matches/5ac7177b/Hamburger-SV-Eintracht-Braunschweig-August-31-2013-Bundesliga,,5ac7177b
+4,Sat,2013-08-31,,Hannover 96,4–1,Mainz 05,,,Guido Winkmann,/en/matches/ec07e24e/Hannover-96-Mainz-05-August-31-2013-Bundesliga,,ec07e24e
+4,Sat,2013-08-31,,M'Gladbach,4–1,Werder Bremen,,,Günter Perl,/en/matches/0f1d6d9f/Monchengladbach-Werder-Bremen-August-31-2013-Bundesliga,,0f1d6d9f
+4,Sat,2013-08-31,,Nürnberg,0–1,Augsburg,,,Michael Weiner,/en/matches/407d2641/Nurnberg-Augsburg-August-31-2013-Bundesliga,,407d2641
+4,Sat,2013-08-31,,Schalke 04,2–0,Leverkusen,,,Peter Gagelmann,/en/matches/4ff3930d/Schalke-04-Bayer-Leverkusen-August-31-2013-Bundesliga,,4ff3930d
+4,Sat,2013-08-31,,Wolfsburg,2–0,Hertha BSC,,,Robert Hartmann,/en/matches/65da5832/Wolfsburg-Hertha-BSC-August-31-2013-Bundesliga,,65da5832
+4,Sun,2013-09-01,,Eint Frankfurt,1–2,Dortmund,,,Manuel Gräfe,/en/matches/7ddf56fd/Eintracht-Frankfurt-Dortmund-September-1-2013-Bundesliga,,7ddf56fd
+4,Sun,2013-09-01,,Stuttgart,6–2,Hoffenheim,,,Jochen Drees,/en/matches/1610cce7/Stuttgart-Hoffenheim-September-1-2013-Bundesliga,,1610cce7
+5,Fri,2013-09-13,,Hertha BSC,0–1,Stuttgart,,,Deniz Aytekin,/en/matches/96a4a742/Hertha-BSC-Stuttgart-September-13-2013-Bundesliga,,96a4a742
+5,Sat,2013-09-14,,Augsburg,2–1,Freiburg,,,Bastian Dankert,/en/matches/911bb368/Augsburg-Freiburg-September-14-2013-Bundesliga,,911bb368
+5,Sat,2013-09-14,,Bayern Munich,2–0,Hannover 96,,,Tobias Stieler,/en/matches/f4c8ad52/Bayern-Munich-Hannover-96-September-14-2013-Bundesliga,,f4c8ad52
+5,Sat,2013-09-14,,Dortmund,6–2,Hamburger SV,,,Tobias Welz,/en/matches/e2b0aabd/Dortmund-Hamburger-SV-September-14-2013-Bundesliga,,e2b0aabd
+5,Sat,2013-09-14,,Leverkusen,3–1,Wolfsburg,,,Markus Schmidt,/en/matches/ac3ab1a7/Bayer-Leverkusen-Wolfsburg-September-14-2013-Bundesliga,,ac3ab1a7
+5,Sat,2013-09-14,,Mainz 05,0–1,Schalke 04,,,Peter Sippel,/en/matches/56c0d135/Mainz-05-Schalke-04-September-14-2013-Bundesliga,,56c0d135
+5,Sat,2013-09-14,,Werder Bremen,0–3,Eint Frankfurt,,,Felix Brych,/en/matches/b31fbe5e/Werder-Bremen-Eintracht-Frankfurt-September-14-2013-Bundesliga,,b31fbe5e
+5,Sun,2013-09-15,,Braunschweig,1–1,Nürnberg,,,Marco Fritz,/en/matches/5c69d0ec/Eintracht-Braunschweig-Nurnberg-September-15-2013-Bundesliga,,5c69d0ec
+5,Sun,2013-09-15,,Hoffenheim,2–1,M'Gladbach,,,Christian Dingert,/en/matches/75425349/Hoffenheim-Monchengladbach-September-15-2013-Bundesliga,,75425349
+6,Fri,2013-09-20,,M'Gladbach,4–1,Braunschweig,,,Peter Gagelmann,/en/matches/178c6b0e/Monchengladbach-Eintracht-Braunschweig-September-20-2013-Bundesliga,,178c6b0e
+6,Sat,2013-09-21,,Hamburger SV,0–2,Werder Bremen,,,Wolfgang Stark,/en/matches/74fac1ce/Hamburger-SV-Werder-Bremen-September-21-2013-Bundesliga,,74fac1ce
+6,Sat,2013-09-21,,Hannover 96,2–1,Augsburg,,,Christian Dingert,/en/matches/be5c3de6/Hannover-96-Augsburg-September-21-2013-Bundesliga,,be5c3de6
+6,Sat,2013-09-21,,Mainz 05,1–4,Leverkusen,,,Deniz Aytekin,/en/matches/a455232d/Mainz-05-Bayer-Leverkusen-September-21-2013-Bundesliga,,a455232d
+6,Sat,2013-09-21,,Nürnberg,1–1,Dortmund,,,Knut Kircher,/en/matches/15bef1a5/Nurnberg-Dortmund-September-21-2013-Bundesliga,,15bef1a5
+6,Sat,2013-09-21,,Schalke 04,0–4,Bayern Munich,,,Manuel Gräfe,/en/matches/56279301/Schalke-04-Bayern-Munich-September-21-2013-Bundesliga,,56279301
+6,Sat,2013-09-21,,Wolfsburg,2–1,Hoffenheim,,,Marco Fritz,/en/matches/f4560599/Wolfsburg-Hoffenheim-September-21-2013-Bundesliga,,f4560599
+6,Sun,2013-09-22,,Freiburg,1–1,Hertha BSC,,,Jochen Drees,/en/matches/33b66495/Freiburg-Hertha-BSC-September-22-2013-Bundesliga,,33b66495
+6,Sun,2013-09-22,,Stuttgart,1–1,Eint Frankfurt,,,Felix Zwayer,/en/matches/5c2cf035/Stuttgart-Eintracht-Frankfurt-September-22-2013-Bundesliga,,5c2cf035
+7,Fri,2013-09-27,,Augsburg,2–2,M'Gladbach,,,Michael Weiner,/en/matches/4a70441f/Augsburg-Monchengladbach-September-27-2013-Bundesliga,,4a70441f
+7,Sat,2013-09-28,,Bayern Munich,1–0,Wolfsburg,,,Bastian Dankert,/en/matches/81bcdfe5/Bayern-Munich-Wolfsburg-September-28-2013-Bundesliga,,81bcdfe5
+7,Sat,2013-09-28,,Dortmund,5–0,Freiburg,,,Markus Schmidt,/en/matches/5c1ea232/Dortmund-Freiburg-September-28-2013-Bundesliga,,5c1ea232
+7,Sat,2013-09-28,,Eint Frankfurt,2–2,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/43c6e1e3/Eintracht-Frankfurt-Hamburger-SV-September-28-2013-Bundesliga,,43c6e1e3
+7,Sat,2013-09-28,,Hertha BSC,3–1,Mainz 05,,,Florian Meyer,/en/matches/652e713f/Hertha-BSC-Mainz-05-September-28-2013-Bundesliga,,652e713f
+7,Sat,2013-09-28,,Hoffenheim,3–3,Schalke 04,,,Daniel Siebert,/en/matches/20649480/Hoffenheim-Schalke-04-September-28-2013-Bundesliga,,20649480
+7,Sat,2013-09-28,,Leverkusen,2–0,Hannover 96,,,Wolfgang Stark,/en/matches/a640cc55/Bayer-Leverkusen-Hannover-96-September-28-2013-Bundesliga,,a640cc55
+7,Sun,2013-09-29,,Braunschweig,0–4,Stuttgart,,,Felix Brych,/en/matches/c7622bf0/Eintracht-Braunschweig-Stuttgart-September-29-2013-Bundesliga,,c7622bf0
+7,Sun,2013-09-29,,Werder Bremen,3–3,Nürnberg,,,Tobias Stieler,/en/matches/ede4d4bd/Werder-Bremen-Nurnberg-September-29-2013-Bundesliga,,ede4d4bd
+8,Fri,2013-10-04,,Hannover 96,1–1,Hertha BSC,,,Günter Perl,/en/matches/3f9d1a5a/Hannover-96-Hertha-BSC-October-4-2013-Bundesliga,,3f9d1a5a
+8,Sat,2013-10-05,,Leverkusen,1–1,Bayern Munich,,,Knut Kircher,/en/matches/5897648f/Bayer-Leverkusen-Bayern-Munich-October-5-2013-Bundesliga,,5897648f
+8,Sat,2013-10-05,,M'Gladbach,2–0,Dortmund,,,Manuel Gräfe,/en/matches/5ccbcc71/Monchengladbach-Dortmund-October-5-2013-Bundesliga,,5ccbcc71
+8,Sat,2013-10-05,,Mainz 05,2–2,Hoffenheim,,,Wolfgang Stark,/en/matches/fb4d5e16/Mainz-05-Hoffenheim-October-5-2013-Bundesliga,,fb4d5e16
+8,Sat,2013-10-05,,Schalke 04,4–1,Augsburg,,,Marco Fritz,/en/matches/40f75c0b/Schalke-04-Augsburg-October-5-2013-Bundesliga,,40f75c0b
+8,Sat,2013-10-05,,Stuttgart,1–1,Werder Bremen,,,Peter Sippel,/en/matches/c02ff572/Stuttgart-Werder-Bremen-October-5-2013-Bundesliga,,c02ff572
+8,Sat,2013-10-05,,Wolfsburg,0–2,Braunschweig,,,Guido Winkmann,/en/matches/1fdfbc5f/Wolfsburg-Eintracht-Braunschweig-October-5-2013-Bundesliga,,1fdfbc5f
+8,Sun,2013-10-06,,Freiburg,1–1,Eint Frankfurt,,,Deniz Aytekin,/en/matches/bd6ff367/Freiburg-Eintracht-Frankfurt-October-6-2013-Bundesliga,,bd6ff367
+8,Sun,2013-10-06,,Nürnberg,0–5,Hamburger SV,,,Markus Schmidt,/en/matches/4dcb4af7/Nurnberg-Hamburger-SV-October-6-2013-Bundesliga,,4dcb4af7
+9,Fri,2013-10-18,,Hoffenheim,1–2,Leverkusen,,,Felix Brych,/en/matches/66c74bca/Hoffenheim-Bayer-Leverkusen-October-18-2013-Bundesliga,,66c74bca
+9,Sat,2013-10-19,,Bayern Munich,4–1,Mainz 05,,,Thorsten Kinhöfer,/en/matches/522ea43a/Bayern-Munich-Mainz-05-October-19-2013-Bundesliga,,522ea43a
+9,Sat,2013-10-19,,Braunschweig,2–3,Schalke 04,,,Robert Hartmann,/en/matches/7c7e53be/Eintracht-Braunschweig-Schalke-04-October-19-2013-Bundesliga,,7c7e53be
+9,Sat,2013-10-19,,Dortmund,1–0,Hannover 96,,,Peter Gagelmann,/en/matches/3be53b73/Dortmund-Hannover-96-October-19-2013-Bundesliga,,3be53b73
+9,Sat,2013-10-19,,Eint Frankfurt,1–1,Nürnberg,,,Christian Dingert,/en/matches/128b6583/Eintracht-Frankfurt-Nurnberg-October-19-2013-Bundesliga,,128b6583
+9,Sat,2013-10-19,,Hertha BSC,1–0,M'Gladbach,,,Jochen Drees,/en/matches/5549e64f/Hertha-BSC-Monchengladbach-October-19-2013-Bundesliga,,5549e64f
+9,Sat,2013-10-19,,Werder Bremen,0–0,Freiburg,,,Florian Meyer,/en/matches/28f2696f/Werder-Bremen-Freiburg-October-19-2013-Bundesliga,,28f2696f
+9,Sun,2013-10-20,,Augsburg,1–2,Wolfsburg,,,Felix Zwayer,/en/matches/5dd36658/Augsburg-Wolfsburg-October-20-2013-Bundesliga,,5dd36658
+9,Sun,2013-10-20,,Hamburger SV,3–3,Stuttgart,,,Tobias Welz,/en/matches/8fe70299/Hamburger-SV-Stuttgart-October-20-2013-Bundesliga,,8fe70299
+10,Fri,2013-10-25,,Stuttgart,1–1,Nürnberg,,,Guido Winkmann,/en/matches/2512f99b/Stuttgart-Nurnberg-October-25-2013-Bundesliga,,2512f99b
+10,Sat,2013-10-26,,Bayern Munich,3–2,Hertha BSC,,,Michael Weiner,/en/matches/649b1579/Bayern-Munich-Hertha-BSC-October-26-2013-Bundesliga,,649b1579
+10,Sat,2013-10-26,,Hannover 96,1–4,Hoffenheim,,,Tobias Stieler,/en/matches/3d7d811f/Hannover-96-Hoffenheim-October-26-2013-Bundesliga,,3d7d811f
+10,Sat,2013-10-26,,Leverkusen,2–1,Augsburg,,,Manuel Gräfe,/en/matches/9f1714c5/Bayer-Leverkusen-Augsburg-October-26-2013-Bundesliga,,9f1714c5
+10,Sat,2013-10-26,,Mainz 05,2–0,Braunschweig,,,Daniel Siebert,/en/matches/efbb8dbc/Mainz-05-Eintracht-Braunschweig-October-26-2013-Bundesliga,,efbb8dbc
+10,Sat,2013-10-26,,Schalke 04,1–3,Dortmund,,,Knut Kircher,/en/matches/5c0e177b/Revierderby-Schalke-04-Dortmund-October-26-2013-Bundesliga,,5c0e177b
+10,Sat,2013-10-26,,Wolfsburg,3–0,Werder Bremen,,,Deniz Aytekin,/en/matches/903ceb54/Wolfsburg-Werder-Bremen-October-26-2013-Bundesliga,,903ceb54
+10,Sun,2013-10-27,,Freiburg,0–3,Hamburger SV,,,Peter Gagelmann,/en/matches/7359727d/Freiburg-Hamburger-SV-October-27-2013-Bundesliga,,7359727d
+10,Sun,2013-10-27,,M'Gladbach,4–1,Eint Frankfurt,,,Felix Zwayer,/en/matches/f56a97ff/Monchengladbach-Eintracht-Frankfurt-October-27-2013-Bundesliga,,f56a97ff
+11,Fri,2013-11-01,,Dortmund,6–1,Stuttgart,,,Florian Meyer,/en/matches/8a8d297f/Dortmund-Stuttgart-November-1-2013-Bundesliga,,8a8d297f
+11,Sat,2013-11-02,,Braunschweig,1–0,Leverkusen,,,Peter Sippel,/en/matches/d84602a2/Eintracht-Braunschweig-Bayer-Leverkusen-November-2-2013-Bundesliga,,d84602a2
+11,Sat,2013-11-02,,Eint Frankfurt,1–2,Wolfsburg,,,Marco Fritz,/en/matches/e059e68e/Eintracht-Frankfurt-Wolfsburg-November-2-2013-Bundesliga,,e059e68e
+11,Sat,2013-11-02,,Hamburger SV,0–2,M'Gladbach,,,Markus Schmidt,/en/matches/10a75c60/Hamburger-SV-Monchengladbach-November-2-2013-Bundesliga,,10a75c60
+11,Sat,2013-11-02,,Hertha BSC,0–2,Schalke 04,,,Günter Perl,/en/matches/b04d25e0/Hertha-BSC-Schalke-04-November-2-2013-Bundesliga,,b04d25e0
+11,Sat,2013-11-02,,Hoffenheim,1–2,Bayern Munich,,,Tobias Welz,/en/matches/6567eea4/Hoffenheim-Bayern-Munich-November-2-2013-Bundesliga,,6567eea4
+11,Sat,2013-11-02,,Nürnberg,0–3,Freiburg,,,Manuel Gräfe,/en/matches/df310b13/Nurnberg-Freiburg-November-2-2013-Bundesliga,,df310b13
+11,Sun,2013-11-03,,Augsburg,2–1,Mainz 05,,,Bastian Dankert,/en/matches/2641ea86/Augsburg-Mainz-05-November-3-2013-Bundesliga,,2641ea86
+11,Sun,2013-11-03,,Werder Bremen,3–2,Hannover 96,,,Thorsten Kinhöfer,/en/matches/2394beb3/Werder-Bremen-Hannover-96-November-3-2013-Bundesliga,,2394beb3
+12,Fri,2013-11-08,,Hannover 96,0–0,Braunschweig,,,Knut Kircher,/en/matches/2156ba1a/Hannover-96-Eintracht-Braunschweig-November-8-2013-Bundesliga,,2156ba1a
+12,Sat,2013-11-09,,Bayern Munich,3–0,Augsburg,,,Peter Gagelmann,/en/matches/1c5eaefb/Bayern-Munich-Augsburg-November-9-2013-Bundesliga,,1c5eaefb
+12,Sat,2013-11-09,,Hoffenheim,2–3,Hertha BSC,,,Deniz Aytekin,/en/matches/73f49a4d/Hoffenheim-Hertha-BSC-November-9-2013-Bundesliga,,73f49a4d
+12,Sat,2013-11-09,,Leverkusen,5–3,Hamburger SV,,,Robert Hartmann,/en/matches/da50b079/Bayer-Leverkusen-Hamburger-SV-November-9-2013-Bundesliga,,da50b079
+12,Sat,2013-11-09,,M'Gladbach,3–1,Nürnberg,,,Christian Dingert,/en/matches/e298419b/Monchengladbach-Nurnberg-November-9-2013-Bundesliga,,e298419b
+12,Sat,2013-11-09,,Schalke 04,3–1,Werder Bremen,,,Felix Brych,/en/matches/64cf8a3c/Schalke-04-Werder-Bremen-November-9-2013-Bundesliga,,64cf8a3c
+12,Sat,2013-11-09,,Wolfsburg,2–1,Dortmund,,,Jochen Drees,/en/matches/c7ed7099/Wolfsburg-Dortmund-November-9-2013-Bundesliga,,c7ed7099
+12,Sun,2013-11-10,,Freiburg,1–3,Stuttgart,,,Felix Zwayer,/en/matches/430057dd/Freiburg-Stuttgart-November-10-2013-Bundesliga,,430057dd
+12,Sun,2013-11-10,,Mainz 05,1–0,Eint Frankfurt,,,Michael Weiner,/en/matches/06126c5e/Mainz-05-Eintracht-Frankfurt-November-10-2013-Bundesliga,,06126c5e
+13,Fri,2013-11-22,,Stuttgart,0–2,M'Gladbach,,,Thorsten Kinhöfer,/en/matches/d59050ef/Stuttgart-Monchengladbach-November-22-2013-Bundesliga,,d59050ef
+13,Sat,2013-11-23,,Augsburg,2–0,Hoffenheim,,,Florian Meyer,/en/matches/93e868bb/Augsburg-Hoffenheim-November-23-2013-Bundesliga,,93e868bb
+13,Sat,2013-11-23,,Braunschweig,0–1,Freiburg,,,Wolfgang Stark,/en/matches/39ffb141/Eintracht-Braunschweig-Freiburg-November-23-2013-Bundesliga,,39ffb141
+13,Sat,2013-11-23,,Dortmund,0–3,Bayern Munich,,,Manuel Gräfe,/en/matches/22a619c5/Der-Klassiker-Dortmund-Bayern-Munich-November-23-2013-Bundesliga,,22a619c5
+13,Sat,2013-11-23,,Eint Frankfurt,3–3,Schalke 04,,,Markus Schmidt,/en/matches/bd2ac0aa/Eintracht-Frankfurt-Schalke-04-November-23-2013-Bundesliga,,bd2ac0aa
+13,Sat,2013-11-23,,Hertha BSC,0–1,Leverkusen,,,Guido Winkmann,/en/matches/624e71e6/Hertha-BSC-Bayer-Leverkusen-November-23-2013-Bundesliga,,624e71e6
+13,Sat,2013-11-23,,Nürnberg,1–1,Wolfsburg,,,Tobias Welz,/en/matches/c8562491/Nurnberg-Wolfsburg-November-23-2013-Bundesliga,,c8562491
+13,Sun,2013-11-24,,Hamburger SV,3–1,Hannover 96,,,Marco Fritz,/en/matches/ff2058dc/Hamburger-SV-Hannover-96-November-24-2013-Bundesliga,,ff2058dc
+13,Sun,2013-11-24,,Werder Bremen,2–3,Mainz 05,,,Peter Sippel,/en/matches/0b9f8c2b/Werder-Bremen-Mainz-05-November-24-2013-Bundesliga,,0b9f8c2b
+14,Fri,2013-11-29,,Wolfsburg,1–1,Hamburger SV,,,Felix Brych,/en/matches/912f9b18/Wolfsburg-Hamburger-SV-November-29-2013-Bundesliga,,912f9b18
+14,Sat,2013-11-30,,Bayern Munich,2–0,Braunschweig,,,Tobias Stieler,/en/matches/4f232366/Bayern-Munich-Eintracht-Braunschweig-November-30-2013-Bundesliga,,4f232366
+14,Sat,2013-11-30,,Hertha BSC,0–0,Augsburg,,,Tobias Welz,/en/matches/bd65c542/Hertha-BSC-Augsburg-November-30-2013-Bundesliga,,bd65c542
+14,Sat,2013-11-30,,Hoffenheim,4–4,Werder Bremen,,,Wolfgang Stark,/en/matches/3bf9076e/Hoffenheim-Werder-Bremen-November-30-2013-Bundesliga,,3bf9076e
+14,Sat,2013-11-30,,Leverkusen,3–0,Nürnberg,,,Jochen Drees,/en/matches/c330b43f/Bayer-Leverkusen-Nurnberg-November-30-2013-Bundesliga,,c330b43f
+14,Sat,2013-11-30,,Mainz 05,1–3,Dortmund,,,Deniz Aytekin,/en/matches/503a7086/Mainz-05-Dortmund-November-30-2013-Bundesliga,,503a7086
+14,Sat,2013-11-30,,Schalke 04,3–0,Stuttgart,,,Michael Weiner,/en/matches/c94bf959/Schalke-04-Stuttgart-November-30-2013-Bundesliga,,c94bf959
+14,Sun,2013-12-01,,Hannover 96,2–0,Eint Frankfurt,,,Günter Perl,/en/matches/32111136/Hannover-96-Eintracht-Frankfurt-December-1-2013-Bundesliga,,32111136
+14,Sun,2013-12-01,,M'Gladbach,1–0,Freiburg,,,Robert Hartmann,/en/matches/77545090/Monchengladbach-Freiburg-December-1-2013-Bundesliga,,77545090
+15,Fri,2013-12-06,,Nürnberg,1–1,Mainz 05,,,Manuel Gräfe,/en/matches/41e7203f/Nurnberg-Mainz-05-December-6-2013-Bundesliga,,41e7203f
+15,Sat,2013-12-07,,Dortmund,0–1,Leverkusen,,,Florian Meyer,/en/matches/6fc1cf90/Dortmund-Bayer-Leverkusen-December-7-2013-Bundesliga,,6fc1cf90
+15,Sat,2013-12-07,,Eint Frankfurt,1–2,Hoffenheim,,,Peter Sippel,/en/matches/762c06e5/Eintracht-Frankfurt-Hoffenheim-December-7-2013-Bundesliga,,762c06e5
+15,Sat,2013-12-07,,Hamburger SV,0–1,Augsburg,,,Daniel Siebert,/en/matches/7f05e037/Hamburger-SV-Augsburg-December-7-2013-Bundesliga,,7f05e037
+15,Sat,2013-12-07,,M'Gladbach,2–1,Schalke 04,,,Felix Zwayer,/en/matches/811768db/Monchengladbach-Schalke-04-December-7-2013-Bundesliga,,811768db
+15,Sat,2013-12-07,,Stuttgart,4–2,Hannover 96,,,Felix Brych,/en/matches/4cceb259/Stuttgart-Hannover-96-December-7-2013-Bundesliga,,4cceb259
+15,Sat,2013-12-07,,Werder Bremen,0–7,Bayern Munich,,,Marco Fritz,/en/matches/a73b80a4/Werder-Bremen-Bayern-Munich-December-7-2013-Bundesliga,,a73b80a4
+15,Sun,2013-12-08,,Braunschweig,0–2,Hertha BSC,,,Thorsten Kinhöfer,/en/matches/f2ac0c70/Eintracht-Braunschweig-Hertha-BSC-December-8-2013-Bundesliga,,f2ac0c70
+15,Sun,2013-12-08,,Freiburg,0–3,Wolfsburg,,,Knut Kircher,/en/matches/435975b7/Freiburg-Wolfsburg-December-8-2013-Bundesliga,,435975b7
+16,Fri,2013-12-13,,Hertha BSC,3–2,Werder Bremen,,,Christian Dingert,/en/matches/97cdd6eb/Hertha-BSC-Werder-Bremen-December-13-2013-Bundesliga,,97cdd6eb
+16,Sat,2013-12-14,,Augsburg,4–1,Braunschweig,,,Knut Kircher,/en/matches/3ab23876/Augsburg-Eintracht-Braunschweig-December-14-2013-Bundesliga,,3ab23876
+16,Sat,2013-12-14,,Bayern Munich,3–1,Hamburger SV,,,Tobias Welz,/en/matches/2c007f06/Bayern-Munich-Hamburger-SV-December-14-2013-Bundesliga,,2c007f06
+16,Sat,2013-12-14,,Hannover 96,3–3,Nürnberg,,,Thorsten Kinhöfer,/en/matches/fb9509e6/Hannover-96-Nurnberg-December-14-2013-Bundesliga,,fb9509e6
+16,Sat,2013-12-14,,Hoffenheim,2–2,Dortmund,,,Felix Zwayer,/en/matches/fd4c0681/Hoffenheim-Dortmund-December-14-2013-Bundesliga,,fd4c0681
+16,Sat,2013-12-14,,Mainz 05,0–0,M'Gladbach,,,Markus Schmidt,/en/matches/5caee802/Mainz-05-Monchengladbach-December-14-2013-Bundesliga,,5caee802
+16,Sat,2013-12-14,,Wolfsburg,3–1,Stuttgart,,,Deniz Aytekin,/en/matches/261bc62b/Wolfsburg-Stuttgart-December-14-2013-Bundesliga,,261bc62b
+16,Sun,2013-12-15,,Leverkusen,0–1,Eint Frankfurt,,,Wolfgang Stark,/en/matches/26c463cc/Bayer-Leverkusen-Eintracht-Frankfurt-December-15-2013-Bundesliga,,26c463cc
+16,Sun,2013-12-15,,Schalke 04,2–0,Freiburg,,,Tobias Stieler,/en/matches/89422993/Schalke-04-Freiburg-December-15-2013-Bundesliga,,89422993
+17,Fri,2013-12-20,,Eint Frankfurt,1–1,Augsburg,,,Michael Weiner,/en/matches/d0ec736d/Eintracht-Frankfurt-Augsburg-December-20-2013-Bundesliga,,d0ec736d
+17,Sat,2013-12-21,,Braunschweig,1–0,Hoffenheim,,,Guido Winkmann,/en/matches/9f47bf1f/Eintracht-Braunschweig-Hoffenheim-December-21-2013-Bundesliga,,9f47bf1f
+17,Sat,2013-12-21,,Dortmund,1–2,Hertha BSC,,,Peter Gagelmann,/en/matches/2ae61397/Dortmund-Hertha-BSC-December-21-2013-Bundesliga,,2ae61397
+17,Sat,2013-12-21,,Freiburg,2–1,Hannover 96,,,Jochen Drees,/en/matches/cc217b8a/Freiburg-Hannover-96-December-21-2013-Bundesliga,,cc217b8a
+17,Sat,2013-12-21,,Hamburger SV,2–3,Mainz 05,,,Bastian Dankert,/en/matches/d2c478d4/Hamburger-SV-Mainz-05-December-21-2013-Bundesliga,,d2c478d4
+17,Sat,2013-12-21,,Nürnberg,0–0,Schalke 04,,,Florian Meyer,/en/matches/e379f1ba/Nurnberg-Schalke-04-December-21-2013-Bundesliga,,e379f1ba
+17,Sat,2013-12-21,,Werder Bremen,1–0,Leverkusen,,,Robert Hartmann,/en/matches/892a5323/Werder-Bremen-Bayer-Leverkusen-December-21-2013-Bundesliga,,892a5323
+17,Sun,2013-12-22,,M'Gladbach,2–2,Wolfsburg,,,Günter Perl,/en/matches/b890178a/Monchengladbach-Wolfsburg-December-22-2013-Bundesliga,,b890178a
+18,Fri,2014-01-24,,M'Gladbach,0–2,Bayern Munich,,,Peter Gagelmann,/en/matches/e9aa3cf8/Monchengladbach-Bayern-Munich-January-24-2014-Bundesliga,,e9aa3cf8
+18,Sat,2014-01-25,,Dortmund,2–2,Augsburg,,,Tobias Welz,/en/matches/a52fda39/Dortmund-Augsburg-January-25-2014-Bundesliga,,a52fda39
+18,Sat,2014-01-25,,Eint Frankfurt,1–0,Hertha BSC,,,Jochen Drees,/en/matches/afd007ec/Eintracht-Frankfurt-Hertha-BSC-January-25-2014-Bundesliga,,afd007ec
+18,Sat,2014-01-25,,Freiburg,3–2,Leverkusen,,,Deniz Aytekin,/en/matches/d7f73c49/Freiburg-Bayer-Leverkusen-January-25-2014-Bundesliga,,d7f73c49
+18,Sat,2014-01-25,,Nürnberg,4–0,Hoffenheim,,,Knut Kircher,/en/matches/52ce85c1/Nurnberg-Hoffenheim-January-25-2014-Bundesliga,,52ce85c1
+18,Sat,2014-01-25,,Stuttgart,1–2,Mainz 05,,,Daniel Siebert,/en/matches/7e142625/Stuttgart-Mainz-05-January-25-2014-Bundesliga,,7e142625
+18,Sat,2014-01-25,,Wolfsburg,1–3,Hannover 96,,,Markus Schmidt,/en/matches/3ea20f4c/Wolfsburg-Hannover-96-January-25-2014-Bundesliga,,3ea20f4c
+18,Sun,2014-01-26,,Hamburger SV,0–3,Schalke 04,,,Peter Sippel,/en/matches/f47a4a73/Hamburger-SV-Schalke-04-January-26-2014-Bundesliga,,f47a4a73
+18,Sun,2014-01-26,,Werder Bremen,0–0,Braunschweig,,,Felix Brych,/en/matches/d2f0bbac/Werder-Bremen-Eintracht-Braunschweig-January-26-2014-Bundesliga,,d2f0bbac
+17,Wed,2014-01-29,,Stuttgart,1–2,Bayern Munich,,,Manuel Gräfe,/en/matches/6dcb1721/Stuttgart-Bayern-Munich-January-29-2014-Bundesliga,,6dcb1721
+19,Fri,2014-01-31,,Braunschweig,1–2,Dortmund,,,Marco Fritz,/en/matches/8943489c/Eintracht-Braunschweig-Dortmund-January-31-2014-Bundesliga,,8943489c
+19,Sat,2014-02-01,,Augsburg,3–1,Werder Bremen,,,Christian Dingert,/en/matches/b00c6853/Augsburg-Werder-Bremen-February-1-2014-Bundesliga,,b00c6853
+19,Sat,2014-02-01,,Hannover 96,3–1,M'Gladbach,,,Bastian Dankert,/en/matches/8fc51928/Hannover-96-Monchengladbach-February-1-2014-Bundesliga,,8fc51928
+19,Sat,2014-02-01,,Hoffenheim,3–0,Hamburger SV,,,Günter Perl,/en/matches/2b0b6f92/Hoffenheim-Hamburger-SV-February-1-2014-Bundesliga,,2b0b6f92
+19,Sat,2014-02-01,,Leverkusen,2–1,Stuttgart,,,Felix Zwayer,/en/matches/3bfde021/Bayer-Leverkusen-Stuttgart-February-1-2014-Bundesliga,,3bfde021
+19,Sat,2014-02-01,,Mainz 05,2–0,Freiburg,,,Robert Hartmann,/en/matches/8f4c4a19/Mainz-05-Freiburg-February-1-2014-Bundesliga,,8f4c4a19
+19,Sat,2014-02-01,,Schalke 04,2–1,Wolfsburg,,,Wolfgang Stark,/en/matches/a8937638/Schalke-04-Wolfsburg-February-1-2014-Bundesliga,,a8937638
+19,Sun,2014-02-02,,Bayern Munich,5–0,Eint Frankfurt,,,Florian Meyer,/en/matches/3c8bbc3e/Bayern-Munich-Eintracht-Frankfurt-February-2-2014-Bundesliga,,3c8bbc3e
+19,Sun,2014-02-02,,Hertha BSC,1–3,Nürnberg,,,Michael Weiner,/en/matches/9dfbda43/Hertha-BSC-Nurnberg-February-2-2014-Bundesliga,,9dfbda43
+20,Fri,2014-02-07,,M'Gladbach,0–1,Leverkusen,,,Florian Meyer,/en/matches/e023a518/Monchengladbach-Bayer-Leverkusen-February-7-2014-Bundesliga,,e023a518
+20,Sat,2014-02-08,,Eint Frankfurt,3–0,Braunschweig,,,Markus Schmidt,/en/matches/6088be95/Eintracht-Frankfurt-Eintracht-Braunschweig-February-8-2014-Bundesliga,,6088be95
+20,Sat,2014-02-08,,Freiburg,1–1,Hoffenheim,,,Thorsten Kinhöfer,/en/matches/def0daa1/Freiburg-Hoffenheim-February-8-2014-Bundesliga,,def0daa1
+20,Sat,2014-02-08,,Hamburger SV,0–3,Hertha BSC,,,Deniz Aytekin,/en/matches/0d81f7fc/Hamburger-SV-Hertha-BSC-February-8-2014-Bundesliga,,0d81f7fc
+20,Sat,2014-02-08,,Nürnberg,0–2,Bayern Munich,,,Tobias Welz,/en/matches/4b8d91b2/Nurnberg-Bayern-Munich-February-8-2014-Bundesliga,,4b8d91b2
+20,Sat,2014-02-08,,Werder Bremen,1–5,Dortmund,,,Günter Perl,/en/matches/d4a1585e/Werder-Bremen-Dortmund-February-8-2014-Bundesliga,,d4a1585e
+20,Sat,2014-02-08,,Wolfsburg,3–0,Mainz 05,,,Tobias Stieler,/en/matches/ca600d0a/Wolfsburg-Mainz-05-February-8-2014-Bundesliga,,ca600d0a
+20,Sun,2014-02-09,,Schalke 04,2–0,Hannover 96,,,Christian Dingert,/en/matches/f89a2916/Schalke-04-Hannover-96-February-9-2014-Bundesliga,,f89a2916
+20,Sun,2014-02-09,,Stuttgart,1–4,Augsburg,,,Jochen Drees,/en/matches/1434eafb/Stuttgart-Augsburg-February-9-2014-Bundesliga,,1434eafb
+21,Fri,2014-02-14,,Mainz 05,2–0,Hannover 96,,,Manuel Gräfe,/en/matches/1b902f39/Mainz-05-Hannover-96-February-14-2014-Bundesliga,,1b902f39
+21,Sat,2014-02-15,,Bayern Munich,4–0,Freiburg,,,Guido Winkmann,/en/matches/0376be91/Bayern-Munich-Freiburg-February-15-2014-Bundesliga,,0376be91
+21,Sat,2014-02-15,,Braunschweig,4–2,Hamburger SV,,,Knut Kircher,/en/matches/3a596e6c/Eintracht-Braunschweig-Hamburger-SV-February-15-2014-Bundesliga,,3a596e6c
+21,Sat,2014-02-15,,Dortmund,4–0,Eint Frankfurt,,,Peter Sippel,/en/matches/50b2cf53/Dortmund-Eintracht-Frankfurt-February-15-2014-Bundesliga,,50b2cf53
+21,Sat,2014-02-15,,Hoffenheim,4–1,Stuttgart,,,Bastian Dankert,/en/matches/34fb897a/Hoffenheim-Stuttgart-February-15-2014-Bundesliga,,34fb897a
+21,Sat,2014-02-15,,Leverkusen,1–2,Schalke 04,,,Michael Weiner,/en/matches/3b661918/Bayer-Leverkusen-Schalke-04-February-15-2014-Bundesliga,,3b661918
+21,Sat,2014-02-15,,Werder Bremen,1–1,M'Gladbach,,,Wolfgang Stark,/en/matches/a0f4d390/Werder-Bremen-Monchengladbach-February-15-2014-Bundesliga,,a0f4d390
+21,Sun,2014-02-16,,Augsburg,0–1,Nürnberg,,,Felix Brych,/en/matches/3fcf2acb/Augsburg-Nurnberg-February-16-2014-Bundesliga,,3fcf2acb
+21,Sun,2014-02-16,,Hertha BSC,1–2,Wolfsburg,,,Marco Fritz,/en/matches/20f2d184/Hertha-BSC-Wolfsburg-February-16-2014-Bundesliga,,20f2d184
+22,Fri,2014-02-21,,Schalke 04,0–0,Mainz 05,,,Peter Gagelmann,/en/matches/d1e63e7b/Schalke-04-Mainz-05-February-21-2014-Bundesliga,,d1e63e7b
+22,Sat,2014-02-22,,Freiburg,2–4,Augsburg,,,Manuel Gräfe,/en/matches/f8bca8d5/Freiburg-Augsburg-February-22-2014-Bundesliga,,f8bca8d5
+22,Sat,2014-02-22,,Hamburger SV,3–0,Dortmund,,,Felix Brych,/en/matches/6cd1e493/Hamburger-SV-Dortmund-February-22-2014-Bundesliga,,6cd1e493
+22,Sat,2014-02-22,,M'Gladbach,2–2,Hoffenheim,,,Tobias Stieler,/en/matches/73613bd9/Monchengladbach-Hoffenheim-February-22-2014-Bundesliga,,73613bd9
+22,Sat,2014-02-22,,Nürnberg,2–1,Braunschweig,,,Daniel Siebert,/en/matches/05f87b86/Nurnberg-Eintracht-Braunschweig-February-22-2014-Bundesliga,,05f87b86
+22,Sat,2014-02-22,,Stuttgart,1–2,Hertha BSC,,,Robert Hartmann,/en/matches/42b9b9bc/Stuttgart-Hertha-BSC-February-22-2014-Bundesliga,,42b9b9bc
+22,Sat,2014-02-22,,Wolfsburg,3–1,Leverkusen,,,Thorsten Kinhöfer,/en/matches/ba9fb399/Wolfsburg-Bayer-Leverkusen-February-22-2014-Bundesliga,,ba9fb399
+22,Sun,2014-02-23,,Eint Frankfurt,0–0,Werder Bremen,,,Felix Zwayer,/en/matches/ee4ad3ce/Eintracht-Frankfurt-Werder-Bremen-February-23-2014-Bundesliga,,ee4ad3ce
+22,Sun,2014-02-23,,Hannover 96,0–4,Bayern Munich,,,Knut Kircher,/en/matches/edf91ce8/Hannover-96-Bayern-Munich-February-23-2014-Bundesliga,,edf91ce8
+23,Fri,2014-02-28,,Hertha BSC,0–0,Freiburg,,,Peter Sippel,/en/matches/9ffc8122/Hertha-BSC-Freiburg-February-28-2014-Bundesliga,,9ffc8122
+23,Sat,2014-03-01,,Augsburg,1–1,Hannover 96,,,Tobias Stieler,/en/matches/5d598fac/Augsburg-Hannover-96-March-1-2014-Bundesliga,,5d598fac
+23,Sat,2014-03-01,,Bayern Munich,5–1,Schalke 04,,,Jochen Drees,/en/matches/750174f3/Bayern-Munich-Schalke-04-March-1-2014-Bundesliga,,750174f3
+23,Sat,2014-03-01,,Braunschweig,1–1,M'Gladbach,,,Günter Perl,/en/matches/559fb5c8/Eintracht-Braunschweig-Monchengladbach-March-1-2014-Bundesliga,,559fb5c8
+23,Sat,2014-03-01,,Dortmund,3–0,Nürnberg,,,Christian Dingert,/en/matches/8f92646d/Dortmund-Nurnberg-March-1-2014-Bundesliga,,8f92646d
+23,Sat,2014-03-01,,Leverkusen,0–1,Mainz 05,,,Wolfgang Stark,/en/matches/0d84c7a5/Bayer-Leverkusen-Mainz-05-March-1-2014-Bundesliga,,0d84c7a5
+23,Sat,2014-03-01,,Werder Bremen,1–0,Hamburger SV,,,Florian Meyer,/en/matches/a2335704/Werder-Bremen-Hamburger-SV-March-1-2014-Bundesliga,,a2335704
+23,Sun,2014-03-02,,Eint Frankfurt,2–1,Stuttgart,,,Deniz Aytekin,/en/matches/2861be4d/Eintracht-Frankfurt-Stuttgart-March-2-2014-Bundesliga,,2861be4d
+23,Sun,2014-03-02,,Hoffenheim,6–2,Wolfsburg,,,Markus Schmidt,/en/matches/d66554a0/Hoffenheim-Wolfsburg-March-2-2014-Bundesliga,,d66554a0
+24,Sat,2014-03-08,,Hamburger SV,1–1,Eint Frankfurt,,,Michael Weiner,/en/matches/983bdb44/Hamburger-SV-Eintracht-Frankfurt-March-8-2014-Bundesliga,,983bdb44
+24,Sat,2014-03-08,,Hannover 96,1–1,Leverkusen,,,Felix Zwayer,/en/matches/547e69c8/Hannover-96-Bayer-Leverkusen-March-8-2014-Bundesliga,,547e69c8
+24,Sat,2014-03-08,,M'Gladbach,1–2,Augsburg,,,Knut Kircher,/en/matches/79615c8e/Monchengladbach-Augsburg-March-8-2014-Bundesliga,,79615c8e
+24,Sat,2014-03-08,,Nürnberg,0–2,Werder Bremen,,,Manuel Gräfe,/en/matches/cc82a616/Nurnberg-Werder-Bremen-March-8-2014-Bundesliga,,cc82a616
+24,Sat,2014-03-08,,Schalke 04,4–0,Hoffenheim,,,Robert Hartmann,/en/matches/cd781141/Schalke-04-Hoffenheim-March-8-2014-Bundesliga,,cd781141
+24,Sat,2014-03-08,,Stuttgart,2–2,Braunschweig,,,Christian Dingert,/en/matches/335b2599/Stuttgart-Eintracht-Braunschweig-March-8-2014-Bundesliga,,335b2599
+24,Sat,2014-03-08,,Wolfsburg,1–6,Bayern Munich,,,Tobias Welz,/en/matches/c367445d/Wolfsburg-Bayern-Munich-March-8-2014-Bundesliga,,c367445d
+24,Sun,2014-03-09,,Freiburg,0–1,Dortmund,,,Peter Gagelmann,/en/matches/cff17fbf/Freiburg-Dortmund-March-9-2014-Bundesliga,,cff17fbf
+24,Sun,2014-03-09,,Mainz 05,1–1,Hertha BSC,,,Knut Kircher,/en/matches/263e52f8/Mainz-05-Hertha-BSC-March-9-2014-Bundesliga,,263e52f8
+25,Fri,2014-03-14,,Augsburg,1–2,Schalke 04,,,Bastian Dankert,/en/matches/40a98053/Augsburg-Schalke-04-March-14-2014-Bundesliga,,40a98053
+25,Sat,2014-03-15,,Bayern Munich,2–1,Leverkusen,,,Markus Schmidt,/en/matches/94b62edb/Bayern-Munich-Bayer-Leverkusen-March-15-2014-Bundesliga,,94b62edb
+25,Sat,2014-03-15,,Braunschweig,1–1,Wolfsburg,,,Felix Brych,/en/matches/f2493334/Eintracht-Braunschweig-Wolfsburg-March-15-2014-Bundesliga,,f2493334
+25,Sat,2014-03-15,,Dortmund,1–2,M'Gladbach,,,Deniz Aytekin,/en/matches/7bc74757/Dortmund-Monchengladbach-March-15-2014-Bundesliga,,7bc74757
+25,Sat,2014-03-15,,Hertha BSC,0–3,Hannover 96,,,Guido Winkmann,/en/matches/9b03dcf5/Hertha-BSC-Hannover-96-March-15-2014-Bundesliga,,9b03dcf5
+25,Sat,2014-03-15,,Hoffenheim,2–4,Mainz 05,,,Daniel Siebert,/en/matches/859f1134/Hoffenheim-Mainz-05-March-15-2014-Bundesliga,,859f1134
+25,Sat,2014-03-15,,Werder Bremen,1–1,Stuttgart,,,Thorsten Kinhöfer,/en/matches/a2b5c0bc/Werder-Bremen-Stuttgart-March-15-2014-Bundesliga,,a2b5c0bc
+25,Sun,2014-03-16,,Eint Frankfurt,1–4,Freiburg,,,Wolfgang Stark,/en/matches/853d381f/Eintracht-Frankfurt-Freiburg-March-16-2014-Bundesliga,,853d381f
+25,Sun,2014-03-16,,Hamburger SV,2–1,Nürnberg,,,Marco Fritz,/en/matches/95954c72/Hamburger-SV-Nurnberg-March-16-2014-Bundesliga,,95954c72
+26,Fri,2014-03-21,,Freiburg,3–1,Werder Bremen,,,Michael Weiner,/en/matches/8e07b7a5/Freiburg-Werder-Bremen-March-21-2014-Bundesliga,,8e07b7a5
+26,Sat,2014-03-22,,Hannover 96,0–3,Dortmund,,,Günter Perl,/en/matches/e7dbbd7b/Hannover-96-Dortmund-March-22-2014-Bundesliga,,e7dbbd7b
+26,Sat,2014-03-22,,M'Gladbach,3–0,Hertha BSC,,,Peter Gagelmann,/en/matches/490dccd3/Monchengladbach-Hertha-BSC-March-22-2014-Bundesliga,,490dccd3
+26,Sat,2014-03-22,,Mainz 05,0–2,Bayern Munich,,,Tobias Stieler,/en/matches/9bba0ba3/Mainz-05-Bayern-Munich-March-22-2014-Bundesliga,,9bba0ba3
+26,Sat,2014-03-22,,Schalke 04,3–1,Braunschweig,,,Wolfgang Stark,/en/matches/e73b655a/Schalke-04-Eintracht-Braunschweig-March-22-2014-Bundesliga,,e73b655a
+26,Sat,2014-03-22,,Stuttgart,1–0,Hamburger SV,,,Felix Brych,/en/matches/92c526b9/Stuttgart-Hamburger-SV-March-22-2014-Bundesliga,,92c526b9
+26,Sat,2014-03-22,,Wolfsburg,1–1,Augsburg,,,Felix Zwayer,/en/matches/366e7763/Wolfsburg-Augsburg-March-22-2014-Bundesliga,,366e7763
+26,Sun,2014-03-23,,Leverkusen,2–3,Hoffenheim,,,Jochen Drees,/en/matches/273cbb3d/Bayer-Leverkusen-Hoffenheim-March-23-2014-Bundesliga,,273cbb3d
+26,Sun,2014-03-23,,Nürnberg,2–5,Eint Frankfurt,,,Knut Kircher,/en/matches/b0831ed9/Nurnberg-Eintracht-Frankfurt-March-23-2014-Bundesliga,,b0831ed9
+27,Tue,2014-03-25,,Braunschweig,3–1,Mainz 05,,,Robert Hartmann,/en/matches/abf1478a/Eintracht-Braunschweig-Mainz-05-March-25-2014-Bundesliga,,abf1478a
+27,Tue,2014-03-25,,Dortmund,0–0,Schalke 04,,,Florian Meyer,/en/matches/3d4aa407/Revierderby-Dortmund-Schalke-04-March-25-2014-Bundesliga,,3d4aa407
+27,Tue,2014-03-25,,Hertha BSC,1–3,Bayern Munich,,,Marco Fritz,/en/matches/e014b386/Hertha-BSC-Bayern-Munich-March-25-2014-Bundesliga,,e014b386
+27,Tue,2014-03-25,,Werder Bremen,1–3,Wolfsburg,,,Daniel Siebert,/en/matches/5295dd3e/Werder-Bremen-Wolfsburg-March-25-2014-Bundesliga,,5295dd3e
+27,Wed,2014-03-26,,Augsburg,1–3,Leverkusen,,,Thorsten Kinhöfer,/en/matches/3d5f204d/Augsburg-Bayer-Leverkusen-March-26-2014-Bundesliga,,3d5f204d
+27,Wed,2014-03-26,,Eint Frankfurt,1–0,M'Gladbach,,,Manuel Gräfe,/en/matches/32bed432/Eintracht-Frankfurt-Monchengladbach-March-26-2014-Bundesliga,,32bed432
+27,Wed,2014-03-26,,Hamburger SV,1–1,Freiburg,,,Deniz Aytekin,/en/matches/9f124614/Hamburger-SV-Freiburg-March-26-2014-Bundesliga,,9f124614
+27,Wed,2014-03-26,,Hoffenheim,3–1,Hannover 96,,,Peter Sippel,/en/matches/38c22b54/Hoffenheim-Hannover-96-March-26-2014-Bundesliga,,38c22b54
+27,Wed,2014-03-26,,Nürnberg,2–0,Stuttgart,,,Tobias Welz,/en/matches/95b308ef/Nurnberg-Stuttgart-March-26-2014-Bundesliga,,95b308ef
+28,Fri,2014-03-28,,Schalke 04,2–0,Hertha BSC,,,Günter Perl,/en/matches/d2441588/Schalke-04-Hertha-BSC-March-28-2014-Bundesliga,,d2441588
+28,Sat,2014-03-29,,Bayern Munich,3–3,Hoffenheim,,,Christian Dingert,/en/matches/74e04d1b/Bayern-Munich-Hoffenheim-March-29-2014-Bundesliga,,74e04d1b
+28,Sat,2014-03-29,,Freiburg,3–2,Nürnberg,,,Jochen Drees,/en/matches/7d3136cc/Freiburg-Nurnberg-March-29-2014-Bundesliga,,7d3136cc
+28,Sat,2014-03-29,,Leverkusen,1–1,Braunschweig,,,Guido Winkmann,/en/matches/d8e438e0/Bayer-Leverkusen-Eintracht-Braunschweig-March-29-2014-Bundesliga,,d8e438e0
+28,Sat,2014-03-29,,Mainz 05,3–0,Augsburg,,,Marco Fritz,/en/matches/e7b29001/Mainz-05-Augsburg-March-29-2014-Bundesliga,,e7b29001
+28,Sat,2014-03-29,,Stuttgart,2–3,Dortmund,,,Michael Weiner,/en/matches/2c273ada/Stuttgart-Dortmund-March-29-2014-Bundesliga,,2c273ada
+28,Sat,2014-03-29,,Wolfsburg,2–1,Eint Frankfurt,,,Peter Gagelmann,/en/matches/d1115ba2/Wolfsburg-Eintracht-Frankfurt-March-29-2014-Bundesliga,,d1115ba2
+28,Sun,2014-03-30,,Hannover 96,1–2,Werder Bremen,,,Markus Schmidt,/en/matches/c6c8135c/Hannover-96-Werder-Bremen-March-30-2014-Bundesliga,,c6c8135c
+28,Sun,2014-03-30,,M'Gladbach,3–1,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/79d2747f/Monchengladbach-Hamburger-SV-March-30-2014-Bundesliga,,79d2747f
+29,Fri,2014-04-04,,Hamburger SV,2–1,Leverkusen,,,Bastian Dankert,/en/matches/96c6244d/Hamburger-SV-Bayer-Leverkusen-April-4-2014-Bundesliga,,96c6244d
+29,Sat,2014-04-05,,Augsburg,1–0,Bayern Munich,,,Manuel Gräfe,/en/matches/90ed665f/Augsburg-Bayern-Munich-April-5-2014-Bundesliga,,90ed665f
+29,Sat,2014-04-05,,Dortmund,2–1,Wolfsburg,,,Knut Kircher,/en/matches/4603e4fb/Dortmund-Wolfsburg-April-5-2014-Bundesliga,,4603e4fb
+29,Sat,2014-04-05,,Eint Frankfurt,2–0,Mainz 05,,,Wolfgang Stark,/en/matches/c68d12b6/Eintracht-Frankfurt-Mainz-05-April-5-2014-Bundesliga,,c68d12b6
+29,Sat,2014-04-05,,Nürnberg,0–2,M'Gladbach,,,Tobias Stieler,/en/matches/d732a88a/Nurnberg-Monchengladbach-April-5-2014-Bundesliga,,d732a88a
+29,Sat,2014-04-05,,Stuttgart,2–0,Freiburg,,,Felix Zwayer,/en/matches/89500dad/Stuttgart-Freiburg-April-5-2014-Bundesliga,,89500dad
+29,Sat,2014-04-05,,Werder Bremen,1–1,Schalke 04,,,Peter Sippel,/en/matches/a4e10a44/Werder-Bremen-Schalke-04-April-5-2014-Bundesliga,,a4e10a44
+29,Sun,2014-04-06,,Braunschweig,3–0,Hannover 96,,,Peter Gagelmann,/en/matches/7dfc8095/Eintracht-Braunschweig-Hannover-96-April-6-2014-Bundesliga,,7dfc8095
+29,Sun,2014-04-06,,Hertha BSC,1–1,Hoffenheim,,,Felix Brych,/en/matches/1b7f88d1/Hertha-BSC-Hoffenheim-April-6-2014-Bundesliga,,1b7f88d1
+30,Fri,2014-04-11,,Schalke 04,2–0,Eint Frankfurt,,,Christian Dingert,/en/matches/78b74520/Schalke-04-Eintracht-Frankfurt-April-11-2014-Bundesliga,,78b74520
+30,Sat,2014-04-12,,Bayern Munich,0–3,Dortmund,,,Felix Zwayer,/en/matches/163409ff/Der-Klassiker-Bayern-Munich-Dortmund-April-12-2014-Bundesliga,,163409ff
+30,Sat,2014-04-12,,Freiburg,2–0,Braunschweig,,,Tobias Welz,/en/matches/67fbf8b6/Freiburg-Eintracht-Braunschweig-April-12-2014-Bundesliga,,67fbf8b6
+30,Sat,2014-04-12,,Hannover 96,2–1,Hamburger SV,,,Robert Hartmann,/en/matches/eef968b2/Hannover-96-Hamburger-SV-April-12-2014-Bundesliga,,eef968b2
+30,Sat,2014-04-12,,M'Gladbach,1–1,Stuttgart,,,Florian Meyer,/en/matches/f20c8126/Monchengladbach-Stuttgart-April-12-2014-Bundesliga,,f20c8126
+30,Sat,2014-04-12,,Mainz 05,3–0,Werder Bremen,,,Deniz Aytekin,/en/matches/9a6a6fb7/Mainz-05-Werder-Bremen-April-12-2014-Bundesliga,,9a6a6fb7
+30,Sat,2014-04-12,,Wolfsburg,4–1,Nürnberg,,,Bastian Dankert,/en/matches/4e68b2cf/Wolfsburg-Nurnberg-April-12-2014-Bundesliga,,4e68b2cf
+30,Sun,2014-04-13,,Hoffenheim,2–0,Augsburg,,,Markus Schmidt,/en/matches/46f443e8/Hoffenheim-Augsburg-April-13-2014-Bundesliga,,46f443e8
+30,Sun,2014-04-13,,Leverkusen,2–1,Hertha BSC,,,Tobias Stieler,/en/matches/9a540afe/Bayer-Leverkusen-Hertha-BSC-April-13-2014-Bundesliga,,9a540afe
+31,Thu,2014-04-17,,Eint Frankfurt,2–3,Hannover 96,,,Felix Brych,/en/matches/c276dd59/Eintracht-Frankfurt-Hannover-96-April-17-2014-Bundesliga,,c276dd59
+31,Sat,2014-04-19,,Augsburg,0–0,Hertha BSC,,,Jochen Drees,/en/matches/2d71ff59/Augsburg-Hertha-BSC-April-19-2014-Bundesliga,,2d71ff59
+31,Sat,2014-04-19,,Braunschweig,0–2,Bayern Munich,,,Daniel Siebert,/en/matches/8b459077/Eintracht-Braunschweig-Bayern-Munich-April-19-2014-Bundesliga,,8b459077
+31,Sat,2014-04-19,,Dortmund,4–2,Mainz 05,,,Markus Schmidt,/en/matches/e1b1f47a/Dortmund-Mainz-05-April-19-2014-Bundesliga,,e1b1f47a
+31,Sat,2014-04-19,,Freiburg,4–2,M'Gladbach,,,Peter Gagelmann,/en/matches/6295c838/Freiburg-Monchengladbach-April-19-2014-Bundesliga,,6295c838
+31,Sat,2014-04-19,,Hamburger SV,1–3,Wolfsburg,,,Peter Sippel,/en/matches/7e03006d/Hamburger-SV-Wolfsburg-April-19-2014-Bundesliga,,7e03006d
+31,Sat,2014-04-19,,Werder Bremen,3–1,Hoffenheim,,,Bastian Dankert,/en/matches/bf176a4f/Werder-Bremen-Hoffenheim-April-19-2014-Bundesliga,,bf176a4f
+31,Sun,2014-04-20,,Nürnberg,1–4,Leverkusen,,,Marco Fritz,/en/matches/27c0f716/Nurnberg-Bayer-Leverkusen-April-20-2014-Bundesliga,,27c0f716
+31,Sun,2014-04-20,,Stuttgart,3–1,Schalke 04,,,Günter Perl,/en/matches/5a6af05a/Stuttgart-Schalke-04-April-20-2014-Bundesliga,,5a6af05a
+32,Fri,2014-04-25,,Hannover 96,0–0,Stuttgart,,,Wolfgang Stark,/en/matches/090d98e8/Hannover-96-Stuttgart-April-25-2014-Bundesliga,,090d98e8
+32,Sat,2014-04-26,,Bayern Munich,5–2,Werder Bremen,,,Guido Winkmann,/en/matches/fd1c85a0/Bayern-Munich-Werder-Bremen-April-26-2014-Bundesliga,,fd1c85a0
+32,Sat,2014-04-26,,Hertha BSC,2–0,Braunschweig,,,Thorsten Kinhöfer,/en/matches/e07af68a/Hertha-BSC-Eintracht-Braunschweig-April-26-2014-Bundesliga,,e07af68a
+32,Sat,2014-04-26,,Hoffenheim,0–0,Eint Frankfurt,,,Florian Meyer,/en/matches/2d1f4a3e/Hoffenheim-Eintracht-Frankfurt-April-26-2014-Bundesliga,,2d1f4a3e
+32,Sat,2014-04-26,,Leverkusen,2–2,Dortmund,,,Günter Perl,/en/matches/1c275279/Bayer-Leverkusen-Dortmund-April-26-2014-Bundesliga,,1c275279
+32,Sat,2014-04-26,,Mainz 05,2–0,Nürnberg,,,Knut Kircher,/en/matches/244087e9/Mainz-05-Nurnberg-April-26-2014-Bundesliga,,244087e9
+32,Sat,2014-04-26,,Wolfsburg,2–2,Freiburg,,,Deniz Aytekin,/en/matches/1f359b11/Wolfsburg-Freiburg-April-26-2014-Bundesliga,,1f359b11
+32,Sun,2014-04-27,,Augsburg,3–1,Hamburger SV,,,Tobias Welz,/en/matches/03280221/Augsburg-Hamburger-SV-April-27-2014-Bundesliga,,03280221
+32,Sun,2014-04-27,,Schalke 04,0–1,M'Gladbach,,,Manuel Gräfe,/en/matches/ff9b9d2b/Schalke-04-Monchengladbach-April-27-2014-Bundesliga,,ff9b9d2b
+33,Sat,2014-05-03,,Braunschweig,0–1,Augsburg,,,Christian Dingert,/en/matches/cbccd1c3/Eintracht-Braunschweig-Augsburg-May-3-2014-Bundesliga,,cbccd1c3
+33,Sat,2014-05-03,,Dortmund,3–2,Hoffenheim,,,Tobias Welz,/en/matches/6646d49d/Dortmund-Hoffenheim-May-3-2014-Bundesliga,,6646d49d
+33,Sat,2014-05-03,,Eint Frankfurt,0–2,Leverkusen,,,Jochen Drees,/en/matches/82b85658/Eintracht-Frankfurt-Bayer-Leverkusen-May-3-2014-Bundesliga,,82b85658
+33,Sat,2014-05-03,,Freiburg,0–2,Schalke 04,,,Florian Meyer,/en/matches/7ed2e4ba/Freiburg-Schalke-04-May-3-2014-Bundesliga,,7ed2e4ba
+33,Sat,2014-05-03,,Hamburger SV,1–4,Bayern Munich,,,Marco Fritz,/en/matches/56968592/Hamburger-SV-Bayern-Munich-May-3-2014-Bundesliga,,56968592
+33,Sat,2014-05-03,,M'Gladbach,3–1,Mainz 05,,,Felix Zwayer,/en/matches/9b38af0a/Monchengladbach-Mainz-05-May-3-2014-Bundesliga,,9b38af0a
+33,Sat,2014-05-03,,Nürnberg,0–2,Hannover 96,,,Manuel Gräfe,/en/matches/470ebaf2/Nurnberg-Hannover-96-May-3-2014-Bundesliga,,470ebaf2
+33,Sat,2014-05-03,,Stuttgart,1–2,Wolfsburg,,,Felix Brych,/en/matches/5f854557/Stuttgart-Wolfsburg-May-3-2014-Bundesliga,,5f854557
+33,Sat,2014-05-03,,Werder Bremen,2–0,Hertha BSC,,,Robert Hartmann,/en/matches/a44e9b2d/Werder-Bremen-Hertha-BSC-May-3-2014-Bundesliga,,a44e9b2d
+34,Sat,2014-05-10,,Augsburg,2–1,Eint Frankfurt,,,Daniel Siebert,/en/matches/604aa17f/Augsburg-Eintracht-Frankfurt-May-10-2014-Bundesliga,,604aa17f
+34,Sat,2014-05-10,,Bayern Munich,1–0,Stuttgart,,,Bastian Dankert,/en/matches/c801bb41/Bayern-Munich-Stuttgart-May-10-2014-Bundesliga,,c801bb41
+34,Sat,2014-05-10,,Hannover 96,3–2,Freiburg,,,Peter Gagelmann,/en/matches/14e4cd90/Hannover-96-Freiburg-May-10-2014-Bundesliga,,14e4cd90
+34,Sat,2014-05-10,,Hertha BSC,0–4,Dortmund,,,Tobias Stieler,/en/matches/7e90e498/Hertha-BSC-Dortmund-May-10-2014-Bundesliga,,7e90e498
+34,Sat,2014-05-10,,Hoffenheim,3–1,Braunschweig,,,Peter Sippel,/en/matches/e0956ef5/Hoffenheim-Eintracht-Braunschweig-May-10-2014-Bundesliga,,e0956ef5
+34,Sat,2014-05-10,,Leverkusen,2–1,Werder Bremen,,,Knut Kircher,/en/matches/d157fd9f/Bayer-Leverkusen-Werder-Bremen-May-10-2014-Bundesliga,,d157fd9f
+34,Sat,2014-05-10,,Mainz 05,3–2,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/9a5a1028/Mainz-05-Hamburger-SV-May-10-2014-Bundesliga,,9a5a1028
+34,Sat,2014-05-10,,Schalke 04,4–1,Nürnberg,,,Felix Zwayer,/en/matches/c9d07588/Schalke-04-Nurnberg-May-10-2014-Bundesliga,,c9d07588
+34,Sat,2014-05-10,,Wolfsburg,3–1,M'Gladbach,,,Wolfgang Stark,/en/matches/a66e81b2/Wolfsburg-Monchengladbach-May-10-2014-Bundesliga,,a66e81b2

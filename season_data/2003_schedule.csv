@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,2003-08-01,,Bayern Munich,3–1,Eint Frankfurt,,,Knut Kircher,/en/matches/82583df5/Bayern-Munich-Eintracht-Frankfurt-August-1-2003-Bundesliga,,82583df5
+1,Sat,2003-08-02,,Hamburger SV,0–3,Hannover 96,,,Franz-Xaver Wack,/en/matches/cec16ee4/Hamburger-SV-Hannover-96-August-2-2003-Bundesliga,,cec16ee4
+1,Sat,2003-08-02,,Hertha BSC,0–3,Werder Bremen,,,Herbert Fandel,/en/matches/40322a33/Hertha-BSC-Werder-Bremen-August-2-2003-Bundesliga,,40322a33
+1,Sat,2003-08-02,,Kaiserslautern,0–1,1860 Munich,,,Michael Weiner,/en/matches/b8a1c352/Kaiserslautern-1860-Munich-August-2-2003-Bundesliga,,b8a1c352
+1,Sat,2003-08-02,,Leverkusen,4–1,Freiburg,,,Hermann Albrecht,/en/matches/8bd3c625/Bayer-Leverkusen-Freiburg-August-2-2003-Bundesliga,,8bd3c625
+1,Sat,2003-08-02,,Schalke 04,2–2,Dortmund,,,Lutz Michael Fröhlich,/en/matches/26478ef0/Revierderby-Schalke-04-Dortmund-August-2-2003-Bundesliga,,26478ef0
+1,Sat,2003-08-02,,Wolfsburg,3–2,Bochum,,,Wolfgang Stark,/en/matches/4a762051/Wolfsburg-Bochum-August-2-2003-Bundesliga,,4a762051
+1,Sun,2003-08-03,,Hansa Rostock,0–2,Stuttgart,,,Jürgen Jansen,/en/matches/6dbf514f/Hansa-Rostock-Stuttgart-August-3-2003-Bundesliga,,6dbf514f
+1,Sun,2003-08-03,,M'Gladbach,1–0,Köln,,,Markus Merk,/en/matches/627a1828/Monchengladbach-Koln-August-3-2003-Bundesliga,,627a1828
+2,Sat,2003-08-09,,1860 Munich,1–1,Schalke 04,,,Torsten Koop,/en/matches/45e40423/1860-Munich-Schalke-04-August-9-2003-Bundesliga,,45e40423
+2,Sat,2003-08-09,,Bochum,1–1,Hamburger SV,,,Lutz Wagner,/en/matches/c3c3b310/Bochum-Hamburger-SV-August-9-2003-Bundesliga,,c3c3b310
+2,Sat,2003-08-09,,Dortmund,4–0,Wolfsburg,,,Edgar Steinborn,/en/matches/1f65cb0d/Dortmund-Wolfsburg-August-9-2003-Bundesliga,,1f65cb0d
+2,Sat,2003-08-09,,Freiburg,2–2,Hansa Rostock,,,Peter Sippel,/en/matches/82e67d89/Freiburg-Hansa-Rostock-August-9-2003-Bundesliga,,82e67d89
+2,Sat,2003-08-09,,Hannover 96,3–3,Bayern Munich,,,Jürgen Aust,/en/matches/117b03f2/Hannover-96-Bayern-Munich-August-9-2003-Bundesliga,,117b03f2
+2,Sat,2003-08-09,,Köln,1–2,Kaiserslautern,,,Helmut Fleischer,/en/matches/13c0fb41/Koln-Kaiserslautern-August-9-2003-Bundesliga,,13c0fb41
+2,Sat,2003-08-09,,Werder Bremen,1–1,M'Gladbach,,,Stefan Trautmann,/en/matches/85a5a8e7/Werder-Bremen-Monchengladbach-August-9-2003-Bundesliga,,85a5a8e7
+2,Sun,2003-08-10,,Eint Frankfurt,1–2,Leverkusen,,,Jörg Keßler,/en/matches/9d1a4b84/Eintracht-Frankfurt-Bayer-Leverkusen-August-10-2003-Bundesliga,,9d1a4b84
+2,Sun,2003-08-10,,Stuttgart,0–0,Hertha BSC,,,Uwe Kemmling,/en/matches/bcae9912/Stuttgart-Hertha-BSC-August-10-2003-Bundesliga,,bcae9912
+3,Sat,2003-08-16,,Bayern Munich,2–0,Bochum,,,Peter Gagelmann,/en/matches/b428e0f8/Bayern-Munich-Bochum-August-16-2003-Bundesliga,,b428e0f8
+3,Sat,2003-08-16,,Dortmund,3–1,1860 Munich,,,Markus Merk,/en/matches/c9a2c001/Dortmund-1860-Munich-August-16-2003-Bundesliga,,c9a2c001
+3,Sat,2003-08-16,,Hansa Rostock,3–0,Eint Frankfurt,,,Thorsten Kinhöfer,/en/matches/a88e592f/Hansa-Rostock-Eintracht-Frankfurt-August-16-2003-Bundesliga,,a88e592f
+3,Sat,2003-08-16,,Hertha BSC,0–0,Freiburg,,,Markus Schmidt,/en/matches/9249c43f/Hertha-BSC-Freiburg-August-16-2003-Bundesliga,,9249c43f
+3,Sat,2003-08-16,,Kaiserslautern,0–1,Werder Bremen,,,Franz-Xaver Wack,/en/matches/a8620dd1/Kaiserslautern-Werder-Bremen-August-16-2003-Bundesliga,,a8620dd1
+3,Sat,2003-08-16,,Leverkusen,4–0,Hannover 96,,,Lutz Michael Fröhlich,/en/matches/2154b036/Bayer-Leverkusen-Hannover-96-August-16-2003-Bundesliga,,2154b036
+3,Sat,2003-08-16,,M'Gladbach,0–1,Stuttgart,,,Michael Weiner,/en/matches/b3e6d920/Monchengladbach-Stuttgart-August-16-2003-Bundesliga,,b3e6d920
+3,Sun,2003-08-17,,Schalke 04,2–1,Köln,,,Wolfgang Stark,/en/matches/cfc875be/Schalke-04-Koln-August-17-2003-Bundesliga,,cfc875be
+3,Sun,2003-08-17,,Wolfsburg,5–1,Hamburger SV,,,Herbert Fandel,/en/matches/100d4a8e/Wolfsburg-Hamburger-SV-August-17-2003-Bundesliga,,100d4a8e
+4,Sat,2003-08-23,,1860 Munich,1–0,Wolfsburg,,,Lutz Wagner,/en/matches/eec2198d/1860-Munich-Wolfsburg-August-23-2003-Bundesliga,,eec2198d
+4,Sat,2003-08-23,,Bochum,1–0,Leverkusen,,,Uwe Kemmling,/en/matches/ad492461/Bochum-Bayer-Leverkusen-August-23-2003-Bundesliga,,ad492461
+4,Sat,2003-08-23,,Eint Frankfurt,0–0,Hertha BSC,,,Torsten Koop,/en/matches/37152dba/Eintracht-Frankfurt-Hertha-BSC-August-23-2003-Bundesliga,,37152dba
+4,Sat,2003-08-23,,Freiburg,4–1,M'Gladbach,,,Herbert Fandel,/en/matches/705f4aef/Freiburg-Monchengladbach-August-23-2003-Bundesliga,,705f4aef
+4,Sat,2003-08-23,,Köln,1–0,Dortmund,,,Knut Kircher,/en/matches/e5c2fdee/Koln-Dortmund-August-23-2003-Bundesliga,,e5c2fdee
+4,Sat,2003-08-23,,Stuttgart,2–0,Kaiserslautern,,,Stefan Trautmann,/en/matches/d31a9931/Stuttgart-Kaiserslautern-August-23-2003-Bundesliga,,d31a9931
+4,Sat,2003-08-23,,Werder Bremen,4–1,Schalke 04,,,Edgar Steinborn,/en/matches/4ee10a41/Werder-Bremen-Schalke-04-August-23-2003-Bundesliga,,4ee10a41
+4,Sun,2003-08-24,,Hamburger SV,0–2,Bayern Munich,,,Markus Merk,/en/matches/8a363ff1/Hamburger-SV-Bayern-Munich-August-24-2003-Bundesliga,,8a363ff1
+4,Wed,2003-08-27,,Hannover 96,3–3,Hansa Rostock,,,Jörg Keßler,/en/matches/48dac4cf/Hannover-96-Hansa-Rostock-August-27-2003-Bundesliga,,48dac4cf
+5,Sat,2003-09-13,,1860 Munich,2–1,Köln,,,Edgar Steinborn,/en/matches/571f887c/1860-Munich-Koln-September-13-2003-Bundesliga,,571f887c
+5,Sat,2003-09-13,,Dortmund,2–1,Werder Bremen,,,Lutz Wagner,/en/matches/174e182e/Dortmund-Werder-Bremen-September-13-2003-Bundesliga,,174e182e
+5,Sat,2003-09-13,,Hansa Rostock,0–2,Bochum,,,Markus Merk,/en/matches/87a14e2f/Hansa-Rostock-Bochum-September-13-2003-Bundesliga,,87a14e2f
+5,Sat,2003-09-13,,Hertha BSC,2–3,Hannover 96,,,Wolfgang Stark,/en/matches/5be7da2c/Hertha-BSC-Hannover-96-September-13-2003-Bundesliga,,5be7da2c
+5,Sat,2003-09-13,,Leverkusen,1–0,Hamburger SV,,,Knut Kircher,/en/matches/03d4170a/Bayer-Leverkusen-Hamburger-SV-September-13-2003-Bundesliga,,03d4170a
+5,Sat,2003-09-13,,Schalke 04,0–0,Stuttgart,,,Herbert Fandel,/en/matches/d1bdc564/Schalke-04-Stuttgart-September-13-2003-Bundesliga,,d1bdc564
+5,Sat,2003-09-13,,Wolfsburg,3–2,Bayern Munich,,,Lutz Michael Fröhlich,/en/matches/641b1c1d/Wolfsburg-Bayern-Munich-September-13-2003-Bundesliga,,641b1c1d
+5,Sun,2003-09-14,,Kaiserslautern,2–2,Freiburg,,,Thorsten Kinhöfer,/en/matches/c6e5e9fa/Kaiserslautern-Freiburg-September-14-2003-Bundesliga,,c6e5e9fa
+5,Sun,2003-09-14,,M'Gladbach,0–2,Eint Frankfurt,,,Franz-Xaver Wack,/en/matches/a20a4e60/Monchengladbach-Eintracht-Frankfurt-September-14-2003-Bundesliga,,a20a4e60
+6,Sat,2003-09-20,,Bayern Munich,3–3,Leverkusen,,,Florian Meyer,/en/matches/cbf40518/Bayern-Munich-Bayer-Leverkusen-September-20-2003-Bundesliga,,cbf40518
+6,Sat,2003-09-20,,Bochum,2–2,Hertha BSC,,,Peter Sippel,/en/matches/5ea230e0/Bochum-Hertha-BSC-September-20-2003-Bundesliga,,5ea230e0
+6,Sat,2003-09-20,,Freiburg,2–1,Schalke 04,,,Uwe Kemmling,/en/matches/f0dda26d/Freiburg-Schalke-04-September-20-2003-Bundesliga,,f0dda26d
+6,Sat,2003-09-20,,Hannover 96,2–0,M'Gladbach,,,Hermann Albrecht,/en/matches/0dc94ad6/Hannover-96-Monchengladbach-September-20-2003-Bundesliga,,0dc94ad6
+6,Sat,2003-09-20,,Köln,2–3,Wolfsburg,,,Markus Schmidt,/en/matches/85999d52/Koln-Wolfsburg-September-20-2003-Bundesliga,,85999d52
+6,Sat,2003-09-20,,Stuttgart,1–0,Dortmund,,,Markus Merk,/en/matches/47d84c38/Stuttgart-Dortmund-September-20-2003-Bundesliga,,47d84c38
+6,Sat,2003-09-20,,Werder Bremen,2–1,1860 Munich,,,Herbert Fandel,/en/matches/cff97b7c/Werder-Bremen-1860-Munich-September-20-2003-Bundesliga,,cff97b7c
+6,Sun,2003-09-21,,Eint Frankfurt,1–3,Kaiserslautern,,,Jürgen Jansen,/en/matches/02bfccc2/Eintracht-Frankfurt-Kaiserslautern-September-21-2003-Bundesliga,,02bfccc2
+6,Sun,2003-09-21,,Hamburger SV,2–1,Hansa Rostock,,,Helmut Fleischer,/en/matches/c6852d05/Hamburger-SV-Hansa-Rostock-September-21-2003-Bundesliga,,c6852d05
+7,Sat,2003-09-27,,1860 Munich,0–3,Stuttgart,,,Lutz Michael Fröhlich,/en/matches/1b2522f3/1860-Munich-Stuttgart-September-27-2003-Bundesliga,,1b2522f3
+7,Sat,2003-09-27,,Dortmund,1–0,Freiburg,,,Wolfgang Stark,/en/matches/66559056/Dortmund-Freiburg-September-27-2003-Bundesliga,,66559056
+7,Sat,2003-09-27,,Hansa Rostock,1–2,Bayern Munich,,,Herbert Fandel,/en/matches/b41b067e/Hansa-Rostock-Bayern-Munich-September-27-2003-Bundesliga,,b41b067e
+7,Sat,2003-09-27,,Kaiserslautern,1–0,Hannover 96,,,Peter Gagelmann,/en/matches/bd39c773/Kaiserslautern-Hannover-96-September-27-2003-Bundesliga,,bd39c773
+7,Sat,2003-09-27,,Köln,1–4,Werder Bremen,,,Markus Merk,/en/matches/781c7af9/Koln-Werder-Bremen-September-27-2003-Bundesliga,,781c7af9
+7,Sat,2003-09-27,,M'Gladbach,2–2,Bochum,,,Torsten Koop,/en/matches/b8d7a808/Monchengladbach-Bochum-September-27-2003-Bundesliga,,b8d7a808
+7,Sat,2003-09-27,,Wolfsburg,0–1,Leverkusen,,,Franz-Xaver Wack,/en/matches/0a6e6a77/Wolfsburg-Bayer-Leverkusen-September-27-2003-Bundesliga,,0a6e6a77
+7,Sun,2003-09-28,,Hertha BSC,1–1,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/74502f97/Hertha-BSC-Hamburger-SV-September-28-2003-Bundesliga,,74502f97
+7,Sun,2003-09-28,,Schalke 04,1–1,Eint Frankfurt,,,Knut Kircher,/en/matches/d0e8511d/Schalke-04-Eintracht-Frankfurt-September-28-2003-Bundesliga,,d0e8511d
+8,Sat,2003-10-04,,Bayern Munich,4–1,Hertha BSC,,,Michael Weiner,/en/matches/924b0ae0/Bayern-Munich-Hertha-BSC-October-4-2003-Bundesliga,,924b0ae0
+8,Sat,2003-10-04,,Bochum,4–0,Kaiserslautern,,,Wolfgang Stark,/en/matches/5e49da4c/Bochum-Kaiserslautern-October-4-2003-Bundesliga,,5e49da4c
+8,Sat,2003-10-04,,Eint Frankfurt,0–1,Dortmund,,,Edgar Steinborn,/en/matches/35d14f66/Eintracht-Frankfurt-Dortmund-October-4-2003-Bundesliga,,35d14f66
+8,Sat,2003-10-04,,Freiburg,1–0,1860 Munich,,,Florian Meyer,/en/matches/9f0d1cbc/Freiburg-1860-Munich-October-4-2003-Bundesliga,,9f0d1cbc
+8,Sat,2003-10-04,,Hamburger SV,2–1,M'Gladbach,,,Lutz Wagner,/en/matches/11b4f961/Hamburger-SV-Monchengladbach-October-4-2003-Bundesliga,,11b4f961
+8,Sat,2003-10-04,,Hannover 96,1–2,Schalke 04,,,Helmut Fleischer,/en/matches/560dcf0a/Hannover-96-Schalke-04-October-4-2003-Bundesliga,,560dcf0a
+8,Sat,2003-10-04,,Stuttgart,0–0,Köln,,,Jörg Keßler,/en/matches/78b4a182/Stuttgart-Koln-October-4-2003-Bundesliga,,78b4a182
+8,Sun,2003-10-05,,Leverkusen,3–0,Hansa Rostock,,,Uwe Kemmling,/en/matches/0353e51a/Bayer-Leverkusen-Hansa-Rostock-October-5-2003-Bundesliga,,0353e51a
+8,Sun,2003-10-05,,Werder Bremen,5–3,Wolfsburg,,,Jürgen Jansen,/en/matches/d8a8ad54/Werder-Bremen-Wolfsburg-October-5-2003-Bundesliga,,d8a8ad54
+9,Sat,2003-10-18,,1860 Munich,1–0,Eint Frankfurt,,,Peter Gagelmann,/en/matches/0296836b/1860-Munich-Eintracht-Frankfurt-October-18-2003-Bundesliga,,0296836b
+9,Sat,2003-10-18,,Dortmund,6–2,Hannover 96,,,Herbert Fandel,/en/matches/4b860709/Dortmund-Hannover-96-October-18-2003-Bundesliga,,4b860709
+9,Sat,2003-10-18,,Hertha BSC,1–4,Leverkusen,,,Markus Merk,/en/matches/2f98601e/Hertha-BSC-Bayer-Leverkusen-October-18-2003-Bundesliga,,2f98601e
+9,Sat,2003-10-18,,Köln,1–0,Freiburg,,,Franz-Xaver Wack,/en/matches/0e260cbe/Koln-Freiburg-October-18-2003-Bundesliga,,0e260cbe
+9,Sat,2003-10-18,,M'Gladbach,0–0,Bayern Munich,,,Knut Kircher,/en/matches/3b25a6f0/Monchengladbach-Bayern-Munich-October-18-2003-Bundesliga,,3b25a6f0
+9,Sat,2003-10-18,,Werder Bremen,1–3,Stuttgart,,,Thorsten Kinhöfer,/en/matches/828b3f94/Werder-Bremen-Stuttgart-October-18-2003-Bundesliga,,828b3f94
+9,Sat,2003-10-18,,Wolfsburg,3–1,Hansa Rostock,,,Hermann Albrecht,/en/matches/ad864e77/Wolfsburg-Hansa-Rostock-October-18-2003-Bundesliga,,ad864e77
+9,Sun,2003-10-19,,Kaiserslautern,4–0,Hamburger SV,,,Lutz Michael Fröhlich,/en/matches/cf4757de/Kaiserslautern-Hamburger-SV-October-19-2003-Bundesliga,,cf4757de
+9,Sun,2003-10-19,,Schalke 04,0–2,Bochum,,,Lutz Wagner,/en/matches/47b70144/Schalke-04-Bochum-October-19-2003-Bundesliga,,47b70144
+10,Sat,2003-10-25,,Bayern Munich,4–1,Kaiserslautern,,,Torsten Koop,/en/matches/5b037bdb/Bayern-Munich-Kaiserslautern-October-25-2003-Bundesliga,,5b037bdb
+10,Sat,2003-10-25,,Eint Frankfurt,2–0,Köln,,,Michael Weiner,/en/matches/aaa05c99/Eintracht-Frankfurt-Koln-October-25-2003-Bundesliga,,aaa05c99
+10,Sat,2003-10-25,,Freiburg,2–4,Werder Bremen,,,Edgar Steinborn,/en/matches/16608046/Freiburg-Werder-Bremen-October-25-2003-Bundesliga,,16608046
+10,Sat,2003-10-25,,Hamburger SV,2–2,Schalke 04,,,Peter Sippel,/en/matches/422ee3c4/Hamburger-SV-Schalke-04-October-25-2003-Bundesliga,,422ee3c4
+10,Sat,2003-10-25,,Hannover 96,1–1,1860 Munich,,,Markus Merk,/en/matches/77c64772/Hannover-96-1860-Munich-October-25-2003-Bundesliga,,77c64772
+10,Sat,2003-10-25,,Hansa Rostock,0–1,Hertha BSC,,,Florian Meyer,/en/matches/c62915df/Hansa-Rostock-Hertha-BSC-October-25-2003-Bundesliga,,c62915df
+10,Sat,2003-10-25,,Stuttgart,1–0,Wolfsburg,,,Herbert Fandel,/en/matches/e9663664/Stuttgart-Wolfsburg-October-25-2003-Bundesliga,,e9663664
+10,Sun,2003-10-26,,Bochum,3–0,Dortmund,,,Lutz Michael Fröhlich,/en/matches/1b83746c/Bochum-Dortmund-October-26-2003-Bundesliga,,1b83746c
+10,Sun,2003-10-26,,Leverkusen,1–0,M'Gladbach,,,Wolfgang Stark,/en/matches/df483d9a/Bayer-Leverkusen-Monchengladbach-October-26-2003-Bundesliga,,df483d9a
+11,Sat,2003-11-01,,1860 Munich,3–1,Bochum,,,Stefan Trautmann,/en/matches/116c1e93/1860-Munich-Bochum-November-1-2003-Bundesliga,,116c1e93
+11,Sat,2003-11-01,,Köln,1–2,Hannover 96,,,Knut Kircher,/en/matches/09336a26/Koln-Hannover-96-November-1-2003-Bundesliga,,09336a26
+11,Sat,2003-11-01,,M'Gladbach,1–1,Hansa Rostock,,,Markus Merk,/en/matches/754749c2/Monchengladbach-Hansa-Rostock-November-1-2003-Bundesliga,,754749c2
+11,Sat,2003-11-01,,Schalke 04,2–0,Bayern Munich,,,Edgar Steinborn,/en/matches/aca33c8f/Schalke-04-Bayern-Munich-November-1-2003-Bundesliga,,aca33c8f
+11,Sat,2003-11-01,,Stuttgart,4–1,Freiburg,,,Jürgen Jansen,/en/matches/c0ade56f/Stuttgart-Freiburg-November-1-2003-Bundesliga,,c0ade56f
+11,Sat,2003-11-01,,Werder Bremen,3–1,Eint Frankfurt,,,Hermann Albrecht,/en/matches/a68f2c02/Werder-Bremen-Eintracht-Frankfurt-November-1-2003-Bundesliga,,a68f2c02
+11,Sat,2003-11-01,,Wolfsburg,3–0,Hertha BSC,,,Peter Sippel,/en/matches/a2f2a91f/Wolfsburg-Hertha-BSC-November-1-2003-Bundesliga,,a2f2a91f
+11,Sun,2003-11-02,,Dortmund,3–2,Hamburger SV,,,Uwe Kemmling,/en/matches/3d84a391/Dortmund-Hamburger-SV-November-2-2003-Bundesliga,,3d84a391
+11,Sun,2003-11-02,,Kaiserslautern,0–0,Leverkusen,,,Lutz Wagner,/en/matches/7a924459/Kaiserslautern-Bayer-Leverkusen-November-2-2003-Bundesliga,,7a924459
+12,Sat,2003-11-08,,Bochum,4–0,Köln,,,Florian Meyer,/en/matches/4a3284de/Bochum-Koln-November-8-2003-Bundesliga,,4a3284de
+12,Sat,2003-11-08,,Eint Frankfurt,0–2,Stuttgart,,,Uwe Kemmling,/en/matches/83c25afb/Eintracht-Frankfurt-Stuttgart-November-8-2003-Bundesliga,,83c25afb
+12,Sat,2003-11-08,,Freiburg,3–2,Wolfsburg,,,Franz-Xaver Wack,/en/matches/d087961d/Freiburg-Wolfsburg-November-8-2003-Bundesliga,,d087961d
+12,Sat,2003-11-08,,Hamburger SV,3–1,1860 Munich,,,Jürgen Jansen,/en/matches/0654504d/Hamburger-SV-1860-Munich-November-8-2003-Bundesliga,,0654504d
+12,Sat,2003-11-08,,Hannover 96,1–5,Werder Bremen,,,Wolfgang Stark,/en/matches/ca844751/Hannover-96-Werder-Bremen-November-8-2003-Bundesliga,,ca844751
+12,Sat,2003-11-08,,Hansa Rostock,4–0,Kaiserslautern,,,Michael Weiner,/en/matches/6917a52a/Hansa-Rostock-Kaiserslautern-November-8-2003-Bundesliga,,6917a52a
+12,Sat,2003-11-08,,Hertha BSC,2–1,M'Gladbach,,,Jörg Keßler,/en/matches/193d49d5/Hertha-BSC-Monchengladbach-November-8-2003-Bundesliga,,193d49d5
+12,Sun,2003-11-09,,Bayern Munich,4–1,Dortmund,,,Markus Merk,/en/matches/7cb145f4/Der-Klassiker-Bayern-Munich-Dortmund-November-9-2003-Bundesliga,,7cb145f4
+12,Sun,2003-11-09,,Leverkusen,3–1,Schalke 04,,,Herbert Fandel,/en/matches/344ced79/Bayer-Leverkusen-Schalke-04-November-9-2003-Bundesliga,,344ced79
+13,Sat,2003-11-22,,1860 Munich,0–1,Bayern Munich,,,Herbert Fandel,/en/matches/5c9eff51/1860-Munich-Bayern-Munich-November-22-2003-Bundesliga,,5c9eff51
+13,Sat,2003-11-22,,Dortmund,2–2,Leverkusen,,,Franz-Xaver Wack,/en/matches/515b1afc/Dortmund-Bayer-Leverkusen-November-22-2003-Bundesliga,,515b1afc
+13,Sat,2003-11-22,,Köln,0–1,Hamburger SV,,,Wolfgang Stark,/en/matches/d9d47dac/Koln-Hamburger-SV-November-22-2003-Bundesliga,,d9d47dac
+13,Sat,2003-11-22,,Schalke 04,0–1,Hansa Rostock,,,Markus Schmidt,/en/matches/2b5a5f6b/Schalke-04-Hansa-Rostock-November-22-2003-Bundesliga,,2b5a5f6b
+13,Sat,2003-11-22,,Stuttgart,3–1,Hannover 96,,,Lutz Wagner,/en/matches/27be88c9/Stuttgart-Hannover-96-November-22-2003-Bundesliga,,27be88c9
+13,Sat,2003-11-22,,Werder Bremen,3–1,Bochum,,,Markus Merk,/en/matches/00b3d2b9/Werder-Bremen-Bochum-November-22-2003-Bundesliga,,00b3d2b9
+13,Sat,2003-11-22,,Wolfsburg,1–3,M'Gladbach,,,Stefan Trautmann,/en/matches/f3748131/Wolfsburg-Monchengladbach-November-22-2003-Bundesliga,,f3748131
+13,Sun,2003-11-23,,Freiburg,1–0,Eint Frankfurt,,,Lutz Michael Fröhlich,/en/matches/9c245275/Freiburg-Eintracht-Frankfurt-November-23-2003-Bundesliga,,9c245275
+13,Sun,2003-11-23,,Kaiserslautern,4–2,Hertha BSC,,,Knut Kircher,/en/matches/5ce213cd/Kaiserslautern-Hertha-BSC-November-23-2003-Bundesliga,,5ce213cd
+14,Sat,2003-11-29,,Bayern Munich,2–2,Köln,,,Uwe Kemmling,/en/matches/4c1ca469/Bayern-Munich-Koln-November-29-2003-Bundesliga,,4c1ca469
+14,Sat,2003-11-29,,Bochum,0–0,Stuttgart,,,Edgar Steinborn,/en/matches/3d525ece/Bochum-Stuttgart-November-29-2003-Bundesliga,,3d525ece
+14,Sat,2003-11-29,,Eint Frankfurt,3–2,Wolfsburg,,,Jörg Keßler,/en/matches/f0e311af/Eintracht-Frankfurt-Wolfsburg-November-29-2003-Bundesliga,,f0e311af
+14,Sat,2003-11-29,,Hamburger SV,1–1,Werder Bremen,,,Herbert Fandel,/en/matches/9d4d2e27/Hamburger-SV-Werder-Bremen-November-29-2003-Bundesliga,,9d4d2e27
+14,Sat,2003-11-29,,Hannover 96,3–0,Freiburg,,,Thorsten Kinhöfer,/en/matches/eb758c42/Hannover-96-Freiburg-November-29-2003-Bundesliga,,eb758c42
+14,Sat,2003-11-29,,Leverkusen,2–2,1860 Munich,,,Lutz Michael Fröhlich,/en/matches/cdc2c26b/Bayer-Leverkusen-1860-Munich-November-29-2003-Bundesliga,,cdc2c26b
+14,Sat,2003-11-29,,M'Gladbach,2–1,Kaiserslautern,,,Peter Gagelmann,/en/matches/efdd7114/Monchengladbach-Kaiserslautern-November-29-2003-Bundesliga,,efdd7114
+14,Sun,2003-11-30,,Hansa Rostock,2–1,Dortmund,,,Peter Sippel,/en/matches/7cdd7234/Hansa-Rostock-Dortmund-November-30-2003-Bundesliga,,7cdd7234
+14,Sun,2003-11-30,,Hertha BSC,1–3,Schalke 04,,,Michael Weiner,/en/matches/4af8e2f6/Hertha-BSC-Schalke-04-November-30-2003-Bundesliga,,4af8e2f6
+15,Sat,2003-12-06,,1860 Munich,1–4,Hansa Rostock,,,Thorsten Kinhöfer,/en/matches/a3930ed7/1860-Munich-Hansa-Rostock-December-6-2003-Bundesliga,,a3930ed7
+15,Sat,2003-12-06,,Dortmund,1–1,Hertha BSC,,,Florian Meyer,/en/matches/62b6eff4/Dortmund-Hertha-BSC-December-6-2003-Bundesliga,,62b6eff4
+15,Sat,2003-12-06,,Eint Frankfurt,2–2,Hannover 96,,,Torsten Koop,/en/matches/bf332583/Eintracht-Frankfurt-Hannover-96-December-6-2003-Bundesliga,,bf332583
+15,Sat,2003-12-06,,Freiburg,4–2,Bochum,,,Herbert Fandel,/en/matches/a1e92ce7/Freiburg-Bochum-December-6-2003-Bundesliga,,a1e92ce7
+15,Sat,2003-12-06,,Stuttgart,0–0,Hamburger SV,,,Franz-Xaver Wack,/en/matches/4d020aa5/Stuttgart-Hamburger-SV-December-6-2003-Bundesliga,,4d020aa5
+15,Sat,2003-12-06,,Werder Bremen,1–1,Bayern Munich,,,Knut Kircher,/en/matches/6df34212/Werder-Bremen-Bayern-Munich-December-6-2003-Bundesliga,,6df34212
+15,Sat,2003-12-06,,Wolfsburg,4–1,Kaiserslautern,,,Markus Schmidt,/en/matches/18f4ebef/Wolfsburg-Kaiserslautern-December-6-2003-Bundesliga,,18f4ebef
+15,Sun,2003-12-07,,Köln,0–0,Leverkusen,,,Markus Merk,/en/matches/170239e4/Koln-Bayer-Leverkusen-December-7-2003-Bundesliga,,170239e4
+15,Sun,2003-12-07,,Schalke 04,2–1,M'Gladbach,,,Wolfgang Stark,/en/matches/2ffeba5e/Schalke-04-Monchengladbach-December-7-2003-Bundesliga,,2ffeba5e
+16,Sat,2003-12-13,,Bayern Munich,1–0,Stuttgart,,,Markus Merk,/en/matches/078e0816/Bayern-Munich-Stuttgart-December-13-2003-Bundesliga,,078e0816
+16,Sat,2003-12-13,,Bochum,1–0,Eint Frankfurt,,,Michael Weiner,/en/matches/8c78f082/Bochum-Eintracht-Frankfurt-December-13-2003-Bundesliga,,8c78f082
+16,Sat,2003-12-13,,Hamburger SV,4–1,Freiburg,,,Hermann Albrecht,/en/matches/7d8ae50b/Hamburger-SV-Freiburg-December-13-2003-Bundesliga,,7d8ae50b
+16,Sat,2003-12-13,,Hansa Rostock,1–1,Köln,,,Jörg Keßler,/en/matches/44a24464/Hansa-Rostock-Koln-December-13-2003-Bundesliga,,44a24464
+16,Sat,2003-12-13,,Hertha BSC,1–1,1860 Munich,,,Lutz Wagner,/en/matches/2a9360ff/Hertha-BSC-1860-Munich-December-13-2003-Bundesliga,,2a9360ff
+16,Sat,2003-12-13,,Kaiserslautern,0–2,Schalke 04,,,Peter Sippel,/en/matches/10af3058/Kaiserslautern-Schalke-04-December-13-2003-Bundesliga,,10af3058
+16,Sat,2003-12-13,,Leverkusen,1–3,Werder Bremen,,,Uwe Kemmling,/en/matches/4a74d656/Bayer-Leverkusen-Werder-Bremen-December-13-2003-Bundesliga,,4a74d656
+16,Sun,2003-12-14,,M'Gladbach,2–1,Dortmund,,,Edgar Steinborn,/en/matches/0445acda/Monchengladbach-Dortmund-December-14-2003-Bundesliga,,0445acda
+16,Sun,2003-12-14,,Wolfsburg,2–1,Hannover 96,,,Jürgen Jansen,/en/matches/bbdfcc34/Wolfsburg-Hannover-96-December-14-2003-Bundesliga,,bbdfcc34
+17,Tue,2003-12-16,,Eint Frankfurt,2–3,Hamburger SV,,,Thorsten Kinhöfer,/en/matches/7052ab53/Eintracht-Frankfurt-Hamburger-SV-December-16-2003-Bundesliga,,7052ab53
+17,Tue,2003-12-16,,Freiburg,0–6,Bayern Munich,,,Florian Meyer,/en/matches/5d9b383c/Freiburg-Bayern-Munich-December-16-2003-Bundesliga,,5d9b383c
+17,Tue,2003-12-16,,Köln,3–0,Hertha BSC,,,Franz-Xaver Wack,/en/matches/b35faa31/Koln-Hertha-BSC-December-16-2003-Bundesliga,,b35faa31
+17,Tue,2003-12-16,,Werder Bremen,3–0,Hansa Rostock,,,Lutz Michael Fröhlich,/en/matches/30ab87de/Werder-Bremen-Hansa-Rostock-December-16-2003-Bundesliga,,30ab87de
+17,Wed,2003-12-17,,1860 Munich,1–2,M'Gladbach,,,Markus Merk,/en/matches/9dfda9f1/1860-Munich-Monchengladbach-December-17-2003-Bundesliga,,9dfda9f1
+17,Wed,2003-12-17,,Dortmund,1–1,Kaiserslautern,,,Wolfgang Stark,/en/matches/a0f4519c/Dortmund-Kaiserslautern-December-17-2003-Bundesliga,,a0f4519c
+17,Wed,2003-12-17,,Hannover 96,2–2,Bochum,,,Knut Kircher,/en/matches/d6132c48/Hannover-96-Bochum-December-17-2003-Bundesliga,,d6132c48
+17,Wed,2003-12-17,,Schalke 04,1–1,Wolfsburg,,,Torsten Koop,/en/matches/ba5b017b/Schalke-04-Wolfsburg-December-17-2003-Bundesliga,,ba5b017b
+17,Wed,2003-12-17,,Stuttgart,2–3,Leverkusen,,,Herbert Fandel,/en/matches/f3e184a5/Stuttgart-Bayer-Leverkusen-December-17-2003-Bundesliga,,f3e184a5
+18,Fri,2004-01-30,,Dortmund,0–1,Schalke 04,,,Herbert Fandel,/en/matches/15c060db/Revierderby-Dortmund-Schalke-04-January-30-2004-Bundesliga,,15c060db
+18,Sat,2004-01-31,,1860 Munich,2–1,Kaiserslautern,,,Stefan Trautmann,/en/matches/36a91b75/1860-Munich-Kaiserslautern-January-31-2004-Bundesliga,,36a91b75
+18,Sat,2004-01-31,,Bochum,1–0,Wolfsburg,,,Peter Sippel,/en/matches/1ba3c61d/Bochum-Wolfsburg-January-31-2004-Bundesliga,,1ba3c61d
+18,Sat,2004-01-31,,Eint Frankfurt,1–1,Bayern Munich,,,Jürgen Jansen,/en/matches/1cb9d6cb/Eintracht-Frankfurt-Bayern-Munich-January-31-2004-Bundesliga,,1cb9d6cb
+18,Sat,2004-01-31,,Köln,1–0,M'Gladbach,,,Florian Meyer,/en/matches/98cb24be/Koln-Monchengladbach-January-31-2004-Bundesliga,,98cb24be
+18,Sat,2004-01-31,,Stuttgart,2–0,Hansa Rostock,,,Wolfgang Stark,/en/matches/c439bfc1/Stuttgart-Hansa-Rostock-January-31-2004-Bundesliga,,c439bfc1
+18,Sat,2004-01-31,,Werder Bremen,4–0,Hertha BSC,,,Markus Merk,/en/matches/6a6db384/Werder-Bremen-Hertha-BSC-January-31-2004-Bundesliga,,6a6db384
+18,Sun,2004-02-01,,Freiburg,1–0,Leverkusen,,,Jörg Keßler,/en/matches/3ff37e9a/Freiburg-Bayer-Leverkusen-February-1-2004-Bundesliga,,3ff37e9a
+18,Sun,2004-02-01,,Hannover 96,3–2,Hamburger SV,,,Lutz Wagner,/en/matches/bf3be930/Hannover-96-Hamburger-SV-February-1-2004-Bundesliga,,bf3be930
+19,Sat,2004-02-07,,Hamburger SV,1–1,Bochum,,,Markus Schmidt,/en/matches/07233e4c/Hamburger-SV-Bochum-February-7-2004-Bundesliga,,07233e4c
+19,Sat,2004-02-07,,Hansa Rostock,4–1,Freiburg,,,Peter Gagelmann,/en/matches/178d3772/Hansa-Rostock-Freiburg-February-7-2004-Bundesliga,,178d3772
+19,Sat,2004-02-07,,Kaiserslautern,1–0,Köln,,,Hermann Albrecht,/en/matches/ad63c70b/Kaiserslautern-Koln-February-7-2004-Bundesliga,,ad63c70b
+19,Sat,2004-02-07,,Leverkusen,1–2,Eint Frankfurt,,,Edgar Steinborn,/en/matches/0c7f7064/Bayer-Leverkusen-Eintracht-Frankfurt-February-7-2004-Bundesliga,,0c7f7064
+19,Sat,2004-02-07,,M'Gladbach,1–2,Werder Bremen,,,Torsten Koop,/en/matches/563a9c07/Monchengladbach-Werder-Bremen-February-7-2004-Bundesliga,,563a9c07
+19,Sat,2004-02-07,,Schalke 04,0–0,1860 Munich,,,Uwe Kemmling,/en/matches/2e55b436/Schalke-04-1860-Munich-February-7-2004-Bundesliga,,2e55b436
+19,Sat,2004-02-07,,Wolfsburg,2–4,Dortmund,,,Franz-Xaver Wack,/en/matches/212bcdad/Wolfsburg-Dortmund-February-7-2004-Bundesliga,,212bcdad
+19,Sun,2004-02-08,,Bayern Munich,3–1,Hannover 96,,,Lutz Michael Fröhlich,/en/matches/38222045/Bayern-Munich-Hannover-96-February-8-2004-Bundesliga,,38222045
+19,Sun,2004-02-08,,Hertha BSC,1–0,Stuttgart,,,Thorsten Kinhöfer,/en/matches/c8749600/Hertha-BSC-Stuttgart-February-8-2004-Bundesliga,,c8749600
+20,Sat,2004-02-14,,Bochum,1–0,Bayern Munich,,,Lutz Wagner,/en/matches/ea5d5bf9/Bochum-Bayern-Munich-February-14-2004-Bundesliga,,ea5d5bf9
+20,Sat,2004-02-14,,Eint Frankfurt,1–1,Hansa Rostock,,,Herbert Fandel,/en/matches/c7d29fda/Eintracht-Frankfurt-Hansa-Rostock-February-14-2004-Bundesliga,,c7d29fda
+20,Sat,2004-02-14,,Freiburg,2–3,Hertha BSC,,,Michael Weiner,/en/matches/fd18a3c6/Freiburg-Hertha-BSC-February-14-2004-Bundesliga,,fd18a3c6
+20,Sat,2004-02-14,,Hamburger SV,2–0,Wolfsburg,,,Wolfgang Stark,/en/matches/c9e1bc82/Hamburger-SV-Wolfsburg-February-14-2004-Bundesliga,,c9e1bc82
+20,Sat,2004-02-14,,Hannover 96,2–2,Leverkusen,,,Markus Merk,/en/matches/d62d3499/Hannover-96-Bayer-Leverkusen-February-14-2004-Bundesliga,,d62d3499
+20,Sat,2004-02-14,,Köln,0–2,Schalke 04,,,Stefan Trautmann,/en/matches/7b5f78f3/Koln-Schalke-04-February-14-2004-Bundesliga,,7b5f78f3
+20,Sat,2004-02-14,,Stuttgart,1–1,M'Gladbach,,,Jörg Keßler,/en/matches/4dd81a68/Stuttgart-Monchengladbach-February-14-2004-Bundesliga,,4dd81a68
+20,Sun,2004-02-15,,1860 Munich,0–2,Dortmund,,,Florian Meyer,/en/matches/86e7f085/1860-Munich-Dortmund-February-15-2004-Bundesliga,,86e7f085
+20,Sun,2004-02-15,,Werder Bremen,1–0,Kaiserslautern,,,Knut Kircher,/en/matches/30a08203/Werder-Bremen-Kaiserslautern-February-15-2004-Bundesliga,,30a08203
+21,Sat,2004-02-21,,Bayern Munich,1–0,Hamburger SV,,,Knut Kircher,/en/matches/2c939b75/Bayern-Munich-Hamburger-SV-February-21-2004-Bundesliga,,2c939b75
+21,Sat,2004-02-21,,Hansa Rostock,3–1,Hannover 96,,,Peter Sippel,/en/matches/42911015/Hansa-Rostock-Hannover-96-February-21-2004-Bundesliga,,42911015
+21,Sat,2004-02-21,,Kaiserslautern,1–0,Stuttgart,,,Jürgen Jansen,/en/matches/4618cc7f/Kaiserslautern-Stuttgart-February-21-2004-Bundesliga,,4618cc7f
+21,Sat,2004-02-21,,Leverkusen,1–3,Bochum,,,Hermann Albrecht,/en/matches/494f9b19/Bayer-Leverkusen-Bochum-February-21-2004-Bundesliga,,494f9b19
+21,Sat,2004-02-21,,M'Gladbach,2–2,Freiburg,,,Herbert Fandel,/en/matches/b2166f9d/Monchengladbach-Freiburg-February-21-2004-Bundesliga,,b2166f9d
+21,Sat,2004-02-21,,Schalke 04,0–0,Werder Bremen,,,Franz-Xaver Wack,/en/matches/e5a99fc2/Schalke-04-Werder-Bremen-February-21-2004-Bundesliga,,e5a99fc2
+21,Sat,2004-02-21,,Wolfsburg,3–1,1860 Munich,,,Edgar Steinborn,/en/matches/8662e1fd/Wolfsburg-1860-Munich-February-21-2004-Bundesliga,,8662e1fd
+21,Sun,2004-02-22,,Dortmund,1–0,Köln,,,Torsten Koop,/en/matches/a23dbe37/Dortmund-Koln-February-22-2004-Bundesliga,,a23dbe37
+21,Sun,2004-02-22,,Hertha BSC,1–2,Eint Frankfurt,,,Wolfgang Stark,/en/matches/7d52a8c0/Hertha-BSC-Eintracht-Frankfurt-February-22-2004-Bundesliga,,7d52a8c0
+22,Sat,2004-02-28,,Bayern Munich,2–0,Wolfsburg,,,Thorsten Kinhöfer,/en/matches/6eb4362f/Bayern-Munich-Wolfsburg-February-28-2004-Bundesliga,,6eb4362f
+22,Sat,2004-02-28,,Bochum,0–0,Hansa Rostock,,,Michael Weiner,/en/matches/cb7f49ae/Bochum-Hansa-Rostock-February-28-2004-Bundesliga,,cb7f49ae
+22,Sat,2004-02-28,,Eint Frankfurt,3–1,M'Gladbach,,,Markus Schmidt,/en/matches/f5a0346d/Eintracht-Frankfurt-Monchengladbach-February-28-2004-Bundesliga,,f5a0346d
+22,Sat,2004-02-28,,Hamburger SV,3–1,Leverkusen,,,Lutz Michael Fröhlich,/en/matches/2c510b65/Hamburger-SV-Bayer-Leverkusen-February-28-2004-Bundesliga,,2c510b65
+22,Sat,2004-02-28,,Köln,1–3,1860 Munich,,,Markus Merk,/en/matches/efd37399/Koln-1860-Munich-February-28-2004-Bundesliga,,efd37399
+22,Sat,2004-02-28,,Stuttgart,0–0,Schalke 04,,,Florian Meyer,/en/matches/f04b853a/Stuttgart-Schalke-04-February-28-2004-Bundesliga,,f04b853a
+22,Sat,2004-02-28,,Werder Bremen,2–0,Dortmund,,,Lutz Wagner,/en/matches/6bfb1ddd/Werder-Bremen-Dortmund-February-28-2004-Bundesliga,,6bfb1ddd
+22,Sun,2004-02-29,,Freiburg,1–0,Kaiserslautern,,,Uwe Kemmling,/en/matches/ec67d833/Freiburg-Kaiserslautern-February-29-2004-Bundesliga,,ec67d833
+22,Sun,2004-02-29,,Hannover 96,1–3,Hertha BSC,,,Jörg Keßler,/en/matches/5425047b/Hannover-96-Hertha-BSC-February-29-2004-Bundesliga,,5425047b
+23,Sat,2004-03-06,,Dortmund,0–2,Stuttgart,,,Markus Merk,/en/matches/f794ca6a/Dortmund-Stuttgart-March-6-2004-Bundesliga,,f794ca6a
+23,Sat,2004-03-06,,Hansa Rostock,3–0,Hamburger SV,,,Edgar Steinborn,/en/matches/0337f334/Hansa-Rostock-Hamburger-SV-March-6-2004-Bundesliga,,0337f334
+23,Sat,2004-03-06,,Hertha BSC,1–1,Bochum,,,Stefan Trautmann,/en/matches/c98e543f/Hertha-BSC-Bochum-March-6-2004-Bundesliga,,c98e543f
+23,Sat,2004-03-06,,Kaiserslautern,1–0,Eint Frankfurt,,,Franz-Xaver Wack,/en/matches/6bd319fc/Kaiserslautern-Eintracht-Frankfurt-March-6-2004-Bundesliga,,6bd319fc
+23,Sat,2004-03-06,,Leverkusen,1–3,Bayern Munich,,,Herbert Fandel,/en/matches/bef66108/Bayer-Leverkusen-Bayern-Munich-March-6-2004-Bundesliga,,bef66108
+23,Sat,2004-03-06,,M'Gladbach,1–0,Hannover 96,,,Knut Kircher,/en/matches/90bc8933/Monchengladbach-Hannover-96-March-6-2004-Bundesliga,,90bc8933
+23,Sat,2004-03-06,,Schalke 04,3–0,Freiburg,,,Hermann Albrecht,/en/matches/81796cf4/Schalke-04-Freiburg-March-6-2004-Bundesliga,,81796cf4
+23,Sun,2004-03-07,,1860 Munich,0–2,Werder Bremen,,,Jürgen Jansen,/en/matches/87e97399/1860-Munich-Werder-Bremen-March-7-2004-Bundesliga,,87e97399
+23,Sun,2004-03-07,,Wolfsburg,2–0,Köln,,,Peter Sippel,/en/matches/3d6289e9/Wolfsburg-Koln-March-7-2004-Bundesliga,,3d6289e9
+24,Sat,2004-03-13,,Bayern Munich,3–3,Hansa Rostock,,,Uwe Kemmling,/en/matches/0c8d3401/Bayern-Munich-Hansa-Rostock-March-13-2004-Bundesliga,,0c8d3401
+24,Sat,2004-03-13,,Eint Frankfurt,3–0,Schalke 04,,,Michael Weiner,/en/matches/80ce1875/Eintracht-Frankfurt-Schalke-04-March-13-2004-Bundesliga,,80ce1875
+24,Sat,2004-03-13,,Freiburg,2–2,Dortmund,,,Franz-Xaver Wack,/en/matches/43b7855b/Freiburg-Dortmund-March-13-2004-Bundesliga,,43b7855b
+24,Sat,2004-03-13,,Hamburger SV,2–0,Hertha BSC,,,Markus Schmidt,/en/matches/52e945ef/Hamburger-SV-Hertha-BSC-March-13-2004-Bundesliga,,52e945ef
+24,Sat,2004-03-13,,Hannover 96,0–1,Kaiserslautern,,,Thorsten Kinhöfer,/en/matches/ce91f493/Hannover-96-Kaiserslautern-March-13-2004-Bundesliga,,ce91f493
+24,Sat,2004-03-13,,Leverkusen,4–2,Wolfsburg,,,Torsten Koop,/en/matches/bc77fd58/Bayer-Leverkusen-Wolfsburg-March-13-2004-Bundesliga,,bc77fd58
+24,Sat,2004-03-13,,Werder Bremen,3–2,Köln,,,Edgar Steinborn,/en/matches/454aeb50/Werder-Bremen-Koln-March-13-2004-Bundesliga,,454aeb50
+24,Sun,2004-03-14,,Bochum,1–0,M'Gladbach,,,Florian Meyer,/en/matches/3471f0cd/Bochum-Monchengladbach-March-14-2004-Bundesliga,,3471f0cd
+24,Sun,2004-03-14,,Stuttgart,2–0,1860 Munich,,,Lutz Wagner,/en/matches/b58604ff/Stuttgart-1860-Munich-March-14-2004-Bundesliga,,b58604ff
+25,Sat,2004-03-20,,Dortmund,2–0,Eint Frankfurt,,,Hermann Albrecht,/en/matches/2f0114cb/Dortmund-Eintracht-Frankfurt-March-20-2004-Bundesliga,,2f0114cb
+25,Sat,2004-03-20,,Hansa Rostock,0–2,Leverkusen,,,Florian Meyer,/en/matches/9b08c72e/Hansa-Rostock-Bayer-Leverkusen-March-20-2004-Bundesliga,,9b08c72e
+25,Sat,2004-03-20,,Hertha BSC,1–1,Bayern Munich,,,Jürgen Jansen,/en/matches/b5fc40cb/Hertha-BSC-Bayern-Munich-March-20-2004-Bundesliga,,b5fc40cb
+25,Sat,2004-03-20,,Kaiserslautern,2–2,Bochum,,,Peter Sippel,/en/matches/5cadd578/Kaiserslautern-Bochum-March-20-2004-Bundesliga,,5cadd578
+25,Sat,2004-03-20,,Köln,2–2,Stuttgart,,,Lutz Michael Fröhlich,/en/matches/0dd2db6d/Koln-Stuttgart-March-20-2004-Bundesliga,,0dd2db6d
+25,Sat,2004-03-20,,M'Gladbach,3–0,Hamburger SV,,,Jörg Keßler,/en/matches/a4b17876/Monchengladbach-Hamburger-SV-March-20-2004-Bundesliga,,a4b17876
+25,Sat,2004-03-20,,Schalke 04,2–2,Hannover 96,,,Herbert Fandel,/en/matches/abfddd54/Schalke-04-Hannover-96-March-20-2004-Bundesliga,,abfddd54
+25,Sun,2004-03-21,,1860 Munich,1–1,Freiburg,,,Knut Kircher,/en/matches/2a28de03/1860-Munich-Freiburg-March-21-2004-Bundesliga,,2a28de03
+25,Sun,2004-03-21,,Wolfsburg,0–2,Werder Bremen,,,Markus Merk,/en/matches/2983a491/Wolfsburg-Werder-Bremen-March-21-2004-Bundesliga,,2983a491
+26,Sat,2004-03-27,,Bayern Munich,5–2,M'Gladbach,,,Michael Weiner,/en/matches/ead72755/Bayern-Munich-Monchengladbach-March-27-2004-Bundesliga,,ead72755
+26,Sat,2004-03-27,,Bochum,1–2,Schalke 04,,,Knut Kircher,/en/matches/95a47756/Bochum-Schalke-04-March-27-2004-Bundesliga,,95a47756
+26,Sat,2004-03-27,,Eint Frankfurt,0–3,1860 Munich,,,Thorsten Kinhöfer,/en/matches/7b04ef51/Eintracht-Frankfurt-1860-Munich-March-27-2004-Bundesliga,,7b04ef51
+26,Sat,2004-03-27,,Freiburg,3–0,Köln,,,Torsten Koop,/en/matches/11e07cec/Freiburg-Koln-March-27-2004-Bundesliga,,11e07cec
+26,Sat,2004-03-27,,Hannover 96,1–1,Dortmund,,,Wolfgang Stark,/en/matches/770a2d41/Hannover-96-Dortmund-March-27-2004-Bundesliga,,770a2d41
+26,Sat,2004-03-27,,Hansa Rostock,3–1,Wolfsburg,,,Franz-Xaver Wack,/en/matches/0089c3c5/Hansa-Rostock-Wolfsburg-March-27-2004-Bundesliga,,0089c3c5
+26,Sat,2004-03-27,,Leverkusen,4–1,Hertha BSC,,,Markus Merk,/en/matches/24612604/Bayer-Leverkusen-Hertha-BSC-March-27-2004-Bundesliga,,24612604
+26,Sun,2004-03-28,,Hamburger SV,3–2,Kaiserslautern,,,Stefan Trautmann,/en/matches/24932dd8/Hamburger-SV-Kaiserslautern-March-28-2004-Bundesliga,,24932dd8
+26,Sun,2004-03-28,,Stuttgart,4–4,Werder Bremen,,,Herbert Fandel,/en/matches/e312201a/Stuttgart-Werder-Bremen-March-28-2004-Bundesliga,,e312201a
+27,Sat,2004-04-03,,1860 Munich,0–2,Hannover 96,,,Markus Merk,/en/matches/594aa197/1860-Munich-Hannover-96-April-3-2004-Bundesliga,,594aa197
+27,Sat,2004-04-03,,Hertha BSC,1–1,Hansa Rostock,,,Hermann Albrecht,/en/matches/2e64a631/Hertha-BSC-Hansa-Rostock-April-3-2004-Bundesliga,,2e64a631
+27,Sat,2004-04-03,,Kaiserslautern,0–2,Bayern Munich,,,Lutz Michael Fröhlich,/en/matches/81ac7344/Kaiserslautern-Bayern-Munich-April-3-2004-Bundesliga,,81ac7344
+27,Sat,2004-04-03,,Köln,2–0,Eint Frankfurt,,,Florian Meyer,/en/matches/1eccfe0a/Koln-Eintracht-Frankfurt-April-3-2004-Bundesliga,,1eccfe0a
+27,Sat,2004-04-03,,M'Gladbach,0–0,Leverkusen,,,Thorsten Kinhöfer,/en/matches/1567a024/Monchengladbach-Bayer-Leverkusen-April-3-2004-Bundesliga,,1567a024
+27,Sat,2004-04-03,,Schalke 04,4–1,Hamburger SV,,,Franz-Xaver Wack,/en/matches/4f91a6ea/Schalke-04-Hamburger-SV-April-3-2004-Bundesliga,,4f91a6ea
+27,Sat,2004-04-03,,Wolfsburg,1–5,Stuttgart,,,Wolfgang Stark,/en/matches/426db372/Wolfsburg-Stuttgart-April-3-2004-Bundesliga,,426db372
+27,Sun,2004-04-04,,Dortmund,4–1,Bochum,,,Herbert Fandel,/en/matches/2204d9be/Dortmund-Bochum-April-4-2004-Bundesliga,,2204d9be
+27,Sun,2004-04-04,,Werder Bremen,1–1,Freiburg,,,Jörg Keßler,/en/matches/313d9717/Werder-Bremen-Freiburg-April-4-2004-Bundesliga,,313d9717
+28,Sat,2004-04-10,,Bayern Munich,2–1,Schalke 04,,,Stefan Trautmann,/en/matches/6372f444/Bayern-Munich-Schalke-04-April-10-2004-Bundesliga,,6372f444
+28,Sat,2004-04-10,,Bochum,4–0,1860 Munich,,,Torsten Koop,/en/matches/02137b5a/Bochum-1860-Munich-April-10-2004-Bundesliga,,02137b5a
+28,Sat,2004-04-10,,Eint Frankfurt,0–1,Werder Bremen,,,Jürgen Jansen,/en/matches/b17d1f24/Eintracht-Frankfurt-Werder-Bremen-April-10-2004-Bundesliga,,b17d1f24
+28,Sat,2004-04-10,,Hamburger SV,0–2,Dortmund,,,Knut Kircher,/en/matches/8feb4078/Hamburger-SV-Dortmund-April-10-2004-Bundesliga,,8feb4078
+28,Sat,2004-04-10,,Hansa Rostock,1–2,M'Gladbach,,,Peter Gagelmann,/en/matches/f074d90d/Hansa-Rostock-Monchengladbach-April-10-2004-Bundesliga,,f074d90d
+28,Sat,2004-04-10,,Hertha BSC,1–0,Wolfsburg,,,Helmut Fleischer,/en/matches/a14d7a59/Hertha-BSC-Wolfsburg-April-10-2004-Bundesliga,,a14d7a59
+28,Sat,2004-04-10,,Leverkusen,6–0,Kaiserslautern,,,Wolfgang Stark,/en/matches/315745bf/Bayer-Leverkusen-Kaiserslautern-April-10-2004-Bundesliga,,315745bf
+28,Sun,2004-04-11,,Freiburg,0–1,Stuttgart,,,Michael Weiner,/en/matches/2622b791/Freiburg-Stuttgart-April-11-2004-Bundesliga,,2622b791
+28,Sun,2004-04-11,,Hannover 96,1–0,Köln,,,Peter Sippel,/en/matches/b6072af3/Hannover-96-Koln-April-11-2004-Bundesliga,,b6072af3
+29,Sat,2004-04-17,,1860 Munich,1–2,Hamburger SV,,,Uwe Kemmling,/en/matches/f7bb2711/1860-Munich-Hamburger-SV-April-17-2004-Bundesliga,,f7bb2711
+29,Sat,2004-04-17,,Dortmund,2–0,Bayern Munich,,,Markus Merk,/en/matches/94a88cfd/Der-Klassiker-Dortmund-Bayern-Munich-April-17-2004-Bundesliga,,94a88cfd
+29,Sat,2004-04-17,,Kaiserslautern,3–2,Hansa Rostock,,,Markus Schmidt,/en/matches/ae36f934/Kaiserslautern-Hansa-Rostock-April-17-2004-Bundesliga,,ae36f934
+29,Sat,2004-04-17,,M'Gladbach,1–1,Hertha BSC,,,Florian Meyer,/en/matches/a14318ea/Monchengladbach-Hertha-BSC-April-17-2004-Bundesliga,,a14318ea
+29,Sat,2004-04-17,,Schalke 04,2–3,Leverkusen,,,Jörg Keßler,/en/matches/b33a6c39/Schalke-04-Bayer-Leverkusen-April-17-2004-Bundesliga,,b33a6c39
+29,Sat,2004-04-17,,Stuttgart,3–1,Eint Frankfurt,,,Edgar Steinborn,/en/matches/8b02f3e4/Stuttgart-Eintracht-Frankfurt-April-17-2004-Bundesliga,,8b02f3e4
+29,Sat,2004-04-17,,Wolfsburg,4–0,Freiburg,,,Lutz Michael Fröhlich,/en/matches/f126ec9e/Wolfsburg-Freiburg-April-17-2004-Bundesliga,,f126ec9e
+29,Sun,2004-04-18,,Köln,1–2,Bochum,,,Franz-Xaver Wack,/en/matches/63a36efc/Koln-Bochum-April-18-2004-Bundesliga,,63a36efc
+29,Sun,2004-04-18,,Werder Bremen,0–0,Hannover 96,,,Hermann Albrecht,/en/matches/ee7db40f/Werder-Bremen-Hannover-96-April-18-2004-Bundesliga,,ee7db40f
+30,Sat,2004-04-24,,Eint Frankfurt,3–0,Freiburg,,,Herbert Fandel,/en/matches/64c68fee/Eintracht-Frankfurt-Freiburg-April-24-2004-Bundesliga,,64c68fee
+30,Sat,2004-04-24,,Hamburger SV,4–2,Köln,,,Michael Weiner,/en/matches/d283336f/Hamburger-SV-Koln-April-24-2004-Bundesliga,,d283336f
+30,Sat,2004-04-24,,Hannover 96,0–1,Stuttgart,,,Stefan Trautmann,/en/matches/77510cd5/Hannover-96-Stuttgart-April-24-2004-Bundesliga,,77510cd5
+30,Sat,2004-04-24,,Hansa Rostock,3–1,Schalke 04,,,Wolfgang Stark,/en/matches/c5137049/Hansa-Rostock-Schalke-04-April-24-2004-Bundesliga,,c5137049
+30,Sat,2004-04-24,,Hertha BSC,3–0,Kaiserslautern,,,Knut Kircher,/en/matches/81d9c975/Hertha-BSC-Kaiserslautern-April-24-2004-Bundesliga,,81d9c975
+30,Sat,2004-04-24,,Leverkusen,3–0,Dortmund,,,Florian Meyer,/en/matches/16f41019/Bayer-Leverkusen-Dortmund-April-24-2004-Bundesliga,,16f41019
+30,Sat,2004-04-24,,M'Gladbach,0–2,Wolfsburg,,,Torsten Koop,/en/matches/b3e6e1df/Monchengladbach-Wolfsburg-April-24-2004-Bundesliga,,b3e6e1df
+30,Sun,2004-04-25,,Bayern Munich,1–0,1860 Munich,,,Jürgen Jansen,/en/matches/49ccc5af/Bayern-Munich-1860-Munich-April-25-2004-Bundesliga,,49ccc5af
+30,Sun,2004-04-25,,Bochum,0–0,Werder Bremen,,,Helmut Fleischer,/en/matches/3aaa25e0/Bochum-Werder-Bremen-April-25-2004-Bundesliga,,3aaa25e0
+31,Sat,2004-05-01,,1860 Munich,1–1,Leverkusen,,,Michael Weiner,/en/matches/e87b2d44/1860-Munich-Bayer-Leverkusen-May-1-2004-Bundesliga,,e87b2d44
+31,Sat,2004-05-01,,Dortmund,4–1,Hansa Rostock,,,Jörg Keßler,/en/matches/b8342040/Dortmund-Hansa-Rostock-May-1-2004-Bundesliga,,b8342040
+31,Sat,2004-05-01,,Freiburg,4–1,Hannover 96,,,Edgar Steinborn,/en/matches/f0a75886/Freiburg-Hannover-96-May-1-2004-Bundesliga,,f0a75886
+31,Sat,2004-05-01,,Kaiserslautern,2–2,M'Gladbach,,,Franz-Xaver Wack,/en/matches/1ccd58f0/Kaiserslautern-Monchengladbach-May-1-2004-Bundesliga,,1ccd58f0
+31,Sat,2004-05-01,,Köln,1–2,Bayern Munich,,,Thorsten Kinhöfer,/en/matches/3a53a4eb/Koln-Bayern-Munich-May-1-2004-Bundesliga,,3a53a4eb
+31,Sat,2004-05-01,,Werder Bremen,6–0,Hamburger SV,,,Lutz Michael Fröhlich,/en/matches/7cb1920a/Werder-Bremen-Hamburger-SV-May-1-2004-Bundesliga,,7cb1920a
+31,Sat,2004-05-01,,Wolfsburg,1–0,Eint Frankfurt,,,Hermann Albrecht,/en/matches/9f392228/Wolfsburg-Eintracht-Frankfurt-May-1-2004-Bundesliga,,9f392228
+31,Sun,2004-05-02,,Schalke 04,3–0,Hertha BSC,,,Peter Gagelmann,/en/matches/f3730f03/Schalke-04-Hertha-BSC-May-2-2004-Bundesliga,,f3730f03
+31,Sun,2004-05-02,,Stuttgart,1–1,Bochum,,,Markus Merk,/en/matches/281128a1/Stuttgart-Bochum-May-2-2004-Bundesliga,,281128a1
+32,Sat,2004-05-08,,Bayern Munich,1–3,Werder Bremen,,,Edgar Steinborn,/en/matches/03ad1eaf/Bayern-Munich-Werder-Bremen-May-8-2004-Bundesliga,,03ad1eaf
+32,Sat,2004-05-08,,Hamburger SV,2–1,Stuttgart,,,Hermann Albrecht,/en/matches/b1dc4836/Hamburger-SV-Stuttgart-May-8-2004-Bundesliga,,b1dc4836
+32,Sat,2004-05-08,,Hannover 96,3–0,Eint Frankfurt,,,Wolfgang Stark,/en/matches/c9e6c1b4/Hannover-96-Eintracht-Frankfurt-May-8-2004-Bundesliga,,c9e6c1b4
+32,Sat,2004-05-08,,Hertha BSC,6–2,Dortmund,,,Herbert Fandel,/en/matches/ef49eedc/Hertha-BSC-Dortmund-May-8-2004-Bundesliga,,ef49eedc
+32,Sat,2004-05-08,,Kaiserslautern,3–2,Wolfsburg,,,Jürgen Jansen,/en/matches/d19e6644/Kaiserslautern-Wolfsburg-May-8-2004-Bundesliga,,d19e6644
+32,Sat,2004-05-08,,Leverkusen,2–0,Köln,,,Torsten Koop,/en/matches/81863a17/Bayer-Leverkusen-Koln-May-8-2004-Bundesliga,,81863a17
+32,Sat,2004-05-08,,M'Gladbach,2–0,Schalke 04,,,Florian Meyer,/en/matches/034e869e/Monchengladbach-Schalke-04-May-8-2004-Bundesliga,,034e869e
+32,Sun,2004-05-09,,Bochum,3–0,Freiburg,,,Peter Sippel,/en/matches/92526d91/Bochum-Freiburg-May-9-2004-Bundesliga,,92526d91
+32,Sun,2004-05-09,,Hansa Rostock,3–0,1860 Munich,,,Knut Kircher,/en/matches/ba999595/Hansa-Rostock-1860-Munich-May-9-2004-Bundesliga,,ba999595
+33,Sat,2004-05-15,,1860 Munich,1–1,Hertha BSC,,,Stefan Trautmann,/en/matches/b79f22b1/1860-Munich-Hertha-BSC-May-15-2004-Bundesliga,,b79f22b1
+33,Sat,2004-05-15,,Dortmund,3–1,M'Gladbach,,,Hermann Albrecht,/en/matches/6057985a/Dortmund-Monchengladbach-May-15-2004-Bundesliga,,6057985a
+33,Sat,2004-05-15,,Eint Frankfurt,3–2,Bochum,,,Uwe Kemmling,/en/matches/58fadaaf/Eintracht-Frankfurt-Bochum-May-15-2004-Bundesliga,,58fadaaf
+33,Sat,2004-05-15,,Freiburg,0–0,Hamburger SV,,,Wolfgang Stark,/en/matches/0d5d09f4/Freiburg-Hamburger-SV-May-15-2004-Bundesliga,,0d5d09f4
+33,Sat,2004-05-15,,Hannover 96,0–0,Wolfsburg,,,Herbert Fandel,/en/matches/de68b228/Hannover-96-Wolfsburg-May-15-2004-Bundesliga,,de68b228
+33,Sat,2004-05-15,,Köln,4–0,Hansa Rostock,,,Peter Gagelmann,/en/matches/cbceb90d/Koln-Hansa-Rostock-May-15-2004-Bundesliga,,cbceb90d
+33,Sat,2004-05-15,,Schalke 04,4–1,Kaiserslautern,,,Michael Weiner,/en/matches/6d2c0300/Schalke-04-Kaiserslautern-May-15-2004-Bundesliga,,6d2c0300
+33,Sat,2004-05-15,,Stuttgart,3–1,Bayern Munich,,,Lutz Michael Fröhlich,/en/matches/9563430e/Stuttgart-Bayern-Munich-May-15-2004-Bundesliga,,9563430e
+33,Sat,2004-05-15,,Werder Bremen,2–6,Leverkusen,,,Markus Merk,/en/matches/d99f0bf0/Werder-Bremen-Bayer-Leverkusen-May-15-2004-Bundesliga,,d99f0bf0
+34,Sat,2004-05-22,,Bayern Munich,2–0,Freiburg,,,Michael Weiner,/en/matches/dea3b65c/Bayern-Munich-Freiburg-May-22-2004-Bundesliga,,dea3b65c
+34,Sat,2004-05-22,,Bochum,3–1,Hannover 96,,,Franz-Xaver Wack,/en/matches/64ebb39a/Bochum-Hannover-96-May-22-2004-Bundesliga,,64ebb39a
+34,Sat,2004-05-22,,Hamburger SV,2–1,Eint Frankfurt,,,Knut Kircher,/en/matches/ca79d346/Hamburger-SV-Eintracht-Frankfurt-May-22-2004-Bundesliga,,ca79d346
+34,Sat,2004-05-22,,Hansa Rostock,3–1,Werder Bremen,,,Jürgen Jansen,/en/matches/a1e0a121/Hansa-Rostock-Werder-Bremen-May-22-2004-Bundesliga,,a1e0a121
+34,Sat,2004-05-22,,Hertha BSC,3–1,Köln,,,Edgar Steinborn,/en/matches/6e225747/Hertha-BSC-Koln-May-22-2004-Bundesliga,,6e225747
+34,Sat,2004-05-22,,Kaiserslautern,1–1,Dortmund,,,Lutz Michael Fröhlich,/en/matches/d51dbc8b/Kaiserslautern-Dortmund-May-22-2004-Bundesliga,,d51dbc8b
+34,Sat,2004-05-22,,Leverkusen,2–0,Stuttgart,,,Florian Meyer,/en/matches/79d2df72/Bayer-Leverkusen-Stuttgart-May-22-2004-Bundesliga,,79d2df72
+34,Sat,2004-05-22,,M'Gladbach,3–1,1860 Munich,,,Herbert Fandel,/en/matches/9a1bacb9/Monchengladbach-1860-Munich-May-22-2004-Bundesliga,,9a1bacb9
+34,Sat,2004-05-22,,Wolfsburg,1–1,Schalke 04,,,Peter Sippel,/en/matches/f52858a9/Wolfsburg-Schalke-04-May-22-2004-Bundesliga,,f52858a9

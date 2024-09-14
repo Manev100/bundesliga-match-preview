@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+1,Fri,1997-08-01,,Schalke 04,2–1,Leverkusen,,,Lutz Wagner,/en/matches/ea5ccc55/Schalke-04-Bayer-Leverkusen-August-1-1997-Bundesliga,,ea5ccc55
+1,Fri,1997-08-01,,Stuttgart,1–1,1860 Munich,,,Hellmut Krug,/en/matches/e9ae6dfd/Stuttgart-1860-Munich-August-1-1997-Bundesliga,,e9ae6dfd
+1,Sat,1997-08-02,,Bayern Munich,0–1,Kaiserslautern,,,Lutz Michael Fröhlich,/en/matches/a0bb68a0/Bayern-Munich-Kaiserslautern-August-2-1997-Bundesliga,,a0bb68a0
+1,Sat,1997-08-02,,Bochum,1–0,Arminia,,,Bernhard Zerr,/en/matches/dd79fcc8/Bochum-Arminia-August-2-1997-Bundesliga,,dd79fcc8
+1,Sat,1997-08-02,,Hansa Rostock,0–1,Wolfsburg,,,Hans-Jürgen Weber,/en/matches/efc8d3d7/Hansa-Rostock-Wolfsburg-August-2-1997-Bundesliga,,efc8d3d7
+1,Sat,1997-08-02,,Karlsruher,3–1,Werder Bremen,,,Georg Dardenne,/en/matches/f0f17e89/Karlsruher-Werder-Bremen-August-2-1997-Bundesliga,,f0f17e89
+1,Sat,1997-08-02,,Köln,3–2,MSV Duisburg,,,Hartmut Strampe,/en/matches/5028fda4/Koln-MSV-Duisburg-August-2-1997-Bundesliga,,5028fda4
+1,Sun,1997-08-03,,Hamburger SV,2–2,M'Gladbach,,,Markus Merk,/en/matches/79325ccc/Hamburger-SV-Monchengladbach-August-3-1997-Bundesliga,,79325ccc
+1,Sun,1997-08-03,,Hertha BSC,1–1,Dortmund,,,Alfons Berg,/en/matches/72ed7367/Hertha-BSC-Dortmund-August-3-1997-Bundesliga,,72ed7367
+2,Tue,1997-08-05,,1860 Munich,2–2,Karlsruher,,,Michael Malbranc,/en/matches/8707cf2b/1860-Munich-Karlsruher-August-5-1997-Bundesliga,,8707cf2b
+2,Tue,1997-08-05,,Arminia,2–1,Stuttgart,,,Uwe Kemmling,/en/matches/faa2664b/Arminia-Stuttgart-August-5-1997-Bundesliga,,faa2664b
+2,Tue,1997-08-05,,Leverkusen,3–2,Bochum,,,Hermann Albrecht,/en/matches/d4fe1e49/Bayer-Leverkusen-Bochum-August-5-1997-Bundesliga,,d4fe1e49
+2,Tue,1997-08-05,,MSV Duisburg,1–0,Schalke 04,,,Torsten Koop,/en/matches/252f8ed0/MSV-Duisburg-Schalke-04-August-5-1997-Bundesliga,,252f8ed0
+2,Tue,1997-08-05,,Werder Bremen,1–1,Hansa Rostock,,,Wolfgang Stark,/en/matches/db4e7df5/Werder-Bremen-Hansa-Rostock-August-5-1997-Bundesliga,,db4e7df5
+2,Wed,1997-08-06,,Dortmund,3–0,Köln,,,Franz-Xaver Wack,/en/matches/cb0851dd/Dortmund-Koln-August-6-1997-Bundesliga,,cb0851dd
+2,Wed,1997-08-06,,Kaiserslautern,1–0,Hertha BSC,,,Jürgen Jansen,/en/matches/13ac6b37/Kaiserslautern-Hertha-BSC-August-6-1997-Bundesliga,,13ac6b37
+2,Wed,1997-08-06,,M'Gladbach,1–1,Bayern Munich,,,Hartmut Strampe,/en/matches/221d9fd9/Monchengladbach-Bayern-Munich-August-6-1997-Bundesliga,,221d9fd9
+2,Wed,1997-08-06,,Wolfsburg,1–1,Hamburger SV,,,Herbert Fandel,/en/matches/0563c107/Wolfsburg-Hamburger-SV-August-6-1997-Bundesliga,,0563c107
+3,Fri,1997-08-08,,Bochum,0–0,MSV Duisburg,,,Lutz Michael Fröhlich,/en/matches/e6ad5289/Bochum-MSV-Duisburg-August-8-1997-Bundesliga,,e6ad5289
+3,Fri,1997-08-08,,Stuttgart,1–0,Leverkusen,,,Edgar Steinborn,/en/matches/81b6c1b4/Stuttgart-Bayer-Leverkusen-August-8-1997-Bundesliga,,81b6c1b4
+3,Sat,1997-08-09,,Bayern Munich,5–2,Wolfsburg,,,Georg Dardenne,/en/matches/eb2b8291/Bayern-Munich-Wolfsburg-August-9-1997-Bundesliga,,eb2b8291
+3,Sat,1997-08-09,,Hansa Rostock,2–1,Hamburger SV,,,Hellmut Krug,/en/matches/e0c6f81d/Hansa-Rostock-Hamburger-SV-August-9-1997-Bundesliga,,e0c6f81d
+3,Sat,1997-08-09,,Karlsruher,3–1,Arminia,,,Alfons Berg,/en/matches/c8bf70dc/Karlsruher-Arminia-August-9-1997-Bundesliga,,c8bf70dc
+3,Sat,1997-08-09,,Köln,0–0,Kaiserslautern,,,Winfried Buchhart,/en/matches/fc431e63/Koln-Kaiserslautern-August-9-1997-Bundesliga,,fc431e63
+3,Sat,1997-08-09,,Schalke 04,1–0,Dortmund,,,Hans-Jürgen Weber,/en/matches/40b5b72f/Revierderby-Schalke-04-Dortmund-August-9-1997-Bundesliga,,40b5b72f
+3,Sat,1997-08-09,,Werder Bremen,3–3,1860 Munich,,,Markus Merk,/en/matches/7670ecb6/Werder-Bremen-1860-Munich-August-9-1997-Bundesliga,,7670ecb6
+3,Sun,1997-08-10,,Hertha BSC,2–2,M'Gladbach,,,Bernhard Zerr,/en/matches/392002ea/Hertha-BSC-Monchengladbach-August-10-1997-Bundesliga,,392002ea
+4,Fri,1997-08-22,,1860 Munich,0–1,Hansa Rostock,,,Herbert Fandel,/en/matches/c2f7ab5b/1860-Munich-Hansa-Rostock-August-22-1997-Bundesliga,,c2f7ab5b
+4,Fri,1997-08-22,,Wolfsburg,2–1,Hertha BSC,,,Franz-Xaver Wack,/en/matches/69a98593/Wolfsburg-Hertha-BSC-August-22-1997-Bundesliga,,69a98593
+4,Sat,1997-08-23,,Arminia,3–0,Werder Bremen,,,Hans-Jürgen Weber,/en/matches/35f03c55/Arminia-Werder-Bremen-August-23-1997-Bundesliga,,35f03c55
+4,Sat,1997-08-23,,Dortmund,5–2,Bochum,,,Georg Dardenne,/en/matches/cc140d6c/Dortmund-Bochum-August-23-1997-Bundesliga,,cc140d6c
+4,Sat,1997-08-23,,Kaiserslautern,3–0,Schalke 04,,,Hermann Albrecht,/en/matches/d2121245/Kaiserslautern-Schalke-04-August-23-1997-Bundesliga,,d2121245
+4,Sat,1997-08-23,,Leverkusen,6–1,Karlsruher,,,Markus Merk,/en/matches/677ad197/Bayer-Leverkusen-Karlsruher-August-23-1997-Bundesliga,,677ad197
+4,Sat,1997-08-23,,M'Gladbach,4–1,Köln,,,Hellmut Krug,/en/matches/ea6fa4b7/Monchengladbach-Koln-August-23-1997-Bundesliga,,ea6fa4b7
+4,Sat,1997-08-23,,MSV Duisburg,0–3,Stuttgart,,,Bernd Heynemann,/en/matches/bcac701c/MSV-Duisburg-Stuttgart-August-23-1997-Bundesliga,,bcac701c
+4,Sun,1997-08-24,,Hamburger SV,0–2,Bayern Munich,,,Jürgen Jansen,/en/matches/85f91947/Hamburger-SV-Bayern-Munich-August-24-1997-Bundesliga,,85f91947
+5,Fri,1997-08-29,,Bochum,1–3,Kaiserslautern,,,Wolfgang Stark,/en/matches/928b5846/Bochum-Kaiserslautern-August-29-1997-Bundesliga,,928b5846
+5,Fri,1997-08-29,,Hertha BSC,0–2,Hamburger SV,,,Winfried Buchhart,/en/matches/83ef3cc8/Hertha-BSC-Hamburger-SV-August-29-1997-Bundesliga,,83ef3cc8
+5,Sat,1997-08-30,,Hansa Rostock,1–3,Bayern Munich,,,Bernhard Zerr,/en/matches/9691d356/Hansa-Rostock-Bayern-Munich-August-30-1997-Bundesliga,,9691d356
+5,Sat,1997-08-30,,Köln,5–3,Wolfsburg,,,Jörg Keßler,/en/matches/d2840d62/Koln-Wolfsburg-August-30-1997-Bundesliga,,d2840d62
+5,Sat,1997-08-30,,Schalke 04,2–0,M'Gladbach,,,Jürgen Aust,/en/matches/27b6482e/Schalke-04-Monchengladbach-August-30-1997-Bundesliga,,27b6482e
+5,Sat,1997-08-30,,Stuttgart,0–0,Dortmund,,,Lutz Michael Fröhlich,/en/matches/a38712b8/Stuttgart-Dortmund-August-30-1997-Bundesliga,,a38712b8
+5,Sat,1997-08-30,,Werder Bremen,2–1,Leverkusen,,,Hellmut Krug,/en/matches/0b3b60d0/Werder-Bremen-Bayer-Leverkusen-August-30-1997-Bundesliga,,0b3b60d0
+5,Sun,1997-08-31,,Karlsruher,1–2,MSV Duisburg,,,Uwe Kemmling,/en/matches/a81eff8b/Karlsruher-MSV-Duisburg-August-31-1997-Bundesliga,,a81eff8b
+5,Mon,1997-09-01,,1860 Munich,1–0,Arminia,,,Torsten Koop,/en/matches/97658778/1860-Munich-Arminia-September-1-1997-Bundesliga,,97658778
+6,Fri,1997-09-12,,Arminia,0–1,Hansa Rostock,,,Georg Dardenne,/en/matches/1f4ea734/Arminia-Hansa-Rostock-September-12-1997-Bundesliga,,1f4ea734
+6,Fri,1997-09-12,,Hamburger SV,2–1,Köln,,,Hermann Albrecht,/en/matches/4574e025/Hamburger-SV-Koln-September-12-1997-Bundesliga,,4574e025
+6,Sat,1997-09-13,,Bayern Munich,3–0,Hertha BSC,,,Hans-Jürgen Weber,/en/matches/dbef3736/Bayern-Munich-Hertha-BSC-September-13-1997-Bundesliga,,dbef3736
+6,Sat,1997-09-13,,Dortmund,2–2,Karlsruher,,,Hartmut Strampe,/en/matches/f05357e6/Dortmund-Karlsruher-September-13-1997-Bundesliga,,f05357e6
+6,Sat,1997-09-13,,Leverkusen,2–2,1860 Munich,,,Bernd Heynemann,/en/matches/415a2dd9/Bayer-Leverkusen-1860-Munich-September-13-1997-Bundesliga,,415a2dd9
+6,Sat,1997-09-13,,M'Gladbach,2–1,Bochum,,,Lutz Wagner,/en/matches/3d7ea00e/Monchengladbach-Bochum-September-13-1997-Bundesliga,,3d7ea00e
+6,Sat,1997-09-13,,MSV Duisburg,2–1,Werder Bremen,,,Winfried Buchhart,/en/matches/cf1a3c6a/MSV-Duisburg-Werder-Bremen-September-13-1997-Bundesliga,,cf1a3c6a
+6,Sat,1997-09-13,,Wolfsburg,0–0,Schalke 04,,,Wolfgang Stark,/en/matches/63d842ab/Wolfsburg-Schalke-04-September-13-1997-Bundesliga,,63d842ab
+6,Sun,1997-09-14,,Kaiserslautern,4–3,Stuttgart,,,Jürgen Aust,/en/matches/881b675a/Kaiserslautern-Stuttgart-September-14-1997-Bundesliga,,881b675a
+7,Fri,1997-09-19,,1860 Munich,0–1,MSV Duisburg,,,Jörg Keßler,/en/matches/df91c363/1860-Munich-MSV-Duisburg-September-19-1997-Bundesliga,,df91c363
+7,Fri,1997-09-19,,Karlsruher,2–4,Kaiserslautern,,,Hellmut Krug,/en/matches/5c117bff/Karlsruher-Kaiserslautern-September-19-1997-Bundesliga,,5c117bff
+7,Sat,1997-09-20,,Arminia,2–1,Leverkusen,,,Franz-Xaver Wack,/en/matches/b769f409/Arminia-Bayer-Leverkusen-September-20-1997-Bundesliga,,b769f409
+7,Sat,1997-09-20,,Bochum,2–1,Wolfsburg,,,Winfried Buchhart,/en/matches/f35261bf/Bochum-Wolfsburg-September-20-1997-Bundesliga,,f35261bf
+7,Sat,1997-09-20,,Hansa Rostock,4–0,Hertha BSC,,,Markus Merk,/en/matches/161651c8/Hansa-Rostock-Hertha-BSC-September-20-1997-Bundesliga,,161651c8
+7,Sat,1997-09-20,,Köln,1–3,Bayern Munich,,,Herbert Fandel,/en/matches/496e00d8/Koln-Bayern-Munich-September-20-1997-Bundesliga,,496e00d8
+7,Sat,1997-09-20,,Schalke 04,2–2,Hamburger SV,,,Lutz Michael Fröhlich,/en/matches/ee45b6c1/Schalke-04-Hamburger-SV-September-20-1997-Bundesliga,,ee45b6c1
+7,Sat,1997-09-20,,Werder Bremen,2–1,Dortmund,,,Edgar Steinborn,/en/matches/1ae800d6/Werder-Bremen-Dortmund-September-20-1997-Bundesliga,,1ae800d6
+7,Sun,1997-09-21,,Stuttgart,3–0,M'Gladbach,,,Alfons Berg,/en/matches/390b3557/Stuttgart-Monchengladbach-September-21-1997-Bundesliga,,390b3557
+8,Fri,1997-09-26,,Bayern Munich,1–1,Schalke 04,,,Edgar Steinborn,/en/matches/94c2c2de/Bayern-Munich-Schalke-04-September-26-1997-Bundesliga,,94c2c2de
+8,Fri,1997-09-26,,MSV Duisburg,2–1,Arminia,,,Markus Merk,/en/matches/919101a7/MSV-Duisburg-Arminia-September-26-1997-Bundesliga,,919101a7
+8,Sat,1997-09-27,,Dortmund,2–3,1860 Munich,,,Lutz Wagner,/en/matches/b2d9d196/Dortmund-1860-Munich-September-27-1997-Bundesliga,,b2d9d196
+8,Sat,1997-09-27,,Hamburger SV,2–1,Bochum,,,Uwe Kemmling,/en/matches/24f8c126/Hamburger-SV-Bochum-September-27-1997-Bundesliga,,24f8c126
+8,Sat,1997-09-27,,Kaiserslautern,1–3,Werder Bremen,,,Bernhard Zerr,/en/matches/83c65c26/Kaiserslautern-Werder-Bremen-September-27-1997-Bundesliga,,83c65c26
+8,Sat,1997-09-27,,Leverkusen,1–1,Hansa Rostock,,,Hartmut Strampe,/en/matches/93eed49d/Bayer-Leverkusen-Hansa-Rostock-September-27-1997-Bundesliga,,93eed49d
+8,Sat,1997-09-27,,M'Gladbach,1–1,Karlsruher,,,Bernd Heynemann,/en/matches/fc4a6465/Monchengladbach-Karlsruher-September-27-1997-Bundesliga,,fc4a6465
+8,Sat,1997-09-27,,Wolfsburg,1–0,Stuttgart,,,Jürgen Jansen,/en/matches/7a3926eb/Wolfsburg-Stuttgart-September-27-1997-Bundesliga,,7a3926eb
+8,Sun,1997-09-28,,Hertha BSC,1–0,Köln,,,Torsten Koop,/en/matches/caec9c2a/Hertha-BSC-Koln-September-28-1997-Bundesliga,,caec9c2a
+9,Fri,1997-10-03,,1860 Munich,1–3,Kaiserslautern,,,Hartmut Strampe,/en/matches/c670aa2c/1860-Munich-Kaiserslautern-October-3-1997-Bundesliga,,c670aa2c
+9,Fri,1997-10-03,,Werder Bremen,1–0,M'Gladbach,,,Hermann Albrecht,/en/matches/ec02db40/Werder-Bremen-Monchengladbach-October-3-1997-Bundesliga,,ec02db40
+9,Sat,1997-10-04,,Arminia,3–1,Dortmund,,,Jürgen Aust,/en/matches/b4a32d6e/Arminia-Dortmund-October-4-1997-Bundesliga,,b4a32d6e
+9,Sat,1997-10-04,,Bochum,2–3,Bayern Munich,,,Alfons Berg,/en/matches/8cfa1051/Bochum-Bayern-Munich-October-4-1997-Bundesliga,,8cfa1051
+9,Sat,1997-10-04,,Hansa Rostock,1–2,Köln,,,Jürgen Jansen,/en/matches/862c51c9/Hansa-Rostock-Koln-October-4-1997-Bundesliga,,862c51c9
+9,Sat,1997-10-04,,Karlsruher,2–1,Wolfsburg,,,Hans-Jürgen Weber,/en/matches/f2f4d15b/Karlsruher-Wolfsburg-October-4-1997-Bundesliga,,f2f4d15b
+9,Sat,1997-10-04,,Leverkusen,2–1,MSV Duisburg,,,Herbert Fandel,/en/matches/fef7b4b5/Bayer-Leverkusen-MSV-Duisburg-October-4-1997-Bundesliga,,fef7b4b5
+9,Sat,1997-10-04,,Schalke 04,1–0,Hertha BSC,,,Bernd Heynemann,/en/matches/e1e0a28d/Schalke-04-Hertha-BSC-October-4-1997-Bundesliga,,e1e0a28d
+9,Sun,1997-10-05,,Stuttgart,5–2,Hamburger SV,,,Georg Dardenne,/en/matches/624d2043/Stuttgart-Hamburger-SV-October-5-1997-Bundesliga,,624d2043
+10,Tue,1997-10-14,,Dortmund,0–1,Leverkusen,,,Bernhard Zerr,/en/matches/a033531f/Dortmund-Bayer-Leverkusen-October-14-1997-Bundesliga,,a033531f
+10,Tue,1997-10-14,,Hamburger SV,3–1,Karlsruher,,,Jörg Keßler,/en/matches/e5fcc0a4/Hamburger-SV-Karlsruher-October-14-1997-Bundesliga,,e5fcc0a4
+10,Tue,1997-10-14,,Hertha BSC,2–2,Bochum,,,Edgar Steinborn,/en/matches/603d0307/Hertha-BSC-Bochum-October-14-1997-Bundesliga,,603d0307
+10,Tue,1997-10-14,,Köln,0–2,Schalke 04,,,Alfons Berg,/en/matches/3a6d3d01/Koln-Schalke-04-October-14-1997-Bundesliga,,3a6d3d01
+10,Tue,1997-10-14,,Wolfsburg,1–0,Werder Bremen,,,Torsten Koop,/en/matches/d6b234e8/Wolfsburg-Werder-Bremen-October-14-1997-Bundesliga,,d6b234e8
+10,Wed,1997-10-15,,Bayern Munich,3–3,Stuttgart,,,Bernd Heynemann,/en/matches/2f5406c5/Bayern-Munich-Stuttgart-October-15-1997-Bundesliga,,2f5406c5
+10,Wed,1997-10-15,,Kaiserslautern,3–1,Arminia,,,Lutz Wagner,/en/matches/ba494b54/Kaiserslautern-Arminia-October-15-1997-Bundesliga,,ba494b54
+10,Wed,1997-10-15,,M'Gladbach,5–1,1860 Munich,,,Uwe Kemmling,/en/matches/c14254e9/Monchengladbach-1860-Munich-October-15-1997-Bundesliga,,c14254e9
+10,Wed,1997-10-15,,MSV Duisburg,0–1,Hansa Rostock,,,Franz-Xaver Wack,/en/matches/c8898973/MSV-Duisburg-Hansa-Rostock-October-15-1997-Bundesliga,,c8898973
+11,Fri,1997-10-17,,Bochum,2–1,Köln,,,Markus Merk,/en/matches/781b22be/Bochum-Koln-October-17-1997-Bundesliga,,781b22be
+11,Fri,1997-10-17,,Werder Bremen,0–0,Hamburger SV,,,Jürgen Aust,/en/matches/92061813/Werder-Bremen-Hamburger-SV-October-17-1997-Bundesliga,,92061813
+11,Sat,1997-10-18,,1860 Munich,2–1,Wolfsburg,,,Edgar Steinborn,/en/matches/46a228d6/1860-Munich-Wolfsburg-October-18-1997-Bundesliga,,46a228d6
+11,Sat,1997-10-18,,Hansa Rostock,4–1,Schalke 04,,,Winfried Buchhart,/en/matches/315581e2/Hansa-Rostock-Schalke-04-October-18-1997-Bundesliga,,315581e2
+11,Sat,1997-10-18,,Karlsruher,1–1,Bayern Munich,,,Georg Dardenne,/en/matches/2c338173/Karlsruher-Bayern-Munich-October-18-1997-Bundesliga,,2c338173
+11,Sat,1997-10-18,,Leverkusen,1–1,Kaiserslautern,,,Hermann Albrecht,/en/matches/033eaeb5/Bayer-Leverkusen-Kaiserslautern-October-18-1997-Bundesliga,,033eaeb5
+11,Sat,1997-10-18,,MSV Duisburg,0–0,Dortmund,,,Wolfgang Stark,/en/matches/2be1ab8a/MSV-Duisburg-Dortmund-October-18-1997-Bundesliga,,2be1ab8a
+11,Sat,1997-10-18,,Stuttgart,4–1,Hertha BSC,,,Hellmut Krug,/en/matches/49adc93f/Stuttgart-Hertha-BSC-October-18-1997-Bundesliga,,49adc93f
+11,Sun,1997-10-19,,Arminia,3–1,M'Gladbach,,,Herbert Fandel,/en/matches/37614470/Arminia-Monchengladbach-October-19-1997-Bundesliga,,37614470
+12,Fri,1997-10-24,,Kaiserslautern,1–0,MSV Duisburg,,,Lutz Michael Fröhlich,/en/matches/db5549c6/Kaiserslautern-MSV-Duisburg-October-24-1997-Bundesliga,,db5549c6
+12,Fri,1997-10-24,,Schalke 04,2–0,Bochum,,,Franz-Xaver Wack,/en/matches/1f486783/Schalke-04-Bochum-October-24-1997-Bundesliga,,1f486783
+12,Sat,1997-10-25,,Bayern Munich,2–0,Werder Bremen,,,Jörg Keßler,/en/matches/e04761a3/Bayern-Munich-Werder-Bremen-October-25-1997-Bundesliga,,e04761a3
+12,Sat,1997-10-25,,Dortmund,3–2,Hansa Rostock,,,Hermann Albrecht,/en/matches/ac1c7ef5/Dortmund-Hansa-Rostock-October-25-1997-Bundesliga,,ac1c7ef5
+12,Sat,1997-10-25,,Hamburger SV,1–2,1860 Munich,,,Hans-Jürgen Weber,/en/matches/3b3b7a39/Hamburger-SV-1860-Munich-October-25-1997-Bundesliga,,3b3b7a39
+12,Sat,1997-10-25,,Hertha BSC,3–1,Karlsruher,,,Jürgen Aust,/en/matches/1e216ebc/Hertha-BSC-Karlsruher-October-25-1997-Bundesliga,,1e216ebc
+12,Sat,1997-10-25,,M'Gladbach,2–2,Leverkusen,,,Winfried Buchhart,/en/matches/6dcd8354/Monchengladbach-Bayer-Leverkusen-October-25-1997-Bundesliga,,6dcd8354
+12,Sat,1997-10-25,,Wolfsburg,2–0,Arminia,,,Bernhard Zerr,/en/matches/d5652fad/Wolfsburg-Arminia-October-25-1997-Bundesliga,,d5652fad
+12,Sun,1997-10-26,,Köln,4–2,Stuttgart,,,Uwe Kemmling,/en/matches/76b489f8/Koln-Stuttgart-October-26-1997-Bundesliga,,76b489f8
+13,Fri,1997-10-31,,Dortmund,2–2,Kaiserslautern,,,Bernd Heynemann,/en/matches/849a5b33/Dortmund-Kaiserslautern-October-31-1997-Bundesliga,,849a5b33
+13,Fri,1997-10-31,,Leverkusen,2–1,Wolfsburg,,,Markus Merk,/en/matches/d660d3e5/Bayer-Leverkusen-Wolfsburg-October-31-1997-Bundesliga,,d660d3e5
+13,Fri,1997-10-31,,MSV Duisburg,4–5,M'Gladbach,,,Edgar Steinborn,/en/matches/bf3dd4ef/MSV-Duisburg-Monchengladbach-October-31-1997-Bundesliga,,bf3dd4ef
+13,Sat,1997-11-01,,1860 Munich,2–2,Bayern Munich,,,Hellmut Krug,/en/matches/fd800d47/1860-Munich-Bayern-Munich-November-1-1997-Bundesliga,,fd800d47
+13,Sat,1997-11-01,,Hansa Rostock,2–2,Bochum,,,Herbert Fandel,/en/matches/b21db8b0/Hansa-Rostock-Bochum-November-1-1997-Bundesliga,,b21db8b0
+13,Sat,1997-11-01,,Karlsruher,3–1,Köln,,,Wolfgang Stark,/en/matches/1020aea7/Karlsruher-Koln-November-1-1997-Bundesliga,,1020aea7
+13,Sat,1997-11-01,,Stuttgart,0–0,Schalke 04,,,Torsten Koop,/en/matches/ef32021d/Stuttgart-Schalke-04-November-1-1997-Bundesliga,,ef32021d
+13,Sat,1997-11-01,,Werder Bremen,0–2,Hertha BSC,,,Lutz Wagner,/en/matches/31ba3945/Werder-Bremen-Hertha-BSC-November-1-1997-Bundesliga,,31ba3945
+13,Sun,1997-11-02,,Arminia,0–3,Hamburger SV,,,Hartmut Strampe,/en/matches/2c806a26/Arminia-Hamburger-SV-November-2-1997-Bundesliga,,2c806a26
+14,Fri,1997-11-07,,Kaiserslautern,4–3,Hansa Rostock,,,Georg Dardenne,/en/matches/6167b626/Kaiserslautern-Hansa-Rostock-November-7-1997-Bundesliga,,6167b626
+14,Fri,1997-11-07,,Wolfsburg,0–2,MSV Duisburg,,,Jürgen Aust,/en/matches/e0491483/Wolfsburg-MSV-Duisburg-November-7-1997-Bundesliga,,e0491483
+14,Sat,1997-11-08,,Bayern Munich,1–0,Arminia,,,Uwe Kemmling,/en/matches/ede5b8f4/Bayern-Munich-Arminia-November-8-1997-Bundesliga,,ede5b8f4
+14,Sat,1997-11-08,,Hamburger SV,0–1,Leverkusen,,,Edgar Steinborn,/en/matches/170aad20/Hamburger-SV-Bayer-Leverkusen-November-8-1997-Bundesliga,,170aad20
+14,Sat,1997-11-08,,Hertha BSC,2–0,1860 Munich,,,Jürgen Jansen,/en/matches/5dd58226/Hertha-BSC-1860-Munich-November-8-1997-Bundesliga,,5dd58226
+14,Sat,1997-11-08,,Köln,2–0,Werder Bremen,,,Bernhard Zerr,/en/matches/90b6db57/Koln-Werder-Bremen-November-8-1997-Bundesliga,,90b6db57
+14,Sat,1997-11-08,,M'Gladbach,1–1,Dortmund,,,Franz-Xaver Wack,/en/matches/59b1cdf9/Monchengladbach-Dortmund-November-8-1997-Bundesliga,,59b1cdf9
+14,Sat,1997-11-08,,Schalke 04,2–0,Karlsruher,,,Hermann Albrecht,/en/matches/dd1c80aa/Schalke-04-Karlsruher-November-8-1997-Bundesliga,,dd1c80aa
+14,Sun,1997-11-09,,Bochum,0–2,Stuttgart,,,Jörg Keßler,/en/matches/b51dcb18/Bochum-Stuttgart-November-9-1997-Bundesliga,,b51dcb18
+17,Tue,1997-11-11,,Dortmund,0–2,Bayern Munich,,,Hartmut Strampe,/en/matches/aa9be44d/Der-Klassiker-Dortmund-Bayern-Munich-November-11-1997-Bundesliga,,aa9be44d
+17,Tue,1997-11-11,,Leverkusen,4–0,Köln,,,Hellmut Krug,/en/matches/87782b54/Bayer-Leverkusen-Koln-November-11-1997-Bundesliga,,87782b54
+15,Tue,1997-11-18,,Dortmund,2–1,Wolfsburg,,,Winfried Buchhart,/en/matches/4f690e71/Dortmund-Wolfsburg-November-18-1997-Bundesliga,,4f690e71
+15,Tue,1997-11-18,,Karlsruher,1–1,Bochum,,,Bernd Heynemann,/en/matches/577c0f23/Karlsruher-Bochum-November-18-1997-Bundesliga,,577c0f23
+15,Tue,1997-11-18,,MSV Duisburg,3–0,Hamburger SV,,,Alfons Berg,/en/matches/f43fa475/MSV-Duisburg-Hamburger-SV-November-18-1997-Bundesliga,,f43fa475
+15,Tue,1997-11-18,,Werder Bremen,2–1,Schalke 04,,,Lutz Michael Fröhlich,/en/matches/f8442823/Werder-Bremen-Schalke-04-November-18-1997-Bundesliga,,f8442823
+15,Wed,1997-11-19,,1860 Munich,1–0,Köln,,,Herbert Fandel,/en/matches/67d1ba27/1860-Munich-Koln-November-19-1997-Bundesliga,,67d1ba27
+15,Wed,1997-11-19,,Arminia,1–3,Hertha BSC,,,Markus Merk,/en/matches/8bb11046/Arminia-Hertha-BSC-November-19-1997-Bundesliga,,8bb11046
+15,Wed,1997-11-19,,M'Gladbach,1–3,Kaiserslautern,,,Wolfgang Stark,/en/matches/6fc4e1f3/Monchengladbach-Kaiserslautern-November-19-1997-Bundesliga,,6fc4e1f3
+15,Wed,1997-11-19,,Stuttgart,2–1,Hansa Rostock,,,Hans-Jürgen Weber,/en/matches/2ae05409/Stuttgart-Hansa-Rostock-November-19-1997-Bundesliga,,2ae05409
+16,Fri,1997-11-21,,Bochum,0–1,Werder Bremen,,,Edgar Steinborn,/en/matches/82a741c3/Bochum-Werder-Bremen-November-21-1997-Bundesliga,,82a741c3
+16,Fri,1997-11-21,,Hamburger SV,1–3,Dortmund,,,Lutz Wagner,/en/matches/94af6961/Hamburger-SV-Dortmund-November-21-1997-Bundesliga,,94af6961
+16,Sat,1997-11-22,,Bayern Munich,3–0,MSV Duisburg,,,Torsten Koop,/en/matches/534a32f6/Bayern-Munich-MSV-Duisburg-November-22-1997-Bundesliga,,534a32f6
+16,Sat,1997-11-22,,Hertha BSC,2–2,Leverkusen,,,Hartmut Strampe,/en/matches/bb170858/Hertha-BSC-Bayer-Leverkusen-November-22-1997-Bundesliga,,bb170858
+16,Sat,1997-11-22,,Köln,3–5,Arminia,,,Hermann Albrecht,/en/matches/7c47b558/Koln-Arminia-November-22-1997-Bundesliga,,7c47b558
+16,Sat,1997-11-22,,Schalke 04,2–0,1860 Munich,,,Jörg Keßler,/en/matches/c4329283/Schalke-04-1860-Munich-November-22-1997-Bundesliga,,c4329283
+16,Sat,1997-11-22,,Stuttgart,3–0,Karlsruher,,,Franz-Xaver Wack,/en/matches/0e2c6991/Stuttgart-Karlsruher-November-22-1997-Bundesliga,,0e2c6991
+16,Sat,1997-11-22,,Wolfsburg,2–1,Kaiserslautern,,,Hellmut Krug,/en/matches/7f4267e3/Wolfsburg-Kaiserslautern-November-22-1997-Bundesliga,,7f4267e3
+16,Sun,1997-11-23,,Hansa Rostock,2–0,M'Gladbach,,,Alfons Berg,/en/matches/86a382bd/Hansa-Rostock-Monchengladbach-November-23-1997-Bundesliga,,86a382bd
+17,Fri,1997-11-28,,Karlsruher,3–0,Hansa Rostock,,,Jürgen Jansen,/en/matches/bdbe07e9/Karlsruher-Hansa-Rostock-November-28-1997-Bundesliga,,bdbe07e9
+17,Fri,1997-11-28,,MSV Duisburg,0–1,Hertha BSC,,,Uwe Kemmling,/en/matches/d9c18366/MSV-Duisburg-Hertha-BSC-November-28-1997-Bundesliga,,d9c18366
+17,Sat,1997-11-29,,1860 Munich,0–2,Bochum,,,Jürgen Aust,/en/matches/5d596ef4/1860-Munich-Bochum-November-29-1997-Bundesliga,,5d596ef4
+17,Sat,1997-11-29,,Arminia,1–1,Schalke 04,,,Hans-Jürgen Weber,/en/matches/64594337/Arminia-Schalke-04-November-29-1997-Bundesliga,,64594337
+17,Sat,1997-11-29,,Kaiserslautern,2–1,Hamburger SV,,,Winfried Buchhart,/en/matches/21564967/Kaiserslautern-Hamburger-SV-November-29-1997-Bundesliga,,21564967
+17,Sat,1997-11-29,,M'Gladbach,0–2,Wolfsburg,,,Lutz Michael Fröhlich,/en/matches/319dbb2f/Monchengladbach-Wolfsburg-November-29-1997-Bundesliga,,319dbb2f
+17,Sat,1997-11-29,,Werder Bremen,2–2,Stuttgart,,,Georg Dardenne,/en/matches/eda45a6a/Werder-Bremen-Stuttgart-November-29-1997-Bundesliga,,eda45a6a
+15,Sun,1997-11-30,,Leverkusen,4–2,Bayern Munich,,,Bernd Heynemann,/en/matches/8804b7e1/Bayer-Leverkusen-Bayern-Munich-November-30-1997-Bundesliga,,8804b7e1
+18,Fri,1997-12-05,,Kaiserslautern,2–0,Bayern Munich,,,Lutz Michael Fröhlich,/en/matches/ce5a3b90/Kaiserslautern-Bayern-Munich-December-5-1997-Bundesliga,,ce5a3b90
+18,Sat,1997-12-06,,1860 Munich,1–3,Stuttgart,,,Jürgen Jansen,/en/matches/6774158a/1860-Munich-Stuttgart-December-6-1997-Bundesliga,,6774158a
+18,Sat,1997-12-06,,Arminia,0–2,Bochum,,,Torsten Koop,/en/matches/9c8c4fa3/Arminia-Bochum-December-6-1997-Bundesliga,,9c8c4fa3
+18,Sat,1997-12-06,,Leverkusen,0–0,Schalke 04,,,Wolfgang Stark,/en/matches/2985e823/Bayer-Leverkusen-Schalke-04-December-6-1997-Bundesliga,,2985e823
+18,Sat,1997-12-06,,M'Gladbach,1–1,Hamburger SV,,,Bernhard Zerr,/en/matches/760760f7/Monchengladbach-Hamburger-SV-December-6-1997-Bundesliga,,760760f7
+18,Sat,1997-12-06,,MSV Duisburg,2–2,Köln,,,Jörg Keßler,/en/matches/fadbd073/MSV-Duisburg-Koln-December-6-1997-Bundesliga,,fadbd073
+18,Sat,1997-12-06,,Werder Bremen,2–4,Karlsruher,,,Alfons Berg,/en/matches/e3e95f48/Werder-Bremen-Karlsruher-December-6-1997-Bundesliga,,e3e95f48
+18,Sun,1997-12-07,,Wolfsburg,1–1,Hansa Rostock,,,Lutz Wagner,/en/matches/e0a8677b/Wolfsburg-Hansa-Rostock-December-7-1997-Bundesliga,,e0a8677b
+19,Fri,1997-12-12,,Hansa Rostock,1–2,Werder Bremen,,,Uwe Kemmling,/en/matches/b63dba54/Hansa-Rostock-Werder-Bremen-December-12-1997-Bundesliga,,b63dba54
+19,Fri,1997-12-12,,Hertha BSC,2–0,Kaiserslautern,,,Hans-Jürgen Weber,/en/matches/027ccf12/Hertha-BSC-Kaiserslautern-December-12-1997-Bundesliga,,027ccf12
+19,Sat,1997-12-13,,Bayern Munich,3–2,M'Gladbach,,,Herbert Fandel,/en/matches/2da0d2a6/Bayern-Munich-Monchengladbach-December-13-1997-Bundesliga,,2da0d2a6
+19,Sat,1997-12-13,,Hamburger SV,1–2,Wolfsburg,,,Hermann Albrecht,/en/matches/8ca943c7/Hamburger-SV-Wolfsburg-December-13-1997-Bundesliga,,8ca943c7
+19,Sat,1997-12-13,,Karlsruher,0–0,1860 Munich,,,Hartmut Strampe,/en/matches/6ef32136/Karlsruher-1860-Munich-December-13-1997-Bundesliga,,6ef32136
+19,Sat,1997-12-13,,Köln,4–2,Dortmund,,,Edgar Steinborn,/en/matches/1cac3530/Koln-Dortmund-December-13-1997-Bundesliga,,1cac3530
+19,Sat,1997-12-13,,Schalke 04,1–1,MSV Duisburg,,,Georg Dardenne,/en/matches/d83c5686/Schalke-04-MSV-Duisburg-December-13-1997-Bundesliga,,d83c5686
+19,Sat,1997-12-13,,Stuttgart,1–0,Arminia,,,Jürgen Aust,/en/matches/d2a88de7/Stuttgart-Arminia-December-13-1997-Bundesliga,,d2a88de7
+19,Sun,1997-12-14,,Bochum,0–0,Leverkusen,,,Bernhard Zerr,/en/matches/998e0fd2/Bochum-Bayer-Leverkusen-December-14-1997-Bundesliga,,998e0fd2
+18,Tue,1997-12-16,,Dortmund,3–0,Hertha BSC,,,Herbert Fandel,/en/matches/284a05cf/Dortmund-Hertha-BSC-December-16-1997-Bundesliga,,284a05cf
+20,Fri,1997-12-19,,Dortmund,2–2,Schalke 04,,,Jürgen Jansen,/en/matches/14ee69ed/Revierderby-Dortmund-Schalke-04-December-19-1997-Bundesliga,,14ee69ed
+20,Fri,1997-12-19,,M'Gladbach,4–2,Hertha BSC,,,Hellmut Krug,/en/matches/553f72d7/Monchengladbach-Hertha-BSC-December-19-1997-Bundesliga,,553f72d7
+20,Sat,1997-12-20,,1860 Munich,0–1,Werder Bremen,,,Lutz Wagner,/en/matches/97e1f03c/1860-Munich-Werder-Bremen-December-20-1997-Bundesliga,,97e1f03c
+20,Sat,1997-12-20,,Arminia,2–1,Karlsruher,,,Lutz Michael Fröhlich,/en/matches/e624fdb8/Arminia-Karlsruher-December-20-1997-Bundesliga,,e624fdb8
+20,Sat,1997-12-20,,Kaiserslautern,3–2,Köln,,,Bernd Heynemann,/en/matches/05bc1431/Kaiserslautern-Koln-December-20-1997-Bundesliga,,05bc1431
+20,Sat,1997-12-20,,Leverkusen,6–1,Stuttgart,,,Torsten Koop,/en/matches/d20fd8db/Bayer-Leverkusen-Stuttgart-December-20-1997-Bundesliga,,d20fd8db
+20,Sat,1997-12-20,,MSV Duisburg,2–0,Bochum,,,Franz-Xaver Wack,/en/matches/ed82bd7a/MSV-Duisburg-Bochum-December-20-1997-Bundesliga,,ed82bd7a
+20,Sat,1997-12-20,,Wolfsburg,2–3,Bayern Munich,,,Jürgen Aust,/en/matches/f79e6c17/Wolfsburg-Bayern-Munich-December-20-1997-Bundesliga,,f79e6c17
+20,Sun,1997-12-21,,Hamburger SV,0–1,Hansa Rostock,,,Markus Merk,/en/matches/eeef31d9/Hamburger-SV-Hansa-Rostock-December-21-1997-Bundesliga,,eeef31d9
+21,Fri,1998-01-30,,Bochum,2–1,Dortmund,,,Bernd Heynemann,/en/matches/f0f7f31e/Bochum-Dortmund-January-30-1998-Bundesliga,,f0f7f31e
+21,Fri,1998-01-30,,Stuttgart,1–1,MSV Duisburg,,,Edgar Steinborn,/en/matches/4be8ad09/Stuttgart-MSV-Duisburg-January-30-1998-Bundesliga,,4be8ad09
+21,Sat,1998-01-31,,Bayern Munich,3–0,Hamburger SV,,,Hans-Jürgen Weber,/en/matches/d3d629a4/Bayern-Munich-Hamburger-SV-January-31-1998-Bundesliga,,d3d629a4
+21,Sat,1998-01-31,,Hansa Rostock,3–0,1860 Munich,,,Jürgen Aust,/en/matches/86dace49/Hansa-Rostock-1860-Munich-January-31-1998-Bundesliga,,86dace49
+21,Sat,1998-01-31,,Hertha BSC,1–0,Wolfsburg,,,Helmut Fleischer,/en/matches/28eb4dd0/Hertha-BSC-Wolfsburg-January-31-1998-Bundesliga,,28eb4dd0
+21,Sat,1998-01-31,,Köln,3–2,M'Gladbach,,,Markus Merk,/en/matches/a4994941/Koln-Monchengladbach-January-31-1998-Bundesliga,,a4994941
+21,Sat,1998-01-31,,Schalke 04,1–1,Kaiserslautern,,,Winfried Buchhart,/en/matches/7f0a3d10/Schalke-04-Kaiserslautern-January-31-1998-Bundesliga,,7f0a3d10
+21,Sat,1998-01-31,,Werder Bremen,2–1,Arminia,,,Jürgen Jansen,/en/matches/38171a7d/Werder-Bremen-Arminia-January-31-1998-Bundesliga,,38171a7d
+21,Sun,1998-02-01,,Karlsruher,1–1,Leverkusen,,,Hellmut Krug,/en/matches/077b9c51/Karlsruher-Bayer-Leverkusen-February-1-1998-Bundesliga,,077b9c51
+22,Fri,1998-02-06,,Kaiserslautern,3–0,Bochum,,,Uwe Kemmling,/en/matches/23de6238/Kaiserslautern-Bochum-February-6-1998-Bundesliga,,23de6238
+22,Fri,1998-02-06,,MSV Duisburg,1–0,Karlsruher,,,Herbert Fandel,/en/matches/485d888e/MSV-Duisburg-Karlsruher-February-6-1998-Bundesliga,,485d888e
+22,Sat,1998-02-07,,Arminia,1–1,1860 Munich,,,Hans-Jürgen Weber,/en/matches/93d9f393/Arminia-1860-Munich-February-7-1998-Bundesliga,,93d9f393
+22,Sat,1998-02-07,,Bayern Munich,2–0,Hansa Rostock,,,Jörg Keßler,/en/matches/1c39fe2f/Bayern-Munich-Hansa-Rostock-February-7-1998-Bundesliga,,1c39fe2f
+22,Sat,1998-02-07,,Dortmund,3–1,Stuttgart,,,Alfons Berg,/en/matches/a51c7bf0/Dortmund-Stuttgart-February-7-1998-Bundesliga,,a51c7bf0
+22,Sat,1998-02-07,,Hamburger SV,1–1,Hertha BSC,,,Wolfgang Stark,/en/matches/d2d43479/Hamburger-SV-Hertha-BSC-February-7-1998-Bundesliga,,d2d43479
+22,Sat,1998-02-07,,Leverkusen,4–1,Werder Bremen,,,Lutz Michael Fröhlich,/en/matches/65371662/Bayer-Leverkusen-Werder-Bremen-February-7-1998-Bundesliga,,65371662
+22,Sat,1998-02-07,,M'Gladbach,0–1,Schalke 04,,,Hartmut Strampe,/en/matches/54ddcfcc/Monchengladbach-Schalke-04-February-7-1998-Bundesliga,,54ddcfcc
+22,Sun,1998-02-08,,Wolfsburg,1–1,Köln,,,Bernhard Zerr,/en/matches/dfecc5de/Wolfsburg-Koln-February-8-1998-Bundesliga,,dfecc5de
+23,Fri,1998-02-13,,Karlsruher,0–1,Dortmund,,,Torsten Koop,/en/matches/6df4da99/Karlsruher-Dortmund-February-13-1998-Bundesliga,,6df4da99
+23,Fri,1998-02-13,,Köln,1–2,Hamburger SV,,,Lutz Wagner,/en/matches/e85cbc8f/Koln-Hamburger-SV-February-13-1998-Bundesliga,,e85cbc8f
+23,Fri,1998-02-13,,Werder Bremen,2–2,MSV Duisburg,,,Hellmut Krug,/en/matches/fd426981/Werder-Bremen-MSV-Duisburg-February-13-1998-Bundesliga,,fd426981
+23,Sat,1998-02-14,,1860 Munich,3–4,Leverkusen,,,Bernd Heynemann,/en/matches/58e05571/1860-Munich-Bayer-Leverkusen-February-14-1998-Bundesliga,,58e05571
+23,Sat,1998-02-14,,Bochum,3–1,M'Gladbach,,,Edgar Steinborn,/en/matches/296242ba/Bochum-Monchengladbach-February-14-1998-Bundesliga,,296242ba
+23,Sat,1998-02-14,,Hansa Rostock,2–1,Arminia,,,Franz-Xaver Wack,/en/matches/4fd11532/Hansa-Rostock-Arminia-February-14-1998-Bundesliga,,4fd11532
+23,Sat,1998-02-14,,Hertha BSC,2–1,Bayern Munich,,,Alfons Berg,/en/matches/6753ad48/Hertha-BSC-Bayern-Munich-February-14-1998-Bundesliga,,6753ad48
+23,Sat,1998-02-14,,Schalke 04,1–1,Wolfsburg,,,Markus Merk,/en/matches/134ee630/Schalke-04-Wolfsburg-February-14-1998-Bundesliga,,134ee630
+23,Sat,1998-02-14,,Stuttgart,0–1,Kaiserslautern,,,Hermann Albrecht,/en/matches/a84d51c3/Stuttgart-Kaiserslautern-February-14-1998-Bundesliga,,a84d51c3
+24,Fri,1998-02-27,,Dortmund,2–2,Werder Bremen,,,Winfried Buchhart,/en/matches/f3a9e309/Dortmund-Werder-Bremen-February-27-1998-Bundesliga,,f3a9e309
+24,Fri,1998-02-27,,Kaiserslautern,0–0,Karlsruher,,,Georg Dardenne,/en/matches/b1620b9e/Kaiserslautern-Karlsruher-February-27-1998-Bundesliga,,b1620b9e
+24,Sat,1998-02-28,,Bayern Munich,0–2,Köln,,,Hartmut Strampe,/en/matches/680e22ff/Bayern-Munich-Koln-February-28-1998-Bundesliga,,680e22ff
+24,Sat,1998-02-28,,Hamburger SV,1–1,Schalke 04,,,Edgar Steinborn,/en/matches/4c0019b2/Hamburger-SV-Schalke-04-February-28-1998-Bundesliga,,4c0019b2
+24,Sat,1998-02-28,,Leverkusen,0–0,Arminia,,,Markus Merk,/en/matches/990082c8/Bayer-Leverkusen-Arminia-February-28-1998-Bundesliga,,990082c8
+24,Sat,1998-02-28,,M'Gladbach,0–0,Stuttgart,,,Jörg Keßler,/en/matches/b47a7fff/Monchengladbach-Stuttgart-February-28-1998-Bundesliga,,b47a7fff
+24,Sat,1998-02-28,,MSV Duisburg,0–2,1860 Munich,,,Bernhard Zerr,/en/matches/a93b4b50/MSV-Duisburg-1860-Munich-February-28-1998-Bundesliga,,a93b4b50
+24,Sat,1998-02-28,,Wolfsburg,0–2,Bochum,,,Wolfgang Stark,/en/matches/900ade74/Wolfsburg-Bochum-February-28-1998-Bundesliga,,900ade74
+24,Sun,1998-03-01,,Hertha BSC,1–1,Hansa Rostock,,,Hellmut Krug,/en/matches/90a024f4/Hertha-BSC-Hansa-Rostock-March-1-1998-Bundesliga,,90a024f4
+25,Fri,1998-03-06,,Bochum,0–0,Hamburger SV,,,Franz-Xaver Wack,/en/matches/eb34f45d/Bochum-Hamburger-SV-March-6-1998-Bundesliga,,eb34f45d
+25,Fri,1998-03-06,,Werder Bremen,1–1,Kaiserslautern,,,Hans-Jürgen Weber,/en/matches/63997028/Werder-Bremen-Kaiserslautern-March-6-1998-Bundesliga,,63997028
+25,Sat,1998-03-07,,1860 Munich,4–2,Dortmund,,,Uwe Kemmling,/en/matches/69448cd6/1860-Munich-Dortmund-March-7-1998-Bundesliga,,69448cd6
+25,Sat,1998-03-07,,Arminia,3–3,MSV Duisburg,,,Bernd Heynemann,/en/matches/b67c80af/Arminia-MSV-Duisburg-March-7-1998-Bundesliga,,b67c80af
+25,Sat,1998-03-07,,Hansa Rostock,1–2,Leverkusen,,,Herbert Fandel,/en/matches/3b5ce072/Hansa-Rostock-Bayer-Leverkusen-March-7-1998-Bundesliga,,3b5ce072
+25,Sat,1998-03-07,,Karlsruher,2–5,M'Gladbach,,,Alfons Berg,/en/matches/b3b61b14/Karlsruher-Monchengladbach-March-7-1998-Bundesliga,,b3b61b14
+25,Sat,1998-03-07,,Köln,2–0,Hertha BSC,,,Hermann Albrecht,/en/matches/c74e6bc7/Koln-Hertha-BSC-March-7-1998-Bundesliga,,c74e6bc7
+25,Sun,1998-03-08,,Schalke 04,1–0,Bayern Munich,,,Jürgen Aust,/en/matches/5dee8e87/Schalke-04-Bayern-Munich-March-8-1998-Bundesliga,,5dee8e87
+25,Sun,1998-03-08,,Stuttgart,2–1,Wolfsburg,,,Jürgen Jansen,/en/matches/547416e4/Stuttgart-Wolfsburg-March-8-1998-Bundesliga,,547416e4
+26,Fri,1998-03-13,,Hertha BSC,1–4,Schalke 04,,,Georg Dardenne,/en/matches/abbf3802/Hertha-BSC-Schalke-04-March-13-1998-Bundesliga,,abbf3802
+26,Fri,1998-03-13,,MSV Duisburg,1–1,Leverkusen,,,Lutz Wagner,/en/matches/a8b3419c/MSV-Duisburg-Bayer-Leverkusen-March-13-1998-Bundesliga,,a8b3419c
+26,Sat,1998-03-14,,Bayern Munich,0–0,Bochum,,,Torsten Koop,/en/matches/bb8f673e/Bayern-Munich-Bochum-March-14-1998-Bundesliga,,bb8f673e
+26,Sat,1998-03-14,,Dortmund,3–2,Arminia,,,Herbert Fandel,/en/matches/ff279709/Dortmund-Arminia-March-14-1998-Bundesliga,,ff279709
+26,Sat,1998-03-14,,Hamburger SV,0–0,Stuttgart,,,Hellmut Krug,/en/matches/64800657/Hamburger-SV-Stuttgart-March-14-1998-Bundesliga,,64800657
+26,Sat,1998-03-14,,Kaiserslautern,1–0,1860 Munich,,,Hartmut Strampe,/en/matches/9e2c35c9/Kaiserslautern-1860-Munich-March-14-1998-Bundesliga,,9e2c35c9
+26,Sat,1998-03-14,,M'Gladbach,0–0,Werder Bremen,,,Markus Merk,/en/matches/077a5cff/Monchengladbach-Werder-Bremen-March-14-1998-Bundesliga,,077a5cff
+26,Sat,1998-03-14,,Wolfsburg,1–2,Karlsruher,,,Hermann Albrecht,/en/matches/079b1292/Wolfsburg-Karlsruher-March-14-1998-Bundesliga,,079b1292
+26,Sun,1998-03-15,,Köln,0–0,Hansa Rostock,,,Bernd Heynemann,/en/matches/91dedf66/Koln-Hansa-Rostock-March-15-1998-Bundesliga,,91dedf66
+27,Sat,1998-03-21,,1860 Munich,2–0,M'Gladbach,,,Edgar Steinborn,/en/matches/80f335f5/1860-Munich-Monchengladbach-March-21-1998-Bundesliga,,80f335f5
+27,Sat,1998-03-21,,Hansa Rostock,2–1,MSV Duisburg,,,Wolfgang Stark,/en/matches/7c06f630/Hansa-Rostock-MSV-Duisburg-March-21-1998-Bundesliga,,7c06f630
+27,Sat,1998-03-21,,Karlsruher,0–1,Hamburger SV,,,Hans-Jürgen Weber,/en/matches/9e516981/Karlsruher-Hamburger-SV-March-21-1998-Bundesliga,,9e516981
+27,Sat,1998-03-21,,Werder Bremen,3–1,Wolfsburg,,,Jörg Keßler,/en/matches/62f2a1bc/Werder-Bremen-Wolfsburg-March-21-1998-Bundesliga,,62f2a1bc
+27,Sun,1998-03-22,,Stuttgart,0–3,Bayern Munich,,,Alfons Berg,/en/matches/d836d1a5/Stuttgart-Bayern-Munich-March-22-1998-Bundesliga,,d836d1a5
+28,Fri,1998-03-27,,Hamburger SV,2–1,Werder Bremen,,,Herbert Fandel,/en/matches/c4eb4331/Hamburger-SV-Werder-Bremen-March-27-1998-Bundesliga,,c4eb4331
+28,Fri,1998-03-27,,Wolfsburg,1–0,1860 Munich,,,Alfons Berg,/en/matches/a0d9ee6c/Wolfsburg-1860-Munich-March-27-1998-Bundesliga,,a0d9ee6c
+28,Sat,1998-03-28,,Bayern Munich,1–1,Karlsruher,,,Lutz Wagner,/en/matches/f7c38858/Bayern-Munich-Karlsruher-March-28-1998-Bundesliga,,f7c38858
+28,Sat,1998-03-28,,Dortmund,3–0,MSV Duisburg,,,Franz-Xaver Wack,/en/matches/9bb6d4e9/Dortmund-MSV-Duisburg-March-28-1998-Bundesliga,,9bb6d4e9
+28,Sat,1998-03-28,,Hertha BSC,3–0,Stuttgart,,,Jürgen Aust,/en/matches/a45c96e8/Hertha-BSC-Stuttgart-March-28-1998-Bundesliga,,a45c96e8
+28,Sat,1998-03-28,,Kaiserslautern,0–3,Leverkusen,,,Bernhard Zerr,/en/matches/3ae97f88/Kaiserslautern-Bayer-Leverkusen-March-28-1998-Bundesliga,,3ae97f88
+28,Sat,1998-03-28,,M'Gladbach,0–0,Arminia,,,Hermann Albrecht,/en/matches/1ec7da94/Monchengladbach-Arminia-March-28-1998-Bundesliga,,1ec7da94
+28,Sat,1998-03-28,,Schalke 04,0–0,Hansa Rostock,,,Lutz Michael Fröhlich,/en/matches/ede01dbd/Schalke-04-Hansa-Rostock-March-28-1998-Bundesliga,,ede01dbd
+28,Sun,1998-03-29,,Köln,2–1,Bochum,,,Winfried Buchhart,/en/matches/e3cd3c78/Koln-Bochum-March-29-1998-Bundesliga,,e3cd3c78
+29,Fri,1998-04-03,,Karlsruher,0–2,Hertha BSC,,,Bernd Heynemann,/en/matches/6f80e460/Karlsruher-Hertha-BSC-April-3-1998-Bundesliga,,6f80e460
+29,Fri,1998-04-03,,MSV Duisburg,1–1,Kaiserslautern,,,Torsten Koop,/en/matches/7a0ac32f/MSV-Duisburg-Kaiserslautern-April-3-1998-Bundesliga,,7a0ac32f
+29,Sat,1998-04-04,,1860 Munich,1–1,Hamburger SV,,,Jürgen Jansen,/en/matches/c4eb51ea/1860-Munich-Hamburger-SV-April-4-1998-Bundesliga,,c4eb51ea
+29,Sat,1998-04-04,,Arminia,0–1,Wolfsburg,,,Edgar Steinborn,/en/matches/84031ceb/Arminia-Wolfsburg-April-4-1998-Bundesliga,,84031ceb
+29,Sat,1998-04-04,,Bochum,3–0,Schalke 04,,,Markus Merk,/en/matches/3d55b13b/Bochum-Schalke-04-April-4-1998-Bundesliga,,3d55b13b
+29,Sat,1998-04-04,,Hansa Rostock,3–1,Dortmund,,,Hartmut Strampe,/en/matches/d947beb4/Hansa-Rostock-Dortmund-April-4-1998-Bundesliga,,d947beb4
+29,Sat,1998-04-04,,Leverkusen,1–1,M'Gladbach,,,Uwe Kemmling,/en/matches/c3213b4d/Bayer-Leverkusen-Monchengladbach-April-4-1998-Bundesliga,,c3213b4d
+29,Sat,1998-04-04,,Werder Bremen,0–3,Bayern Munich,,,Georg Dardenne,/en/matches/978d0d2e/Werder-Bremen-Bayern-Munich-April-4-1998-Bundesliga,,978d0d2e
+29,Sun,1998-04-05,,Stuttgart,1–1,Köln,,,Wolfgang Stark,/en/matches/690e0fec/Stuttgart-Koln-April-5-1998-Bundesliga,,690e0fec
+30,Thu,1998-04-09,,Bochum,1–3,Hansa Rostock,,,Jörg Keßler,/en/matches/963ef2f9/Bochum-Hansa-Rostock-April-9-1998-Bundesliga,,963ef2f9
+30,Thu,1998-04-09,,Kaiserslautern,1–1,Dortmund,,,Wolfgang Stark,/en/matches/a8625789/Kaiserslautern-Dortmund-April-9-1998-Bundesliga,,a8625789
+30,Sat,1998-04-11,,Bayern Munich,3–1,1860 Munich,,,Bernd Heynemann,/en/matches/2e53b080/Bayern-Munich-1860-Munich-April-11-1998-Bundesliga,,2e53b080
+30,Sat,1998-04-11,,Hamburger SV,2–0,Arminia,,,Georg Dardenne,/en/matches/02c1674a/Hamburger-SV-Arminia-April-11-1998-Bundesliga,,02c1674a
+30,Sat,1998-04-11,,Hertha BSC,0–2,Werder Bremen,,,Markus Merk,/en/matches/c07dec1d/Hertha-BSC-Werder-Bremen-April-11-1998-Bundesliga,,c07dec1d
+30,Sat,1998-04-11,,Köln,0–1,Karlsruher,,,Alfons Berg,/en/matches/6af53324/Koln-Karlsruher-April-11-1998-Bundesliga,,6af53324
+30,Sat,1998-04-11,,Schalke 04,3–4,Stuttgart,,,Edgar Steinborn,/en/matches/68af5ed1/Schalke-04-Stuttgart-April-11-1998-Bundesliga,,68af5ed1
+30,Sat,1998-04-11,,Wolfsburg,1–0,Leverkusen,,,Franz-Xaver Wack,/en/matches/894b3d34/Wolfsburg-Bayer-Leverkusen-April-11-1998-Bundesliga,,894b3d34
+30,Sun,1998-04-12,,M'Gladbach,0–3,MSV Duisburg,,,Lutz Michael Fröhlich,/en/matches/041d2f35/Monchengladbach-MSV-Duisburg-April-12-1998-Bundesliga,,041d2f35
+31,Fri,1998-04-17,,MSV Duisburg,2–2,Wolfsburg,,,Hellmut Krug,/en/matches/31570ffd/MSV-Duisburg-Wolfsburg-April-17-1998-Bundesliga,,31570ffd
+31,Fri,1998-04-17,,Werder Bremen,3–0,Köln,,,Jürgen Jansen,/en/matches/be851993/Werder-Bremen-Koln-April-17-1998-Bundesliga,,be851993
+31,Sat,1998-04-18,,1860 Munich,3–1,Hertha BSC,,,Uwe Kemmling,/en/matches/0e6e0a87/1860-Munich-Hertha-BSC-April-18-1998-Bundesliga,,0e6e0a87
+31,Sat,1998-04-18,,Arminia,4–4,Bayern Munich,,,Bernhard Zerr,/en/matches/39719bd5/Arminia-Bayern-Munich-April-18-1998-Bundesliga,,39719bd5
+31,Sat,1998-04-18,,Dortmund,1–2,M'Gladbach,,,Torsten Koop,/en/matches/62f9fce8/Dortmund-Monchengladbach-April-18-1998-Bundesliga,,62f9fce8
+31,Sat,1998-04-18,,Hansa Rostock,2–2,Kaiserslautern,,,Jürgen Aust,/en/matches/fd9628d1/Hansa-Rostock-Kaiserslautern-April-18-1998-Bundesliga,,fd9628d1
+31,Sat,1998-04-18,,Karlsruher,0–0,Schalke 04,,,Herbert Fandel,/en/matches/b0347083/Karlsruher-Schalke-04-April-18-1998-Bundesliga,,b0347083
+31,Sat,1998-04-18,,Leverkusen,5–0,Hamburger SV,,,Hermann Albrecht,/en/matches/d03d2d8d/Bayer-Leverkusen-Hamburger-SV-April-18-1998-Bundesliga,,d03d2d8d
+31,Sun,1998-04-19,,Stuttgart,2–0,Bochum,,,Hartmut Strampe,/en/matches/032d2a04/Stuttgart-Bochum-April-19-1998-Bundesliga,,032d2a04
+32,Fri,1998-04-24,,Hertha BSC,1–1,Arminia,,,Jürgen Jansen,/en/matches/2e7d4b6a/Hertha-BSC-Arminia-April-24-1998-Bundesliga,,2e7d4b6a
+32,Fri,1998-04-24,,Kaiserslautern,3–2,M'Gladbach,,,Bernd Heynemann,/en/matches/291dc957/Kaiserslautern-Monchengladbach-April-24-1998-Bundesliga,,291dc957
+32,Sat,1998-04-25,,Bochum,3–3,Karlsruher,,,Lutz Michael Fröhlich,/en/matches/100938f1/Bochum-Karlsruher-April-25-1998-Bundesliga,,100938f1
+32,Sat,1998-04-25,,Hamburger SV,1–0,MSV Duisburg,,,Lutz Wagner,/en/matches/3c7b7b06/Hamburger-SV-MSV-Duisburg-April-25-1998-Bundesliga,,3c7b7b06
+32,Sat,1998-04-25,,Hansa Rostock,1–1,Stuttgart,,,Hellmut Krug,/en/matches/ae931e0e/Hansa-Rostock-Stuttgart-April-25-1998-Bundesliga,,ae931e0e
+32,Sat,1998-04-25,,Köln,2–3,1860 Munich,,,Markus Merk,/en/matches/ab844978/Koln-1860-Munich-April-25-1998-Bundesliga,,ab844978
+32,Sat,1998-04-25,,Schalke 04,0–1,Werder Bremen,,,Winfried Buchhart,/en/matches/3c04a75a/Schalke-04-Werder-Bremen-April-25-1998-Bundesliga,,3c04a75a
+32,Sat,1998-04-25,,Wolfsburg,1–4,Dortmund,,,Georg Dardenne,/en/matches/3af078ad/Wolfsburg-Dortmund-April-25-1998-Bundesliga,,3af078ad
+32,Sun,1998-04-26,,Bayern Munich,2–1,Leverkusen,,,Edgar Steinborn,/en/matches/38055560/Bayern-Munich-Bayer-Leverkusen-April-26-1998-Bundesliga,,38055560
+27,Wed,1998-04-29,,Arminia,2–2,Kaiserslautern,,,Hartmut Strampe,/en/matches/7839fc80/Arminia-Kaiserslautern-April-29-1998-Bundesliga,,7839fc80
+27,Wed,1998-04-29,,Bochum,2–1,Hertha BSC,,,Bernhard Zerr,/en/matches/9f9bf6d0/Bochum-Hertha-BSC-April-29-1998-Bundesliga,,9f9bf6d0
+27,Wed,1998-04-29,,Leverkusen,2–2,Dortmund,,,Alfons Berg,/en/matches/8f179a92/Bayer-Leverkusen-Dortmund-April-29-1998-Bundesliga,,8f179a92
+27,Wed,1998-04-29,,Schalke 04,1–0,Köln,,,Uwe Kemmling,/en/matches/16f45694/Schalke-04-Koln-April-29-1998-Bundesliga,,16f45694
+33,Sat,1998-05-02,,1860 Munich,1–0,Schalke 04,,,Lutz Wagner,/en/matches/a55d3b01/1860-Munich-Schalke-04-May-2-1998-Bundesliga,,a55d3b01
+33,Sat,1998-05-02,,Arminia,2–1,Köln,,,Winfried Buchhart,/en/matches/e58a5067/Arminia-Koln-May-2-1998-Bundesliga,,e58a5067
+33,Sat,1998-05-02,,Dortmund,0–1,Hamburger SV,,,Markus Merk,/en/matches/79f3b1a9/Dortmund-Hamburger-SV-May-2-1998-Bundesliga,,79f3b1a9
+33,Sat,1998-05-02,,Kaiserslautern,4–0,Wolfsburg,,,Jürgen Jansen,/en/matches/acefae10/Kaiserslautern-Wolfsburg-May-2-1998-Bundesliga,,acefae10
+33,Sat,1998-05-02,,Karlsruher,4–2,Stuttgart,,,Edgar Steinborn,/en/matches/b2476b5b/Karlsruher-Stuttgart-May-2-1998-Bundesliga,,b2476b5b
+33,Sat,1998-05-02,,Leverkusen,0–1,Hertha BSC,,,Hellmut Krug,/en/matches/c1b7184f/Bayer-Leverkusen-Hertha-BSC-May-2-1998-Bundesliga,,c1b7184f
+33,Sat,1998-05-02,,M'Gladbach,5–2,Hansa Rostock,,,Georg Dardenne,/en/matches/59be5162/Monchengladbach-Hansa-Rostock-May-2-1998-Bundesliga,,59be5162
+33,Sat,1998-05-02,,MSV Duisburg,0–0,Bayern Munich,,,Bernd Heynemann,/en/matches/4e6f9666/MSV-Duisburg-Bayern-Munich-May-2-1998-Bundesliga,,4e6f9666
+33,Sat,1998-05-02,,Werder Bremen,1–0,Bochum,,,Hermann Albrecht,/en/matches/befae82d/Werder-Bremen-Bochum-May-2-1998-Bundesliga,,befae82d
+34,Sat,1998-05-09,,Bayern Munich,4–0,Dortmund,,,Jörg Keßler,/en/matches/af818746/Der-Klassiker-Bayern-Munich-Dortmund-May-9-1998-Bundesliga,,af818746
+34,Sat,1998-05-09,,Bochum,1–0,1860 Munich,,,Torsten Koop,/en/matches/ae82b766/Bochum-1860-Munich-May-9-1998-Bundesliga,,ae82b766
+34,Sat,1998-05-09,,Hamburger SV,1–1,Kaiserslautern,,,Hellmut Krug,/en/matches/52643c0a/Hamburger-SV-Kaiserslautern-May-9-1998-Bundesliga,,52643c0a
+34,Sat,1998-05-09,,Hansa Rostock,4–2,Karlsruher,,,Hans-Jürgen Weber,/en/matches/4a217901/Hansa-Rostock-Karlsruher-May-9-1998-Bundesliga,,4a217901
+34,Sat,1998-05-09,,Hertha BSC,1–3,MSV Duisburg,,,Franz-Xaver Wack,/en/matches/4f03a7e9/Hertha-BSC-MSV-Duisburg-May-9-1998-Bundesliga,,4f03a7e9
+34,Sat,1998-05-09,,Köln,2–2,Leverkusen,,,Hartmut Strampe,/en/matches/7e315208/Koln-Bayer-Leverkusen-May-9-1998-Bundesliga,,7e315208
+34,Sat,1998-05-09,,Schalke 04,2–1,Arminia,,,Markus Merk,/en/matches/5d26b726/Schalke-04-Arminia-May-9-1998-Bundesliga,,5d26b726
+34,Sat,1998-05-09,,Stuttgart,1–0,Werder Bremen,,,Jürgen Aust,/en/matches/fe4a5489/Stuttgart-Werder-Bremen-May-9-1998-Bundesliga,,fe4a5489
+34,Sat,1998-05-09,,Wolfsburg,0–2,M'Gladbach,,,Herbert Fandel,/en/matches/391597a6/Wolfsburg-Monchengladbach-May-9-1998-Bundesliga,,391597a6
